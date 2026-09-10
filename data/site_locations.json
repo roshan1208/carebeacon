@@ -44770,6 +44770,16 @@
   "postalCode": "CT4 6LE"
  },
  {
+  "locationId": "1-29277228995",
+  "name": "Familya Care Services Mid-Essex Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM9 4ND"
+ },
+ {
   "locationId": "1-114444338",
   "name": "Far Fillimore Rest Home",
   "rating": "Requires improvement",
@@ -45068,6 +45078,16 @@
   "localAuthority": "Oxfordshire",
   "numberOfBeds": 25,
   "postalCode": "OX15 0SG"
+ },
+ {
+  "locationId": "1-27843571187",
+  "name": "Feed and Flow Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "FY6 8DS"
  },
  {
   "locationId": "1-105176629",
