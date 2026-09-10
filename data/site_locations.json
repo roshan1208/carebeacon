@@ -1,2815 +1,5 @@
 [
  {
-  "locationId": "1-143332621",
-  "name": "1 & 2 Hedgerows",
-  "rating": "Good",
-  "ratingDate": "2019-12-04",
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 4,
-  "postalCode": "TN12 0QQ"
- },
- {
-  "locationId": "1-9649169095",
-  "name": "1 Charmandean Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-06-24",
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 8,
-  "postalCode": "BN14 9LB"
- },
- {
-  "locationId": "1-28136769530",
-  "name": "1 Devonshire Avenue",
-  "rating": "Good",
-  "ratingDate": "2023-05-26",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 20,
-  "postalCode": "NG9 1BS"
- },
- {
-  "locationId": "1-9649169129",
-  "name": "1 Fengates Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 6,
-  "postalCode": "RH1 6AH"
- },
- {
-  "locationId": "1-22345968773",
-  "name": "1 High Street",
-  "rating": "Good",
-  "ratingDate": "2019-07-30",
-  "region": "East",
-  "localAuthority": "Cambridgeshire",
-  "numberOfBeds": 5,
-  "postalCode": "CB24 6AJ"
- },
- {
-  "locationId": "1-211316158",
-  "name": "1 Hill Close",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-12-15",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Wakefield",
-  "numberOfBeds": 3,
-  "postalCode": "WF8 2SF"
- },
- {
-  "locationId": "1-129453905",
-  "name": "1 Longmore Road",
-  "rating": "Good",
-  "ratingDate": "2017-10-14",
-  "region": "South East",
-  "localAuthority": "Wokingham",
-  "numberOfBeds": 7,
-  "postalCode": "RG2 8QG"
- },
- {
-  "locationId": "1-25831519736",
-  "name": "1 Parkstone Avenue",
-  "rating": "Good",
-  "ratingDate": "2018-08-25",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 8,
-  "postalCode": "SS7 1SP"
- },
- {
-  "locationId": "1-147971500",
-  "name": "1 Sewardstone Close",
-  "rating": "Good",
-  "ratingDate": "2020-04-07",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 29,
-  "postalCode": "E4 7RG"
- },
- {
-  "locationId": "1-1435221697",
-  "name": "1 Sheringham Avenue",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Enfield",
-  "numberOfBeds": 5,
-  "postalCode": "N14 4UB"
- },
- {
-  "locationId": "1-1070281691",
-  "name": "1 Stratton Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 3,
-  "postalCode": "SN9 5DY"
- },
- {
-  "locationId": "1-9790438501",
-  "name": "1 The Avenue Knaresborough",
-  "rating": "Good",
-  "ratingDate": "2022-06-22",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 5,
-  "postalCode": "HG5 0NL"
- },
- {
-  "locationId": "1-18175710344",
-  "name": "1 Windmill Barns",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Warwickshire",
-  "numberOfBeds": 4,
-  "postalCode": "B49 6GE"
- },
- {
-  "locationId": "1-18146816866",
-  "name": "1, 2 and 3 St Georges Gardens",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Wirral",
-  "numberOfBeds": 3,
-  "postalCode": "CH42 6SJ"
- },
- {
-  "locationId": "1-129460599",
-  "name": "1-2 Canterbury Close",
-  "rating": "Good",
-  "ratingDate": "2019-11-01",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Rotherham",
-  "numberOfBeds": 10,
-  "postalCode": "S65 2LW"
- },
- {
-  "locationId": "1-293119881",
-  "name": "1-2 Prior's Court Cottages",
-  "rating": "Good",
-  "ratingDate": "2023-08-16",
-  "region": "South East",
-  "localAuthority": "West Berkshire",
-  "numberOfBeds": 6,
-  "postalCode": "RG18 9JT"
- },
- {
-  "locationId": "1-130902143",
-  "name": "10 High Street",
-  "rating": "Good",
-  "ratingDate": "2021-05-20",
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 8,
-  "postalCode": "BA14 6JR"
- },
- {
-  "locationId": "1-466088203",
-  "name": "10 Spennithorne Road",
-  "rating": "Good",
-  "ratingDate": "2023-06-01",
-  "region": "North West",
-  "localAuthority": "Trafford",
-  "numberOfBeds": 4,
-  "postalCode": "M41 5BU"
- },
- {
-  "locationId": "1-11051756072",
-  "name": "10-12 Hainsworth Park",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-12-22",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Kingston upon Hull, City of",
-  "numberOfBeds": 4,
-  "postalCode": "HU6 8QQ"
- },
- {
-  "locationId": "1-25565900834",
-  "name": "101 Brook Street",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-11-03",
-  "region": "London",
-  "localAuthority": "Bexley",
-  "numberOfBeds": 6,
-  "postalCode": "DA8 1JJ"
- },
- {
-  "locationId": "1-9654205805",
-  "name": "101 Cheam Road",
-  "rating": "Good",
-  "ratingDate": "2022-06-16",
-  "region": "London",
-  "localAuthority": "Sutton",
-  "numberOfBeds": 7,
-  "postalCode": "SM1 2BE"
- },
- {
-  "locationId": "1-159367994",
-  "name": "101 Royal Hill",
-  "rating": "Good",
-  "ratingDate": "2018-03-08",
-  "region": "London",
-  "localAuthority": "Greenwich",
-  "numberOfBeds": 7,
-  "postalCode": "SE10 8SS"
- },
- {
-  "locationId": "1-13597480351",
-  "name": "102 Faircross Avenue",
-  "rating": "Good",
-  "ratingDate": "2024-02-10",
-  "region": "London",
-  "localAuthority": "Barking and Dagenham",
-  "numberOfBeds": 3,
-  "postalCode": "IG11 8QZ"
- },
- {
-  "locationId": "1-108827793",
-  "name": "104 Tennyson Road",
-  "rating": "Good",
-  "ratingDate": "2018-02-07",
-  "region": "East",
-  "localAuthority": "Luton",
-  "numberOfBeds": 8,
-  "postalCode": "LU1 3RP"
- },
- {
-  "locationId": "1-1437671372",
-  "name": "109 Grange Road",
-  "rating": "Good",
-  "ratingDate": "2018-02-22",
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 5,
-  "postalCode": "B24 0ES"
- },
- {
-  "locationId": "1-28705125489",
-  "name": "11 Victory Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 2,
-  "postalCode": "M14 5AE"
- },
- {
-  "locationId": "1-130525405",
-  "name": "110 West Street Care Home",
-  "rating": "Good",
-  "ratingDate": "2020-04-10",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 13,
-  "postalCode": "PO9 1LN"
- },
- {
-  "locationId": "1-25565901147",
-  "name": "118 Widmore Road",
-  "rating": "Good",
-  "ratingDate": "2023-06-13",
-  "region": "London",
-  "localAuthority": "Bromley",
-  "numberOfBeds": 10,
-  "postalCode": "BR1 3BE"
- },
- {
-  "locationId": "1-1435221672",
-  "name": "12 Channel Lea",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 3,
-  "postalCode": "CT14 7UG"
- },
- {
-  "locationId": "1-9790438546",
-  "name": "12 Church Avenue Harrogate",
-  "rating": "Good",
-  "ratingDate": "2022-08-05",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 6,
-  "postalCode": "HG1 4HE"
- },
- {
-  "locationId": "1-7928051892",
-  "name": "12 Collett Close",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-05-06",
-  "region": "West Midlands",
-  "localAuthority": "Dudley",
-  "numberOfBeds": 4,
-  "postalCode": "DY8 4HS"
- },
- {
-  "locationId": "1-118415313",
-  "name": "120 Furber Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 5,
-  "postalCode": "BS5 8PT"
- },
- {
-  "locationId": "1-5868491850",
-  "name": "121 Hassall Road",
-  "rating": "Good",
-  "ratingDate": "2019-10-23",
-  "region": "North West",
-  "localAuthority": "Cheshire East",
-  "numberOfBeds": 4,
-  "postalCode": "ST7 2SL"
- },
- {
-  "locationId": "1-118415514",
-  "name": "121 Watleys End Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 14,
-  "postalCode": "BS36 1QG"
- },
- {
-  "locationId": "1-13421360339",
-  "name": "128 Beech Hill",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 4,
-  "postalCode": "RH16 3TT"
- },
- {
-  "locationId": "1-19894828821",
-  "name": "12A Masefield Avenue",
-  "rating": "Good",
-  "ratingDate": "2020-01-25",
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 6,
-  "postalCode": "SN2 7HT"
- },
- {
-  "locationId": "1-27339462454",
-  "name": "13 Durham Ave",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Lancashire",
-  "numberOfBeds": 3,
-  "postalCode": "FY8 2BD"
- },
- {
-  "locationId": "1-1627453213",
-  "name": "13 Greenway Park",
-  "rating": "Outstanding",
-  "ratingDate": "2018-06-30",
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 8,
-  "postalCode": "SN15 1QG"
- },
- {
-  "locationId": "1-120030758",
-  "name": "13 Manor Crescent",
-  "rating": "Good",
-  "ratingDate": "2022-12-14",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 4,
-  "postalCode": "KT14 7EN"
- },
- {
-  "locationId": "1-129453786",
-  "name": "130 Whitworth Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 4,
-  "postalCode": "SN25 3BJ"
- },
- {
-  "locationId": "1-2008342437",
-  "name": "134 Ashland Road",
-  "rating": "Good",
-  "ratingDate": "2020-04-22",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 10,
-  "postalCode": "NG17 2HS"
- },
- {
-  "locationId": "1-745672353",
-  "name": "135 Norman Road",
-  "rating": "Good",
-  "ratingDate": "2023-08-03",
-  "region": "London",
-  "localAuthority": "Waltham Forest",
-  "numberOfBeds": 3,
-  "postalCode": "E11 4RJ"
- },
- {
-  "locationId": "1-153833765",
-  "name": "135 Tennyson Road",
-  "rating": "Good",
-  "ratingDate": "2020-02-14",
-  "region": "East",
-  "localAuthority": "Luton",
-  "numberOfBeds": 4,
-  "postalCode": "LU1 3RP"
- },
- {
-  "locationId": "1-25832514995",
-  "name": "138 All Saints Road",
-  "rating": "Good",
-  "ratingDate": "2022-04-29",
-  "region": "London",
-  "localAuthority": "Merton",
-  "numberOfBeds": 6,
-  "postalCode": "SW19 1BZ"
- },
- {
-  "locationId": "1-25831989253",
-  "name": "138-138a Mason Way",
-  "rating": "Good",
-  "ratingDate": "2018-08-17",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 8,
-  "postalCode": "EN9 3EJ"
- },
- {
-  "locationId": "1-834126248",
-  "name": "13a Repton Drive",
-  "rating": "Good",
-  "ratingDate": "2017-10-25",
-  "region": "London",
-  "localAuthority": "Havering",
-  "numberOfBeds": 6,
-  "postalCode": "RM2 5LP"
- },
- {
-  "locationId": "1-17192496522",
-  "name": "14 Lightwood",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Salford",
-  "numberOfBeds": 3,
-  "postalCode": "M28 1ZL"
- },
- {
-  "locationId": "1-1079077889",
-  "name": "14 Thornhill",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North East",
-  "localAuthority": "Sunderland",
-  "numberOfBeds": 6,
-  "postalCode": "SR2 7LA"
- },
- {
-  "locationId": "1-7203357661",
-  "name": "14 Thornholme Close",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 2,
-  "postalCode": "M18 7RL"
- },
- {
-  "locationId": "1-2008549284",
-  "name": "14-17 Palmwood Court",
-  "rating": "Good",
-  "ratingDate": "2019-01-23",
-  "region": "East Midlands",
-  "localAuthority": "Nottingham",
-  "numberOfBeds": 12,
-  "postalCode": "NG6 9BZ"
- },
- {
-  "locationId": "1-15199059719",
-  "name": "146 Lower Robin Hood Lane",
-  "rating": "Good",
-  "ratingDate": "2019-06-26",
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 5,
-  "postalCode": "ME5 9LB"
- },
- {
-  "locationId": "1-12455699665",
-  "name": "148 Hornsey Lane",
-  "rating": "Good",
-  "ratingDate": "2023-03-07",
-  "region": "London",
-  "localAuthority": "Islington",
-  "numberOfBeds": 12,
-  "postalCode": "N6 5NS"
- },
- {
-  "locationId": "1-120030741",
-  "name": "15 Manor Crescent",
-  "rating": "Good",
-  "ratingDate": "2021-11-09",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 4,
-  "postalCode": "KT14 7EN"
- },
- {
-  "locationId": "1-26738178363",
-  "name": "15 Preston Drove",
-  "rating": "Good",
-  "ratingDate": "2019-02-22",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 4,
-  "postalCode": "BN1 6LA"
- },
- {
-  "locationId": "1-21724494340",
-  "name": "15 Seabrook",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 3,
-  "postalCode": "CT21 5NB"
- },
- {
-  "locationId": "1-23638804920",
-  "name": "15 The Sycamores",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 3,
-  "postalCode": "DE55 3BJ"
- },
- {
-  "locationId": "1-15084140959",
-  "name": "156 Tyndale Crescent",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Walsall",
-  "numberOfBeds": 2,
-  "postalCode": "B43 7HU"
- },
- {
-  "locationId": "1-113446002",
-  "name": "159 Wensley Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-05-20",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 4,
-  "postalCode": "RG1 6DU"
- },
- {
-  "locationId": "1-129459830",
-  "name": "16 Balnacraig Avenue (The Leaves)",
-  "rating": "Good",
-  "ratingDate": "2019-10-03",
-  "region": "London",
-  "localAuthority": "Brent",
-  "numberOfBeds": 7,
-  "postalCode": "NW10 1TH"
- },
- {
-  "locationId": "1-132341179",
-  "name": "16 Crompton Street",
-  "rating": "Good",
-  "ratingDate": "2019-03-29",
-  "region": "North West",
-  "localAuthority": "Liverpool",
-  "numberOfBeds": 7,
-  "postalCode": "L5 2QS"
- },
- {
-  "locationId": "1-3568827629",
-  "name": "16 Homeside Close",
-  "rating": "Good",
-  "ratingDate": "2019-12-04",
-  "region": "South East",
-  "localAuthority": "Windsor and Maidenhead",
-  "numberOfBeds": 8,
-  "postalCode": "SL6 7RB"
- },
- {
-  "locationId": "1-8678645799",
-  "name": "16 Kenilworth Gardens",
-  "rating": "Good",
-  "ratingDate": "2021-10-07",
-  "region": "London",
-  "localAuthority": "Redbridge",
-  "numberOfBeds": 5,
-  "postalCode": "IG3 8DU"
- },
- {
-  "locationId": "1-19829927718",
-  "name": "16 King Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Bury",
-  "numberOfBeds": 3,
-  "postalCode": "M26 1ND"
- },
- {
-  "locationId": "1-9790438583",
-  "name": "16 Spring Mount Harrogate",
-  "rating": "Good",
-  "ratingDate": "2022-07-21",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 6,
-  "postalCode": "HG1 2HX"
- },
- {
-  "locationId": "1-9197571899",
-  "name": "165 Point Clear Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-12-09",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 5,
-  "postalCode": "CO16 8JB"
- },
- {
-  "locationId": "1-159367909",
-  "name": "167 Lodge Hill",
-  "rating": "Good",
-  "ratingDate": "2019-10-16",
-  "region": "London",
-  "localAuthority": "Greenwich",
-  "numberOfBeds": 6,
-  "postalCode": "SE2 0AS"
- },
- {
-  "locationId": "1-129460371",
-  "name": "17 Walsworth Road",
-  "rating": "Good",
-  "ratingDate": "2019-12-20",
-  "region": "East",
-  "localAuthority": "Hertfordshire",
-  "numberOfBeds": 6,
-  "postalCode": "SG4 9SP"
- },
- {
-  "locationId": "1-8134632574",
-  "name": "17 York Avenue",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-06-30",
-  "region": "North West",
-  "localAuthority": "Bury",
-  "numberOfBeds": 4,
-  "postalCode": "M25 0FZ"
- },
- {
-  "locationId": "1-9642537968",
-  "name": "179 Green Lane",
-  "rating": "Good",
-  "ratingDate": "2022-04-05",
-  "region": "London",
-  "localAuthority": "Merton",
-  "numberOfBeds": 5,
-  "postalCode": "SM4 6SG"
- },
- {
-  "locationId": "1-9188107801",
-  "name": "18 Acorn Avenue",
-  "rating": "Good",
-  "ratingDate": "2023-07-01",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 3,
-  "postalCode": "CO9 1LQ"
- },
- {
-  "locationId": "1-14285660967",
-  "name": "18 Argyle Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Harrow",
-  "numberOfBeds": 4,
-  "postalCode": "HA2 7AJ"
- },
- {
-  "locationId": "1-121963720",
-  "name": "18 Wolverton Gardens, Horley (Active Prospects)",
-  "rating": "Good",
-  "ratingDate": "2020-02-11",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 5,
-  "postalCode": "RH6 7LX"
- },
- {
-  "locationId": "1-1345347928",
-  "name": "182 Ashby Road",
-  "rating": "Good",
-  "ratingDate": "2018-01-10",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 5,
-  "postalCode": "DE15 0LB"
- },
- {
-  "locationId": "1-20628984411",
-  "name": "182 Hangleton Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 4,
-  "postalCode": "BN3 7LT"
- },
- {
-  "locationId": "1-1345347908",
-  "name": "183 Ashby Road",
-  "rating": "Good",
-  "ratingDate": "2019-11-06",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 5,
-  "postalCode": "DE15 0LB"
- },
- {
-  "locationId": "1-2228022617",
-  "name": "185 Watling St Road",
-  "rating": "Good",
-  "ratingDate": "2019-02-19",
-  "region": "North West",
-  "localAuthority": "Lancashire",
-  "numberOfBeds": 9,
-  "postalCode": "PR2 8AE"
- },
- {
-  "locationId": "1-164474176",
-  "name": "188 Whitley Wood Lane Respite Care",
-  "rating": "Good",
-  "ratingDate": "2017-12-08",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 6,
-  "postalCode": "RG2 8PR"
- },
- {
-  "locationId": "1-6301808037",
-  "name": "19 Barkla Close",
-  "rating": "Good",
-  "ratingDate": "2022-09-30",
-  "region": "East Midlands",
-  "localAuthority": "Nottingham",
-  "numberOfBeds": 3,
-  "postalCode": "NG11 8QH"
- },
- {
-  "locationId": "1-1535127571",
-  "name": "19 Forest Road",
-  "rating": "Good",
-  "ratingDate": "2018-06-01",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 6,
-  "postalCode": "GU35 0BJ"
- },
- {
-  "locationId": "1-26727410315",
-  "name": "19 Leicester Villas",
-  "rating": "Good",
-  "ratingDate": "2018-12-20",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 5,
-  "postalCode": "BN3 5SP"
- },
- {
-  "locationId": "1-7151265389",
-  "name": "19 Lower Dolcliffe Road",
-  "rating": "Good",
-  "ratingDate": "2021-08-04",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Doncaster",
-  "numberOfBeds": 1,
-  "postalCode": "S64 9PA"
- },
- {
-  "locationId": "1-16601045992",
-  "name": "19 Sheerstone",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 1,
-  "postalCode": "ME9 8RN"
- },
- {
-  "locationId": "1-115817734",
-  "name": "19 Stone Lane",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 6,
-  "postalCode": "BN13 2BA"
- },
- {
-  "locationId": "1-1700843168",
-  "name": "195 Ashby Road",
-  "rating": "Outstanding",
-  "ratingDate": "2021-09-18",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 10,
-  "postalCode": "DE15 0LB"
- },
- {
-  "locationId": "1-122285802",
-  "name": "1a West Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-01-15",
-  "region": "West Midlands",
-  "localAuthority": "Solihull",
-  "numberOfBeds": 3,
-  "postalCode": "B36 0EB"
- },
- {
-  "locationId": "1-9791332087",
-  "name": "2 East Park Road Harrogate",
-  "rating": "Good",
-  "ratingDate": "2023-07-19",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 6,
-  "postalCode": "HG1 5QT"
- },
- {
-  "locationId": "1-211335903",
-  "name": "2 Hill Close",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-12-05",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Wakefield",
-  "numberOfBeds": 3,
-  "postalCode": "WF8 2SF"
- },
- {
-  "locationId": "1-3849038545",
-  "name": "2 Millbrook Way",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Lancashire",
-  "numberOfBeds": 6,
-  "postalCode": "PR1 0XW"
- },
- {
-  "locationId": "1-298221410",
-  "name": "2 Windsor Avenue",
-  "rating": "Good",
-  "ratingDate": "2018-05-15",
-  "region": "East Midlands",
-  "localAuthority": "North Northamptonshire",
-  "numberOfBeds": 5,
-  "postalCode": "NN14 2SS"
- },
- {
-  "locationId": "1-25831519762",
-  "name": "2-3 Orchard Close",
-  "rating": "Good",
-  "ratingDate": "2018-08-21",
-  "region": "London",
-  "localAuthority": "Redbridge",
-  "numberOfBeds": 14,
-  "postalCode": "E11 2DE"
- },
- {
-  "locationId": "1-2008549135",
-  "name": "2-8 Orchard Street",
-  "rating": "Good",
-  "ratingDate": "2019-06-08",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 12,
-  "postalCode": "NG15 7JZ"
- },
- {
-  "locationId": "1-129453998",
-  "name": "20 Towngate East",
-  "rating": "Good",
-  "ratingDate": "2019-10-10",
-  "region": "East Midlands",
-  "localAuthority": "Lincolnshire",
-  "numberOfBeds": 8,
-  "postalCode": "PE6 8DR"
- },
- {
-  "locationId": "1-26738178590",
-  "name": "20 Windlesham Road",
-  "rating": "Good",
-  "ratingDate": "2018-11-09",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 5,
-  "postalCode": "BN1 3AG"
- },
- {
-  "locationId": "1-156878260",
-  "name": "202 Weston Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Stoke-on-Trent",
-  "numberOfBeds": 4,
-  "postalCode": "ST3 6EE"
- },
- {
-  "locationId": "1-9477086449",
-  "name": "207 Goodmayes Lane",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-03-08",
-  "region": "London",
-  "localAuthority": "Redbridge",
-  "numberOfBeds": 6,
-  "postalCode": "IG3 9PW"
- },
- {
-  "locationId": "1-147440764",
-  "name": "21 Lucerne Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Croydon",
-  "numberOfBeds": 4,
-  "postalCode": "CR7 7BB"
- },
- {
-  "locationId": "1-10900067723",
-  "name": "21 Mill Lane",
-  "rating": "Good",
-  "ratingDate": "2022-12-14",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 4,
-  "postalCode": "CO16 9BB"
- },
- {
-  "locationId": "1-19554552686",
-  "name": "21 North View",
-  "rating": "Good",
-  "ratingDate": "2022-11-03",
-  "region": "North East",
-  "localAuthority": "South Tyneside",
-  "numberOfBeds": 6,
-  "postalCode": "NE32 5JQ"
- },
- {
-  "locationId": "1-11741876315",
-  "name": "21 Trittiford Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 5,
-  "postalCode": "B13 0ES"
- },
- {
-  "locationId": "1-891219962",
-  "name": "215 Hughenden Road",
-  "rating": "Good",
-  "ratingDate": "2018-09-28",
-  "region": "South East",
-  "localAuthority": "Buckinghamshire",
-  "numberOfBeds": 6,
-  "postalCode": "HP13 5PG"
- },
- {
-  "locationId": "1-156878223",
-  "name": "216 Lightwood Road",
-  "rating": "Good",
-  "ratingDate": "2019-01-10",
-  "region": "West Midlands",
-  "localAuthority": "Stoke-on-Trent",
-  "numberOfBeds": 7,
-  "postalCode": "ST3 4JZ"
- },
- {
-  "locationId": "1-118415755",
-  "name": "218 Kingsway",
-  "rating": "Good",
-  "ratingDate": "2020-02-28",
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 5,
-  "postalCode": "BS5 8NS"
- },
- {
-  "locationId": "1-9642537997",
-  "name": "21a Victoria Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 5,
-  "postalCode": "CO15 6BH"
- },
- {
-  "locationId": "1-14159371063",
-  "name": "22 Argyll Street",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-05-13",
-  "region": "South East",
-  "localAuthority": "Isle of Wight",
-  "numberOfBeds": 9,
-  "postalCode": "PO33 3BZ"
- },
- {
-  "locationId": "1-313657728",
-  "name": "22 De Parys Avenue",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Bedford",
-  "numberOfBeds": 8,
-  "postalCode": "MK40 2TW"
- },
- {
-  "locationId": "1-417607253",
-  "name": "22 Levick Court",
-  "rating": "Good",
-  "ratingDate": "2023-05-17",
-  "region": "North East",
-  "localAuthority": "Middlesbrough",
-  "numberOfBeds": 16,
-  "postalCode": "TS5 5JR"
- },
- {
-  "locationId": "1-13421360366",
-  "name": "22 Woodlands Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-11-18",
-  "region": "South East",
-  "localAuthority": "Oxfordshire",
-  "numberOfBeds": 3,
-  "postalCode": "RG4 9TE"
- },
- {
-  "locationId": "1-224771368",
-  "name": "222 Bills Lane",
-  "rating": "Good",
-  "ratingDate": "2018-12-25",
-  "region": "West Midlands",
-  "localAuthority": "Solihull",
-  "numberOfBeds": 4,
-  "postalCode": "B90 2PP"
- },
- {
-  "locationId": "1-135300616",
-  "name": "229 Mitcham Lane Limited - 11 Angles Road",
-  "rating": "Good",
-  "ratingDate": "2022-08-24",
-  "region": "London",
-  "localAuthority": "Lambeth",
-  "numberOfBeds": 6,
-  "postalCode": "SW16 2UU"
- },
- {
-  "locationId": "1-129454029",
-  "name": "23 Cecil Road",
-  "rating": "Good",
-  "ratingDate": "2018-04-19",
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 6,
-  "postalCode": "S18 2GW"
- },
- {
-  "locationId": "1-129459266",
-  "name": "23 Church Street",
-  "rating": "Good",
-  "ratingDate": "2019-03-14",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 10,
-  "postalCode": "NG20 0AU"
- },
- {
-  "locationId": "1-2827267050",
-  "name": "23 Oak Avenue",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 3,
-  "postalCode": "ME12 3QT"
- },
- {
-  "locationId": "1-392043786",
-  "name": "23 Trittiford Road",
-  "rating": "Good",
-  "ratingDate": "2020-03-11",
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 6,
-  "postalCode": "B13 0ES"
- },
- {
-  "locationId": "1-9642538052",
-  "name": "23 Valley Road",
-  "rating": "Good",
-  "ratingDate": "2022-02-23",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 5,
-  "postalCode": "SO40 9FP"
- },
- {
-  "locationId": "1-20243844362",
-  "name": "23/23a The Avenue",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "West Northamptonshire",
-  "numberOfBeds": 5,
-  "postalCode": "NN1 5BT"
- },
- {
-  "locationId": "1-9642538081",
-  "name": "231 Brook Lane",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 10,
-  "postalCode": "SO31 7DS"
- },
- {
-  "locationId": "1-129454044",
-  "name": "235 Rugeley Road",
-  "rating": "Good",
-  "ratingDate": "2023-04-19",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 7,
-  "postalCode": "WS7 1NS"
- },
- {
-  "locationId": "1-7693261973",
-  "name": "24 Fortune Gate",
-  "rating": "Good",
-  "ratingDate": "2022-07-01",
-  "region": "London",
-  "localAuthority": "Brent",
-  "numberOfBeds": 3,
-  "postalCode": "NW10 9RE"
- },
- {
-  "locationId": "1-13174704781",
-  "name": "24 Hainsworth Park",
-  "rating": null,
-  "ratingDate": null,
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Kingston upon Hull, City of",
-  "numberOfBeds": 1,
-  "postalCode": "HU6 8QQ"
- },
- {
-  "locationId": "1-3757206335",
-  "name": "24 Seabrook Road",
-  "rating": "Good",
-  "ratingDate": "2018-08-10",
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 4,
-  "postalCode": "CT21 5NA"
- },
- {
-  "locationId": "1-1434777508",
-  "name": "24 St Marks Road",
-  "rating": "Good",
-  "ratingDate": "2018-05-15",
-  "region": "East Midlands",
-  "localAuthority": "Derby",
-  "numberOfBeds": 8,
-  "postalCode": "DE21 6AH"
- },
- {
-  "locationId": "1-19894734675",
-  "name": "24 Windermere",
-  "rating": "Good",
-  "ratingDate": "2020-01-11",
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 2,
-  "postalCode": "SN3 6JZ"
- },
- {
-  "locationId": "1-4323596034",
-  "name": "243 Church Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 5,
-  "postalCode": "DE5 9TF"
- },
- {
-  "locationId": "1-2039932296",
-  "name": "244 Wootton Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Norfolk",
-  "numberOfBeds": 3,
-  "postalCode": "PE30 3BH"
- },
- {
-  "locationId": "1-25831519789",
-  "name": "24a Corporation Road",
-  "rating": "Good",
-  "ratingDate": "2020-03-13",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 8,
-  "postalCode": "CM1 2AR"
- },
- {
-  "locationId": "1-13421360423",
-  "name": "25 Welby Close",
-  "rating": "Requires improvement",
-  "ratingDate": "2019-11-15",
-  "region": "South East",
-  "localAuthority": "Windsor and Maidenhead",
-  "numberOfBeds": 3,
-  "postalCode": "SL6 3PY"
- },
- {
-  "locationId": "1-118415812",
-  "name": "25-27 Teewell Avenue",
-  "rating": "Good",
-  "ratingDate": "2023-03-08",
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 7,
-  "postalCode": "BS16 5NF"
- },
- {
-  "locationId": "1-334368836",
-  "name": "26 Brookside Avenue",
-  "rating": "Good",
-  "ratingDate": "2020-03-13",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 3,
-  "postalCode": "LE12 6PA"
- },
- {
-  "locationId": "1-1901655780",
-  "name": "26 Dugard Avenue",
-  "rating": "Good",
-  "ratingDate": "2018-05-12",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 4,
-  "postalCode": "CO3 9EH"
- },
- {
-  "locationId": "1-2945895069",
-  "name": "26 Seabrook Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 5,
-  "postalCode": "CT21 5NA"
- },
- {
-  "locationId": "1-129454063",
-  "name": "26 St Barnabas Road",
-  "rating": "Good",
-  "ratingDate": "2019-10-09",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 6,
-  "postalCode": "RG4 8RA"
- },
- {
-  "locationId": "1-1435097001",
-  "name": "26 St Marks Road",
-  "rating": "Good",
-  "ratingDate": "2018-01-17",
-  "region": "East Midlands",
-  "localAuthority": "Derby",
-  "numberOfBeds": 8,
-  "postalCode": "DE21 6AH"
- },
- {
-  "locationId": "1-2008594276",
-  "name": "280-282 Wells Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Nottingham",
-  "numberOfBeds": 6,
-  "postalCode": "NG3 3AA"
- },
- {
-  "locationId": "1-9655004268",
-  "name": "287 Dyke Road",
-  "rating": "Good",
-  "ratingDate": "2021-12-21",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 8,
-  "postalCode": "BN3 6PD"
- },
- {
-  "locationId": "1-10736723408",
-  "name": "29 & 30 Dominion Road",
-  "rating": "Good",
-  "ratingDate": "2018-09-25",
-  "region": "South West",
-  "localAuthority": "Bath and North East Somerset",
-  "numberOfBeds": 4,
-  "postalCode": "BA2 1DW"
- },
- {
-  "locationId": "1-13421360490",
-  "name": "29 Briants Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-07-19",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 3,
-  "postalCode": "RG4 5AY"
- },
- {
-  "locationId": "1-9655173051",
-  "name": "290 Dyke Road",
-  "rating": "Good",
-  "ratingDate": "2019-03-13",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 5,
-  "postalCode": "BN1 5BA"
- },
- {
-  "locationId": "1-129454079",
-  "name": "2a & 2b Mayfair",
-  "rating": "Good",
-  "ratingDate": "2018-05-05",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 10,
-  "postalCode": "RG30 4QY"
- },
- {
-  "locationId": "1-118415169",
-  "name": "2a Court Road",
-  "rating": "Good",
-  "ratingDate": "2019-03-14",
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 15,
-  "postalCode": "BS15 9QB"
- },
- {
-  "locationId": "1-4641648968",
-  "name": "3 Ferndale Close",
-  "rating": "Good",
-  "ratingDate": "2019-06-14",
-  "region": "West Midlands",
-  "localAuthority": "Worcestershire",
-  "numberOfBeds": 1,
-  "postalCode": "DY9 0QA"
- },
- {
-  "locationId": "1-859143446",
-  "name": "3 Ferrers Drive",
-  "rating": "Good",
-  "ratingDate": "2019-05-24",
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 5,
-  "postalCode": "SN5 6HJ"
- },
- {
-  "locationId": "1-9791332137",
-  "name": "3 Red Admiral Court Gateshead",
-  "rating": "Good",
-  "ratingDate": "2022-07-22",
-  "region": "North East",
-  "localAuthority": "Gateshead",
-  "numberOfBeds": 6,
-  "postalCode": "NE11 9TW"
- },
- {
-  "locationId": "1-14962859642",
-  "name": "3 Strensham Hill",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 8,
-  "postalCode": "B13 8AG"
- },
- {
-  "locationId": "1-9655173286",
-  "name": "3 The Droveway",
-  "rating": "Good",
-  "ratingDate": "2023-12-21",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 6,
-  "postalCode": "BN3 6LF"
- },
- {
-  "locationId": "1-9655470904",
-  "name": "3 The Green",
-  "rating": "Good",
-  "ratingDate": "2022-05-19",
-  "region": "London",
-  "localAuthority": "Sutton",
-  "numberOfBeds": 8,
-  "postalCode": "SM1 1QT"
- },
- {
-  "locationId": "1-2551537897",
-  "name": "3 to 5 Kennet Way",
-  "rating": "Good",
-  "ratingDate": "2020-01-28",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 3,
-  "postalCode": "RG23 7AP"
- },
- {
-  "locationId": "1-457362743",
-  "name": "3-4 Priors Court Cottages",
-  "rating": "Good",
-  "ratingDate": "2019-06-28",
-  "region": "South East",
-  "localAuthority": "West Berkshire",
-  "numberOfBeds": 6,
-  "postalCode": "RG18 9JT"
- },
- {
-  "locationId": "1-129454094",
-  "name": "30 Broad Lane",
-  "rating": "Good",
-  "ratingDate": "2017-12-13",
-  "region": "South East",
-  "localAuthority": "West Berkshire",
-  "numberOfBeds": 6,
-  "postalCode": "RG7 6QJ"
- },
- {
-  "locationId": "1-129459110",
-  "name": "30 Richmond Road",
-  "rating": "Good",
-  "ratingDate": "2019-02-19",
-  "region": "South East",
-  "localAuthority": "Reading",
-  "numberOfBeds": 5,
-  "postalCode": "RG4 7PR"
- },
- {
-  "locationId": "1-347934606",
-  "name": "30 Sunnyfield",
-  "rating": "Good",
-  "ratingDate": "2023-12-02",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Wakefield",
-  "numberOfBeds": 3,
-  "postalCode": "WF7 6GG"
- },
- {
-  "locationId": "1-2008258926",
-  "name": "304 Southwell Road",
-  "rating": "Good",
-  "ratingDate": "2020-03-27",
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 8,
-  "postalCode": "NG21 0EB"
- },
- {
-  "locationId": "1-336365615",
-  "name": "31 King Edwards Grove",
-  "rating": "Good",
-  "ratingDate": "2022-08-31",
-  "region": "London",
-  "localAuthority": "Richmond upon Thames",
-  "numberOfBeds": 8,
-  "postalCode": "TW11 9LY"
- },
- {
-  "locationId": "1-21881582505",
-  "name": "32 Hamstead",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 4,
-  "postalCode": "B19 1DB"
- },
- {
-  "locationId": "1-9655719575",
-  "name": "32 Mays Lane",
-  "rating": "Good",
-  "ratingDate": "2019-10-17",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 5,
-  "postalCode": "PO14 2EW"
- },
- {
-  "locationId": "1-121963647",
-  "name": "33 Blanford Road",
-  "rating": "Good",
-  "ratingDate": "2018-12-12",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 6,
-  "postalCode": "RH2 7DP"
- },
- {
-  "locationId": "1-21881705163",
-  "name": "34 Hamstead",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 4,
-  "postalCode": "B19 1DB"
- },
- {
-  "locationId": "1-118415684",
-  "name": "35 Cranbrook Road",
-  "rating": "Good",
-  "ratingDate": "2020-02-12",
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 5,
-  "postalCode": "BS6 7BP"
- },
- {
-  "locationId": "1-1034153843",
-  "name": "35 Priory Grove",
-  "rating": "Good",
-  "ratingDate": "2019-11-13",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Kingston upon Hull, City of",
-  "numberOfBeds": 4,
-  "postalCode": "HU4 6LX"
- },
- {
-  "locationId": "1-1274182724",
-  "name": "35/37 Solna Road",
-  "rating": "Good",
-  "ratingDate": "2020-02-18",
-  "region": "London",
-  "localAuthority": "Enfield",
-  "numberOfBeds": 11,
-  "postalCode": "N21 2JE"
- },
- {
-  "locationId": "1-1436403312",
-  "name": "351 Maidstone Road",
-  "rating": "Good",
-  "ratingDate": "2018-12-11",
-  "region": "South East",
-  "localAuthority": "Medway",
-  "numberOfBeds": 5,
-  "postalCode": "ME8 0HU"
- },
- {
-  "locationId": "1-129453729",
-  "name": "36 West Street",
-  "rating": "Good",
-  "ratingDate": "2018-07-13",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Barnsley",
-  "numberOfBeds": 6,
-  "postalCode": "S73 8LA"
- },
- {
-  "locationId": "1-9655719733",
-  "name": "361 The Ridge",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "East Sussex",
-  "numberOfBeds": 12,
-  "postalCode": "TN34 2RD"
- },
- {
-  "locationId": "1-2253584724",
-  "name": "362 Park Road",
-  "rating": "Good",
-  "ratingDate": "2019-12-05",
-  "region": "East Midlands",
-  "localAuthority": "Leicestershire",
-  "numberOfBeds": 1,
-  "postalCode": "LE11 2HN"
- },
- {
-  "locationId": "RX3LD",
-  "name": "367 Thornaby Road",
-  "rating": "Good",
-  "ratingDate": "2022-02-05",
-  "region": "North East",
-  "localAuthority": "Stockton-on-Tees",
-  "numberOfBeds": 5,
-  "postalCode": "TS17 8QW"
- },
- {
-  "locationId": "1-152868472",
-  "name": "36a Birling Avenue",
-  "rating": "Good",
-  "ratingDate": "2018-02-27",
-  "region": "South East",
-  "localAuthority": "Medway",
-  "numberOfBeds": 7,
-  "postalCode": "ME8 7EY"
- },
- {
-  "locationId": "1-246078383",
-  "name": "37 Coleraine Road",
-  "rating": "Good",
-  "ratingDate": "2018-04-20",
-  "region": "London",
-  "localAuthority": "Haringey",
-  "numberOfBeds": 4,
-  "postalCode": "N8 0QJ"
- },
- {
-  "locationId": "1-9655829638",
-  "name": "374 St Helier Avenue",
-  "rating": "Good",
-  "ratingDate": "2022-06-10",
-  "region": "London",
-  "localAuthority": "Merton",
-  "numberOfBeds": 8,
-  "postalCode": "SM4 6JU"
- },
- {
-  "locationId": "1-465648633",
-  "name": "38 Torrin Drive",
-  "rating": "Good",
-  "ratingDate": "2019-01-17",
-  "region": "West Midlands",
-  "localAuthority": "Shropshire",
-  "numberOfBeds": 5,
-  "postalCode": "SY3 6AW"
- },
- {
-  "locationId": "1-129459655",
-  "name": "39 Hawthorne Grove",
-  "rating": "Good",
-  "ratingDate": "2020-04-08",
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 3,
-  "postalCode": "BA14 0JF"
- },
- {
-  "locationId": "1-9218680669",
-  "name": "39 School Lane",
-  "rating": "Good",
-  "ratingDate": "2024-02-14",
-  "region": "West Midlands",
-  "localAuthority": "Warwickshire",
-  "numberOfBeds": 8,
-  "postalCode": "CV7 9GE"
- },
- {
-  "locationId": "1-8461807472",
-  "name": "39a Castle Road",
-  "rating": "Good",
-  "ratingDate": "2021-11-17",
-  "region": "North West",
-  "localAuthority": "Westmorland and Furness",
-  "numberOfBeds": 1,
-  "postalCode": "LA9 7AU"
- },
- {
-  "locationId": "1-9736363421",
-  "name": "3a The Droveway",
-  "rating": "Good",
-  "ratingDate": "2018-05-11",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 3,
-  "postalCode": "BN3 6LF"
- },
- {
-  "locationId": "1-4094343611",
-  "name": "3L Care - Atherton",
-  "rating": "Good",
-  "ratingDate": "2018-09-21",
-  "region": "North West",
-  "localAuthority": "Wigan",
-  "numberOfBeds": 10,
-  "postalCode": "M46 0BL"
- },
- {
-  "locationId": "1-1790631095",
-  "name": "3L Care Limited",
-  "rating": "Good",
-  "ratingDate": "2019-05-10",
-  "region": "North West",
-  "localAuthority": "Cheshire West and Chester",
-  "numberOfBeds": 6,
-  "postalCode": "CW7 3DN"
- },
- {
-  "locationId": "1-300095509",
-  "name": "3L Care Limited",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Cheshire West and Chester",
-  "numberOfBeds": 10,
-  "postalCode": "CW7 3AD"
- },
- {
-  "locationId": "1-7613377129",
-  "name": "4 Box Crescent",
-  "rating": "Good",
-  "ratingDate": "2021-08-06",
-  "region": "South West",
-  "localAuthority": "Gloucestershire",
-  "numberOfBeds": 2,
-  "postalCode": "GL6 9DJ"
- },
- {
-  "locationId": "1-9642538112",
-  "name": "4 Cottage Walk",
-  "rating": "Good",
-  "ratingDate": "2022-10-01",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 6,
-  "postalCode": "CO16 8DG"
- },
- {
-  "locationId": "1-14220825796",
-  "name": "4 Cronulla Drive",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Warrington",
-  "numberOfBeds": 5,
-  "postalCode": "WA5 3HS"
- },
- {
-  "locationId": "1-129459702",
-  "name": "4 Hermitage Lane",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 6,
-  "postalCode": "SN2 7QS"
- },
- {
-  "locationId": "1-115733228",
-  "name": "4 Mill Road",
-  "rating": "Good",
-  "ratingDate": "2018-07-24",
-  "region": "South East",
-  "localAuthority": "East Sussex",
-  "numberOfBeds": 10,
-  "postalCode": "BN21 2LY"
- },
- {
-  "locationId": "1-126464913",
-  "name": "4 Old Barn Close",
-  "rating": "Good",
-  "ratingDate": "2018-10-04",
-  "region": "South East",
-  "localAuthority": "Buckinghamshire",
-  "numberOfBeds": 4,
-  "postalCode": "MK18 4JH"
- },
- {
-  "locationId": "1-13421360528",
-  "name": "4 Pages Orchard",
-  "rating": "Outstanding",
-  "ratingDate": "2019-03-21",
-  "region": "South East",
-  "localAuthority": "Oxfordshire",
-  "numberOfBeds": 3,
-  "postalCode": "RG4 9LW"
- },
- {
-  "locationId": "1-126470015",
-  "name": "4 Trinity Court",
-  "rating": "Good",
-  "ratingDate": "2018-09-01",
-  "region": "South East",
-  "localAuthority": "Buckinghamshire",
-  "numberOfBeds": 6,
-  "postalCode": "HP19 8AB"
- },
- {
-  "locationId": "1-9655829687",
-  "name": "4 Vallance Gardens",
-  "rating": "Good",
-  "ratingDate": "2019-12-21",
-  "region": "South East",
-  "localAuthority": "Brighton and Hove",
-  "numberOfBeds": 7,
-  "postalCode": "BN3 2DD"
- },
- {
-  "locationId": "1-23645782635",
-  "name": "4,5,7 The Sycamores",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 6,
-  "postalCode": "DE55 3BJ"
- },
- {
-  "locationId": "1-3496117728",
-  "name": "41 West Hill",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Nottinghamshire",
-  "numberOfBeds": 5,
-  "postalCode": "NG17 3EP"
- },
- {
-  "locationId": "1-1670982689",
-  "name": "42 Beeston Drive",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Cheshire West and Chester",
-  "numberOfBeds": 4,
-  "postalCode": "CW7 1ER"
- },
- {
-  "locationId": "1-22980550294",
-  "name": "42 Hamstead",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 4,
-  "postalCode": "B19 1DB"
- },
- {
-  "locationId": "1-9649168944",
-  "name": "42 Twyford Gardens",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 4,
-  "postalCode": "BN13 2NT"
- },
- {
-  "locationId": "1-129460386",
-  "name": "429 Warwick Road",
-  "rating": "Good",
-  "ratingDate": "2019-01-12",
-  "region": "West Midlands",
-  "localAuthority": "Solihull",
-  "numberOfBeds": 6,
-  "postalCode": "B91 1BD"
- },
- {
-  "locationId": "1-119126282",
-  "name": "42a Haddon",
-  "rating": "Good",
-  "ratingDate": "2019-05-15",
-  "region": "South East",
-  "localAuthority": "Milton Keynes",
-  "numberOfBeds": 40,
-  "postalCode": "MK8 9HP"
- },
- {
-  "locationId": "1-2931871759",
-  "name": "43 Florence Avenue",
-  "rating": "Good",
-  "ratingDate": "2022-03-02",
-  "region": "London",
-  "localAuthority": "Merton",
-  "numberOfBeds": 8,
-  "postalCode": "SM4 6EX"
- },
- {
-  "locationId": "1-4362111880",
-  "name": "43 Sedlescombe Road South",
-  "rating": "Outstanding",
-  "ratingDate": "2019-03-16",
-  "region": "South East",
-  "localAuthority": "East Sussex",
-  "numberOfBeds": 6,
-  "postalCode": "TN38 0TB"
- },
- {
-  "locationId": "1-129459126",
-  "name": "43 Station Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Windsor and Maidenhead",
-  "numberOfBeds": 6,
-  "postalCode": "TW19 5ND"
- },
- {
-  "locationId": "1-4658553003",
-  "name": "43a and 43b Morley Road",
-  "rating": "Good",
-  "ratingDate": "2021-09-03",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 6,
-  "postalCode": "CO5 0AA"
- },
- {
-  "locationId": "1-9654806673",
-  "name": "44 Albion Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Sutton",
-  "numberOfBeds": 7,
-  "postalCode": "SM2 5TF"
- },
- {
-  "locationId": "1-4699402635",
-  "name": "44 Glen Avenue",
-  "rating": "Good",
-  "ratingDate": "2021-05-08",
-  "region": "North West",
-  "localAuthority": "Bolton",
-  "numberOfBeds": 4,
-  "postalCode": "BL3 5QY"
- },
- {
-  "locationId": "1-5841806076",
-  "name": "44 Newbold Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 9,
-  "postalCode": "S41 7PL"
- },
- {
-  "locationId": "1-1778787604",
-  "name": "44 Stimpson Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-04-02",
-  "region": "East Midlands",
-  "localAuthority": "West Northamptonshire",
-  "numberOfBeds": 3,
-  "postalCode": "NN1 4LP"
- },
- {
-  "locationId": "1-129459141",
-  "name": "45 Hall Green Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2019-08-22",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 8,
-  "postalCode": "B71 3JS"
- },
- {
-  "locationId": "1-3605416813",
-  "name": "45 Watson Road",
-  "rating": "Good",
-  "ratingDate": "2024-01-12",
-  "region": "North West",
-  "localAuthority": "Blackpool",
-  "numberOfBeds": 6,
-  "postalCode": "FY4 2DB"
- },
- {
-  "locationId": "1-118415585",
-  "name": "46 Bath Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 6,
-  "postalCode": "BS30 9DG"
- },
- {
-  "locationId": "1-1345347918",
-  "name": "46 Derby Road",
-  "rating": "Good",
-  "ratingDate": "2018-11-14",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 3,
-  "postalCode": "DE14 1RP"
- },
- {
-  "locationId": "1-336055911",
-  "name": "46 The Grove",
-  "rating": "Good",
-  "ratingDate": "2022-07-29",
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 7,
-  "postalCode": "TW7 4JF"
- },
- {
-  "locationId": "1-28323916451",
-  "name": "463",
-  "rating": "Good",
-  "ratingDate": "2019-10-03",
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 7,
-  "postalCode": "M20 5NE"
- },
- {
-  "locationId": "1-129459191",
-  "name": "48 Heath Road",
-  "rating": "Good",
-  "ratingDate": "2024-01-04",
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 8,
-  "postalCode": "S42 5SW"
- },
- {
-  "locationId": "1-349839347",
-  "name": "48 The Grove",
-  "rating": "Good",
-  "ratingDate": "2022-10-15",
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 9,
-  "postalCode": "TW7 4JF"
- },
- {
-  "locationId": "1-12687573042",
-  "name": "481 Ipswich Road",
-  "rating": "Good",
-  "ratingDate": "2023-05-20",
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 5,
-  "postalCode": "CO4 0HQ"
- },
- {
-  "locationId": "1-15525372399",
-  "name": "49 Bath Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 10,
-  "postalCode": "TW3 3BN"
- },
- {
-  "locationId": "1-9655764002",
-  "name": "49 Oakdale Road",
-  "rating": "Good",
-  "ratingDate": "2022-02-26",
-  "region": "London",
-  "localAuthority": "Lambeth",
-  "numberOfBeds": 9,
-  "postalCode": "SW16 2HL"
- },
- {
-  "locationId": "1-9649169331",
-  "name": "5 Fengates Road",
-  "rating": "Good",
-  "ratingDate": "2022-06-30",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 5,
-  "postalCode": "RH1 6AH"
- },
- {
-  "locationId": "1-25565901304",
-  "name": "5 Horse Leaze",
-  "rating": "Outstanding",
-  "ratingDate": "2020-08-28",
-  "region": "London",
-  "localAuthority": "Newham",
-  "numberOfBeds": 6,
-  "postalCode": "E6 6WJ"
- },
- {
-  "locationId": "1-130582583",
-  "name": "5 Whitby Road Care Home",
-  "rating": "Good",
-  "ratingDate": "2019-08-21",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 37,
-  "postalCode": "YO18 7HD"
- },
- {
-  "locationId": "1-3568827835",
-  "name": "5 Winston Court",
-  "rating": "Good",
-  "ratingDate": "2018-12-05",
-  "region": "South East",
-  "localAuthority": "Windsor and Maidenhead",
-  "numberOfBeds": 8,
-  "postalCode": "SL6 5HU"
- },
- {
-  "locationId": "1-883698825",
-  "name": "5-6 Prior's Court Cottages: Bradbury House",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "West Berkshire",
-  "numberOfBeds": 8,
-  "postalCode": "RG18 9JT"
- },
- {
-  "locationId": "1-5103942742",
-  "name": "50 Arbour Street",
-  "rating": "Good",
-  "ratingDate": "2019-05-08",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 4,
-  "postalCode": "ST7 1QW"
- },
- {
-  "locationId": "1-4607245586",
-  "name": "50 Broadfields",
-  "rating": "Good",
-  "ratingDate": "2019-11-16",
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 2,
-  "postalCode": "SN9 5DU"
- },
- {
-  "locationId": "1-1345347948",
-  "name": "50 Burton Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2020-10-03",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 6,
-  "postalCode": "DE14 3DN"
- },
- {
-  "locationId": "1-13597480380",
-  "name": "50 Valentines Way",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Barking and Dagenham",
-  "numberOfBeds": 5,
-  "postalCode": "RM7 0YH"
- },
- {
-  "locationId": "1-118415486",
-  "name": "50 Vassall Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 6,
-  "postalCode": "BS16 2LW"
- },
- {
-  "locationId": "1-129460432",
-  "name": "514 Arnold Road",
-  "rating": "Good",
-  "ratingDate": "2019-12-14",
-  "region": "East Midlands",
-  "localAuthority": "Nottingham",
-  "numberOfBeds": 10,
-  "postalCode": "NG5 5HN"
- },
- {
-  "locationId": "1-13421360575",
-  "name": "52 Porthcawl Green",
-  "rating": "Good",
-  "ratingDate": "2023-09-27",
-  "region": "South East",
-  "localAuthority": "Milton Keynes",
-  "numberOfBeds": 3,
-  "postalCode": "MK4 3AL"
- },
- {
-  "locationId": "1-122285770",
-  "name": "53a Ipstones Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-01-10",
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 5,
-  "postalCode": "B33 9DZ"
- },
- {
-  "locationId": "1-9043094866",
-  "name": "54 Leylands Road",
-  "rating": "Good",
-  "ratingDate": "2021-11-13",
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 6,
-  "postalCode": "RH15 8AL"
- },
- {
-  "locationId": "1-489045330",
-  "name": "54a",
-  "rating": "Good",
-  "ratingDate": "2022-12-13",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Wakefield",
-  "numberOfBeds": 3,
-  "postalCode": "WF7 5HG"
- },
- {
-  "locationId": "1-230102683",
-  "name": "55 Sandwich Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 2,
-  "postalCode": "CT16 3LT"
- },
- {
-  "locationId": "1-25565901359",
-  "name": "56 High Street",
-  "rating": "Good",
-  "ratingDate": "2023-12-05",
-  "region": "London",
-  "localAuthority": "Bromley",
-  "numberOfBeds": 10,
-  "postalCode": "BR7 5AQ"
- },
- {
-  "locationId": "1-2649921639",
-  "name": "56 Stone Lane",
-  "rating": "Good",
-  "ratingDate": "2020-02-14",
-  "region": "South East",
-  "localAuthority": "West Sussex",
-  "numberOfBeds": 3,
-  "postalCode": "BN13 2BQ"
- },
- {
-  "locationId": "1-480975512",
-  "name": "579 Maidstone Road",
-  "rating": "Good",
-  "ratingDate": "2018-05-15",
-  "region": "South East",
-  "localAuthority": "Medway",
-  "numberOfBeds": 6,
-  "postalCode": "ME8 0LQ"
- },
- {
-  "locationId": "1-118415243",
-  "name": "58 Crantock Drive",
-  "rating": "Good",
-  "ratingDate": "2020-02-18",
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 8,
-  "postalCode": "BS32 4HG"
- },
- {
-  "locationId": "1-118415783",
-  "name": "6 Northumberland Road",
-  "rating": "Good",
-  "ratingDate": "2022-09-01",
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 5,
-  "postalCode": "BS6 7AU"
- },
- {
-  "locationId": "1-129460569",
-  "name": "60 Bullpond Lane",
-  "rating": "Good",
-  "ratingDate": "2019-05-29",
-  "region": "East",
-  "localAuthority": "Central Bedfordshire",
-  "numberOfBeds": 6,
-  "postalCode": "LU6 3BJ"
- },
- {
-  "locationId": "1-129459409",
-  "name": "60 Cobham Road",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-06-07",
-  "region": "South East",
-  "localAuthority": "Surrey",
-  "numberOfBeds": 6,
-  "postalCode": "KT22 9JS"
- },
- {
-  "locationId": "1-10752390452",
-  "name": "60 Olive Lane",
-  "rating": "Good",
-  "ratingDate": "2019-12-12",
-  "region": "West Midlands",
-  "localAuthority": "Dudley",
-  "numberOfBeds": 8,
-  "postalCode": "B62 8LZ"
- },
- {
-  "locationId": "1-9791332174",
-  "name": "61 Kings Road Harrogate",
-  "rating": null,
-  "ratingDate": null,
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 5,
-  "postalCode": "HG1 5HJ"
- },
- {
-  "locationId": "1-571393629",
-  "name": "61 Track Road",
-  "rating": "Good",
-  "ratingDate": "2019-04-11",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Kirklees",
-  "numberOfBeds": 4,
-  "postalCode": "WF17 7AB"
- },
- {
-  "locationId": "1-419854731",
-  "name": "63 Collier Road",
-  "rating": "Good",
-  "ratingDate": "2018-12-22",
-  "region": "South East",
-  "localAuthority": "East Sussex",
-  "numberOfBeds": 3,
-  "postalCode": "TN34 3JS"
- },
- {
-  "locationId": "1-118415543",
-  "name": "63 Coronation Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Bristol, City of",
-  "numberOfBeds": 6,
-  "postalCode": "BS3 1AR"
- },
- {
-  "locationId": "1-145847984",
-  "name": "63 Eton Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-01-12",
-  "region": "London",
-  "localAuthority": "Brent",
-  "numberOfBeds": 3,
-  "postalCode": "HA0 3AZ"
- },
- {
-  "locationId": "1-28332799546",
-  "name": "63 Gayton House",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Harrow",
-  "numberOfBeds": 6,
-  "postalCode": "HA1 2LU"
- },
- {
-  "locationId": "1-142966073",
-  "name": "64 Chilcompton Road",
-  "rating": "Good",
-  "ratingDate": "2018-06-30",
-  "region": "South West",
-  "localAuthority": "Bath and North East Somerset",
-  "numberOfBeds": 3,
-  "postalCode": "BA3 2PL"
- },
- {
-  "locationId": "1-129459221",
-  "name": "66 Dudley Street",
-  "rating": "Good",
-  "ratingDate": "2020-05-28",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 6,
-  "postalCode": "B70 9LU"
- },
- {
-  "locationId": "1-9791332311",
-  "name": "66 Hookstone Chase Harrogate",
-  "rating": null,
-  "ratingDate": null,
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 5,
-  "postalCode": "HG2 7HS"
- },
- {
-  "locationId": "1-376585101",
-  "name": "66 Park Lane",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 5,
-  "postalCode": "PO16 7LB"
- },
- {
-  "locationId": "1-221978368",
-  "name": "69 Chartridge Lane",
-  "rating": "Good",
-  "ratingDate": "2023-08-23",
-  "region": "South East",
-  "localAuthority": "Buckinghamshire",
-  "numberOfBeds": 6,
-  "postalCode": "HP5 2RG"
- },
- {
-  "locationId": "1-129453517",
-  "name": "694 Pinner Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Harrow",
-  "numberOfBeds": 8,
-  "postalCode": "HA5 5QY"
- },
- {
-  "locationId": "1-7780323136",
-  "name": "6a Sheerstone",
-  "rating": "Good",
-  "ratingDate": "2022-04-30",
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 1,
-  "postalCode": "ME9 8RN"
- },
- {
-  "locationId": "1-9655764470",
-  "name": "7 Birdhurst Rise",
-  "rating": "Good",
-  "ratingDate": "2022-06-30",
-  "region": "London",
-  "localAuthority": "Croydon",
-  "numberOfBeds": 9,
-  "postalCode": "CR2 7EG"
- },
- {
-  "locationId": "1-859236809",
-  "name": "7 Eworth Close",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South West",
-  "localAuthority": "Swindon",
-  "numberOfBeds": 6,
-  "postalCode": "SN5 6JG"
- },
- {
-  "locationId": "1-5165112105",
-  "name": "7 Fairmile Drive",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 3,
-  "postalCode": "M20 5WS"
- },
- {
-  "locationId": "1-25565901332",
-  "name": "7 Horse Leaze",
-  "rating": "Good",
-  "ratingDate": "2023-05-31",
-  "region": "London",
-  "localAuthority": "Newham",
-  "numberOfBeds": 6,
-  "postalCode": "E6 6WJ"
- },
- {
-  "locationId": "1-4437212597",
-  "name": "7 Pizey Avenue",
-  "rating": "Good",
-  "ratingDate": "2018-11-08",
-  "region": "South West",
-  "localAuthority": "North Somerset",
-  "numberOfBeds": 4,
-  "postalCode": "BS21 7TS"
- },
- {
-  "locationId": "1-28705125458",
-  "name": "7 Victory Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 2,
-  "postalCode": "M14 5AE"
- },
- {
-  "locationId": "1-224789968",
-  "name": "7-9 Downing Close",
-  "rating": "Good",
-  "ratingDate": "2019-12-17",
-  "region": "West Midlands",
-  "localAuthority": "Solihull",
-  "numberOfBeds": 10,
-  "postalCode": "B93 0QA"
- },
- {
-  "locationId": "1-115972792",
-  "name": "70-72 Worting Road",
-  "rating": "Good",
-  "ratingDate": "2018-06-13",
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 8,
-  "postalCode": "RG21 8TP"
- },
- {
-  "locationId": "1-1345347878",
-  "name": "703 Burton Road",
-  "rating": "Good",
-  "ratingDate": "2020-01-22",
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
-  "numberOfBeds": 5,
-  "postalCode": "DE11 0DL"
- },
- {
-  "locationId": "1-129459930",
-  "name": "74 Old Ford End",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Bedford",
-  "numberOfBeds": 6,
-  "postalCode": "MK40 4LY"
- },
- {
-  "locationId": "1-419854790",
-  "name": "76 Canute Road",
-  "rating": "Good",
-  "ratingDate": "2019-01-18",
-  "region": "South East",
-  "localAuthority": "East Sussex",
-  "numberOfBeds": 6,
-  "postalCode": "TN35 5HT"
- },
- {
-  "locationId": "1-118415328",
-  "name": "77 Gloucester Road North",
-  "rating": "Good",
-  "ratingDate": "2023-04-15",
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 7,
-  "postalCode": "BS34 7PL"
- },
- {
-  "locationId": "1-5623929627",
-  "name": "78 Hoylake Crescent",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Hillingdon",
-  "numberOfBeds": 4,
-  "postalCode": "UB10 8JF"
- },
- {
-  "locationId": "1-306308347",
-  "name": "78 Polwell Lane",
-  "rating": "Good",
-  "ratingDate": "2018-03-17",
-  "region": "East Midlands",
-  "localAuthority": "North Northamptonshire",
-  "numberOfBeds": 5,
-  "postalCode": "NN15 6UB"
- },
- {
-  "locationId": "1-9656379578",
-  "name": "78 Stubbington Lane",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 6,
-  "postalCode": "PO14 2PE"
- },
- {
-  "locationId": "1-1627453128",
-  "name": "79 Malmesbury Road",
-  "rating": "Outstanding",
-  "ratingDate": "2018-06-15",
-  "region": "South West",
-  "localAuthority": "Wiltshire",
-  "numberOfBeds": 5,
-  "postalCode": "SN15 1PX"
- },
- {
-  "locationId": "1-408272533",
-  "name": "8 Acres",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Norfolk",
-  "numberOfBeds": 18,
-  "postalCode": "NR17 1AW"
- },
- {
-  "locationId": "1-19614282617",
-  "name": "8 Hainsworth Park",
-  "rating": null,
-  "ratingDate": null,
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "Kingston upon Hull, City of",
-  "numberOfBeds": 2,
-  "postalCode": "HU6 8QQ"
- },
- {
-  "locationId": "1-9791332243",
-  "name": "8 Spring Mount Harrogate",
-  "rating": "Good",
-  "ratingDate": "2022-06-30",
-  "region": "Yorkshire & Humberside",
-  "localAuthority": "North Yorkshire",
-  "numberOfBeds": 6,
-  "postalCode": "HG1 2HX"
- },
- {
-  "locationId": "1-12046894748",
-  "name": "8 Wellington Avenue",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Enfield",
-  "numberOfBeds": 2,
-  "postalCode": "N9 0RP"
- },
- {
-  "locationId": "1-118415415",
-  "name": "80-82 London Road",
-  "rating": "Good",
-  "ratingDate": "2018-04-18",
-  "region": "South West",
-  "localAuthority": "South Gloucestershire",
-  "numberOfBeds": 7,
-  "postalCode": "BS30 5JL"
- },
- {
-  "locationId": "1-390922730",
-  "name": "82 Bear Road",
-  "rating": "Good",
-  "ratingDate": "2023-09-23",
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 5,
-  "postalCode": "TW13 6RG"
- },
- {
-  "locationId": "1-25832514815",
-  "name": "83 Glengall Road",
-  "rating": "Good",
-  "ratingDate": "2020-04-10",
-  "region": "London",
-  "localAuthority": "Redbridge",
-  "numberOfBeds": 7,
-  "postalCode": "IG8 0DP"
- },
- {
-  "locationId": "1-336286137",
-  "name": "89 Hampton Road East",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 7,
-  "postalCode": "TW13 6JB"
- },
- {
-  "locationId": "1-337515524",
-  "name": "89a Hampton Road East",
-  "rating": "Good",
-  "ratingDate": "2022-10-22",
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 7,
-  "postalCode": "TW13 6JB"
- },
- {
-  "locationId": "1-3568827921",
-  "name": "9 Allenby Road",
-  "rating": "Good",
-  "ratingDate": "2020-04-03",
-  "region": "South East",
-  "localAuthority": "Windsor and Maidenhead",
-  "numberOfBeds": 4,
-  "postalCode": "SL6 5BF"
- },
- {
-  "locationId": "1-26099651800",
-  "name": "9 Victory Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 2,
-  "postalCode": "M14 5AE"
- },
- {
-  "locationId": "1-28323916488",
-  "name": "92 Barcicroft Road",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Stockport",
-  "numberOfBeds": 6,
-  "postalCode": "SK4 3PJ"
- },
- {
-  "locationId": "1-5267235380",
-  "name": "92 Carlton Road",
-  "rating": "Good",
-  "ratingDate": "2022-06-02",
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 6,
-  "postalCode": "M16 8BE"
- },
- {
-  "locationId": "1-119188842",
-  "name": "92 North Street",
-  "rating": "Good",
-  "ratingDate": "2019-04-17",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 12,
-  "postalCode": "WS11 0AZ"
- },
- {
-  "locationId": "1-2945932202",
-  "name": "95 Ashley Avenue",
-  "rating": "Good",
-  "ratingDate": "2019-09-06",
-  "region": "South East",
-  "localAuthority": "Kent",
-  "numberOfBeds": 5,
-  "postalCode": "CT19 4PJ"
- },
- {
-  "locationId": "1-304923242",
-  "name": "95 Bromyard Road",
-  "rating": "Good",
-  "ratingDate": "2019-12-17",
-  "region": "West Midlands",
-  "localAuthority": "Worcestershire",
-  "numberOfBeds": 6,
-  "postalCode": "WR2 5BZ"
- },
- {
-  "locationId": "1-9656379653",
-  "name": "95 Parchmore Road",
-  "rating": "Good",
-  "ratingDate": "2022-06-24",
-  "region": "London",
-  "localAuthority": "Croydon",
-  "numberOfBeds": 5,
-  "postalCode": "CR7 8LY"
- },
- {
-  "locationId": "1-9656379761",
-  "name": "97 Old Street",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Hampshire",
-  "numberOfBeds": 5,
-  "postalCode": "PO14 3HG"
- },
- {
   "locationId": "1-112284359",
   "name": "A M Care Home Limited",
   "rating": null,
@@ -150608,5 +147798,2815 @@
   "localAuthority": "Barnet",
   "numberOfBeds": 5,
   "postalCode": "NW9 6PD"
+ },
+ {
+  "locationId": "1-143332621",
+  "name": "1 & 2 Hedgerows",
+  "rating": "Good",
+  "ratingDate": "2019-12-04",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 4,
+  "postalCode": "TN12 0QQ"
+ },
+ {
+  "locationId": "1-9649169095",
+  "name": "1 Charmandean Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-06-24",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 8,
+  "postalCode": "BN14 9LB"
+ },
+ {
+  "locationId": "1-28136769530",
+  "name": "1 Devonshire Avenue",
+  "rating": "Good",
+  "ratingDate": "2023-05-26",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 20,
+  "postalCode": "NG9 1BS"
+ },
+ {
+  "locationId": "1-9649169129",
+  "name": "1 Fengates Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 6,
+  "postalCode": "RH1 6AH"
+ },
+ {
+  "locationId": "1-22345968773",
+  "name": "1 High Street",
+  "rating": "Good",
+  "ratingDate": "2019-07-30",
+  "region": "East",
+  "localAuthority": "Cambridgeshire",
+  "numberOfBeds": 5,
+  "postalCode": "CB24 6AJ"
+ },
+ {
+  "locationId": "1-211316158",
+  "name": "1 Hill Close",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-12-15",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 3,
+  "postalCode": "WF8 2SF"
+ },
+ {
+  "locationId": "1-129453905",
+  "name": "1 Longmore Road",
+  "rating": "Good",
+  "ratingDate": "2017-10-14",
+  "region": "South East",
+  "localAuthority": "Wokingham",
+  "numberOfBeds": 7,
+  "postalCode": "RG2 8QG"
+ },
+ {
+  "locationId": "1-25831519736",
+  "name": "1 Parkstone Avenue",
+  "rating": "Good",
+  "ratingDate": "2018-08-25",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 8,
+  "postalCode": "SS7 1SP"
+ },
+ {
+  "locationId": "1-147971500",
+  "name": "1 Sewardstone Close",
+  "rating": "Good",
+  "ratingDate": "2020-04-07",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 29,
+  "postalCode": "E4 7RG"
+ },
+ {
+  "locationId": "1-1435221697",
+  "name": "1 Sheringham Avenue",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Enfield",
+  "numberOfBeds": 5,
+  "postalCode": "N14 4UB"
+ },
+ {
+  "locationId": "1-1070281691",
+  "name": "1 Stratton Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 3,
+  "postalCode": "SN9 5DY"
+ },
+ {
+  "locationId": "1-9790438501",
+  "name": "1 The Avenue Knaresborough",
+  "rating": "Good",
+  "ratingDate": "2022-06-22",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 5,
+  "postalCode": "HG5 0NL"
+ },
+ {
+  "locationId": "1-18175710344",
+  "name": "1 Windmill Barns",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Warwickshire",
+  "numberOfBeds": 4,
+  "postalCode": "B49 6GE"
+ },
+ {
+  "locationId": "1-18146816866",
+  "name": "1, 2 and 3 St Georges Gardens",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Wirral",
+  "numberOfBeds": 3,
+  "postalCode": "CH42 6SJ"
+ },
+ {
+  "locationId": "1-129460599",
+  "name": "1-2 Canterbury Close",
+  "rating": "Good",
+  "ratingDate": "2019-11-01",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Rotherham",
+  "numberOfBeds": 10,
+  "postalCode": "S65 2LW"
+ },
+ {
+  "locationId": "1-293119881",
+  "name": "1-2 Prior's Court Cottages",
+  "rating": "Good",
+  "ratingDate": "2023-08-16",
+  "region": "South East",
+  "localAuthority": "West Berkshire",
+  "numberOfBeds": 6,
+  "postalCode": "RG18 9JT"
+ },
+ {
+  "locationId": "1-130902143",
+  "name": "10 High Street",
+  "rating": "Good",
+  "ratingDate": "2021-05-20",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 8,
+  "postalCode": "BA14 6JR"
+ },
+ {
+  "locationId": "1-466088203",
+  "name": "10 Spennithorne Road",
+  "rating": "Good",
+  "ratingDate": "2023-06-01",
+  "region": "North West",
+  "localAuthority": "Trafford",
+  "numberOfBeds": 4,
+  "postalCode": "M41 5BU"
+ },
+ {
+  "locationId": "1-11051756072",
+  "name": "10-12 Hainsworth Park",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-12-22",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 4,
+  "postalCode": "HU6 8QQ"
+ },
+ {
+  "locationId": "1-25565900834",
+  "name": "101 Brook Street",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-11-03",
+  "region": "London",
+  "localAuthority": "Bexley",
+  "numberOfBeds": 6,
+  "postalCode": "DA8 1JJ"
+ },
+ {
+  "locationId": "1-9654205805",
+  "name": "101 Cheam Road",
+  "rating": "Good",
+  "ratingDate": "2022-06-16",
+  "region": "London",
+  "localAuthority": "Sutton",
+  "numberOfBeds": 7,
+  "postalCode": "SM1 2BE"
+ },
+ {
+  "locationId": "1-159367994",
+  "name": "101 Royal Hill",
+  "rating": "Good",
+  "ratingDate": "2018-03-08",
+  "region": "London",
+  "localAuthority": "Greenwich",
+  "numberOfBeds": 7,
+  "postalCode": "SE10 8SS"
+ },
+ {
+  "locationId": "1-13597480351",
+  "name": "102 Faircross Avenue",
+  "rating": "Good",
+  "ratingDate": "2024-02-10",
+  "region": "London",
+  "localAuthority": "Barking and Dagenham",
+  "numberOfBeds": 3,
+  "postalCode": "IG11 8QZ"
+ },
+ {
+  "locationId": "1-108827793",
+  "name": "104 Tennyson Road",
+  "rating": "Good",
+  "ratingDate": "2018-02-07",
+  "region": "East",
+  "localAuthority": "Luton",
+  "numberOfBeds": 8,
+  "postalCode": "LU1 3RP"
+ },
+ {
+  "locationId": "1-1437671372",
+  "name": "109 Grange Road",
+  "rating": "Good",
+  "ratingDate": "2018-02-22",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 5,
+  "postalCode": "B24 0ES"
+ },
+ {
+  "locationId": "1-28705125489",
+  "name": "11 Victory Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 2,
+  "postalCode": "M14 5AE"
+ },
+ {
+  "locationId": "1-130525405",
+  "name": "110 West Street Care Home",
+  "rating": "Good",
+  "ratingDate": "2020-04-10",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 13,
+  "postalCode": "PO9 1LN"
+ },
+ {
+  "locationId": "1-25565901147",
+  "name": "118 Widmore Road",
+  "rating": "Good",
+  "ratingDate": "2023-06-13",
+  "region": "London",
+  "localAuthority": "Bromley",
+  "numberOfBeds": 10,
+  "postalCode": "BR1 3BE"
+ },
+ {
+  "locationId": "1-1435221672",
+  "name": "12 Channel Lea",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 3,
+  "postalCode": "CT14 7UG"
+ },
+ {
+  "locationId": "1-9790438546",
+  "name": "12 Church Avenue Harrogate",
+  "rating": "Good",
+  "ratingDate": "2022-08-05",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 6,
+  "postalCode": "HG1 4HE"
+ },
+ {
+  "locationId": "1-7928051892",
+  "name": "12 Collett Close",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-05-06",
+  "region": "West Midlands",
+  "localAuthority": "Dudley",
+  "numberOfBeds": 4,
+  "postalCode": "DY8 4HS"
+ },
+ {
+  "locationId": "1-118415313",
+  "name": "120 Furber Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 5,
+  "postalCode": "BS5 8PT"
+ },
+ {
+  "locationId": "1-5868491850",
+  "name": "121 Hassall Road",
+  "rating": "Good",
+  "ratingDate": "2019-10-23",
+  "region": "North West",
+  "localAuthority": "Cheshire East",
+  "numberOfBeds": 4,
+  "postalCode": "ST7 2SL"
+ },
+ {
+  "locationId": "1-118415514",
+  "name": "121 Watleys End Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 14,
+  "postalCode": "BS36 1QG"
+ },
+ {
+  "locationId": "1-13421360339",
+  "name": "128 Beech Hill",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 4,
+  "postalCode": "RH16 3TT"
+ },
+ {
+  "locationId": "1-19894828821",
+  "name": "12A Masefield Avenue",
+  "rating": "Good",
+  "ratingDate": "2020-01-25",
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 6,
+  "postalCode": "SN2 7HT"
+ },
+ {
+  "locationId": "1-27339462454",
+  "name": "13 Durham Ave",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 3,
+  "postalCode": "FY8 2BD"
+ },
+ {
+  "locationId": "1-1627453213",
+  "name": "13 Greenway Park",
+  "rating": "Outstanding",
+  "ratingDate": "2018-06-30",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 8,
+  "postalCode": "SN15 1QG"
+ },
+ {
+  "locationId": "1-120030758",
+  "name": "13 Manor Crescent",
+  "rating": "Good",
+  "ratingDate": "2022-12-14",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 4,
+  "postalCode": "KT14 7EN"
+ },
+ {
+  "locationId": "1-129453786",
+  "name": "130 Whitworth Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 4,
+  "postalCode": "SN25 3BJ"
+ },
+ {
+  "locationId": "1-2008342437",
+  "name": "134 Ashland Road",
+  "rating": "Good",
+  "ratingDate": "2020-04-22",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 10,
+  "postalCode": "NG17 2HS"
+ },
+ {
+  "locationId": "1-745672353",
+  "name": "135 Norman Road",
+  "rating": "Good",
+  "ratingDate": "2023-08-03",
+  "region": "London",
+  "localAuthority": "Waltham Forest",
+  "numberOfBeds": 3,
+  "postalCode": "E11 4RJ"
+ },
+ {
+  "locationId": "1-153833765",
+  "name": "135 Tennyson Road",
+  "rating": "Good",
+  "ratingDate": "2020-02-14",
+  "region": "East",
+  "localAuthority": "Luton",
+  "numberOfBeds": 4,
+  "postalCode": "LU1 3RP"
+ },
+ {
+  "locationId": "1-25832514995",
+  "name": "138 All Saints Road",
+  "rating": "Good",
+  "ratingDate": "2022-04-29",
+  "region": "London",
+  "localAuthority": "Merton",
+  "numberOfBeds": 6,
+  "postalCode": "SW19 1BZ"
+ },
+ {
+  "locationId": "1-25831989253",
+  "name": "138-138a Mason Way",
+  "rating": "Good",
+  "ratingDate": "2018-08-17",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 8,
+  "postalCode": "EN9 3EJ"
+ },
+ {
+  "locationId": "1-834126248",
+  "name": "13a Repton Drive",
+  "rating": "Good",
+  "ratingDate": "2017-10-25",
+  "region": "London",
+  "localAuthority": "Havering",
+  "numberOfBeds": 6,
+  "postalCode": "RM2 5LP"
+ },
+ {
+  "locationId": "1-17192496522",
+  "name": "14 Lightwood",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Salford",
+  "numberOfBeds": 3,
+  "postalCode": "M28 1ZL"
+ },
+ {
+  "locationId": "1-1079077889",
+  "name": "14 Thornhill",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Sunderland",
+  "numberOfBeds": 6,
+  "postalCode": "SR2 7LA"
+ },
+ {
+  "locationId": "1-7203357661",
+  "name": "14 Thornholme Close",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 2,
+  "postalCode": "M18 7RL"
+ },
+ {
+  "locationId": "1-2008549284",
+  "name": "14-17 Palmwood Court",
+  "rating": "Good",
+  "ratingDate": "2019-01-23",
+  "region": "East Midlands",
+  "localAuthority": "Nottingham",
+  "numberOfBeds": 12,
+  "postalCode": "NG6 9BZ"
+ },
+ {
+  "locationId": "1-15199059719",
+  "name": "146 Lower Robin Hood Lane",
+  "rating": "Good",
+  "ratingDate": "2019-06-26",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 5,
+  "postalCode": "ME5 9LB"
+ },
+ {
+  "locationId": "1-12455699665",
+  "name": "148 Hornsey Lane",
+  "rating": "Good",
+  "ratingDate": "2023-03-07",
+  "region": "London",
+  "localAuthority": "Islington",
+  "numberOfBeds": 12,
+  "postalCode": "N6 5NS"
+ },
+ {
+  "locationId": "1-120030741",
+  "name": "15 Manor Crescent",
+  "rating": "Good",
+  "ratingDate": "2021-11-09",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 4,
+  "postalCode": "KT14 7EN"
+ },
+ {
+  "locationId": "1-26738178363",
+  "name": "15 Preston Drove",
+  "rating": "Good",
+  "ratingDate": "2019-02-22",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 4,
+  "postalCode": "BN1 6LA"
+ },
+ {
+  "locationId": "1-21724494340",
+  "name": "15 Seabrook",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 3,
+  "postalCode": "CT21 5NB"
+ },
+ {
+  "locationId": "1-23638804920",
+  "name": "15 The Sycamores",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 3,
+  "postalCode": "DE55 3BJ"
+ },
+ {
+  "locationId": "1-15084140959",
+  "name": "156 Tyndale Crescent",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Walsall",
+  "numberOfBeds": 2,
+  "postalCode": "B43 7HU"
+ },
+ {
+  "locationId": "1-113446002",
+  "name": "159 Wensley Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-05-20",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 4,
+  "postalCode": "RG1 6DU"
+ },
+ {
+  "locationId": "1-129459830",
+  "name": "16 Balnacraig Avenue (The Leaves)",
+  "rating": "Good",
+  "ratingDate": "2019-10-03",
+  "region": "London",
+  "localAuthority": "Brent",
+  "numberOfBeds": 7,
+  "postalCode": "NW10 1TH"
+ },
+ {
+  "locationId": "1-132341179",
+  "name": "16 Crompton Street",
+  "rating": "Good",
+  "ratingDate": "2019-03-29",
+  "region": "North West",
+  "localAuthority": "Liverpool",
+  "numberOfBeds": 7,
+  "postalCode": "L5 2QS"
+ },
+ {
+  "locationId": "1-3568827629",
+  "name": "16 Homeside Close",
+  "rating": "Good",
+  "ratingDate": "2019-12-04",
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 8,
+  "postalCode": "SL6 7RB"
+ },
+ {
+  "locationId": "1-8678645799",
+  "name": "16 Kenilworth Gardens",
+  "rating": "Good",
+  "ratingDate": "2021-10-07",
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 5,
+  "postalCode": "IG3 8DU"
+ },
+ {
+  "locationId": "1-19829927718",
+  "name": "16 King Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Bury",
+  "numberOfBeds": 3,
+  "postalCode": "M26 1ND"
+ },
+ {
+  "locationId": "1-9790438583",
+  "name": "16 Spring Mount Harrogate",
+  "rating": "Good",
+  "ratingDate": "2022-07-21",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 6,
+  "postalCode": "HG1 2HX"
+ },
+ {
+  "locationId": "1-9197571899",
+  "name": "165 Point Clear Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-12-09",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 5,
+  "postalCode": "CO16 8JB"
+ },
+ {
+  "locationId": "1-159367909",
+  "name": "167 Lodge Hill",
+  "rating": "Good",
+  "ratingDate": "2019-10-16",
+  "region": "London",
+  "localAuthority": "Greenwich",
+  "numberOfBeds": 6,
+  "postalCode": "SE2 0AS"
+ },
+ {
+  "locationId": "1-129460371",
+  "name": "17 Walsworth Road",
+  "rating": "Good",
+  "ratingDate": "2019-12-20",
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "numberOfBeds": 6,
+  "postalCode": "SG4 9SP"
+ },
+ {
+  "locationId": "1-8134632574",
+  "name": "17 York Avenue",
+  "rating": "Requires improvement",
+  "ratingDate": "2022-06-30",
+  "region": "North West",
+  "localAuthority": "Bury",
+  "numberOfBeds": 4,
+  "postalCode": "M25 0FZ"
+ },
+ {
+  "locationId": "1-9642537968",
+  "name": "179 Green Lane",
+  "rating": "Good",
+  "ratingDate": "2022-04-05",
+  "region": "London",
+  "localAuthority": "Merton",
+  "numberOfBeds": 5,
+  "postalCode": "SM4 6SG"
+ },
+ {
+  "locationId": "1-9188107801",
+  "name": "18 Acorn Avenue",
+  "rating": "Good",
+  "ratingDate": "2023-07-01",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 3,
+  "postalCode": "CO9 1LQ"
+ },
+ {
+  "locationId": "1-14285660967",
+  "name": "18 Argyle Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Harrow",
+  "numberOfBeds": 4,
+  "postalCode": "HA2 7AJ"
+ },
+ {
+  "locationId": "1-121963720",
+  "name": "18 Wolverton Gardens, Horley (Active Prospects)",
+  "rating": "Good",
+  "ratingDate": "2020-02-11",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 5,
+  "postalCode": "RH6 7LX"
+ },
+ {
+  "locationId": "1-1345347928",
+  "name": "182 Ashby Road",
+  "rating": "Good",
+  "ratingDate": "2018-01-10",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 5,
+  "postalCode": "DE15 0LB"
+ },
+ {
+  "locationId": "1-20628984411",
+  "name": "182 Hangleton Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 4,
+  "postalCode": "BN3 7LT"
+ },
+ {
+  "locationId": "1-1345347908",
+  "name": "183 Ashby Road",
+  "rating": "Good",
+  "ratingDate": "2019-11-06",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 5,
+  "postalCode": "DE15 0LB"
+ },
+ {
+  "locationId": "1-2228022617",
+  "name": "185 Watling St Road",
+  "rating": "Good",
+  "ratingDate": "2019-02-19",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 9,
+  "postalCode": "PR2 8AE"
+ },
+ {
+  "locationId": "1-164474176",
+  "name": "188 Whitley Wood Lane Respite Care",
+  "rating": "Good",
+  "ratingDate": "2017-12-08",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 6,
+  "postalCode": "RG2 8PR"
+ },
+ {
+  "locationId": "1-6301808037",
+  "name": "19 Barkla Close",
+  "rating": "Good",
+  "ratingDate": "2022-09-30",
+  "region": "East Midlands",
+  "localAuthority": "Nottingham",
+  "numberOfBeds": 3,
+  "postalCode": "NG11 8QH"
+ },
+ {
+  "locationId": "1-1535127571",
+  "name": "19 Forest Road",
+  "rating": "Good",
+  "ratingDate": "2018-06-01",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 6,
+  "postalCode": "GU35 0BJ"
+ },
+ {
+  "locationId": "1-26727410315",
+  "name": "19 Leicester Villas",
+  "rating": "Good",
+  "ratingDate": "2018-12-20",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 5,
+  "postalCode": "BN3 5SP"
+ },
+ {
+  "locationId": "1-7151265389",
+  "name": "19 Lower Dolcliffe Road",
+  "rating": "Good",
+  "ratingDate": "2021-08-04",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Doncaster",
+  "numberOfBeds": 1,
+  "postalCode": "S64 9PA"
+ },
+ {
+  "locationId": "1-16601045992",
+  "name": "19 Sheerstone",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 1,
+  "postalCode": "ME9 8RN"
+ },
+ {
+  "locationId": "1-115817734",
+  "name": "19 Stone Lane",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 6,
+  "postalCode": "BN13 2BA"
+ },
+ {
+  "locationId": "1-1700843168",
+  "name": "195 Ashby Road",
+  "rating": "Outstanding",
+  "ratingDate": "2021-09-18",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 10,
+  "postalCode": "DE15 0LB"
+ },
+ {
+  "locationId": "1-122285802",
+  "name": "1a West Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-01-15",
+  "region": "West Midlands",
+  "localAuthority": "Solihull",
+  "numberOfBeds": 3,
+  "postalCode": "B36 0EB"
+ },
+ {
+  "locationId": "1-9791332087",
+  "name": "2 East Park Road Harrogate",
+  "rating": "Good",
+  "ratingDate": "2023-07-19",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 6,
+  "postalCode": "HG1 5QT"
+ },
+ {
+  "locationId": "1-211335903",
+  "name": "2 Hill Close",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-12-05",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 3,
+  "postalCode": "WF8 2SF"
+ },
+ {
+  "locationId": "1-3849038545",
+  "name": "2 Millbrook Way",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 6,
+  "postalCode": "PR1 0XW"
+ },
+ {
+  "locationId": "1-298221410",
+  "name": "2 Windsor Avenue",
+  "rating": "Good",
+  "ratingDate": "2018-05-15",
+  "region": "East Midlands",
+  "localAuthority": "North Northamptonshire",
+  "numberOfBeds": 5,
+  "postalCode": "NN14 2SS"
+ },
+ {
+  "locationId": "1-25831519762",
+  "name": "2-3 Orchard Close",
+  "rating": "Good",
+  "ratingDate": "2018-08-21",
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 14,
+  "postalCode": "E11 2DE"
+ },
+ {
+  "locationId": "1-2008549135",
+  "name": "2-8 Orchard Street",
+  "rating": "Good",
+  "ratingDate": "2019-06-08",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 12,
+  "postalCode": "NG15 7JZ"
+ },
+ {
+  "locationId": "1-129453998",
+  "name": "20 Towngate East",
+  "rating": "Good",
+  "ratingDate": "2019-10-10",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 8,
+  "postalCode": "PE6 8DR"
+ },
+ {
+  "locationId": "1-26738178590",
+  "name": "20 Windlesham Road",
+  "rating": "Good",
+  "ratingDate": "2018-11-09",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 5,
+  "postalCode": "BN1 3AG"
+ },
+ {
+  "locationId": "1-156878260",
+  "name": "202 Weston Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Stoke-on-Trent",
+  "numberOfBeds": 4,
+  "postalCode": "ST3 6EE"
+ },
+ {
+  "locationId": "1-9477086449",
+  "name": "207 Goodmayes Lane",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-03-08",
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 6,
+  "postalCode": "IG3 9PW"
+ },
+ {
+  "locationId": "1-147440764",
+  "name": "21 Lucerne Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Croydon",
+  "numberOfBeds": 4,
+  "postalCode": "CR7 7BB"
+ },
+ {
+  "locationId": "1-10900067723",
+  "name": "21 Mill Lane",
+  "rating": "Good",
+  "ratingDate": "2022-12-14",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 4,
+  "postalCode": "CO16 9BB"
+ },
+ {
+  "locationId": "1-19554552686",
+  "name": "21 North View",
+  "rating": "Good",
+  "ratingDate": "2022-11-03",
+  "region": "North East",
+  "localAuthority": "South Tyneside",
+  "numberOfBeds": 6,
+  "postalCode": "NE32 5JQ"
+ },
+ {
+  "locationId": "1-11741876315",
+  "name": "21 Trittiford Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 5,
+  "postalCode": "B13 0ES"
+ },
+ {
+  "locationId": "1-891219962",
+  "name": "215 Hughenden Road",
+  "rating": "Good",
+  "ratingDate": "2018-09-28",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 6,
+  "postalCode": "HP13 5PG"
+ },
+ {
+  "locationId": "1-156878223",
+  "name": "216 Lightwood Road",
+  "rating": "Good",
+  "ratingDate": "2019-01-10",
+  "region": "West Midlands",
+  "localAuthority": "Stoke-on-Trent",
+  "numberOfBeds": 7,
+  "postalCode": "ST3 4JZ"
+ },
+ {
+  "locationId": "1-118415755",
+  "name": "218 Kingsway",
+  "rating": "Good",
+  "ratingDate": "2020-02-28",
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 5,
+  "postalCode": "BS5 8NS"
+ },
+ {
+  "locationId": "1-9642537997",
+  "name": "21a Victoria Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 5,
+  "postalCode": "CO15 6BH"
+ },
+ {
+  "locationId": "1-14159371063",
+  "name": "22 Argyll Street",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-05-13",
+  "region": "South East",
+  "localAuthority": "Isle of Wight",
+  "numberOfBeds": 9,
+  "postalCode": "PO33 3BZ"
+ },
+ {
+  "locationId": "1-313657728",
+  "name": "22 De Parys Avenue",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Bedford",
+  "numberOfBeds": 8,
+  "postalCode": "MK40 2TW"
+ },
+ {
+  "locationId": "1-417607253",
+  "name": "22 Levick Court",
+  "rating": "Good",
+  "ratingDate": "2023-05-17",
+  "region": "North East",
+  "localAuthority": "Middlesbrough",
+  "numberOfBeds": 16,
+  "postalCode": "TS5 5JR"
+ },
+ {
+  "locationId": "1-13421360366",
+  "name": "22 Woodlands Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-11-18",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 3,
+  "postalCode": "RG4 9TE"
+ },
+ {
+  "locationId": "1-224771368",
+  "name": "222 Bills Lane",
+  "rating": "Good",
+  "ratingDate": "2018-12-25",
+  "region": "West Midlands",
+  "localAuthority": "Solihull",
+  "numberOfBeds": 4,
+  "postalCode": "B90 2PP"
+ },
+ {
+  "locationId": "1-135300616",
+  "name": "229 Mitcham Lane Limited - 11 Angles Road",
+  "rating": "Good",
+  "ratingDate": "2022-08-24",
+  "region": "London",
+  "localAuthority": "Lambeth",
+  "numberOfBeds": 6,
+  "postalCode": "SW16 2UU"
+ },
+ {
+  "locationId": "1-129454029",
+  "name": "23 Cecil Road",
+  "rating": "Good",
+  "ratingDate": "2018-04-19",
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 6,
+  "postalCode": "S18 2GW"
+ },
+ {
+  "locationId": "1-129459266",
+  "name": "23 Church Street",
+  "rating": "Good",
+  "ratingDate": "2019-03-14",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 10,
+  "postalCode": "NG20 0AU"
+ },
+ {
+  "locationId": "1-2827267050",
+  "name": "23 Oak Avenue",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 3,
+  "postalCode": "ME12 3QT"
+ },
+ {
+  "locationId": "1-392043786",
+  "name": "23 Trittiford Road",
+  "rating": "Good",
+  "ratingDate": "2020-03-11",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 6,
+  "postalCode": "B13 0ES"
+ },
+ {
+  "locationId": "1-9642538052",
+  "name": "23 Valley Road",
+  "rating": "Good",
+  "ratingDate": "2022-02-23",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 5,
+  "postalCode": "SO40 9FP"
+ },
+ {
+  "locationId": "1-20243844362",
+  "name": "23/23a The Avenue",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "West Northamptonshire",
+  "numberOfBeds": 5,
+  "postalCode": "NN1 5BT"
+ },
+ {
+  "locationId": "1-9642538081",
+  "name": "231 Brook Lane",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 10,
+  "postalCode": "SO31 7DS"
+ },
+ {
+  "locationId": "1-129454044",
+  "name": "235 Rugeley Road",
+  "rating": "Good",
+  "ratingDate": "2023-04-19",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 7,
+  "postalCode": "WS7 1NS"
+ },
+ {
+  "locationId": "1-7693261973",
+  "name": "24 Fortune Gate",
+  "rating": "Good",
+  "ratingDate": "2022-07-01",
+  "region": "London",
+  "localAuthority": "Brent",
+  "numberOfBeds": 3,
+  "postalCode": "NW10 9RE"
+ },
+ {
+  "locationId": "1-13174704781",
+  "name": "24 Hainsworth Park",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 1,
+  "postalCode": "HU6 8QQ"
+ },
+ {
+  "locationId": "1-3757206335",
+  "name": "24 Seabrook Road",
+  "rating": "Good",
+  "ratingDate": "2018-08-10",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 4,
+  "postalCode": "CT21 5NA"
+ },
+ {
+  "locationId": "1-1434777508",
+  "name": "24 St Marks Road",
+  "rating": "Good",
+  "ratingDate": "2018-05-15",
+  "region": "East Midlands",
+  "localAuthority": "Derby",
+  "numberOfBeds": 8,
+  "postalCode": "DE21 6AH"
+ },
+ {
+  "locationId": "1-19894734675",
+  "name": "24 Windermere",
+  "rating": "Good",
+  "ratingDate": "2020-01-11",
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 2,
+  "postalCode": "SN3 6JZ"
+ },
+ {
+  "locationId": "1-4323596034",
+  "name": "243 Church Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 5,
+  "postalCode": "DE5 9TF"
+ },
+ {
+  "locationId": "1-2039932296",
+  "name": "244 Wootton Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Norfolk",
+  "numberOfBeds": 3,
+  "postalCode": "PE30 3BH"
+ },
+ {
+  "locationId": "1-25831519789",
+  "name": "24a Corporation Road",
+  "rating": "Good",
+  "ratingDate": "2020-03-13",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 8,
+  "postalCode": "CM1 2AR"
+ },
+ {
+  "locationId": "1-13421360423",
+  "name": "25 Welby Close",
+  "rating": "Requires improvement",
+  "ratingDate": "2019-11-15",
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 3,
+  "postalCode": "SL6 3PY"
+ },
+ {
+  "locationId": "1-118415812",
+  "name": "25-27 Teewell Avenue",
+  "rating": "Good",
+  "ratingDate": "2023-03-08",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 7,
+  "postalCode": "BS16 5NF"
+ },
+ {
+  "locationId": "1-334368836",
+  "name": "26 Brookside Avenue",
+  "rating": "Good",
+  "ratingDate": "2020-03-13",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 3,
+  "postalCode": "LE12 6PA"
+ },
+ {
+  "locationId": "1-1901655780",
+  "name": "26 Dugard Avenue",
+  "rating": "Good",
+  "ratingDate": "2018-05-12",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 4,
+  "postalCode": "CO3 9EH"
+ },
+ {
+  "locationId": "1-2945895069",
+  "name": "26 Seabrook Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 5,
+  "postalCode": "CT21 5NA"
+ },
+ {
+  "locationId": "1-129454063",
+  "name": "26 St Barnabas Road",
+  "rating": "Good",
+  "ratingDate": "2019-10-09",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 6,
+  "postalCode": "RG4 8RA"
+ },
+ {
+  "locationId": "1-1435097001",
+  "name": "26 St Marks Road",
+  "rating": "Good",
+  "ratingDate": "2018-01-17",
+  "region": "East Midlands",
+  "localAuthority": "Derby",
+  "numberOfBeds": 8,
+  "postalCode": "DE21 6AH"
+ },
+ {
+  "locationId": "1-2008594276",
+  "name": "280-282 Wells Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Nottingham",
+  "numberOfBeds": 6,
+  "postalCode": "NG3 3AA"
+ },
+ {
+  "locationId": "1-9655004268",
+  "name": "287 Dyke Road",
+  "rating": "Good",
+  "ratingDate": "2021-12-21",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 8,
+  "postalCode": "BN3 6PD"
+ },
+ {
+  "locationId": "1-10736723408",
+  "name": "29 & 30 Dominion Road",
+  "rating": "Good",
+  "ratingDate": "2018-09-25",
+  "region": "South West",
+  "localAuthority": "Bath and North East Somerset",
+  "numberOfBeds": 4,
+  "postalCode": "BA2 1DW"
+ },
+ {
+  "locationId": "1-13421360490",
+  "name": "29 Briants Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-07-19",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 3,
+  "postalCode": "RG4 5AY"
+ },
+ {
+  "locationId": "1-9655173051",
+  "name": "290 Dyke Road",
+  "rating": "Good",
+  "ratingDate": "2019-03-13",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 5,
+  "postalCode": "BN1 5BA"
+ },
+ {
+  "locationId": "1-129454079",
+  "name": "2a & 2b Mayfair",
+  "rating": "Good",
+  "ratingDate": "2018-05-05",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 10,
+  "postalCode": "RG30 4QY"
+ },
+ {
+  "locationId": "1-118415169",
+  "name": "2a Court Road",
+  "rating": "Good",
+  "ratingDate": "2019-03-14",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 15,
+  "postalCode": "BS15 9QB"
+ },
+ {
+  "locationId": "1-4641648968",
+  "name": "3 Ferndale Close",
+  "rating": "Good",
+  "ratingDate": "2019-06-14",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 1,
+  "postalCode": "DY9 0QA"
+ },
+ {
+  "locationId": "1-859143446",
+  "name": "3 Ferrers Drive",
+  "rating": "Good",
+  "ratingDate": "2019-05-24",
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 5,
+  "postalCode": "SN5 6HJ"
+ },
+ {
+  "locationId": "1-9791332137",
+  "name": "3 Red Admiral Court Gateshead",
+  "rating": "Good",
+  "ratingDate": "2022-07-22",
+  "region": "North East",
+  "localAuthority": "Gateshead",
+  "numberOfBeds": 6,
+  "postalCode": "NE11 9TW"
+ },
+ {
+  "locationId": "1-14962859642",
+  "name": "3 Strensham Hill",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 8,
+  "postalCode": "B13 8AG"
+ },
+ {
+  "locationId": "1-9655173286",
+  "name": "3 The Droveway",
+  "rating": "Good",
+  "ratingDate": "2023-12-21",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 6,
+  "postalCode": "BN3 6LF"
+ },
+ {
+  "locationId": "1-9655470904",
+  "name": "3 The Green",
+  "rating": "Good",
+  "ratingDate": "2022-05-19",
+  "region": "London",
+  "localAuthority": "Sutton",
+  "numberOfBeds": 8,
+  "postalCode": "SM1 1QT"
+ },
+ {
+  "locationId": "1-2551537897",
+  "name": "3 to 5 Kennet Way",
+  "rating": "Good",
+  "ratingDate": "2020-01-28",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 3,
+  "postalCode": "RG23 7AP"
+ },
+ {
+  "locationId": "1-457362743",
+  "name": "3-4 Priors Court Cottages",
+  "rating": "Good",
+  "ratingDate": "2019-06-28",
+  "region": "South East",
+  "localAuthority": "West Berkshire",
+  "numberOfBeds": 6,
+  "postalCode": "RG18 9JT"
+ },
+ {
+  "locationId": "1-129454094",
+  "name": "30 Broad Lane",
+  "rating": "Good",
+  "ratingDate": "2017-12-13",
+  "region": "South East",
+  "localAuthority": "West Berkshire",
+  "numberOfBeds": 6,
+  "postalCode": "RG7 6QJ"
+ },
+ {
+  "locationId": "1-129459110",
+  "name": "30 Richmond Road",
+  "rating": "Good",
+  "ratingDate": "2019-02-19",
+  "region": "South East",
+  "localAuthority": "Reading",
+  "numberOfBeds": 5,
+  "postalCode": "RG4 7PR"
+ },
+ {
+  "locationId": "1-347934606",
+  "name": "30 Sunnyfield",
+  "rating": "Good",
+  "ratingDate": "2023-12-02",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 3,
+  "postalCode": "WF7 6GG"
+ },
+ {
+  "locationId": "1-2008258926",
+  "name": "304 Southwell Road",
+  "rating": "Good",
+  "ratingDate": "2020-03-27",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 8,
+  "postalCode": "NG21 0EB"
+ },
+ {
+  "locationId": "1-336365615",
+  "name": "31 King Edwards Grove",
+  "rating": "Good",
+  "ratingDate": "2022-08-31",
+  "region": "London",
+  "localAuthority": "Richmond upon Thames",
+  "numberOfBeds": 8,
+  "postalCode": "TW11 9LY"
+ },
+ {
+  "locationId": "1-21881582505",
+  "name": "32 Hamstead",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 4,
+  "postalCode": "B19 1DB"
+ },
+ {
+  "locationId": "1-9655719575",
+  "name": "32 Mays Lane",
+  "rating": "Good",
+  "ratingDate": "2019-10-17",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 5,
+  "postalCode": "PO14 2EW"
+ },
+ {
+  "locationId": "1-121963647",
+  "name": "33 Blanford Road",
+  "rating": "Good",
+  "ratingDate": "2018-12-12",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 6,
+  "postalCode": "RH2 7DP"
+ },
+ {
+  "locationId": "1-21881705163",
+  "name": "34 Hamstead",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 4,
+  "postalCode": "B19 1DB"
+ },
+ {
+  "locationId": "1-118415684",
+  "name": "35 Cranbrook Road",
+  "rating": "Good",
+  "ratingDate": "2020-02-12",
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 5,
+  "postalCode": "BS6 7BP"
+ },
+ {
+  "locationId": "1-1034153843",
+  "name": "35 Priory Grove",
+  "rating": "Good",
+  "ratingDate": "2019-11-13",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 4,
+  "postalCode": "HU4 6LX"
+ },
+ {
+  "locationId": "1-1274182724",
+  "name": "35/37 Solna Road",
+  "rating": "Good",
+  "ratingDate": "2020-02-18",
+  "region": "London",
+  "localAuthority": "Enfield",
+  "numberOfBeds": 11,
+  "postalCode": "N21 2JE"
+ },
+ {
+  "locationId": "1-1436403312",
+  "name": "351 Maidstone Road",
+  "rating": "Good",
+  "ratingDate": "2018-12-11",
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 5,
+  "postalCode": "ME8 0HU"
+ },
+ {
+  "locationId": "1-129453729",
+  "name": "36 West Street",
+  "rating": "Good",
+  "ratingDate": "2018-07-13",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Barnsley",
+  "numberOfBeds": 6,
+  "postalCode": "S73 8LA"
+ },
+ {
+  "locationId": "1-9655719733",
+  "name": "361 The Ridge",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 12,
+  "postalCode": "TN34 2RD"
+ },
+ {
+  "locationId": "1-2253584724",
+  "name": "362 Park Road",
+  "rating": "Good",
+  "ratingDate": "2019-12-05",
+  "region": "East Midlands",
+  "localAuthority": "Leicestershire",
+  "numberOfBeds": 1,
+  "postalCode": "LE11 2HN"
+ },
+ {
+  "locationId": "RX3LD",
+  "name": "367 Thornaby Road",
+  "rating": "Good",
+  "ratingDate": "2022-02-05",
+  "region": "North East",
+  "localAuthority": "Stockton-on-Tees",
+  "numberOfBeds": 5,
+  "postalCode": "TS17 8QW"
+ },
+ {
+  "locationId": "1-152868472",
+  "name": "36a Birling Avenue",
+  "rating": "Good",
+  "ratingDate": "2018-02-27",
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 7,
+  "postalCode": "ME8 7EY"
+ },
+ {
+  "locationId": "1-246078383",
+  "name": "37 Coleraine Road",
+  "rating": "Good",
+  "ratingDate": "2018-04-20",
+  "region": "London",
+  "localAuthority": "Haringey",
+  "numberOfBeds": 4,
+  "postalCode": "N8 0QJ"
+ },
+ {
+  "locationId": "1-9655829638",
+  "name": "374 St Helier Avenue",
+  "rating": "Good",
+  "ratingDate": "2022-06-10",
+  "region": "London",
+  "localAuthority": "Merton",
+  "numberOfBeds": 8,
+  "postalCode": "SM4 6JU"
+ },
+ {
+  "locationId": "1-465648633",
+  "name": "38 Torrin Drive",
+  "rating": "Good",
+  "ratingDate": "2019-01-17",
+  "region": "West Midlands",
+  "localAuthority": "Shropshire",
+  "numberOfBeds": 5,
+  "postalCode": "SY3 6AW"
+ },
+ {
+  "locationId": "1-129459655",
+  "name": "39 Hawthorne Grove",
+  "rating": "Good",
+  "ratingDate": "2020-04-08",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 3,
+  "postalCode": "BA14 0JF"
+ },
+ {
+  "locationId": "1-9218680669",
+  "name": "39 School Lane",
+  "rating": "Good",
+  "ratingDate": "2024-02-14",
+  "region": "West Midlands",
+  "localAuthority": "Warwickshire",
+  "numberOfBeds": 8,
+  "postalCode": "CV7 9GE"
+ },
+ {
+  "locationId": "1-8461807472",
+  "name": "39a Castle Road",
+  "rating": "Good",
+  "ratingDate": "2021-11-17",
+  "region": "North West",
+  "localAuthority": "Westmorland and Furness",
+  "numberOfBeds": 1,
+  "postalCode": "LA9 7AU"
+ },
+ {
+  "locationId": "1-9736363421",
+  "name": "3a The Droveway",
+  "rating": "Good",
+  "ratingDate": "2018-05-11",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 3,
+  "postalCode": "BN3 6LF"
+ },
+ {
+  "locationId": "1-4094343611",
+  "name": "3L Care - Atherton",
+  "rating": "Good",
+  "ratingDate": "2018-09-21",
+  "region": "North West",
+  "localAuthority": "Wigan",
+  "numberOfBeds": 10,
+  "postalCode": "M46 0BL"
+ },
+ {
+  "locationId": "1-1790631095",
+  "name": "3L Care Limited",
+  "rating": "Good",
+  "ratingDate": "2019-05-10",
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 6,
+  "postalCode": "CW7 3DN"
+ },
+ {
+  "locationId": "1-300095509",
+  "name": "3L Care Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 10,
+  "postalCode": "CW7 3AD"
+ },
+ {
+  "locationId": "1-7613377129",
+  "name": "4 Box Crescent",
+  "rating": "Good",
+  "ratingDate": "2021-08-06",
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "numberOfBeds": 2,
+  "postalCode": "GL6 9DJ"
+ },
+ {
+  "locationId": "1-9642538112",
+  "name": "4 Cottage Walk",
+  "rating": "Good",
+  "ratingDate": "2022-10-01",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 6,
+  "postalCode": "CO16 8DG"
+ },
+ {
+  "locationId": "1-14220825796",
+  "name": "4 Cronulla Drive",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Warrington",
+  "numberOfBeds": 5,
+  "postalCode": "WA5 3HS"
+ },
+ {
+  "locationId": "1-129459702",
+  "name": "4 Hermitage Lane",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 6,
+  "postalCode": "SN2 7QS"
+ },
+ {
+  "locationId": "1-115733228",
+  "name": "4 Mill Road",
+  "rating": "Good",
+  "ratingDate": "2018-07-24",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 10,
+  "postalCode": "BN21 2LY"
+ },
+ {
+  "locationId": "1-126464913",
+  "name": "4 Old Barn Close",
+  "rating": "Good",
+  "ratingDate": "2018-10-04",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 4,
+  "postalCode": "MK18 4JH"
+ },
+ {
+  "locationId": "1-13421360528",
+  "name": "4 Pages Orchard",
+  "rating": "Outstanding",
+  "ratingDate": "2019-03-21",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 3,
+  "postalCode": "RG4 9LW"
+ },
+ {
+  "locationId": "1-126470015",
+  "name": "4 Trinity Court",
+  "rating": "Good",
+  "ratingDate": "2018-09-01",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 6,
+  "postalCode": "HP19 8AB"
+ },
+ {
+  "locationId": "1-9655829687",
+  "name": "4 Vallance Gardens",
+  "rating": "Good",
+  "ratingDate": "2019-12-21",
+  "region": "South East",
+  "localAuthority": "Brighton and Hove",
+  "numberOfBeds": 7,
+  "postalCode": "BN3 2DD"
+ },
+ {
+  "locationId": "1-23645782635",
+  "name": "4,5,7 The Sycamores",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 6,
+  "postalCode": "DE55 3BJ"
+ },
+ {
+  "locationId": "1-3496117728",
+  "name": "41 West Hill",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 5,
+  "postalCode": "NG17 3EP"
+ },
+ {
+  "locationId": "1-1670982689",
+  "name": "42 Beeston Drive",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 4,
+  "postalCode": "CW7 1ER"
+ },
+ {
+  "locationId": "1-22980550294",
+  "name": "42 Hamstead",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 4,
+  "postalCode": "B19 1DB"
+ },
+ {
+  "locationId": "1-9649168944",
+  "name": "42 Twyford Gardens",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 4,
+  "postalCode": "BN13 2NT"
+ },
+ {
+  "locationId": "1-129460386",
+  "name": "429 Warwick Road",
+  "rating": "Good",
+  "ratingDate": "2019-01-12",
+  "region": "West Midlands",
+  "localAuthority": "Solihull",
+  "numberOfBeds": 6,
+  "postalCode": "B91 1BD"
+ },
+ {
+  "locationId": "1-119126282",
+  "name": "42a Haddon",
+  "rating": "Good",
+  "ratingDate": "2019-05-15",
+  "region": "South East",
+  "localAuthority": "Milton Keynes",
+  "numberOfBeds": 40,
+  "postalCode": "MK8 9HP"
+ },
+ {
+  "locationId": "1-2931871759",
+  "name": "43 Florence Avenue",
+  "rating": "Good",
+  "ratingDate": "2022-03-02",
+  "region": "London",
+  "localAuthority": "Merton",
+  "numberOfBeds": 8,
+  "postalCode": "SM4 6EX"
+ },
+ {
+  "locationId": "1-4362111880",
+  "name": "43 Sedlescombe Road South",
+  "rating": "Outstanding",
+  "ratingDate": "2019-03-16",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 6,
+  "postalCode": "TN38 0TB"
+ },
+ {
+  "locationId": "1-129459126",
+  "name": "43 Station Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 6,
+  "postalCode": "TW19 5ND"
+ },
+ {
+  "locationId": "1-4658553003",
+  "name": "43a and 43b Morley Road",
+  "rating": "Good",
+  "ratingDate": "2021-09-03",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 6,
+  "postalCode": "CO5 0AA"
+ },
+ {
+  "locationId": "1-9654806673",
+  "name": "44 Albion Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Sutton",
+  "numberOfBeds": 7,
+  "postalCode": "SM2 5TF"
+ },
+ {
+  "locationId": "1-4699402635",
+  "name": "44 Glen Avenue",
+  "rating": "Good",
+  "ratingDate": "2021-05-08",
+  "region": "North West",
+  "localAuthority": "Bolton",
+  "numberOfBeds": 4,
+  "postalCode": "BL3 5QY"
+ },
+ {
+  "locationId": "1-5841806076",
+  "name": "44 Newbold Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 9,
+  "postalCode": "S41 7PL"
+ },
+ {
+  "locationId": "1-1778787604",
+  "name": "44 Stimpson Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-04-02",
+  "region": "East Midlands",
+  "localAuthority": "West Northamptonshire",
+  "numberOfBeds": 3,
+  "postalCode": "NN1 4LP"
+ },
+ {
+  "locationId": "1-129459141",
+  "name": "45 Hall Green Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2019-08-22",
+  "region": "West Midlands",
+  "localAuthority": "Sandwell",
+  "numberOfBeds": 8,
+  "postalCode": "B71 3JS"
+ },
+ {
+  "locationId": "1-3605416813",
+  "name": "45 Watson Road",
+  "rating": "Good",
+  "ratingDate": "2024-01-12",
+  "region": "North West",
+  "localAuthority": "Blackpool",
+  "numberOfBeds": 6,
+  "postalCode": "FY4 2DB"
+ },
+ {
+  "locationId": "1-118415585",
+  "name": "46 Bath Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 6,
+  "postalCode": "BS30 9DG"
+ },
+ {
+  "locationId": "1-1345347918",
+  "name": "46 Derby Road",
+  "rating": "Good",
+  "ratingDate": "2018-11-14",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 3,
+  "postalCode": "DE14 1RP"
+ },
+ {
+  "locationId": "1-336055911",
+  "name": "46 The Grove",
+  "rating": "Good",
+  "ratingDate": "2022-07-29",
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 7,
+  "postalCode": "TW7 4JF"
+ },
+ {
+  "locationId": "1-28323916451",
+  "name": "463",
+  "rating": "Good",
+  "ratingDate": "2019-10-03",
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 7,
+  "postalCode": "M20 5NE"
+ },
+ {
+  "locationId": "1-129459191",
+  "name": "48 Heath Road",
+  "rating": "Good",
+  "ratingDate": "2024-01-04",
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 8,
+  "postalCode": "S42 5SW"
+ },
+ {
+  "locationId": "1-349839347",
+  "name": "48 The Grove",
+  "rating": "Good",
+  "ratingDate": "2022-10-15",
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 9,
+  "postalCode": "TW7 4JF"
+ },
+ {
+  "locationId": "1-12687573042",
+  "name": "481 Ipswich Road",
+  "rating": "Good",
+  "ratingDate": "2023-05-20",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 5,
+  "postalCode": "CO4 0HQ"
+ },
+ {
+  "locationId": "1-15525372399",
+  "name": "49 Bath Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 10,
+  "postalCode": "TW3 3BN"
+ },
+ {
+  "locationId": "1-9655764002",
+  "name": "49 Oakdale Road",
+  "rating": "Good",
+  "ratingDate": "2022-02-26",
+  "region": "London",
+  "localAuthority": "Lambeth",
+  "numberOfBeds": 9,
+  "postalCode": "SW16 2HL"
+ },
+ {
+  "locationId": "1-9649169331",
+  "name": "5 Fengates Road",
+  "rating": "Good",
+  "ratingDate": "2022-06-30",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 5,
+  "postalCode": "RH1 6AH"
+ },
+ {
+  "locationId": "1-25565901304",
+  "name": "5 Horse Leaze",
+  "rating": "Outstanding",
+  "ratingDate": "2020-08-28",
+  "region": "London",
+  "localAuthority": "Newham",
+  "numberOfBeds": 6,
+  "postalCode": "E6 6WJ"
+ },
+ {
+  "locationId": "1-130582583",
+  "name": "5 Whitby Road Care Home",
+  "rating": "Good",
+  "ratingDate": "2019-08-21",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 37,
+  "postalCode": "YO18 7HD"
+ },
+ {
+  "locationId": "1-3568827835",
+  "name": "5 Winston Court",
+  "rating": "Good",
+  "ratingDate": "2018-12-05",
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 8,
+  "postalCode": "SL6 5HU"
+ },
+ {
+  "locationId": "1-883698825",
+  "name": "5-6 Prior's Court Cottages: Bradbury House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "West Berkshire",
+  "numberOfBeds": 8,
+  "postalCode": "RG18 9JT"
+ },
+ {
+  "locationId": "1-5103942742",
+  "name": "50 Arbour Street",
+  "rating": "Good",
+  "ratingDate": "2019-05-08",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 4,
+  "postalCode": "ST7 1QW"
+ },
+ {
+  "locationId": "1-4607245586",
+  "name": "50 Broadfields",
+  "rating": "Good",
+  "ratingDate": "2019-11-16",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 2,
+  "postalCode": "SN9 5DU"
+ },
+ {
+  "locationId": "1-1345347948",
+  "name": "50 Burton Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2020-10-03",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 6,
+  "postalCode": "DE14 3DN"
+ },
+ {
+  "locationId": "1-13597480380",
+  "name": "50 Valentines Way",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Barking and Dagenham",
+  "numberOfBeds": 5,
+  "postalCode": "RM7 0YH"
+ },
+ {
+  "locationId": "1-118415486",
+  "name": "50 Vassall Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 6,
+  "postalCode": "BS16 2LW"
+ },
+ {
+  "locationId": "1-129460432",
+  "name": "514 Arnold Road",
+  "rating": "Good",
+  "ratingDate": "2019-12-14",
+  "region": "East Midlands",
+  "localAuthority": "Nottingham",
+  "numberOfBeds": 10,
+  "postalCode": "NG5 5HN"
+ },
+ {
+  "locationId": "1-13421360575",
+  "name": "52 Porthcawl Green",
+  "rating": "Good",
+  "ratingDate": "2023-09-27",
+  "region": "South East",
+  "localAuthority": "Milton Keynes",
+  "numberOfBeds": 3,
+  "postalCode": "MK4 3AL"
+ },
+ {
+  "locationId": "1-122285770",
+  "name": "53a Ipstones Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-01-10",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 5,
+  "postalCode": "B33 9DZ"
+ },
+ {
+  "locationId": "1-9043094866",
+  "name": "54 Leylands Road",
+  "rating": "Good",
+  "ratingDate": "2021-11-13",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 6,
+  "postalCode": "RH15 8AL"
+ },
+ {
+  "locationId": "1-489045330",
+  "name": "54a",
+  "rating": "Good",
+  "ratingDate": "2022-12-13",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 3,
+  "postalCode": "WF7 5HG"
+ },
+ {
+  "locationId": "1-230102683",
+  "name": "55 Sandwich Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 2,
+  "postalCode": "CT16 3LT"
+ },
+ {
+  "locationId": "1-25565901359",
+  "name": "56 High Street",
+  "rating": "Good",
+  "ratingDate": "2023-12-05",
+  "region": "London",
+  "localAuthority": "Bromley",
+  "numberOfBeds": 10,
+  "postalCode": "BR7 5AQ"
+ },
+ {
+  "locationId": "1-2649921639",
+  "name": "56 Stone Lane",
+  "rating": "Good",
+  "ratingDate": "2020-02-14",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 3,
+  "postalCode": "BN13 2BQ"
+ },
+ {
+  "locationId": "1-480975512",
+  "name": "579 Maidstone Road",
+  "rating": "Good",
+  "ratingDate": "2018-05-15",
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 6,
+  "postalCode": "ME8 0LQ"
+ },
+ {
+  "locationId": "1-118415243",
+  "name": "58 Crantock Drive",
+  "rating": "Good",
+  "ratingDate": "2020-02-18",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 8,
+  "postalCode": "BS32 4HG"
+ },
+ {
+  "locationId": "1-118415783",
+  "name": "6 Northumberland Road",
+  "rating": "Good",
+  "ratingDate": "2022-09-01",
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 5,
+  "postalCode": "BS6 7AU"
+ },
+ {
+  "locationId": "1-129460569",
+  "name": "60 Bullpond Lane",
+  "rating": "Good",
+  "ratingDate": "2019-05-29",
+  "region": "East",
+  "localAuthority": "Central Bedfordshire",
+  "numberOfBeds": 6,
+  "postalCode": "LU6 3BJ"
+ },
+ {
+  "locationId": "1-129459409",
+  "name": "60 Cobham Road",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-06-07",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 6,
+  "postalCode": "KT22 9JS"
+ },
+ {
+  "locationId": "1-10752390452",
+  "name": "60 Olive Lane",
+  "rating": "Good",
+  "ratingDate": "2019-12-12",
+  "region": "West Midlands",
+  "localAuthority": "Dudley",
+  "numberOfBeds": 8,
+  "postalCode": "B62 8LZ"
+ },
+ {
+  "locationId": "1-9791332174",
+  "name": "61 Kings Road Harrogate",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 5,
+  "postalCode": "HG1 5HJ"
+ },
+ {
+  "locationId": "1-571393629",
+  "name": "61 Track Road",
+  "rating": "Good",
+  "ratingDate": "2019-04-11",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kirklees",
+  "numberOfBeds": 4,
+  "postalCode": "WF17 7AB"
+ },
+ {
+  "locationId": "1-419854731",
+  "name": "63 Collier Road",
+  "rating": "Good",
+  "ratingDate": "2018-12-22",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 3,
+  "postalCode": "TN34 3JS"
+ },
+ {
+  "locationId": "1-118415543",
+  "name": "63 Coronation Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 6,
+  "postalCode": "BS3 1AR"
+ },
+ {
+  "locationId": "1-145847984",
+  "name": "63 Eton Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-01-12",
+  "region": "London",
+  "localAuthority": "Brent",
+  "numberOfBeds": 3,
+  "postalCode": "HA0 3AZ"
+ },
+ {
+  "locationId": "1-28332799546",
+  "name": "63 Gayton House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Harrow",
+  "numberOfBeds": 6,
+  "postalCode": "HA1 2LU"
+ },
+ {
+  "locationId": "1-142966073",
+  "name": "64 Chilcompton Road",
+  "rating": "Good",
+  "ratingDate": "2018-06-30",
+  "region": "South West",
+  "localAuthority": "Bath and North East Somerset",
+  "numberOfBeds": 3,
+  "postalCode": "BA3 2PL"
+ },
+ {
+  "locationId": "1-129459221",
+  "name": "66 Dudley Street",
+  "rating": "Good",
+  "ratingDate": "2020-05-28",
+  "region": "West Midlands",
+  "localAuthority": "Sandwell",
+  "numberOfBeds": 6,
+  "postalCode": "B70 9LU"
+ },
+ {
+  "locationId": "1-9791332311",
+  "name": "66 Hookstone Chase Harrogate",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 5,
+  "postalCode": "HG2 7HS"
+ },
+ {
+  "locationId": "1-376585101",
+  "name": "66 Park Lane",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 5,
+  "postalCode": "PO16 7LB"
+ },
+ {
+  "locationId": "1-221978368",
+  "name": "69 Chartridge Lane",
+  "rating": "Good",
+  "ratingDate": "2023-08-23",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 6,
+  "postalCode": "HP5 2RG"
+ },
+ {
+  "locationId": "1-129453517",
+  "name": "694 Pinner Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Harrow",
+  "numberOfBeds": 8,
+  "postalCode": "HA5 5QY"
+ },
+ {
+  "locationId": "1-7780323136",
+  "name": "6a Sheerstone",
+  "rating": "Good",
+  "ratingDate": "2022-04-30",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 1,
+  "postalCode": "ME9 8RN"
+ },
+ {
+  "locationId": "1-9655764470",
+  "name": "7 Birdhurst Rise",
+  "rating": "Good",
+  "ratingDate": "2022-06-30",
+  "region": "London",
+  "localAuthority": "Croydon",
+  "numberOfBeds": 9,
+  "postalCode": "CR2 7EG"
+ },
+ {
+  "locationId": "1-859236809",
+  "name": "7 Eworth Close",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 6,
+  "postalCode": "SN5 6JG"
+ },
+ {
+  "locationId": "1-5165112105",
+  "name": "7 Fairmile Drive",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 3,
+  "postalCode": "M20 5WS"
+ },
+ {
+  "locationId": "1-25565901332",
+  "name": "7 Horse Leaze",
+  "rating": "Good",
+  "ratingDate": "2023-05-31",
+  "region": "London",
+  "localAuthority": "Newham",
+  "numberOfBeds": 6,
+  "postalCode": "E6 6WJ"
+ },
+ {
+  "locationId": "1-4437212597",
+  "name": "7 Pizey Avenue",
+  "rating": "Good",
+  "ratingDate": "2018-11-08",
+  "region": "South West",
+  "localAuthority": "North Somerset",
+  "numberOfBeds": 4,
+  "postalCode": "BS21 7TS"
+ },
+ {
+  "locationId": "1-28705125458",
+  "name": "7 Victory Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 2,
+  "postalCode": "M14 5AE"
+ },
+ {
+  "locationId": "1-224789968",
+  "name": "7-9 Downing Close",
+  "rating": "Good",
+  "ratingDate": "2019-12-17",
+  "region": "West Midlands",
+  "localAuthority": "Solihull",
+  "numberOfBeds": 10,
+  "postalCode": "B93 0QA"
+ },
+ {
+  "locationId": "1-115972792",
+  "name": "70-72 Worting Road",
+  "rating": "Good",
+  "ratingDate": "2018-06-13",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 8,
+  "postalCode": "RG21 8TP"
+ },
+ {
+  "locationId": "1-1345347878",
+  "name": "703 Burton Road",
+  "rating": "Good",
+  "ratingDate": "2020-01-22",
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 5,
+  "postalCode": "DE11 0DL"
+ },
+ {
+  "locationId": "1-129459930",
+  "name": "74 Old Ford End",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Bedford",
+  "numberOfBeds": 6,
+  "postalCode": "MK40 4LY"
+ },
+ {
+  "locationId": "1-419854790",
+  "name": "76 Canute Road",
+  "rating": "Good",
+  "ratingDate": "2019-01-18",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 6,
+  "postalCode": "TN35 5HT"
+ },
+ {
+  "locationId": "1-118415328",
+  "name": "77 Gloucester Road North",
+  "rating": "Good",
+  "ratingDate": "2023-04-15",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 7,
+  "postalCode": "BS34 7PL"
+ },
+ {
+  "locationId": "1-5623929627",
+  "name": "78 Hoylake Crescent",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "numberOfBeds": 4,
+  "postalCode": "UB10 8JF"
+ },
+ {
+  "locationId": "1-306308347",
+  "name": "78 Polwell Lane",
+  "rating": "Good",
+  "ratingDate": "2018-03-17",
+  "region": "East Midlands",
+  "localAuthority": "North Northamptonshire",
+  "numberOfBeds": 5,
+  "postalCode": "NN15 6UB"
+ },
+ {
+  "locationId": "1-9656379578",
+  "name": "78 Stubbington Lane",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 6,
+  "postalCode": "PO14 2PE"
+ },
+ {
+  "locationId": "1-1627453128",
+  "name": "79 Malmesbury Road",
+  "rating": "Outstanding",
+  "ratingDate": "2018-06-15",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 5,
+  "postalCode": "SN15 1PX"
+ },
+ {
+  "locationId": "1-408272533",
+  "name": "8 Acres",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Norfolk",
+  "numberOfBeds": 18,
+  "postalCode": "NR17 1AW"
+ },
+ {
+  "locationId": "1-19614282617",
+  "name": "8 Hainsworth Park",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 2,
+  "postalCode": "HU6 8QQ"
+ },
+ {
+  "locationId": "1-9791332243",
+  "name": "8 Spring Mount Harrogate",
+  "rating": "Good",
+  "ratingDate": "2022-06-30",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 6,
+  "postalCode": "HG1 2HX"
+ },
+ {
+  "locationId": "1-12046894748",
+  "name": "8 Wellington Avenue",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Enfield",
+  "numberOfBeds": 2,
+  "postalCode": "N9 0RP"
+ },
+ {
+  "locationId": "1-118415415",
+  "name": "80-82 London Road",
+  "rating": "Good",
+  "ratingDate": "2018-04-18",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 7,
+  "postalCode": "BS30 5JL"
+ },
+ {
+  "locationId": "1-390922730",
+  "name": "82 Bear Road",
+  "rating": "Good",
+  "ratingDate": "2023-09-23",
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 5,
+  "postalCode": "TW13 6RG"
+ },
+ {
+  "locationId": "1-25832514815",
+  "name": "83 Glengall Road",
+  "rating": "Good",
+  "ratingDate": "2020-04-10",
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 7,
+  "postalCode": "IG8 0DP"
+ },
+ {
+  "locationId": "1-336286137",
+  "name": "89 Hampton Road East",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 7,
+  "postalCode": "TW13 6JB"
+ },
+ {
+  "locationId": "1-337515524",
+  "name": "89a Hampton Road East",
+  "rating": "Good",
+  "ratingDate": "2022-10-22",
+  "region": "London",
+  "localAuthority": "Hounslow",
+  "numberOfBeds": 7,
+  "postalCode": "TW13 6JB"
+ },
+ {
+  "locationId": "1-3568827921",
+  "name": "9 Allenby Road",
+  "rating": "Good",
+  "ratingDate": "2020-04-03",
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 4,
+  "postalCode": "SL6 5BF"
+ },
+ {
+  "locationId": "1-26099651800",
+  "name": "9 Victory Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 2,
+  "postalCode": "M14 5AE"
+ },
+ {
+  "locationId": "1-28323916488",
+  "name": "92 Barcicroft Road",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Stockport",
+  "numberOfBeds": 6,
+  "postalCode": "SK4 3PJ"
+ },
+ {
+  "locationId": "1-5267235380",
+  "name": "92 Carlton Road",
+  "rating": "Good",
+  "ratingDate": "2022-06-02",
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 6,
+  "postalCode": "M16 8BE"
+ },
+ {
+  "locationId": "1-119188842",
+  "name": "92 North Street",
+  "rating": "Good",
+  "ratingDate": "2019-04-17",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 12,
+  "postalCode": "WS11 0AZ"
+ },
+ {
+  "locationId": "1-2945932202",
+  "name": "95 Ashley Avenue",
+  "rating": "Good",
+  "ratingDate": "2019-09-06",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 5,
+  "postalCode": "CT19 4PJ"
+ },
+ {
+  "locationId": "1-304923242",
+  "name": "95 Bromyard Road",
+  "rating": "Good",
+  "ratingDate": "2019-12-17",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 6,
+  "postalCode": "WR2 5BZ"
+ },
+ {
+  "locationId": "1-9656379653",
+  "name": "95 Parchmore Road",
+  "rating": "Good",
+  "ratingDate": "2022-06-24",
+  "region": "London",
+  "localAuthority": "Croydon",
+  "numberOfBeds": 5,
+  "postalCode": "CR7 8LY"
+ },
+ {
+  "locationId": "1-9656379761",
+  "name": "97 Old Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 5,
+  "postalCode": "PO14 3HG"
  }
 ]
