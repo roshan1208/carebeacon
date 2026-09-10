@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "date": "2026-09-10",
+  "locationId": "1-276684868",
+  "name": "Wrekin Villa",
+  "region": "West Midlands",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-10",
+  "locationId": "1-3031947508",
+  "name": "Orchard Hill",
+  "region": "East Midlands",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ }
+]
