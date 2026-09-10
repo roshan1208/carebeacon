@@ -128,7 +128,13 @@
   .card {
     border: 1px solid var(--border); border-radius: 12px; padding: 16px;
     background: var(--card-bg); display: flex; flex-direction: column; gap: 8px;
+    /* .card is a <button> now, not an <article> — every card is clickable
+       to open the detail view, so these reset the browser's default
+       button chrome (Safari needs appearance:none explicitly). */
+    appearance: none; cursor: pointer; text-align: left; font: inherit;
+    color: inherit; width: 100%;
   }
+  .card:hover { border-color: var(--accent); }
   .card h3 { margin: 0; font-size: 1.05rem; }
   .card .place { color: var(--muted); font-size: 0.9rem; }
   .badge {
@@ -143,6 +149,58 @@
   .card .meta { font-size: 0.85rem; color: var(--muted); }
 
   .state { padding: 40px 0; text-align: center; color: var(--muted); }
+
+  .detail-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+    display: flex; align-items: flex-start; justify-content: center;
+    padding: 24px 16px; overflow-y: auto; z-index: 50;
+  }
+  .detail-overlay[hidden] { display: none; }
+  .detail-modal {
+    background: var(--card-bg); border-radius: 14px; max-width: 640px;
+    width: 100%; padding: 24px; box-shadow: 0 12px 40px rgba(0,0,0,0.3);
+    margin: auto 0;
+  }
+  .detail-modal-head {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    gap: 12px; margin-bottom: 4px;
+  }
+  .detail-modal h2 { margin: 0; font-size: 1.3rem; }
+  #detail-close {
+    background: none; border: 1px solid var(--border); color: var(--ink);
+    border-radius: 8px; padding: 6px 12px; cursor: pointer; font-size: 1rem;
+    line-height: 1; flex-shrink: 0;
+  }
+  .detail-address { color: var(--muted); margin: 4px 0 16px; }
+  .detail-section { margin-top: 20px; }
+  .detail-section h3 {
+    font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--muted); margin: 0 0 10px;
+  }
+  .kq-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 8px;
+  }
+  .kq-item {
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+  }
+  .kq-item .kq-name { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
+  .tag-list { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; margin: 0; padding: 0; }
+  .tag-list li {
+    border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px;
+    font-size: 0.85rem;
+  }
+  .detail-facts { display: grid; gap: 6px; font-size: 0.92rem; }
+  .detail-facts .fact-label { color: var(--muted); }
+  .detail-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+  .detail-links a {
+    border: 1px solid var(--border); border-radius: 8px; padding: 8px 14px;
+    font-size: 0.9rem; text-decoration: none;
+  }
+  .detail-caveat {
+    margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border);
+    font-size: 0.82rem; color: var(--muted);
+  }
 
   footer.site {
     border-top: 1px solid var(--border); margin-top: 40px; padding: 24px 0;
@@ -197,6 +255,16 @@
   <div id="results"><p class="state">Loading care homes…</p></div>
 
 </main>
+
+<div class="detail-overlay" id="detail-overlay" hidden>
+  <div class="detail-modal" role="dialog" aria-modal="true" aria-labelledby="detail-name">
+    <div class="detail-modal-head">
+      <h2 id="detail-name"></h2>
+      <button id="detail-close" type="button" aria-label="Close">&times;</button>
+    </div>
+    <div id="detail-body"></div>
+  </div>
+</div>
 
 <footer class="site">
   <div class="wrap">
@@ -306,18 +374,173 @@
       // is a home currently operating.
       var beds = loc.numberOfBeds ? loc.numberOfBeds + ' beds' : '';
       return (
-        '<article class="card">' +
+        '<button type="button" class="card" data-location-id="' + attr(loc.locationId) + '">' +
           '<h3>' + attr(loc.name) + '</h3>' +
           '<div class="place">' + attr(loc.localAuthority || '') + (loc.region ? ', ' + attr(loc.region) : '') + '</div>' +
           badge +
           '<div class="meta">' + attr(beds) + '</div>' +
-        '</article>'
+        '</button>'
       );
     }).join("");
 
     resultsEl.innerHTML = '<div class="cards">' + cards + '</div>' +
       (shown.length > 60 ? '<p class="state">Showing the first 60. Narrow your search to see more.</p>' : '');
   }
+
+  // --- Detail view -----------------------------------------------------
+  //
+  // data/site_details.json is fetched once, on the first click, not as
+  // part of loadAll(). It carries the rating breakdown, specialisms and
+  // activity lists for every registered care home, which is materially
+  // heavier per record than the card data — loading it upfront for every
+  // visitor, most of whom never open a detail view, would undo the exact
+  // file-size fix site_export.py already made once for site_locations.json.
+
+  var detailsPromise = null;
+
+  function fetchDetailsOnce() {
+    if (!detailsPromise) {
+      detailsPromise = fetch("data/site_details.json").then(function (r) {
+        if (!r.ok) throw new Error("details " + r.status);
+        return r.json();
+      });
+    }
+    return detailsPromise;
+  }
+
+  function findLocation(locationId) {
+    for (var i = 0; i < state.locations.length; i++) {
+      if (state.locations[i].locationId === locationId) return state.locations[i];
+    }
+    return null;
+  }
+
+  function mapsLink(lat, lon) {
+    if (lat == null || lon == null) return "";
+    return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(lat + "," + lon);
+  }
+
+  function renderDetailBody(loc, detail) {
+    detail = detail || {};
+    var badgeCls = badgeClass(loc.rating);
+    var badge = loc.rating
+      ? '<span class="badge ' + attr(badgeCls) + '" data-rating="' + attr(loc.rating) + '">' + attr(loc.rating) + '</span>'
+      : '<span class="badge unrated">No published rating</span>';
+
+    var addressParts = [detail.addressLine1, detail.town, loc.postalCode].filter(Boolean).map(attr);
+    var address = addressParts.length ? addressParts.join(', ') : '';
+
+    var kqRatings = detail.keyQuestionRatings || [];
+    var kqHtml = kqRatings.length
+      ? '<div class="kq-grid">' + kqRatings.map(function (q) {
+          var qCls = badgeClass(q.rating);
+          return (
+            '<div class="kq-item">' +
+              '<div class="kq-name">' + attr(q.name) + '</div>' +
+              '<span class="badge ' + attr(qCls) + '" data-rating="' + attr(q.rating) + '">' + attr(q.rating || 'Not rated') + '</span>' +
+            '</div>'
+          );
+        }).join('') + '</div>'
+      : '<p class="state" style="padding:0;text-align:left;">No question-by-question breakdown published.</p>';
+
+    function tagSection(title, items) {
+      items = items || [];
+      if (!items.length) return '';
+      return (
+        '<div class="detail-section">' +
+          '<h3>' + attr(title) + '</h3>' +
+          '<ul class="tag-list">' + items.map(function (t) { return '<li>' + attr(t) + '</li>'; }).join('') + '</ul>' +
+        '</div>'
+      );
+    }
+
+    var facts = [];
+    if (detail.brandName) facts.push(['Run by', detail.brandName]);
+    if (loc.numberOfBeds) facts.push(['Beds', loc.numberOfBeds]);
+    if (detail.registrationDate) facts.push(['Registered with CQC since', detail.registrationDate]);
+    if (loc.ratingDate) facts.push(['Rating published', loc.ratingDate]);
+    if (detail.lastInspectionDate) facts.push(['Last inspected', detail.lastInspectionDate]);
+    var factsHtml = facts.length
+      ? '<div class="detail-facts">' + facts.map(function (f) {
+          return '<div><span class="fact-label">' + attr(f[0]) + ':</span> ' + attr(f[1]) + '</div>';
+        }).join('') + '</div>'
+      : '';
+
+    var links = [];
+    if (detail.reportUri) {
+      links.push('<a href="https://www.cqc.org.uk' + attr(detail.reportUri) + '" target="_blank" rel="noopener">Read CQC\'s full report</a>');
+    }
+    if (detail.website) {
+      var href = /^https?:\/\//i.test(detail.website) ? detail.website : 'https://' + detail.website;
+      links.push('<a href="' + attr(href) + '" target="_blank" rel="noopener">Visit their website</a>');
+    }
+    var mapHref = mapsLink(detail.latitude, detail.longitude);
+    if (mapHref) links.push('<a href="' + attr(mapHref) + '" target="_blank" rel="noopener">View on a map</a>');
+
+    return (
+      (address ? '<p class="detail-address">' + address + '</p>' : '') +
+      badge +
+      factsHtml +
+      '<div class="detail-section"><h3>CQC\'s rating, question by question</h3>' + kqHtml + '</div>' +
+      tagSection('Specialisms', detail.specialisms) +
+      tagSection('Service types', detail.serviceTypes) +
+      tagSection('Registered to provide', detail.regulatedActivities) +
+      (links.length ? '<div class="detail-links">' + links.join('') + '</div>' : '') +
+      '<p class="detail-caveat">This is CQC\'s own published data, not our assessment. We do not inspect care homes ' +
+        'or recommend one over another. Always visit in person before making a decision.</p>'
+    );
+  }
+
+  function openDetail(locationId, pushHistory) {
+    var loc = findLocation(locationId);
+    if (!loc) return;
+
+    var overlay = document.getElementById("detail-overlay");
+    var nameEl = document.getElementById("detail-name");
+    var bodyEl = document.getElementById("detail-body");
+
+    nameEl.textContent = loc.name;
+    bodyEl.innerHTML = '<p class="state">Loading more detail…</p>';
+    overlay.hidden = false;
+    document.getElementById("detail-close").focus();
+
+    if (pushHistory !== false) {
+      history.pushState({ cbDetail: locationId }, "", "?home=" + encodeURIComponent(locationId));
+    }
+
+    fetchDetailsOnce().then(function (details) {
+      bodyEl.innerHTML = renderDetailBody(loc, details[locationId]);
+    }).catch(function () {
+      bodyEl.innerHTML = renderDetailBody(loc, null) +
+        '<p class="state">Some extra detail failed to load, but the essentials above are still accurate.</p>';
+    });
+  }
+
+  function closeDetail() {
+    var overlay = document.getElementById("detail-overlay");
+    if (overlay.hidden) return;
+    overlay.hidden = true;
+    if (location.search.indexOf("home=") !== -1) {
+      history.pushState(null, "", location.pathname);
+    }
+  }
+
+  document.getElementById("results").addEventListener("click", function (e) {
+    var card = e.target.closest(".card");
+    if (card) openDetail(card.getAttribute("data-location-id"));
+  });
+  document.getElementById("detail-close").addEventListener("click", closeDetail);
+  document.getElementById("detail-overlay").addEventListener("click", function (e) {
+    if (e.target.id === "detail-overlay") closeDetail();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeDetail();
+  });
+  window.addEventListener("popstate", function () {
+    if (location.search.indexOf("home=") === -1) {
+      document.getElementById("detail-overlay").hidden = true;
+    }
+  });
 
   function loadAll() {
     Promise.all([
@@ -344,6 +567,14 @@
       populateRegions();
       renderChanges();
       renderResults();
+
+      // Deep link support: a shared "?home=<id>" URL opens straight to
+      // that care home's detail view once the data it needs has loaded.
+      var params = new URLSearchParams(location.search);
+      var homeId = params.get("home");
+      if (homeId && findLocation(homeId)) {
+        openDetail(homeId, false);
+      }
     }).catch(function (err) {
       document.getElementById("results").innerHTML =
         '<p class="state">Could not load care home data (' + attr(err.message) + '). If this is a local preview, check the data files exist.</p>';
