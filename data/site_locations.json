@@ -12032,8 +12032,8 @@
  {
   "locationId": "1-1051444139",
   "name": "Barons Lodge Sutton",
-  "rating": "Good",
-  "ratingDate": "2020-03-06",
+  "rating": null,
+  "ratingDate": null,
   "region": "London",
   "localAuthority": "Sutton",
   "numberOfBeds": 17,
@@ -15472,8 +15472,8 @@
  {
   "locationId": "1-29556714444",
   "name": "Berkshire Imaging LLP",
-  "rating": null,
-  "ratingDate": null,
+  "rating": "Requires improvement",
+  "ratingDate": "2022-08-23",
   "region": "South East",
   "localAuthority": "Wokingham",
   "numberOfBeds": 0,
@@ -28078,16 +28078,6 @@
   "localAuthority": "Essex",
   "numberOfBeds": 70,
   "postalCode": "CM2 7TP"
- },
- {
-  "locationId": "1-4349111960",
-  "name": "Chelmunds Court",
-  "rating": "Good",
-  "ratingDate": "2022-10-05",
-  "region": "West Midlands",
-  "localAuthority": "Solihull",
-  "numberOfBeds": 73,
-  "postalCode": "B37 7WB"
  },
  {
   "locationId": "1-112620747",
@@ -101882,8 +101872,8 @@
  {
   "locationId": "1-25831519710",
   "name": "Rook Lodge",
-  "rating": "Good",
-  "ratingDate": "2018-07-26",
+  "rating": null,
+  "ratingDate": null,
   "region": "London",
   "localAuthority": "Redbridge",
   "numberOfBeds": 10,
@@ -136657,7 +136647,7 @@
   "region": "East Midlands",
   "localAuthority": "Derbyshire",
   "numberOfBeds": 40,
-  "postalCode": "DE7 8AY"
+  "postalCode": "DE7 8BJ"
  },
  {
   "locationId": "1-131471671",
