@@ -5,6 +5,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CareBeacon — know if a care home's rating just changed</title>
 <meta name="description" content="Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration. Free, updated daily.">
+<link rel="canonical" href="https://roshan1208.github.io/carebeacon/">
+
+<!-- No og:image yet — there is no logo or share image drawn for this
+     project. Omitting it entirely renders better on every platform than
+     pointing at a file that 404s, which silently kills the whole card on
+     some link previewers (Slack, iMessage). Add one before this gets
+     shared anywhere it matters. -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="CareBeacon — know if a care home's rating just changed">
+<meta property="og:description" content="Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration. Free, updated daily.">
+<meta property="og:url" content="https://roshan1208.github.io/carebeacon/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="CareBeacon — know if a care home's rating just changed">
+<meta name="twitter:description" content="Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration.">
+
+<meta name="theme-color" content="#f6f4ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1a17" media="(prefers-color-scheme: dark)">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "CareBeacon",
+  "url": "https://roshan1208.github.io/carebeacon/",
+  "description": "Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://roshan1208.github.io/carebeacon/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 
 <script>
 /* No-flash theme boot: runs before paint, before any CSS applies, so the
@@ -565,6 +597,9 @@
         freshness.textContent = state.locations.length.toLocaleString() + " registered care homes.";
       }
       populateRegions();
+      // Must come after populateRegions(): setting the region <select>'s
+      // value before its <option>s exist silently fails to select anything.
+      restoreFiltersFromUrl();
       renderChanges();
       renderResults();
 
@@ -582,9 +617,43 @@
     });
   }
 
-  document.getElementById("q").addEventListener("input", renderResults);
-  document.getElementById("rating").addEventListener("change", renderResults);
-  document.getElementById("region").addEventListener("change", renderResults);
+  // Search and filters are reflected in the URL (?q=&rating=&region=) so a
+  // search is a link you can share or bookmark, not just a session-local
+  // interaction — and so the JSON-LD SearchAction declared in <head>
+  // describes something the site actually does, rather than a capability
+  // claimed for search engines that doesn't exist.
+  function restoreFiltersFromUrl() {
+    var params = new URLSearchParams(location.search);
+    if (params.has("q")) document.getElementById("q").value = params.get("q");
+    if (params.has("rating")) document.getElementById("rating").value = params.get("rating");
+    if (params.has("region")) document.getElementById("region").value = params.get("region");
+  }
+
+  function updateUrlFromFilters() {
+    // Never touches the URL while a detail view is open — that view owns
+    // ?home= and this would otherwise silently clobber it mid-viewing.
+    if (!document.getElementById("detail-overlay").hidden) return;
+    var params = new URLSearchParams();
+    var q = document.getElementById("q").value.trim();
+    var rating = document.getElementById("rating").value;
+    var region = document.getElementById("region").value;
+    if (q) params.set("q", q);
+    if (rating) params.set("rating", rating);
+    if (region) params.set("region", region);
+    var query = params.toString();
+    // replaceState, not pushState: every keystroke updating browser
+    // history would make the back button useless for actual navigation.
+    history.replaceState(null, "", query ? "?" + query : location.pathname);
+  }
+
+  function onFilterChange() {
+    renderResults();
+    updateUrlFromFilters();
+  }
+
+  document.getElementById("q").addEventListener("input", onFilterChange);
+  document.getElementById("rating").addEventListener("change", onFilterChange);
+  document.getElementById("region").addEventListener("change", onFilterChange);
 
   document.getElementById("theme-toggle").addEventListener("click", function () {
     var root = document.documentElement;
