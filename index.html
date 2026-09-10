@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CareBeacon — know if a care home's rating just changed</title>
+<meta name="description" content="Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration. Free, updated daily.">
+
+<script>
+/* No-flash theme boot: runs before paint, before any CSS applies, so the
+   page never flashes light-then-dark or dark-then-light. Same pattern
+   proven on sponsorsignal. */
+(function () {
+  try {
+    var saved = localStorage.getItem('cb-theme');
+    var theme = saved || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+  } catch (e) {}
+})();
+</script>
+
+<style>
+  :root {
+    --paper: #f6f4ee;
+    --ink: #14231f;
+    --muted: #4b564f;
+    --accent: #8a5a00;
+    --accent-bg: #e8a33d;
+    --accent-fill-text: #1a1206;
+    --border: #6b6656;
+    --card-bg: #ffffff;
+    --rating-outstanding: #1c5aa6;
+    --rating-good: #1e6b3a;
+    --rating-reqimprove: #a15a00;
+    --rating-inadequate: #a3261f;
+  }
+  html[data-theme="dark"] {
+    --paper: #0d1a17;
+    --ink: #eef1ee;
+    --muted: #a9b6b1;
+    --accent: #e8a33d;
+    --accent-bg: #e8a33d;
+    --accent-fill-text: #1a1206;
+    --border: #527069;
+    --card-bg: #10201c;
+    --rating-outstanding: #7fb8ff;
+    --rating-good: #5fd88a;
+    --rating-reqimprove: #ffb56b;
+    --rating-inadequate: #ff8b80;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+  header.site {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 0;
+  }
+  header.site .row {
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  }
+  .brand { display: flex; align-items: baseline; gap: 10px; }
+  .brand .mark {
+    display: inline-block; width: 12px; height: 12px; border-radius: 50%;
+    background: var(--accent-bg);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent-bg) 30%, transparent);
+  }
+  .brand .name { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.01em; }
+  .tagline { color: var(--muted); font-size: 0.95rem; margin: 4px 0 0; }
+
+  #theme-toggle {
+    background: none; border: 1px solid var(--border); color: var(--ink);
+    border-radius: 8px; padding: 8px 12px; font-size: 0.9rem; cursor: pointer;
+  }
+  #theme-toggle:focus-visible, input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible {
+    outline: 3px solid var(--accent); outline-offset: 2px;
+  }
+
+  main { padding: 24px 0 60px; }
+
+  .filterbar {
+    display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;
+    position: sticky; top: 0; background: var(--paper); padding: 12px 0; z-index: 5;
+  }
+  .filterbar input[type="search"], .filterbar select {
+    font: inherit; padding: 10px 12px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--card-bg); color: var(--ink);
+  }
+  .filterbar input[type="search"] { flex: 1 1 260px; min-width: 200px; }
+  .filterbar select { flex: 0 1 200px; }
+  label.visually-hidden {
+    position: absolute; width: 1px; height: 1px; overflow: hidden;
+    clip: rect(0,0,0,0); white-space: nowrap;
+  }
+
+  section.changes {
+    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    margin-bottom: 28px; background: var(--card-bg);
+  }
+  section.changes h2 { margin: 0 0 4px; font-size: 1.05rem; }
+  section.changes p.lede { margin: 0 0 14px; color: var(--muted); font-size: 0.92rem; }
+  ul.change-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  ul.change-list li {
+    display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+    border-top: 1px solid var(--border); padding-top: 10px;
+  }
+  ul.change-list li:first-child { border-top: none; padding-top: 0; }
+  .change-date { color: var(--muted); font-size: 0.85rem; min-width: 80px; }
+  .change-type {
+    font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em;
+    padding: 2px 8px; border-radius: 999px; font-weight: 700;
+  }
+  .change-type.downgrade { background: color-mix(in srgb, var(--rating-inadequate) 18%, transparent); color: var(--rating-inadequate); }
+  .change-type.upgrade { background: color-mix(in srgb, var(--rating-good) 18%, transparent); color: var(--rating-good); }
+  .change-type.closed { background: color-mix(in srgb, var(--rating-inadequate) 18%, transparent); color: var(--rating-inadequate); }
+  .change-type.reopened { background: color-mix(in srgb, var(--rating-good) 18%, transparent); color: var(--rating-good); }
+  .change-type.rated { background: color-mix(in srgb, var(--muted) 18%, transparent); color: var(--muted); }
+
+  .results-count { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+  .card {
+    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    background: var(--card-bg); display: flex; flex-direction: column; gap: 8px;
+  }
+  .card h3 { margin: 0; font-size: 1.05rem; }
+  .card .place { color: var(--muted); font-size: 0.9rem; }
+  .badge {
+    display: inline-block; align-self: flex-start; font-size: 0.78rem; font-weight: 700;
+    padding: 3px 10px; border-radius: 999px; border: 1px solid currentColor;
+  }
+  .badge.Outstanding { color: var(--rating-outstanding); }
+  .badge.Good { color: var(--rating-good); }
+  .badge[data-rating="Requires improvement"] { color: var(--rating-reqimprove); }
+  .badge.Inadequate { color: var(--rating-inadequate); }
+  .badge.unrated { color: var(--muted); }
+  .card .meta { font-size: 0.85rem; color: var(--muted); }
+
+  .state { padding: 40px 0; text-align: center; color: var(--muted); }
+
+  footer.site {
+    border-top: 1px solid var(--border); margin-top: 40px; padding: 24px 0;
+    color: var(--muted); font-size: 0.85rem;
+  }
+  footer.site p { margin: 0 0 8px; }
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap row">
+    <div>
+      <div class="brand">
+        <span class="mark" aria-hidden="true"></span>
+        <span class="name">CareBeacon</span>
+      </div>
+      <p class="tagline">Every care home in England, and what changed this week.</p>
+    </div>
+    <button id="theme-toggle" type="button" aria-label="Switch colour theme">Theme</button>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="changes" aria-labelledby="changes-heading">
+    <h2 id="changes-heading">Recently changed</h2>
+    <p class="lede">CQC publishes today's rating, not what changed. This is what changed.</p>
+    <div id="changes-body"><p class="state">Loading recent changes…</p></div>
+  </section>
+
+  <form class="filterbar" role="search" aria-label="Search care homes" onsubmit="return false;">
+    <label class="visually-hidden" for="q">Search by name, town or local authority</label>
+    <input id="q" type="search" placeholder="Search by name, town or local authority" autocomplete="off">
+
+    <label class="visually-hidden" for="rating">Filter by rating</label>
+    <select id="rating">
+      <option value="">Any rating</option>
+      <option value="Outstanding">Outstanding</option>
+      <option value="Good">Good</option>
+      <option value="Requires improvement">Requires improvement</option>
+      <option value="Inadequate">Inadequate</option>
+    </select>
+
+    <label class="visually-hidden" for="region">Filter by region</label>
+    <select id="region">
+      <option value="">Any region</option>
+    </select>
+  </form>
+
+  <p class="results-count" id="results-count" aria-live="polite"></p>
+  <div id="results"><p class="state">Loading care homes…</p></div>
+
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <p id="freshness">Checking when this was last updated…</p>
+    <p>Data from the Care Quality Commission under the Open Government Licence. CareBeacon shows CQC's own ratings and registration status; it does not inspect care homes itself and this is not care or medical advice. Always check a home in person before making a decision.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+
+  function attr(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  var RATING_RANK = { "Inadequate": 0, "Requires improvement": 1, "Good": 2, "Outstanding": 3 };
+
+  function badgeClass(rating) {
+    // Only Outstanding/Good/Inadequate are single words that work as CSS
+    // classes directly. "Requires improvement" has a space, so it's styled
+    // via the data-rating attribute selector instead (see CSS).
+    if (!rating || !(rating in RATING_RANK)) return "unrated";
+    return rating.indexOf(" ") === -1 ? rating : "";
+  }
+
+  var state = { locations: [], changes: [], region: "" };
+
+  function renderChanges() {
+    var body = document.getElementById("changes-body");
+    if (!state.changes.length) {
+      body.innerHTML = '<p class="state">No changes recorded yet.</p>';
+      return;
+    }
+    var items = state.changes.slice(-8).reverse().map(function (c) {
+      var label;
+      if (c.type === "downgrade") label = attr(c.from) + " &rarr; " + attr(c.to);
+      else if (c.type === "upgrade") label = attr(c.from) + " &rarr; " + attr(c.to);
+      else if (c.type === "closed") label = "lost its registration";
+      else if (c.type === "reopened") label = "registered again";
+      else if (c.type === "rated") label = "first rated: " + attr(c.to);
+      else label = "";
+      return (
+        '<li>' +
+          '<span class="change-date">' + attr(c.date) + '</span>' +
+          '<span class="change-type ' + attr(c.type) + '">' + attr(c.type) + '</span>' +
+          '<strong>' + attr(c.name) + '</strong>' +
+          '<span class="place">' + attr(c.region || "") + '</span>' +
+          '<span>' + label + '</span>' +
+        '</li>'
+      );
+    }).join("");
+    body.innerHTML = '<ul class="change-list">' + items + '</ul>';
+  }
+
+  function populateRegions() {
+    var select = document.getElementById("region");
+    var seen = {};
+    state.locations.forEach(function (loc) { if (loc.region) seen[loc.region] = true; });
+    Object.keys(seen).sort().forEach(function (region) {
+      var opt = document.createElement("option");
+      opt.value = region; opt.textContent = region;
+      select.appendChild(opt);
+    });
+  }
+
+  function matches(loc, q, rating, region) {
+    if (rating && loc.rating !== rating) return false;
+    if (region && loc.region !== region) return false;
+    if (!q) return true;
+    var hay = ((loc.name || "") + " " + (loc.localAuthority || "") + " " + (loc.postalCode || "")).toLowerCase();
+    return hay.indexOf(q) !== -1;
+  }
+
+  function renderResults() {
+    var q = document.getElementById("q").value.trim().toLowerCase();
+    var rating = document.getElementById("rating").value;
+    var region = document.getElementById("region").value;
+
+    var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region); });
+    var countEl = document.getElementById("results-count");
+    var resultsEl = document.getElementById("results");
+
+    if (!state.locations.length) {
+      countEl.textContent = "";
+      resultsEl.innerHTML = '<p class="state">No care home data yet. Check back once the first refresh has run.</p>';
+      return;
+    }
+
+    countEl.textContent = shown.length.toLocaleString() + " of " + state.locations.length.toLocaleString() + " care homes";
+
+    if (!shown.length) {
+      resultsEl.innerHTML = '<p class="state">Nothing matches that search. Try a different name, town or local authority.</p>';
+      return;
+    }
+
+    var cards = shown.slice(0, 60).map(function (loc) {
+      var badgeCls = badgeClass(loc.rating);
+      var badge = loc.rating
+        ? '<span class="badge ' + attr(badgeCls) + '" data-rating="' + attr(loc.rating) + '">' + attr(loc.rating) + '</span>'
+        : '<span class="badge unrated">No published rating</span>';
+      // No "deregistered" flag here: site_locations.json is
+      // Registered-only by construction (see pipeline/site_export.py) and
+      // doesn't even carry the field, so every card reaching this point
+      // is a home currently operating.
+      var beds = loc.numberOfBeds ? loc.numberOfBeds + ' beds' : '';
+      return (
+        '<article class="card">' +
+          '<h3>' + attr(loc.name) + '</h3>' +
+          '<div class="place">' + attr(loc.localAuthority || '') + (loc.region ? ', ' + attr(loc.region) : '') + '</div>' +
+          badge +
+          '<div class="meta">' + attr(beds) + '</div>' +
+        '</article>'
+      );
+    }).join("");
+
+    resultsEl.innerHTML = '<div class="cards">' + cards + '</div>' +
+      (shown.length > 60 ? '<p class="state">Showing the first 60. Narrow your search to see more.</p>' : '');
+  }
+
+  function loadAll() {
+    Promise.all([
+      // site_locations.json / site_changes.json, not the pipeline's own
+      // locations.json / changes.json — those hold the full history
+      // (every location CQC has ever registered, and the complete change
+      // log) and stay in the private repo. See pipeline/site_export.py.
+      // The site export is already Registered-only and already a plain
+      // array, so no client-side filtering or dict-to-array conversion is
+      // needed here any more.
+      fetch("data/site_locations.json").then(function (r) { if (!r.ok) throw new Error("locations " + r.status); return r.json(); }),
+      fetch("data/site_changes.json").then(function (r) { if (!r.ok) throw new Error("changes " + r.status); return r.json(); }),
+      fetch("data/meta.json").then(function (r) { if (!r.ok) throw new Error("meta " + r.status); return r.json(); }).catch(function () { return null; })
+    ]).then(function (results) {
+      state.locations = results[0] || [];
+      state.changes = results[1] || [];
+      var meta = results[2];
+      var freshness = document.getElementById("freshness");
+      if (meta && meta.last_run_utc) {
+        freshness.textContent = "Last checked: " + meta.last_run_utc + " · " + state.locations.length.toLocaleString() + " registered care homes.";
+      } else {
+        freshness.textContent = state.locations.length.toLocaleString() + " registered care homes.";
+      }
+      populateRegions();
+      renderChanges();
+      renderResults();
+    }).catch(function (err) {
+      document.getElementById("results").innerHTML =
+        '<p class="state">Could not load care home data (' + attr(err.message) + '). If this is a local preview, check the data files exist.</p>';
+      document.getElementById("changes-body").innerHTML = '<p class="state">Could not load recent changes.</p>';
+    });
+  }
+
+  document.getElementById("q").addEventListener("input", renderResults);
+  document.getElementById("rating").addEventListener("change", renderResults);
+  document.getElementById("region").addEventListener("change", renderResults);
+
+  document.getElementById("theme-toggle").addEventListener("click", function () {
+    var root = document.documentElement;
+    var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("cb-theme", next); } catch (e) {}
+  });
+
+  loadAll();
+})();
+</script>
+
+</body>
+</html>
