@@ -131,6 +131,17 @@
     position: absolute; width: 1px; height: 1px; overflow: hidden;
     clip: rect(0,0,0,0); white-space: nowrap;
   }
+  .checkbox-label {
+    display: flex; align-items: center; gap: 6px; font-size: 0.9rem;
+    padding: 0 4px; white-space: nowrap;
+  }
+  .checkbox-label input { width: 16px; height: 16px; }
+  #export-csv {
+    font: inherit; padding: 10px 14px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--card-bg); color: var(--ink);
+    cursor: pointer; white-space: nowrap;
+  }
+  #export-csv:hover { border-color: var(--accent); }
 
   section.changes {
     border: 1px solid var(--border); border-radius: 12px; padding: 16px;
@@ -179,6 +190,13 @@
   .badge.Inadequate { color: var(--rating-inadequate); }
   .badge.unrated { color: var(--muted); }
   .card .meta { font-size: 0.85rem; color: var(--muted); }
+  /* Reuses the already-contrast-checked "requires improvement" amber
+     rather than a new colour, since this is the same kind of caution,
+     not a rating in itself: an ongoing regulatory concern that stands
+     independent of whatever the last inspection said. */
+  .manager-flag {
+    font-size: 0.82rem; font-weight: 600; color: var(--rating-reqimprove);
+  }
 
   .state { padding: 40px 0; text-align: center; color: var(--muted); }
 
@@ -222,6 +240,16 @@
     border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px;
     font-size: 0.85rem;
   }
+  /* A sibling-home entry is a button, not plain text, so it gets its own
+     pill styling and the <li> around it goes unstyled — otherwise the
+     button would render as a pill nested inside a pill. */
+  .tag-list li:has(.sibling-link) { border: none; padding: 0; }
+  .sibling-link {
+    appearance: none; cursor: pointer; font: inherit; color: var(--accent);
+    border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px;
+    font-size: 0.85rem; background: var(--card-bg);
+  }
+  .sibling-link:hover { border-color: var(--accent); }
   .detail-facts { display: grid; gap: 6px; font-size: 0.92rem; }
   .detail-facts .fact-label { color: var(--muted); }
   .detail-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
@@ -281,6 +309,13 @@
     <select id="region">
       <option value="">Any region</option>
     </select>
+
+    <label class="checkbox-label">
+      <input type="checkbox" id="manager-gap-only">
+      No registered manager
+    </label>
+
+    <button type="button" id="export-csv">Export as CSV</button>
   </form>
 
   <p class="results-count" id="results-count" aria-live="polite"></p>
@@ -365,9 +400,10 @@
     });
   }
 
-  function matches(loc, q, rating, region) {
+  function matches(loc, q, rating, region, managerGapOnly) {
     if (rating && loc.rating !== rating) return false;
     if (region && loc.region !== region) return false;
+    if (managerGapOnly && !loc.registeredManagerAbsentDate) return false;
     if (!q) return true;
     var hay = ((loc.name || "") + " " + (loc.localAuthority || "") + " " + (loc.postalCode || "")).toLowerCase();
     return hay.indexOf(q) !== -1;
@@ -377,8 +413,13 @@
     var q = document.getElementById("q").value.trim().toLowerCase();
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
+    var managerGapOnly = document.getElementById("manager-gap-only").checked;
 
-    var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region); });
+    var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region, managerGapOnly); });
+    // Kept beyond this render for the CSV export button, which exports
+    // every matching row, not just the (at most 60) actually drawn as
+    // cards below.
+    state.lastFiltered = shown;
     var countEl = document.getElementById("results-count");
     var resultsEl = document.getElementById("results");
 
@@ -405,11 +446,15 @@
       // doesn't even carry the field, so every card reaching this point
       // is a home currently operating.
       var beds = loc.numberOfBeds ? loc.numberOfBeds + ' beds' : '';
+      var managerGap = loc.registeredManagerAbsentDate
+        ? '<div class="manager-flag">No registered manager since ' + attr(loc.registeredManagerAbsentDate) + '</div>'
+        : '';
       return (
         '<button type="button" class="card" data-location-id="' + attr(loc.locationId) + '">' +
           '<h3>' + attr(loc.name) + '</h3>' +
           '<div class="place">' + attr(loc.localAuthority || '') + (loc.region ? ', ' + attr(loc.region) : '') + '</div>' +
           badge +
+          managerGap +
           '<div class="meta">' + attr(beds) + '</div>' +
         '</button>'
       );
@@ -450,6 +495,23 @@
   function mapsLink(lat, lon) {
     if (lat == null || lon == null) return "";
     return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(lat + "," + lon);
+  }
+
+  var MAX_SIBLINGS_SHOWN = 6;
+
+  function findSiblings(loc) {
+    // A missing providerId must never match another missing providerId —
+    // that would silently group every independent, unaffiliated home in
+    // the country into one "operator", which is worse than showing none.
+    if (!loc.providerId) return [];
+    var siblings = [];
+    for (var i = 0; i < state.locations.length && siblings.length < MAX_SIBLINGS_SHOWN; i++) {
+      var candidate = state.locations[i];
+      if (candidate.providerId === loc.providerId && candidate.locationId !== loc.locationId) {
+        siblings.push(candidate);
+      }
+    }
+    return siblings;
   }
 
   function renderDetailBody(loc, detail) {
@@ -498,6 +560,21 @@
         }).join('') + '</div>'
       : '';
 
+    var managerGapHtml = loc.registeredManagerAbsentDate
+      ? '<p class="manager-flag" style="margin:8px 0 0;">No registered manager since ' + attr(loc.registeredManagerAbsentDate) + '</p>'
+      : '';
+
+    var siblings = findSiblings(loc);
+    var siblingsHtml = siblings.length
+      ? '<div class="detail-section"><h3>Other homes run by the same operator</h3>' +
+          '<ul class="tag-list">' + siblings.map(function (s) {
+            var badgeText = s.rating || 'No published rating';
+            return '<li><button type="button" class="sibling-link" data-location-id="' + attr(s.locationId) + '">' +
+              attr(s.name) + ' &middot; ' + attr(badgeText) + '</button></li>';
+          }).join('') + '</ul>' +
+        '</div>'
+      : '';
+
     var links = [];
     if (detail.reportUri) {
       links.push('<a href="https://www.cqc.org.uk' + attr(detail.reportUri) + '" target="_blank" rel="noopener">Read CQC\'s full report</a>');
@@ -512,11 +589,13 @@
     return (
       (address ? '<p class="detail-address">' + address + '</p>' : '') +
       badge +
+      managerGapHtml +
       factsHtml +
       '<div class="detail-section"><h3>CQC\'s rating, question by question</h3>' + kqHtml + '</div>' +
       tagSection('Specialisms', detail.specialisms) +
       tagSection('Service types', detail.serviceTypes) +
       tagSection('Registered to provide', detail.regulatedActivities) +
+      siblingsHtml +
       (links.length ? '<div class="detail-links">' + links.join('') + '</div>' : '') +
       '<p class="detail-caveat">This is CQC\'s own published data, not our assessment. We do not inspect care homes ' +
         'or recommend one over another. Always visit in person before making a decision.</p>'
@@ -560,6 +639,10 @@
   document.getElementById("results").addEventListener("click", function (e) {
     var card = e.target.closest(".card");
     if (card) openDetail(card.getAttribute("data-location-id"));
+  });
+  document.getElementById("detail-body").addEventListener("click", function (e) {
+    var sib = e.target.closest(".sibling-link");
+    if (sib) openDetail(sib.getAttribute("data-location-id"));
   });
   document.getElementById("detail-close").addEventListener("click", closeDetail);
   document.getElementById("detail-overlay").addEventListener("click", function (e) {
@@ -627,6 +710,7 @@
     if (params.has("q")) document.getElementById("q").value = params.get("q");
     if (params.has("rating")) document.getElementById("rating").value = params.get("rating");
     if (params.has("region")) document.getElementById("region").value = params.get("region");
+    if (params.get("managerGap") === "1") document.getElementById("manager-gap-only").checked = true;
   }
 
   function updateUrlFromFilters() {
@@ -637,9 +721,11 @@
     var q = document.getElementById("q").value.trim();
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
+    var managerGapOnly = document.getElementById("manager-gap-only").checked;
     if (q) params.set("q", q);
     if (rating) params.set("rating", rating);
     if (region) params.set("region", region);
+    if (managerGapOnly) params.set("managerGap", "1");
     var query = params.toString();
     // replaceState, not pushState: every keystroke updating browser
     // history would make the back button useless for actual navigation.
@@ -654,6 +740,44 @@
   document.getElementById("q").addEventListener("input", onFilterChange);
   document.getElementById("rating").addEventListener("change", onFilterChange);
   document.getElementById("region").addEventListener("change", onFilterChange);
+  document.getElementById("manager-gap-only").addEventListener("change", onFilterChange);
+
+  var CSV_COLUMNS = [
+    ["name", "Name"], ["rating", "Rating"], ["ratingDate", "Rating date"],
+    ["localAuthority", "Local authority"], ["region", "Region"],
+    ["postalCode", "Postcode"], ["numberOfBeds", "Beds"],
+    ["registeredManagerAbsentDate", "No registered manager since"],
+  ];
+
+  function csvField(value) {
+    var s = value == null ? "" : String(value);
+    // Quote whenever the field could otherwise be misread: a comma would
+    // split into extra columns, a quote or newline would break the row.
+    // Doubling an embedded quote is CSV's own escape for a literal one.
+    if (/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
+    return s;
+  }
+
+  function exportCsv() {
+    var rows = state.lastFiltered || [];
+    if (!rows.length) return;
+    var header = CSV_COLUMNS.map(function (c) { return csvField(c[1]); }).join(",");
+    var lines = rows.map(function (loc) {
+      return CSV_COLUMNS.map(function (c) { return csvField(loc[c[0]]); }).join(",");
+    });
+    var csv = [header].concat(lines).join("\r\n");
+    var blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement("a");
+    a.href = url;
+    a.download = "carebeacon-" + rows.length + "-care-homes.csv";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  document.getElementById("export-csv").addEventListener("click", exportCsv);
 
   document.getElementById("theme-toggle").addEventListener("click", function () {
     var root = document.documentElement;
