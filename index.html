@@ -322,7 +322,32 @@
     color: var(--muted); font-size: 0.85rem;
   }
   footer.site p { margin: 0 0 8px; }
+
+  /* Map view. Leaflet is the one deliberate exception to "no framework"
+     on this site — it is a display library, not an app framework or a
+     build step, the same category as a webfont or an icon set, and
+     there is no realistic way to draw an interactive map of England
+     without either this or writing map rendering from scratch. */
+  .view-toggle { display: flex; gap: 8px; margin-bottom: 14px; }
+  .view-toggle button {
+    font: inherit; padding: 8px 14px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--card-bg); color: var(--ink);
+    cursor: pointer;
+  }
+  .view-toggle button[aria-pressed="true"] {
+    background: var(--accent-bg); color: var(--accent-fill-text); border-color: var(--accent-bg);
+  }
+  #map { height: 560px; border-radius: 12px; border: 1px solid var(--border); }
+  #map[hidden], #results[hidden] { display: none; }
+  .leaflet-popup-content { font-family: inherit; }
+  .map-popup h4 { margin: 0 0 4px; font-size: 0.95rem; }
+  .map-popup button {
+    font: inherit; margin-top: 6px; padding: 4px 10px; border: 1px solid var(--border);
+    border-radius: 6px; background: var(--paper); cursor: pointer; font-size: 0.85rem;
+  }
 </style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 </head>
 <body>
 
@@ -387,8 +412,14 @@
     <button type="button" id="clear-shortlist">Clear shortlist</button>
   </div>
 
+  <div class="view-toggle" role="group" aria-label="Switch between list and map view">
+    <button type="button" id="view-list" aria-pressed="true">List</button>
+    <button type="button" id="view-map" aria-pressed="false">Map</button>
+  </div>
+
   <p class="results-count" id="results-count" aria-live="polite"></p>
   <div id="results"><p class="state">Loading care homes…</p></div>
+  <div id="map" hidden></div>
 
 </main>
 
@@ -409,6 +440,8 @@
   </div>
 </footer>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 (function () {
   "use strict";
@@ -429,7 +462,7 @@
     return rating.indexOf(" ") === -1 ? rating : "";
   }
 
-  var state = { locations: [], changes: [], region: "", nearMe: null };
+  var state = { locations: [], changes: [], region: "", nearMe: null, view: "list" };
 
   // --- Shortlist (saved homes) -------------------------------------------
   //
@@ -666,6 +699,93 @@
 
     resultsEl.innerHTML = '<div class="cards">' + cards + '</div>' +
       (shown.length > 60 ? '<p class="state">Showing the first 60. Narrow your search to see more.</p>' : '');
+
+    if (state.view === "map") renderMap();
+  }
+
+  // --- Map view -----------------------------------------------------------
+
+  var MAX_MAP_MARKERS = 300;
+  var leafletMap = null;
+  var mapMarkers = [];
+
+  function cssVar(name) {
+    return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+  }
+
+  function ratingColor(rating) {
+    var rank = RATING_RANK[rating];
+    if (rank === 0) return cssVar("--rating-inadequate");
+    if (rank === 1) return cssVar("--rating-reqimprove");
+    if (rank === 2) return cssVar("--rating-good");
+    if (rank === 3) return cssVar("--rating-outstanding");
+    return cssVar("--muted");
+  }
+
+  function ensureMap() {
+    if (leafletMap) return leafletMap;
+    // Centred and zoomed to show roughly all of England on first load,
+    // before anything has been searched.
+    leafletMap = L.map("map").setView([52.8, -1.5], 6);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 18,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(leafletMap);
+    return leafletMap;
+  }
+
+  function renderMap() {
+    var map = ensureMap();
+    mapMarkers.forEach(function (m) { map.removeLayer(m); });
+    mapMarkers = [];
+
+    var withCoords = (state.lastFiltered || []).filter(function (l) {
+      return l.latitude != null && l.longitude != null;
+    });
+    // A hard cap, not a suggestion: plotting every one of 15,000+ markers
+    // at once is what makes a browser tab visibly freeze, not just render
+    // slowly. Circle markers rather than Leaflet's default pin icons —
+    // no marker image assets to fetch, and colour already carries the
+    // rating without needing a legend.
+    var plotted = withCoords.slice(0, MAX_MAP_MARKERS);
+
+    plotted.forEach(function (loc) {
+      var color = ratingColor(loc.rating);
+      var marker = L.circleMarker([loc.latitude, loc.longitude], {
+        radius: 7, weight: 2, color: color, fillColor: color, fillOpacity: 0.6,
+      }).addTo(map);
+      marker.bindPopup(
+        '<div class="map-popup"><h4>' + attr(loc.name) + '</h4>' +
+        attr(loc.rating || "No published rating") +
+        '<br><button type="button" data-location-id="' + attr(loc.locationId) + '">View details</button></div>'
+      );
+      mapMarkers.push(marker);
+    });
+
+    if (plotted.length) {
+      var bounds = L.latLngBounds(plotted.map(function (l) { return [l.latitude, l.longitude]; }));
+      map.fitBounds(bounds, { padding: [30, 30], maxZoom: 13 });
+    }
+
+    document.getElementById("results-count").textContent = withCoords.length > MAX_MAP_MARKERS
+      ? "Showing " + MAX_MAP_MARKERS.toLocaleString() + " of " + withCoords.length.toLocaleString() + " on the map — narrow your search to see the rest."
+      : withCoords.length.toLocaleString() + " shown on the map";
+  }
+
+  function switchView(view) {
+    state.view = view;
+    document.getElementById("view-list").setAttribute("aria-pressed", view === "list" ? "true" : "false");
+    document.getElementById("view-map").setAttribute("aria-pressed", view === "map" ? "true" : "false");
+    document.getElementById("results").hidden = view === "map";
+    document.getElementById("map").hidden = view !== "map";
+    if (view === "map") {
+      renderMap();
+      // Leaflet miscalculates its own size if it was ever initialised
+      // while hidden, even though the container has real dimensions by
+      // the time this runs — an explicit nudge after the browser has
+      // actually laid out the now-visible container fixes it.
+      setTimeout(function () { if (leafletMap) leafletMap.invalidateSize(); }, 0);
+    }
   }
 
   // --- Detail view -----------------------------------------------------
@@ -915,6 +1035,13 @@
     renderShortlistBar();
   });
   document.getElementById("compare-shortlist").addEventListener("click", openCompare);
+
+  document.getElementById("view-list").addEventListener("click", function () { switchView("list"); });
+  document.getElementById("view-map").addEventListener("click", function () { switchView("map"); });
+  document.getElementById("map").addEventListener("click", function (e) {
+    var btn = e.target.closest(".map-popup button");
+    if (btn) openDetail(btn.getAttribute("data-location-id"));
+  });
   document.getElementById("detail-body").addEventListener("click", function (e) {
     var sib = e.target.closest(".sibling-link");
     if (sib) openDetail(sib.getAttribute("data-location-id"));
