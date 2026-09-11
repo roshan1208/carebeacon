@@ -113792,20 +113792,29 @@
   "reportUri": "/reports/d07a12a7-842b-4327-a9b6-78e198f6376d?20230317130000"
  },
  "1-120760999": {
-  "brandName": null,
-  "registrationDate": null,
-  "keyQuestionRatings": null,
-  "addressLine1": null,
-  "town": null,
-  "latitude": null,
-  "longitude": null,
-  "website": null,
-  "specialisms": null,
-  "serviceTypes": null,
-  "regulatedActivities": null,
-  "lastInspectionDate": null,
-  "lastReportDate": null,
-  "reportUri": null
+  "brandName": "BRAND Swanton Care and Community",
+  "registrationDate": "2010-12-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "11 The Cedars",
+  "town": "Sunderland",
+  "latitude": 54.8918813,
+  "longitude": -1.3799673,
+  "website": "www.barchester.com",
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Residential homes"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require nursing or personal care"
+  ],
+  "lastInspectionDate": "2018-09-06",
+  "lastReportDate": "2018-10-06",
+  "reportUri": "/reports/3615037b-a91b-4533-9da4-deed1b545f8a?20211030120000"
  },
  "1-120761013": {
   "brandName": "BRAND Swanton Care and Community",

@@ -142,6 +142,24 @@
     cursor: pointer; white-space: nowrap;
   }
   #export-csv:hover { border-color: var(--accent); }
+  .nearme-row {
+    flex-basis: 100%; display: flex; align-items: center; gap: 8px;
+    flex-wrap: wrap; padding-top: 4px;
+  }
+  .nearme-row input[type="text"] {
+    font: inherit; padding: 8px 10px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--card-bg); color: var(--ink);
+    max-width: 180px;
+  }
+  #find-near-me, #clear-near-me {
+    font: inherit; padding: 8px 12px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--card-bg); color: var(--ink);
+    cursor: pointer;
+  }
+  #find-near-me:hover { border-color: var(--accent); }
+  #nearme-status { font-size: 0.85rem; color: var(--muted); }
+  #nearme-status.error { color: var(--rating-inadequate); }
+  .card .distance { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
 
   section.changes {
     border: 1px solid var(--border); border-radius: 12px; padding: 16px;
@@ -168,9 +186,17 @@
 
   .results-count { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+  /* The save (shortlist) button has to be a sibling of .card, not a
+     descendant — .card is itself a <button>, and a <button> nested
+     inside another <button> is invalid HTML with unpredictable click
+     behaviour in real browsers, not just a lint warning. This wrapper is
+     the grid item instead of .card directly, with the save button
+     absolutely positioned over the top-right corner of the card body. */
+  .card-wrap { position: relative; }
   .card {
     border: 1px solid var(--border); border-radius: 12px; padding: 16px;
     background: var(--card-bg); display: flex; flex-direction: column; gap: 8px;
+    height: 100%;
     /* .card is a <button> now, not an <article> — every card is clickable
        to open the detail view, so these reset the browser's default
        button chrome (Safari needs appearance:none explicitly). */
@@ -178,8 +204,28 @@
     color: inherit; width: 100%;
   }
   .card:hover { border-color: var(--accent); }
-  .card h3 { margin: 0; font-size: 1.05rem; }
+  .card h3 { margin: 0; font-size: 1.05rem; padding-right: 28px; }
   .card .place { color: var(--muted); font-size: 0.9rem; }
+  .save-toggle {
+    position: absolute; top: 14px; right: 14px; z-index: 1;
+    appearance: none; background: none; border: none; cursor: pointer;
+    font-size: 1.2rem; line-height: 1; color: var(--muted); padding: 2px;
+  }
+  .save-toggle[aria-pressed="true"] { color: var(--accent-bg); }
+  .shortlist-bar {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 14px;
+    margin-bottom: 14px; background: var(--card-bg); font-size: 0.9rem;
+  }
+  .shortlist-bar[hidden] { display: none; }
+  #shortlist-count { color: var(--muted); flex: 1 1 auto; }
+  #compare-shortlist, #clear-shortlist {
+    font: inherit; padding: 7px 12px; border: 1px solid var(--border);
+    border-radius: 8px; background: var(--paper); color: var(--ink);
+    cursor: pointer; white-space: nowrap;
+  }
+  #compare-shortlist:disabled { opacity: 0.5; cursor: default; }
+  #compare-shortlist:not(:disabled):hover, #clear-shortlist:hover { border-color: var(--accent); }
   .badge {
     display: inline-block; align-self: flex-start; font-size: 0.78rem; font-weight: 700;
     padding: 3px 10px; border-radius: 999px; border: 1px solid currentColor;
@@ -261,6 +307,15 @@
     margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border);
     font-size: 0.82rem; color: var(--muted);
   }
+  .compare-scroll { overflow-x: auto; }
+  .compare-table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  .compare-table th, .compare-table td {
+    padding: 8px 12px; border-bottom: 1px solid var(--border); text-align: left;
+    white-space: nowrap;
+  }
+  .compare-table thead th { vertical-align: bottom; }
+  .compare-table th[scope="row"] { color: var(--muted); font-weight: 600; white-space: nowrap; }
+  .compare-table .sibling-link { white-space: normal; }
 
   footer.site {
     border-top: 1px solid var(--border); margin-top: 40px; padding: 24px 0;
@@ -316,7 +371,21 @@
     </label>
 
     <button type="button" id="export-csv">Export as CSV</button>
+
+    <div class="nearme-row">
+      <label class="visually-hidden" for="postcode">Find care homes near a postcode</label>
+      <input id="postcode" type="text" placeholder="Postcode, e.g. SW1A 1AA" autocomplete="off">
+      <button type="button" id="find-near-me">Sort by distance</button>
+      <button type="button" id="clear-near-me" hidden>Clear</button>
+      <span id="nearme-status" role="status" aria-live="polite"></span>
+    </div>
   </form>
+
+  <div class="shortlist-bar" id="shortlist-bar" hidden>
+    <span id="shortlist-count"></span>
+    <button type="button" id="compare-shortlist" disabled>Compare</button>
+    <button type="button" id="clear-shortlist">Clear shortlist</button>
+  </div>
 
   <p class="results-count" id="results-count" aria-live="polite"></p>
   <div id="results"><p class="state">Loading care homes…</p></div>
@@ -360,7 +429,51 @@
     return rating.indexOf(" ") === -1 ? rating : "";
   }
 
-  var state = { locations: [], changes: [], region: "" };
+  var state = { locations: [], changes: [], region: "", nearMe: null };
+
+  // --- Shortlist (saved homes) -------------------------------------------
+  //
+  // localStorage, not a server: this is a personal, private list on one
+  // person's device, and there is no backend to store it on anyway. It
+  // deliberately does not sync across devices — that would need accounts,
+  // which is a much bigger thing to take on than "let someone save a
+  // shortlist while comparing options".
+
+  var SHORTLIST_KEY = "cb-shortlist";
+
+  function getShortlist() {
+    try {
+      var raw = localStorage.getItem(SHORTLIST_KEY);
+      return raw ? JSON.parse(raw) : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function isShortlisted(locationId) {
+    return getShortlist().indexOf(locationId) !== -1;
+  }
+
+  function toggleShortlist(locationId) {
+    var list = getShortlist();
+    var i = list.indexOf(locationId);
+    if (i === -1) list.push(locationId); else list.splice(i, 1);
+    try { localStorage.setItem(SHORTLIST_KEY, JSON.stringify(list)); } catch (e) {}
+    renderResults();
+    renderShortlistBar();
+  }
+
+  function renderShortlistBar() {
+    var list = getShortlist();
+    var bar = document.getElementById("shortlist-bar");
+    if (!list.length) { bar.hidden = true; return; }
+    bar.hidden = false;
+    var names = list.map(findLocation).filter(Boolean).map(function (l) { return l.name; });
+    document.getElementById("shortlist-count").textContent =
+      list.length + (list.length === 1 ? " home saved" : " homes saved") +
+      (names.length ? ": " + names.join(", ") : "");
+    document.getElementById("compare-shortlist").disabled = list.length < 2;
+  }
 
   function renderChanges() {
     var body = document.getElementById("changes-body");
@@ -400,6 +513,72 @@
     });
   }
 
+  // --- Near me (postcode distance search) -------------------------------
+  //
+  // postcodes.io is a free, keyless, CORS-enabled UK postcode lookup —
+  // no server-side proxy needed, consistent with "no backend" for the
+  // rest of this site. Distance is a straight-line (great-circle)
+  // figure, not a driving distance, and the UI says so rather than
+  // implying more precision than a Haversine formula actually gives.
+
+  var EARTH_RADIUS_MILES = 3958.8;
+
+  function haversineMiles(lat1, lon1, lat2, lon2) {
+    var toRad = function (deg) { return (deg * Math.PI) / 180; };
+    var dLat = toRad(lat2 - lat1);
+    var dLon = toRad(lon2 - lon1);
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+      Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return EARTH_RADIUS_MILES * c;
+  }
+
+  function geocodePostcode(postcode) {
+    var clean = postcode.trim();
+    if (!clean) return Promise.reject(new Error("Enter a postcode."));
+    return fetch("https://api.postcodes.io/postcodes/" + encodeURIComponent(clean))
+      .then(function (r) {
+        if (!r.ok) throw new Error("Postcode not found. Check it and try again.");
+        return r.json();
+      })
+      .then(function (body) {
+        var result = body && body.result;
+        if (!result) throw new Error("Postcode not found. Check it and try again.");
+        return { latitude: result.latitude, longitude: result.longitude, postcode: result.postcode };
+      });
+  }
+
+  function setNearMeStatus(message, isError) {
+    var el = document.getElementById("nearme-status");
+    el.textContent = message || "";
+    el.classList.toggle("error", !!isError);
+  }
+
+  function findNearMe() {
+    var input = document.getElementById("postcode").value;
+    setNearMeStatus("Looking up that postcode…", false);
+    geocodePostcode(input).then(function (point) {
+      state.nearMe = point;
+      document.getElementById("postcode").value = point.postcode;
+      document.getElementById("clear-near-me").hidden = false;
+      setNearMeStatus("Sorted by distance from " + point.postcode + ".", false);
+      renderResults();
+      updateUrlFromFilters();
+    }).catch(function (err) {
+      setNearMeStatus(err.message, true);
+    });
+  }
+
+  function clearNearMe() {
+    state.nearMe = null;
+    document.getElementById("postcode").value = "";
+    document.getElementById("clear-near-me").hidden = true;
+    setNearMeStatus("", false);
+    renderResults();
+    updateUrlFromFilters();
+  }
+
   function matches(loc, q, rating, region, managerGapOnly) {
     if (rating && loc.rating !== rating) return false;
     if (region && loc.region !== region) return false;
@@ -416,6 +595,19 @@
     var managerGapOnly = document.getElementById("manager-gap-only").checked;
 
     var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region, managerGapOnly); });
+
+    if (state.nearMe) {
+      // Homes without published coordinates (rare, but real — a small
+      // number of records have no onspd lat/long) sort to the very end
+      // rather than being silently dropped from the results entirely.
+      shown.forEach(function (loc) {
+        loc._distanceMiles = (loc.latitude == null || loc.longitude == null)
+          ? Infinity
+          : haversineMiles(state.nearMe.latitude, state.nearMe.longitude, loc.latitude, loc.longitude);
+      });
+      shown.sort(function (a, b) { return a._distanceMiles - b._distanceMiles; });
+    }
+
     // Kept beyond this render for the CSV export button, which exports
     // every matching row, not just the (at most 60) actually drawn as
     // cards below.
@@ -449,14 +641,26 @@
       var managerGap = loc.registeredManagerAbsentDate
         ? '<div class="manager-flag">No registered manager since ' + attr(loc.registeredManagerAbsentDate) + '</div>'
         : '';
+      var distance = (state.nearMe && isFinite(loc._distanceMiles))
+        ? '<div class="distance">' + loc._distanceMiles.toFixed(1) + ' miles away (as the crow flies)</div>'
+        : '';
+      var saved = isShortlisted(loc.locationId);
       return (
-        '<button type="button" class="card" data-location-id="' + attr(loc.locationId) + '">' +
-          '<h3>' + attr(loc.name) + '</h3>' +
-          '<div class="place">' + attr(loc.localAuthority || '') + (loc.region ? ', ' + attr(loc.region) : '') + '</div>' +
-          badge +
-          managerGap +
-          '<div class="meta">' + attr(beds) + '</div>' +
-        '</button>'
+        '<div class="card-wrap">' +
+          '<button type="button" class="card" data-location-id="' + attr(loc.locationId) + '">' +
+            '<h3>' + attr(loc.name) + '</h3>' +
+            '<div class="place">' + attr(loc.localAuthority || '') + (loc.region ? ', ' + attr(loc.region) : '') + '</div>' +
+            badge +
+            distance +
+            managerGap +
+            '<div class="meta">' + attr(beds) + '</div>' +
+          '</button>' +
+          '<button type="button" class="save-toggle" data-location-id="' + attr(loc.locationId) + '" ' +
+            'aria-pressed="' + (saved ? 'true' : 'false') + '" ' +
+            'aria-label="' + (saved ? 'Remove from shortlist' : 'Save to shortlist') + '">' +
+            (saved ? '★' : '☆') +
+          '</button>' +
+        '</div>'
       );
     }).join("");
 
@@ -583,7 +787,7 @@
       var href = /^https?:\/\//i.test(detail.website) ? detail.website : 'https://' + detail.website;
       links.push('<a href="' + attr(href) + '" target="_blank" rel="noopener">Visit their website</a>');
     }
-    var mapHref = mapsLink(detail.latitude, detail.longitude);
+    var mapHref = mapsLink(loc.latitude, loc.longitude);
     if (mapHref) links.push('<a href="' + attr(mapHref) + '" target="_blank" rel="noopener">View on a map</a>');
 
     return (
@@ -627,6 +831,69 @@
     });
   }
 
+  var COMPARE_ROWS = [
+    { label: "Rating", get: function (h, d) {
+        return h.rating
+          ? '<span class="badge ' + attr(badgeClass(h.rating)) + '" data-rating="' + attr(h.rating) + '">' + attr(h.rating) + '</span>'
+          : '<span class="badge unrated">No published rating</span>';
+      } },
+    { label: "No registered manager", get: function (h) {
+        return h.registeredManagerAbsentDate ? 'Since ' + attr(h.registeredManagerAbsentDate) : '—';
+      } },
+    { label: "Beds", get: function (h) { return h.numberOfBeds != null ? String(h.numberOfBeds) : '—'; } },
+    { label: "Local authority", get: function (h) { return attr(h.localAuthority || '—'); } },
+    { label: "Region", get: function (h) { return attr(h.region || '—'); } },
+    { label: "Run by", get: function (h, d) { return attr((d && d.brandName) || '—'); } },
+    { label: "Specialisms", get: function (h, d) {
+        return (d && d.specialisms && d.specialisms.length) ? d.specialisms.map(attr).join(', ') : '—';
+      } },
+    { label: "Registered with CQC since", get: function (h, d) { return attr((d && d.registrationDate) || '—'); } },
+    { label: "Distance", get: function (h) {
+        return (state.nearMe && isFinite(h._distanceMiles)) ? h._distanceMiles.toFixed(1) + ' miles' : '—';
+      } },
+  ];
+
+  function renderCompareBody(homes, details) {
+    var headerCells = homes.map(function (h) {
+      return '<th scope="col"><button type="button" class="sibling-link" data-location-id="' + attr(h.locationId) + '">' + attr(h.name) + '</button></th>';
+    }).join('');
+
+    var bodyRows = COMPARE_ROWS.map(function (row) {
+      var cells = homes.map(function (h) {
+        var d = details[h.locationId] || {};
+        return '<td>' + row.get(h, d) + '</td>';
+      }).join('');
+      return '<tr><th scope="row">' + attr(row.label) + '</th>' + cells + '</tr>';
+    }).join('');
+
+    return (
+      '<div class="compare-scroll"><table class="compare-table">' +
+        '<thead><tr><th scope="col"></th>' + headerCells + '</tr></thead>' +
+        '<tbody>' + bodyRows + '</tbody>' +
+      '</table></div>' +
+      '<p class="detail-caveat">This is CQC\'s own published data, not our assessment. We do not inspect care homes ' +
+        'or recommend one over another. Always visit in person before making a decision.</p>'
+    );
+  }
+
+  function openCompare() {
+    var homes = getShortlist().map(findLocation).filter(Boolean);
+    if (homes.length < 2) return;
+
+    var overlay = document.getElementById("detail-overlay");
+    var bodyEl = document.getElementById("detail-body");
+    document.getElementById("detail-name").textContent = "Comparing " + homes.length + " homes";
+    bodyEl.innerHTML = '<p class="state">Loading detail…</p>';
+    overlay.hidden = false;
+    document.getElementById("detail-close").focus();
+
+    fetchDetailsOnce().then(function (details) {
+      bodyEl.innerHTML = renderCompareBody(homes, details);
+    }).catch(function () {
+      bodyEl.innerHTML = renderCompareBody(homes, {});
+    });
+  }
+
   function closeDetail() {
     var overlay = document.getElementById("detail-overlay");
     if (overlay.hidden) return;
@@ -637,9 +904,17 @@
   }
 
   document.getElementById("results").addEventListener("click", function (e) {
+    var save = e.target.closest(".save-toggle");
+    if (save) { toggleShortlist(save.getAttribute("data-location-id")); return; }
     var card = e.target.closest(".card");
     if (card) openDetail(card.getAttribute("data-location-id"));
   });
+  document.getElementById("clear-shortlist").addEventListener("click", function () {
+    try { localStorage.removeItem(SHORTLIST_KEY); } catch (e) {}
+    renderResults();
+    renderShortlistBar();
+  });
+  document.getElementById("compare-shortlist").addEventListener("click", openCompare);
   document.getElementById("detail-body").addEventListener("click", function (e) {
     var sib = e.target.closest(".sibling-link");
     if (sib) openDetail(sib.getAttribute("data-location-id"));
@@ -685,6 +960,7 @@
       restoreFiltersFromUrl();
       renderChanges();
       renderResults();
+      renderShortlistBar();
 
       // Deep link support: a shared "?home=<id>" URL opens straight to
       // that care home's detail view once the data it needs has loaded.
@@ -711,6 +987,14 @@
     if (params.has("rating")) document.getElementById("rating").value = params.get("rating");
     if (params.has("region")) document.getElementById("region").value = params.get("region");
     if (params.get("managerGap") === "1") document.getElementById("manager-gap-only").checked = true;
+    if (params.has("near")) {
+      // Re-geocodes rather than trusting a lat/long baked into the URL —
+      // a URL is copy-pasted and reused far longer than a geocode result
+      // should be trusted blindly, and re-running it costs one small,
+      // free API call.
+      document.getElementById("postcode").value = params.get("near");
+      findNearMe();
+    }
   }
 
   function updateUrlFromFilters() {
@@ -726,6 +1010,7 @@
     if (rating) params.set("rating", rating);
     if (region) params.set("region", region);
     if (managerGapOnly) params.set("managerGap", "1");
+    if (state.nearMe) params.set("near", state.nearMe.postcode);
     var query = params.toString();
     // replaceState, not pushState: every keystroke updating browser
     // history would make the back button useless for actual navigation.
@@ -741,6 +1026,12 @@
   document.getElementById("rating").addEventListener("change", onFilterChange);
   document.getElementById("region").addEventListener("change", onFilterChange);
   document.getElementById("manager-gap-only").addEventListener("change", onFilterChange);
+
+  document.getElementById("find-near-me").addEventListener("click", findNearMe);
+  document.getElementById("clear-near-me").addEventListener("click", clearNearMe);
+  document.getElementById("postcode").addEventListener("keydown", function (e) {
+    if (e.key === "Enter") { e.preventDefault(); findNearMe(); }
+  });
 
   var CSV_COLUMNS = [
     ["name", "Name"], ["rating", "Rating"], ["ratingDate", "Rating date"],
@@ -761,9 +1052,20 @@
   function exportCsv() {
     var rows = state.lastFiltered || [];
     if (!rows.length) return;
-    var header = CSV_COLUMNS.map(function (c) { return csvField(c[1]); }).join(",");
+    // Distance is only meaningful, and only present, once a "near me"
+    // search has run — added as an extra column rather than always
+    // present and usually empty.
+    var columns = state.nearMe
+      ? CSV_COLUMNS.concat([["_distanceMilesFormatted", "Miles away (as the crow flies)"]])
+      : CSV_COLUMNS;
+    if (state.nearMe) {
+      rows.forEach(function (loc) {
+        loc._distanceMilesFormatted = isFinite(loc._distanceMiles) ? loc._distanceMiles.toFixed(1) : "";
+      });
+    }
+    var header = columns.map(function (c) { return csvField(c[1]); }).join(",");
     var lines = rows.map(function (loc) {
-      return CSV_COLUMNS.map(function (c) { return csvField(loc[c[0]]); }).join(",");
+      return columns.map(function (c) { return csvField(loc[c[0]]); }).join(",");
     });
     var csv = [header].concat(lines).join("\r\n");
     var blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
