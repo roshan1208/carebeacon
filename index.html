@@ -317,6 +317,26 @@
   .compare-table th[scope="row"] { color: var(--muted); font-weight: 600; white-space: nowrap; }
   .compare-table .sibling-link { white-space: normal; }
 
+  .trends-intro h2 { margin: 0 0 4px; }
+  .trends-intro .lede { color: var(--muted); margin: 0 0 20px; }
+  .trend-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 24px; }
+  .trend-stat {
+    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    background: var(--card-bg); text-align: center;
+  }
+  .trend-number { font-size: 1.8rem; font-weight: 700; }
+  .trend-label { font-size: 0.85rem; color: var(--muted); margin-top: 4px; }
+  #trends .detail-section { margin-top: 24px; }
+  #trends .detail-section h3 {
+    font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--muted); margin: 0 0 10px;
+  }
+  .change-list-simple { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .change-list-simple li {
+    border-top: 1px solid var(--border); padding-top: 8px; font-size: 0.92rem;
+  }
+  .change-list-simple li:first-child { border-top: none; padding-top: 0; }
+
   footer.site {
     border-top: 1px solid var(--border); margin-top: 40px; padding: 24px 0;
     color: var(--muted); font-size: 0.85rem;
@@ -412,14 +432,16 @@
     <button type="button" id="clear-shortlist">Clear shortlist</button>
   </div>
 
-  <div class="view-toggle" role="group" aria-label="Switch between list and map view">
+  <div class="view-toggle" role="group" aria-label="Switch between list, map and trends view">
     <button type="button" id="view-list" aria-pressed="true">List</button>
     <button type="button" id="view-map" aria-pressed="false">Map</button>
+    <button type="button" id="view-trends" aria-pressed="false">Trends</button>
   </div>
 
   <p class="results-count" id="results-count" aria-live="polite"></p>
   <div id="results"><p class="state">Loading care homes…</p></div>
   <div id="map" hidden></div>
+  <div id="trends" hidden></div>
 
 </main>
 
@@ -533,6 +555,68 @@
       );
     }).join("");
     body.innerHTML = '<ul class="change-list">' + items + '</ul>';
+  }
+
+  var TREND_TYPE_ORDER = ["downgrade", "closed", "upgrade", "reopened", "rated"];
+  var TREND_TYPE_LABELS = {
+    downgrade: "Downgraded", closed: "Lost registration",
+    upgrade: "Upgraded", reopened: "Re-registered", rated: "First rated",
+  };
+
+  function renderTrends() {
+    var changes = state.changes || [];
+    var container = document.getElementById("trends");
+
+    if (!changes.length) {
+      container.innerHTML = '<div class="trends-intro"><h2>What changed, last 90 days</h2>' +
+        '<p class="state">No changes recorded in this window yet.</p></div>';
+      return;
+    }
+
+    var byType = {};
+    var byRegionConcern = {};
+    changes.forEach(function (c) {
+      byType[c.type] = (byType[c.type] || 0) + 1;
+      if ((c.type === "downgrade" || c.type === "closed") && c.region) {
+        byRegionConcern[c.region] = (byRegionConcern[c.region] || 0) + 1;
+      }
+    });
+
+    var statCards = TREND_TYPE_ORDER.filter(function (t) { return byType[t]; }).map(function (t) {
+      return '<div class="trend-stat"><div class="trend-number">' + byType[t] + '</div>' +
+        '<div class="trend-label">' + attr(TREND_TYPE_LABELS[t]) + '</div></div>';
+    }).join("");
+
+    var regionRows = Object.keys(byRegionConcern)
+      .sort(function (a, b) { return byRegionConcern[b] - byRegionConcern[a]; })
+      .slice(0, 10)
+      .map(function (region) {
+        return '<tr><td>' + attr(region) + '</td><td>' + byRegionConcern[region] + '</td></tr>';
+      }).join("");
+
+    var closures = changes.filter(function (c) { return c.type === "closed"; })
+      .slice(-15).reverse()
+      .map(function (c) {
+        return '<li><span class="change-date">' + attr(c.date) + '</span> &nbsp;<strong>' + attr(c.name) +
+          '</strong> &nbsp;<span class="place">' + attr(c.region || "") + '</span></li>';
+      }).join("");
+
+    container.innerHTML =
+      '<div class="trends-intro"><h2>What changed, last 90 days</h2>' +
+      '<p class="lede">Aggregated from every change CareBeacon has recorded across England’s care homes. ' +
+      'CQC does not publish this view anywhere itself — it shows today’s ratings, never the trend.</p></div>' +
+      '<div class="trend-stats">' + statCards + '</div>' +
+      (regionRows
+        ? '<div class="detail-section"><h3>Most downgrades and lost registrations, by region</h3>' +
+          '<table class="compare-table"><thead><tr><th scope="col">Region</th><th scope="col">Count</th></tr></thead>' +
+          '<tbody>' + regionRows + '</tbody></table></div>'
+        : "") +
+      (closures
+        ? '<div class="detail-section"><h3>Homes that lost their registration</h3>' +
+          '<ul class="change-list-simple">' + closures + '</ul></div>'
+        : "") +
+      '<p class="detail-caveat">Based on a rolling 90-day window CareBeacon itself has observed, not a CQC report. ' +
+      'A quiet period here reflects fewer changes recorded, not necessarily fewer problems.</p>';
   }
 
   function populateRegions() {
@@ -776,8 +860,21 @@
     state.view = view;
     document.getElementById("view-list").setAttribute("aria-pressed", view === "list" ? "true" : "false");
     document.getElementById("view-map").setAttribute("aria-pressed", view === "map" ? "true" : "false");
-    document.getElementById("results").hidden = view === "map";
+    document.getElementById("view-trends").setAttribute("aria-pressed", view === "trends" ? "true" : "false");
+    document.getElementById("results").hidden = view !== "list";
     document.getElementById("map").hidden = view !== "map";
+    document.getElementById("trends").hidden = view !== "trends";
+    document.getElementById("results-count").hidden = view === "trends";
+    // Trends is an aggregate over every recorded change, not the current
+    // search — showing search/filter controls above it would imply they
+    // apply, which they deliberately do not.
+    document.querySelector(".filterbar").hidden = view === "trends";
+    if (view === "trends") {
+      document.getElementById("shortlist-bar").hidden = true;
+      renderTrends();
+    } else {
+      renderShortlistBar();
+    }
     if (view === "map") {
       renderMap();
       // Leaflet miscalculates its own size if it was ever initialised
@@ -1038,6 +1135,7 @@
 
   document.getElementById("view-list").addEventListener("click", function () { switchView("list"); });
   document.getElementById("view-map").addEventListener("click", function () { switchView("map"); });
+  document.getElementById("view-trends").addEventListener("click", function () { switchView("trends"); });
   document.getElementById("map").addEventListener("click", function (e) {
     var btn = e.target.closest(".map-popup button");
     if (btn) openDetail(btn.getAttribute("data-location-id"));
