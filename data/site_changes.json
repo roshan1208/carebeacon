@@ -16,5 +16,14 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-11",
+  "locationId": "1-1548075487",
+  "name": "Ferndale Residential Home",
+  "region": "East",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
