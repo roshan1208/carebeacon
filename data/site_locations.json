@@ -24350,6 +24350,26 @@
   "postalCode": "LA3 1DJ"
  },
  {
+  "locationId": "1-614841012",
+  "name": "Camphill Village Trust - Stourbridge",
+  "rating": "Good",
+  "ratingDate": "2019-07-02",
+  "region": "West Midlands",
+  "localAuthority": "Dudley",
+  "numberOfBeds": 0,
+  "postalCode": "DY8 2AE"
+ },
+ {
+  "locationId": "1-4288805258",
+  "name": "Camphill Village Trust Shared Lives West Midlands Scheme",
+  "rating": "Good",
+  "ratingDate": "2019-05-11",
+  "region": "West Midlands",
+  "localAuthority": "Dudley",
+  "numberOfBeds": 0,
+  "postalCode": "DY8 2AE"
+ },
+ {
   "locationId": "1-123039662",
   "name": "Camplehaye Residential Home",
   "rating": "Good",
@@ -27078,6 +27098,16 @@
   "localAuthority": "Newcastle upon Tyne",
   "numberOfBeds": 21,
   "postalCode": "NE2 2DR"
+ },
+ {
+  "locationId": "1-14716902583",
+  "name": "CH&KI Healthcare LTD",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "numberOfBeds": 0,
+  "postalCode": "LS15 8DX"
  },
  {
   "locationId": "1-125862465",
@@ -39600,6 +39630,16 @@
   "postalCode": "SO51 7JL"
  },
  {
+  "locationId": "1-13355500661",
+  "name": "Durham Dental Implant Suite",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "County Durham",
+  "numberOfBeds": 0,
+  "postalCode": "DH7 8ER"
+ },
+ {
   "locationId": "1-108990568",
   "name": "Durham House Residential Care Home",
   "rating": "Good",
@@ -50930,6 +50970,16 @@
   "postalCode": "LE5 2BE"
  },
  {
+  "locationId": "1-19232978113",
+  "name": "GoodWorks Community Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 0,
+  "postalCode": "M18 7AA"
+ },
+ {
   "locationId": "1-140147233",
   "name": "Goole Hall",
   "rating": "Requires improvement",
@@ -61380,6 +61430,16 @@
   "postalCode": "LA12 8AD"
  },
  {
+  "locationId": "1-1195343715",
+  "name": "Holloway House Dental Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "TA24 5PB"
+ },
+ {
   "locationId": "1-120006369",
   "name": "Holly Bank Care Home",
   "rating": null,
@@ -62980,6 +63040,16 @@
   "postalCode": "BS7 8SU"
  },
  {
+  "locationId": "1-19887545241",
+  "name": "Horizon Care Plus Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "numberOfBeds": 0,
+  "postalCode": "CV1 3BH"
+ },
+ {
   "locationId": "1-126706612",
   "name": "Horizon Homecare (Southern) Ltd",
   "rating": null,
@@ -63138,6 +63208,16 @@
   "localAuthority": "Somerset",
   "numberOfBeds": 31,
   "postalCode": "TA2 6NU"
+ },
+ {
+  "locationId": "1-1837236531",
+  "name": "Housing 21 - Anvil Court",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "RH6 9FD"
  },
  {
   "locationId": "1-125498115",
@@ -69728,6 +69808,16 @@
   "localAuthority": "Warrington",
   "numberOfBeds": 4,
   "postalCode": "WA5 3UE"
+ },
+ {
+  "locationId": "1-1726329313",
+  "name": "Lakes Dental",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2016-02-11",
+  "region": "North West",
+  "localAuthority": "Westmorland and Furness",
+  "numberOfBeds": 0,
+  "postalCode": "LA23 2EQ"
  },
  {
   "locationId": "1-117624809",
@@ -77120,6 +77210,16 @@
   "postalCode": "EX8 2BS"
  },
  {
+  "locationId": "1-210889080",
+  "name": "Manor Lodge Dental Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Devon",
+  "numberOfBeds": 0,
+  "postalCode": "TQ9 5DF"
+ },
+ {
   "locationId": "1-27776154284",
   "name": "Manor Park",
   "rating": "Good",
@@ -82630,6 +82730,16 @@
   "postalCode": "IP4 3EZ"
  },
  {
+  "locationId": "1-117976935",
+  "name": "Moor Allerton Care Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "numberOfBeds": 0,
+  "postalCode": "LS17 5PU"
+ },
+ {
   "locationId": "1-116682569",
   "name": "Moor Court",
   "rating": "Good",
@@ -84878,6 +84988,16 @@
   "localAuthority": "Hampshire",
   "numberOfBeds": 5,
   "postalCode": "GU14 6AT"
+ },
+ {
+  "locationId": "1-569342208",
+  "name": "Nettleham Medical Practice",
+  "rating": "Requires improvement",
+  "ratingDate": "2024-01-30",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 0,
+  "postalCode": "LN2 2RS"
  },
  {
   "locationId": "1-111375413",
@@ -87298,6 +87418,16 @@
   "localAuthority": "Surrey",
   "numberOfBeds": 44,
   "postalCode": "RH4 3BL"
+ },
+ {
+  "locationId": "1-242663754",
+  "name": "Nuffield Health Stoke Poges Fitness and Wellbeing Centre",
+  "rating": "Good",
+  "ratingDate": "2020-03-24",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": null,
+  "postalCode": "SL3 6NB"
  },
  {
   "locationId": "1-114610100",
@@ -95360,6 +95490,16 @@
   "postalCode": "MK45 1HX"
  },
  {
+  "locationId": "1-11940378723",
+  "name": "Pine House Rehabilitation Unit",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "OL13 9AE"
+ },
+ {
   "locationId": "1-1047798800",
   "name": "Pine Lodge",
   "rating": "Good",
@@ -98570,6 +98710,16 @@
   "postalCode": "M26 2TP"
  },
  {
+  "locationId": "1-14858595356",
+  "name": "Radfield Home Care Guildford & Woking",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "GU7 1AQ"
+ },
+ {
   "locationId": "1-27605776382",
   "name": "Radfield Home Care Slough Maidenhead and Windsor",
   "rating": null,
@@ -101120,6 +101270,16 @@
   "postalCode": "PO19 8FX"
  },
  {
+  "locationId": "1-22162266820",
+  "name": "Right Touch Care",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Barnet",
+  "numberOfBeds": 0,
+  "postalCode": "N3 1NB"
+ },
+ {
   "locationId": "1-118120135",
   "name": "Ringstead House",
   "rating": "Good",
@@ -102722,8 +102882,8 @@
  {
   "locationId": "1-247996168",
   "name": "Rose Cottage Nursing Home",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-04-06",
+  "rating": null,
+  "ratingDate": null,
   "region": "South West",
   "localAuthority": "Swindon",
   "numberOfBeds": 21,
@@ -132260,6 +132420,16 @@
   "postalCode": "TN6 1TE"
  },
  {
+  "locationId": "1-18901743945",
+  "name": "The Visiting GP",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 0,
+  "postalCode": "TN13 3QG"
+ },
+ {
   "locationId": "1-125862803",
   "name": "The Warren",
   "rating": "Good",
@@ -132338,16 +132508,6 @@
   "localAuthority": "Hampshire",
   "numberOfBeds": 21,
   "postalCode": "PO11 0HU"
- },
- {
-  "locationId": "1-21705852775",
-  "name": "The Weir Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Herefordshire, County of",
-  "numberOfBeds": 35,
-  "postalCode": "HR4 7QF"
  },
  {
   "locationId": "1-122979585",
@@ -138980,6 +139140,16 @@
   "postalCode": "CR7 7HG"
  },
  {
+  "locationId": "1-18117564569",
+  "name": "Warm Wings Care",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Solihull",
+  "numberOfBeds": 0,
+  "postalCode": "B94 6NW"
+ },
+ {
   "locationId": "1-134889463",
   "name": "Warmere Court",
   "rating": null,
@@ -139988,6 +140158,16 @@
   "localAuthority": "Herefordshire, County of",
   "numberOfBeds": 11,
   "postalCode": "HR9 6AL"
+ },
+ {
+  "locationId": "1-21705852775",
+  "name": "Weir Gardens Nursing Home",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "numberOfBeds": 35,
+  "postalCode": "HR4 7QF"
  },
  {
   "locationId": "1-17196952321",
@@ -147848,6 +148028,16 @@
   "localAuthority": "Wolverhampton",
   "numberOfBeds": 63,
   "postalCode": "WV6 9BN"
+ },
+ {
+  "locationId": "1-486399573",
+  "name": "WS9 Dream Dental",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Walsall",
+  "numberOfBeds": 0,
+  "postalCode": "WS9 8AJ"
  },
  {
   "locationId": "1-2449164012",
