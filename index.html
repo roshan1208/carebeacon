@@ -1023,6 +1023,25 @@
     );
   }
 
+  // A Playwright pass caught this, not a guess: with the overlay open,
+  // Tab escaped it after five presses straight into the search box and
+  // filters sitting behind it — visually hidden, still fully focusable
+  // and editable. inert (not aria-hidden, not a manual keydown Tab
+  // handler) is the correct fix: it removes the rest of the page from
+  // both the tab order and the accessibility tree in one step, and is
+  // supported in every browser this site otherwise targets.
+  function trapFocusOutsideOverlay() {
+    document.querySelector("header.site").inert = true;
+    document.querySelector("main").inert = true;
+    document.querySelector("footer.site").inert = true;
+  }
+
+  function releaseFocusTrap() {
+    document.querySelector("header.site").inert = false;
+    document.querySelector("main").inert = false;
+    document.querySelector("footer.site").inert = false;
+  }
+
   function openDetail(locationId, pushHistory) {
     var loc = findLocation(locationId);
     if (!loc) return;
@@ -1034,6 +1053,7 @@
     nameEl.textContent = loc.name;
     bodyEl.innerHTML = '<p class="state">Loading more detail…</p>';
     overlay.hidden = false;
+    trapFocusOutsideOverlay();
     document.getElementById("detail-close").focus();
 
     if (pushHistory !== false) {
@@ -1102,6 +1122,7 @@
     document.getElementById("detail-name").textContent = "Comparing " + homes.length + " homes";
     bodyEl.innerHTML = '<p class="state">Loading detail…</p>';
     overlay.hidden = false;
+    trapFocusOutsideOverlay();
     document.getElementById("detail-close").focus();
 
     fetchDetailsOnce().then(function (details) {
@@ -1115,6 +1136,7 @@
     var overlay = document.getElementById("detail-overlay");
     if (overlay.hidden) return;
     overlay.hidden = true;
+    releaseFocusTrap();
     if (location.search.indexOf("home=") !== -1) {
       history.pushState(null, "", location.pathname);
     }
