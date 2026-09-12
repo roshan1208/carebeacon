@@ -551729,5 +551729,27 @@
   "lastInspectionDate": null,
   "lastReportDate": "2019-01-07",
   "reportUri": null
+ },
+ "1-1700476425": {
+  "brandName": null,
+  "registrationDate": "2014-10-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "332-334 Norris Road",
+  "town": "Sale",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2017-07-20",
+  "lastReportDate": "2017-08-18",
+  "reportUri": "/reports/fce564db-2955-4cb1-935e-c852d67b7ca6?20210122182034"
  }
 }
