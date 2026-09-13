@@ -6,6 +6,7 @@
 <title>CareBeacon — know if a care home's rating just changed</title>
 <meta name="description" content="Search every care home in England by CQC rating, and see which ones were just downgraded, upgraded, or lost their registration. Free, updated daily.">
 <link rel="canonical" href="https://roshan1208.github.io/carebeacon/">
+<link rel="alternate" type="application/atom+xml" title="CareBeacon — recent changes" href="https://roshan1208.github.io/carebeacon/feed.xml">
 
 <!-- No og:image yet — there is no logo or share image drawn for this
      project. Omitting it entirely renders better on every platform than
@@ -178,6 +179,12 @@
   }
   section.changes h2 { margin: 0 0 4px; font-size: 1.05rem; }
   section.changes p.lede { margin: 0 0 14px; color: var(--muted); font-size: 0.92rem; }
+  .feed-link {
+    display: inline-block; margin-left: 8px; padding: 2px 9px;
+    border: 1px solid var(--border); border-radius: 999px;
+    font-size: 0.8rem; text-decoration: none; white-space: nowrap;
+  }
+  .feed-link:hover { border-color: var(--accent); }
   ul.change-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
   ul.change-list li {
     display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
@@ -353,6 +360,11 @@
     color: var(--muted); font-size: 0.85rem;
   }
   footer.site p { margin: 0 0 8px; }
+  .region-nav {
+    display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline;
+    margin-bottom: 14px; font-size: 0.9rem;
+  }
+  .region-nav span { color: var(--muted); }
 
   /* Map view. Leaflet is the one deliberate exception to "no framework"
      on this site — it is a display library, not an app framework or a
@@ -433,7 +445,8 @@
 
   <section class="changes" aria-labelledby="changes-heading">
     <h2 id="changes-heading">Recently changed</h2>
-    <p class="lede">CQC publishes today's rating, not what changed. This is what changed.</p>
+    <p class="lede">CQC publishes today's rating, not what changed. This is what changed.
+      <a href="feed.xml" class="feed-link">Subscribe with a feed reader</a></p>
     <div id="changes-body"><p class="state">Loading recent changes…</p></div>
   </section>
 
@@ -508,6 +521,24 @@
 <footer class="site">
   <div class="wrap">
     <p id="freshness">Checking when this was last updated…</p>
+    <nav aria-label="Browse care homes by region" class="region-nav">
+      <span>Browse by region:</span>
+      <!-- Hardcoded: England's 9 regions are fixed and confirmed against
+           real production data (pipeline/region_pages.py), not a guess —
+           the actual CQC value is "Yorkshire & Humberside", not the more
+           obvious-looking "Yorkshire and The Humber". Each of these is a
+           real, static, server-rendered page — see pipeline/region_pages.py
+           for why that matters for search engines finding this site at all. -->
+      <a href="regions/east/">East</a>
+      <a href="regions/east-midlands/">East Midlands</a>
+      <a href="regions/london/">London</a>
+      <a href="regions/north-east/">North East</a>
+      <a href="regions/north-west/">North West</a>
+      <a href="regions/south-east/">South East</a>
+      <a href="regions/south-west/">South West</a>
+      <a href="regions/west-midlands/">West Midlands</a>
+      <a href="regions/yorkshire-and-humberside/">Yorkshire &amp; Humberside</a>
+    </nav>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. All ratings, registration status, inspection dates and specialisms shown here are CQC's own published data, reused under the Open Government Licence, not our assessment — CareBeacon does not inspect care homes itself. This is not care or medical advice, and it is not a recommendation of any home over another. Always check a home in person, and check CQC's own report directly, before making a decision.</p>
   </div>
 </footer>
