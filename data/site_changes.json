@@ -25,5 +25,50 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-13",
+  "locationId": "1-106909122",
+  "name": "Tower House",
+  "region": "South East",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-13",
+  "locationId": "1-118415328",
+  "name": "77 Gloucester Road North",
+  "region": "South West",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-13",
+  "locationId": "1-2110989496",
+  "name": "Rose House",
+  "region": "Yorkshire & Humberside",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-13",
+  "locationId": "1-260687651",
+  "name": "Bramcote Hills Care Home",
+  "region": "East Midlands",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-13",
+  "locationId": "1-8417499676",
+  "name": "Franklyn Crescent",
+  "region": "East",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
