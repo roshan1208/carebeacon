@@ -126,7 +126,18 @@
     border-radius: 8px; background: var(--card-bg); color: var(--ink);
   }
   .filterbar input[type="search"] { flex: 1 1 260px; min-width: 200px; }
-  .filterbar select { flex: 0 1 200px; }
+  /* min-width: 0 overrides the flex-item default of min-width: auto,
+     which for a <select> resolves to its longest <option>'s intrinsic
+     width — "Caring for people whose rights are restricted under the
+     Mental Health Act" is 74 characters, wide enough on its own to
+     overflow a phone screen regardless of flex-shrink or flex-wrap.
+     max-width caps it the same way on whatever row it lands on. The
+     closed box gets narrower and truncates with an ellipsis; the open
+     dropdown list is unaffected and still shows the full option text. */
+  .filterbar select {
+    flex: 0 1 200px; min-width: 0; max-width: 100%;
+    text-overflow: ellipsis; overflow: hidden; white-space: nowrap;
+  }
   label.visually-hidden {
     position: absolute; width: 1px; height: 1px; overflow: hidden;
     clip: rect(0,0,0,0); white-space: nowrap;
@@ -444,6 +455,11 @@
       <option value="">Any region</option>
     </select>
 
+    <label class="visually-hidden" for="specialism">Filter by specialism</label>
+    <select id="specialism">
+      <option value="">Any specialism</option>
+    </select>
+
     <label class="checkbox-label">
       <input type="checkbox" id="manager-gap-only">
       No registered manager
@@ -520,7 +536,14 @@
     return rating.indexOf(" ") === -1 ? rating : "";
   }
 
-  var state = { locations: [], changes: [], region: "", nearMe: null, view: "list" };
+  var state = {
+    locations: [], changes: [], region: "", nearMe: null, view: "list",
+    // detailsCache: null until the specialism filter is actually used —
+    // it needs site_details.json (heavy, lazy) to know which homes match
+    // a specialism, unlike every other filter which only needs the
+    // already-loaded card data.
+    detailsCache: null, specialismLoading: false,
+  };
 
   // --- Shortlist (saved homes) -------------------------------------------
   //
@@ -666,6 +689,15 @@
     });
   }
 
+  function populateSpecialisms(specialisms) {
+    var select = document.getElementById("specialism");
+    specialisms.forEach(function (s) {
+      var opt = document.createElement("option");
+      opt.value = s; opt.textContent = s;
+      select.appendChild(opt);
+    });
+  }
+
   // --- Near me (postcode distance search) -------------------------------
   //
   // postcodes.io is a free, keyless, CORS-enabled UK postcode lookup —
@@ -732,10 +764,18 @@
     updateUrlFromFilters();
   }
 
-  function matches(loc, q, rating, region, managerGapOnly) {
+  function matches(loc, q, rating, region, managerGapOnly, specialism) {
     if (rating && loc.rating !== rating) return false;
     if (region && loc.region !== region) return false;
     if (managerGapOnly && !loc.registeredManagerAbsentDate) return false;
+    if (specialism) {
+      // state.detailsCache is guaranteed non-null by the time matches()
+      // is called with a specialism set — renderResults() fetches it
+      // first and re-renders once loaded, never filters against a
+      // still-loading cache.
+      var detail = state.detailsCache[loc.locationId];
+      if (!detail || (detail.specialisms || []).indexOf(specialism) === -1) return false;
+    }
     if (!q) return true;
     var hay = ((loc.name || "") + " " + (loc.localAuthority || "") + " " + (loc.postalCode || "")).toLowerCase();
     return hay.indexOf(q) !== -1;
@@ -746,8 +786,31 @@
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
     var managerGapOnly = document.getElementById("manager-gap-only").checked;
+    var specialism = document.getElementById("specialism").value;
 
-    var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region, managerGapOnly); });
+    // Unlike every other filter, a specialism needs site_details.json —
+    // heavy, and deliberately not fetched until something actually
+    // requires it. Fetch it once, on first use, and re-render once it
+    // arrives rather than filtering against a still-loading cache.
+    if (specialism && !state.detailsCache) {
+      if (!state.specialismLoading) {
+        state.specialismLoading = true;
+        fetchDetailsOnce().then(function (details) {
+          state.detailsCache = details;
+          state.specialismLoading = false;
+          renderResults();
+        }).catch(function () {
+          state.specialismLoading = false;
+          document.getElementById("results").innerHTML =
+            '<p class="state">Could not load specialism data. Try a different filter, or reload the page.</p>';
+        });
+      }
+      document.getElementById("results").innerHTML = '<p class="state">Loading specialisms…</p>';
+      document.getElementById("results-count").textContent = "";
+      return;
+    }
+
+    var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region, managerGapOnly, specialism); });
 
     if (state.nearMe) {
       // Homes without published coordinates (rare, but real — a small
@@ -1233,7 +1296,11 @@
       // needed here any more.
       fetch("data/site_locations.json").then(function (r) { if (!r.ok) throw new Error("locations " + r.status); return r.json(); }),
       fetch("data/site_changes.json").then(function (r) { if (!r.ok) throw new Error("changes " + r.status); return r.json(); }),
-      fetch("data/meta.json").then(function (r) { if (!r.ok) throw new Error("meta " + r.status); return r.json(); }).catch(function () { return null; })
+      fetch("data/meta.json").then(function (r) { if (!r.ok) throw new Error("meta " + r.status); return r.json(); }).catch(function () { return null; }),
+      // Tiny (a few dozen strings) — fetched eagerly so the specialism
+      // filter has options before anyone has picked one, unlike
+      // site_details.json, which stays lazy because it is not tiny.
+      fetch("data/site_specialisms.json").then(function (r) { if (!r.ok) throw new Error("specialisms " + r.status); return r.json(); }).catch(function () { return []; })
     ]).then(function (results) {
       state.locations = results[0] || [];
       state.changes = results[1] || [];
@@ -1245,8 +1312,10 @@
         freshness.textContent = state.locations.length.toLocaleString() + " registered care homes.";
       }
       populateRegions();
-      // Must come after populateRegions(): setting the region <select>'s
-      // value before its <option>s exist silently fails to select anything.
+      populateSpecialisms(results[3] || []);
+      // Must come after populateRegions()/populateSpecialisms(): setting
+      // a <select>'s value before its <option>s exist silently fails to
+      // select anything.
       restoreFiltersFromUrl();
       renderChanges();
       renderResults();
@@ -1276,6 +1345,7 @@
     if (params.has("q")) document.getElementById("q").value = params.get("q");
     if (params.has("rating")) document.getElementById("rating").value = params.get("rating");
     if (params.has("region")) document.getElementById("region").value = params.get("region");
+    if (params.has("specialism")) document.getElementById("specialism").value = params.get("specialism");
     if (params.get("managerGap") === "1") document.getElementById("manager-gap-only").checked = true;
     if (params.has("near")) {
       // Re-geocodes rather than trusting a lat/long baked into the URL —
@@ -1295,10 +1365,12 @@
     var q = document.getElementById("q").value.trim();
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
+    var specialism = document.getElementById("specialism").value;
     var managerGapOnly = document.getElementById("manager-gap-only").checked;
     if (q) params.set("q", q);
     if (rating) params.set("rating", rating);
     if (region) params.set("region", region);
+    if (specialism) params.set("specialism", specialism);
     if (managerGapOnly) params.set("managerGap", "1");
     if (state.nearMe) params.set("near", state.nearMe.postcode);
     var query = params.toString();
@@ -1315,6 +1387,7 @@
   document.getElementById("q").addEventListener("input", onFilterChange);
   document.getElementById("rating").addEventListener("change", onFilterChange);
   document.getElementById("region").addEventListener("change", onFilterChange);
+  document.getElementById("specialism").addEventListener("change", onFilterChange);
   document.getElementById("manager-gap-only").addEventListener("change", onFilterChange);
 
   document.getElementById("find-near-me").addEventListener("click", findNearMe);
