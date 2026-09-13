@@ -1072,6 +1072,24 @@
     return siblings;
   }
 
+  // URLs of the static, server-rendered pages the pipeline generates for
+  // every home and every local authority (see pipeline/home_pages.py and
+  // pipeline/authority_pages.py). The slug rules here must stay identical
+  // to home_slug() / authority_slug() in Python: lowercase, "&" -> "and"
+  // (authorities only), any run of non-[a-z0-9] -> "-", trim "-", and for
+  // homes the locationId appended for uniqueness. Relative to the site
+  // root, which is where index.html lives.
+  function homePageUrl(loc) {
+    var s = String(loc.name || "care-home").toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    return "homes/" + s + "-" + loc.locationId + "/";
+  }
+  function areaPageUrl(authority) {
+    var s = String(authority).toLowerCase().replace(/&/g, "and")
+      .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    return "areas/" + s + "/";
+  }
+
   function renderDetailBody(loc, detail) {
     detail = detail || {};
     var badgeCls = badgeClass(loc.rating);
@@ -1134,6 +1152,14 @@
       : '';
 
     var links = [];
+    // The app never used to link out to the static pages at all — so a
+    // visitor had no shareable URL for a home beyond ?home=, and the
+    // ~15,000 generated pages had no inbound links from the one page
+    // that actually gets traffic. Both fixed by the two links below.
+    links.push('<a href="' + attr(homePageUrl(loc)) + '">Open this home\'s full page</a>');
+    if (loc.localAuthority) {
+      links.push('<a href="' + attr(areaPageUrl(loc.localAuthority)) + '">All care homes in ' + attr(loc.localAuthority) + '</a>');
+    }
     if (detail.reportUri) {
       links.push('<a href="https://www.cqc.org.uk' + attr(detail.reportUri) + '" target="_blank" rel="noopener">Read CQC\'s full report</a>');
     }
