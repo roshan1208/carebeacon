@@ -1041,9 +1041,20 @@
 
   function fetchDetailsOnce() {
     if (!detailsPromise) {
-      detailsPromise = fetch("data/site_details.json").then(function (r) {
-        if (!r.ok) throw new Error("details " + r.status);
-        return r.json();
+      // site_operators.json rides along with the details fetch: it is
+      // small (one entry per operator with 2+ homes) and only the detail
+      // view uses it — to show the operator's real name and link "Run by"
+      // to operators/<providerId>/ (see pipeline/operator_pages.py). It
+      // is optional: if it fails, the view falls back to the brand name.
+      detailsPromise = Promise.all([
+        fetch("data/site_details.json").then(function (r) {
+          if (!r.ok) throw new Error("details " + r.status);
+          return r.json();
+        }),
+        fetch("data/site_operators.json").then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; })
+      ]).then(function (results) {
+        state.operators = results[1] || {};
+        return results[0];
       });
     }
     return detailsPromise;
@@ -1131,14 +1142,22 @@
     }
 
     var facts = [];
-    if (detail.brandName) facts.push(['Run by', detail.brandName]);
+    var operator = (state.operators || {})[loc.providerId];
+    if (operator) {
+      // Third element marks the value as pre-built HTML (a link), so the
+      // renderer below must not escape it again.
+      facts.push(['Run by', '<a href="operators/' + attr(loc.providerId) + '/">' + attr(operator.name) + '</a>' +
+        ' <span class="fact-note">(' + operator.homes + ' homes)</span>', true]);
+    } else if (detail.brandName) {
+      facts.push(['Run by', detail.brandName]);
+    }
     if (loc.numberOfBeds) facts.push(['Beds', loc.numberOfBeds]);
     if (detail.registrationDate) facts.push(['Registered with CQC since', detail.registrationDate]);
     if (loc.ratingDate) facts.push(['Rating published', loc.ratingDate]);
     if (detail.lastInspectionDate) facts.push(['Last inspected', detail.lastInspectionDate]);
     var factsHtml = facts.length
       ? '<div class="detail-facts">' + facts.map(function (f) {
-          return '<div><span class="fact-label">' + attr(f[0]) + ':</span> ' + attr(f[1]) + '</div>';
+          return '<div><span class="fact-label">' + attr(f[0]) + ':</span> ' + (f[2] ? f[1] : attr(f[1])) + '</div>';
         }).join('') + '</div>'
       : '';
 
