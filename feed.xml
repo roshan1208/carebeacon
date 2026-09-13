@@ -4,7 +4,62 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-13T21:27:12Z</updated>
+  <updated>2026-09-13T21:26:17Z</updated>
   <subtitle>Care homes in England that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-8417499676/2026-09-13/closed</id>
+    <title>Franklyn Crescent: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-8417499676"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-260687651/2026-09-13/closed</id>
+    <title>Bramcote Hills Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-260687651"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>East Midlands. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2110989496/2026-09-13/closed</id>
+    <title>Rose House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-2110989496"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-118415328/2026-09-13/closed</id>
+    <title>77 Gloucester Road North: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-118415328"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-106909122/2026-09-13/closed</id>
+    <title>Tower House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-106909122"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-1548075487/2026-09-11/closed</id>
+    <title>Ferndale Residential Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-1548075487"/>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3031947508/2026-09-10/closed</id>
+    <title>Orchard Hill: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-3031947508"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>East Midlands. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-276684868/2026-09-10/closed</id>
+    <title>Wrekin Villa: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-276684868"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>West Midlands. Lost its CQC registration.</summary>
+  </entry>
 </feed>
