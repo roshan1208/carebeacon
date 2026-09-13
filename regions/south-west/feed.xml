@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in South West</title>
+  <link href="https://roshan1208.github.io/carebeacon/regions/south-west/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/regions/south-west/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/regions/south-west/feed</id>
+  <updated>2026-09-13T22:34:01Z</updated>
+  <subtitle>Care homes in South West that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-118415328/2026-09-13/closed</id>
+    <title>77 Gloucester Road North: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-118415328"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
+</feed>
