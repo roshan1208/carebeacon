@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in West Northamptonshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/areas/west-northamptonshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/areas/west-northamptonshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/areas/west-northamptonshire/feed</id>
+  <updated>2026-09-13T22:19:44Z</updated>
+  <subtitle>Care homes in West Northamptonshire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3031947508/2026-09-10/closed</id>
+    <title>Orchard Hill: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-3031947508"/>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <summary>East Midlands. Lost its CQC registration.</summary>
+  </entry>
+</feed>

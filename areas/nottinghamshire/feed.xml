@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Nottinghamshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/areas/nottinghamshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/areas/nottinghamshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/areas/nottinghamshire/feed</id>
+  <updated>2026-09-13T22:19:43Z</updated>
+  <subtitle>Care homes in Nottinghamshire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-260687651/2026-09-13/closed</id>
+    <title>Bramcote Hills Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-260687651"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <summary>East Midlands. Lost its CQC registration.</summary>
+  </entry>
+</feed>

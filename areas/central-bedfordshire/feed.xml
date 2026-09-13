@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Central Bedfordshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/areas/central-bedfordshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/areas/central-bedfordshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/areas/central-bedfordshire/feed</id>
+  <updated>2026-09-13T22:19:43Z</updated>
+  <subtitle>Care homes in Central Bedfordshire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-1548075487/2026-09-11/closed</id>
+    <title>Ferndale Residential Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-1548075487"/>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+</feed>
