@@ -553651,5 +553651,27 @@
   "lastInspectionDate": null,
   "lastReportDate": null,
   "reportUri": null
+ },
+ "1-29197234592": {
+  "brandName": null,
+  "registrationDate": "2026-08-07",
+  "keyQuestionRatings": [],
+  "addressLine1": "Litfield House Medical Centre",
+  "town": "Bristol",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
  }
 }
