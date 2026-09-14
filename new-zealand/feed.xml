@@ -4,7 +4,48 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/feed</id>
-  <updated>2026-09-14T19:34:37Z</updated>
+  <updated>2026-09-14T19:44:12Z</updated>
   <subtitle>Aged residential care premises in New Zealand whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/new</id>
+    <title>The Point Mission Bay Care Centre: Newly registered (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Newly registered (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/new</id>
+    <title>The Booms Lifecare: Newly registered (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. Newly registered (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/new</id>
+    <title>Te Whanau Lifecare: Newly registered (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Newly registered (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-home-hospital-thames/2026-09-14/cancelled</id>
+    <title>The Booms Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-home-hospital-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. No longer on the register (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-rest-home-hospital-levin/2026-09-14/cancelled</id>
+    <title>Te Whanau Rest Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-rest-home-hospital-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. No longer on the register (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/eastcliffe-on-orakei-auckland/2026-09-14/cancelled</id>
+    <title>Eastcliffe on Orakei: No longer on the register (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/eastcliffe-on-orakei-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. No longer on the register (by 14 September 2026).</summary>
+  </entry>
 </feed>

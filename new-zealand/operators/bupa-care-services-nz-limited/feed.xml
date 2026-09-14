@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/operators/bupa-care-services-nz-limited/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/operators/bupa-care-services-nz-limited/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/operators/bupa-care-services-nz-limited/feed</id>
-  <updated>2026-09-14T19:34:38Z</updated>
+  <updated>2026-09-14T19:44:12Z</updated>
   <subtitle>Aged residential care premises run by Bupa Care Services NZ Limited whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-home-hospital-thames/2026-09-14/cancelled</id>
+    <title>The Booms Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-home-hospital-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. No longer on the register (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-rest-home-hospital-levin/2026-09-14/cancelled</id>
+    <title>Te Whanau Rest Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-rest-home-hospital-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. No longer on the register (by 14 September 2026).</summary>
+  </entry>
 </feed>
