@@ -47698,6 +47698,48 @@
   "longitude": 0.9710086
  },
  {
+  "locationId": "1-24862369423",
+  "name": "Cotswold Neurology Clinics Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "GL52 3EY",
+  "providerId": "1-24596153561",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.9103699,
+  "longitude": -2.0565388
+ },
+ {
+  "locationId": "1-24862369453",
+  "name": "Cotswold Neurology Clinics Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "GL4 4BL",
+  "providerId": "1-24596153561",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.841487,
+  "longitude": -2.204319
+ },
+ {
+  "locationId": "1-24862369479",
+  "name": "Cotswold Neurology Clinics Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "GL6 9FB",
+  "providerId": "1-24596153561",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7093917,
+  "longitude": -2.1741109
+ },
+ {
   "locationId": "1-17710678118",
   "name": "Cotswolds Rise Residential Care Home",
   "rating": null,
@@ -48879,13 +48921,13 @@
   "rating": null,
   "ratingDate": null,
   "region": "South West",
-  "localAuthority": "South Gloucestershire",
+  "localAuthority": "Bristol, City of",
   "numberOfBeds": 0,
-  "postalCode": "BS34 8AT",
+  "postalCode": "BS5 0AX",
   "providerId": "1-21083300027",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.5138552,
-  "longitude": -2.5300671
+  "latitude": 51.4562584,
+  "longitude": -2.5636753
  },
  {
   "locationId": "1-2158400320",
@@ -50960,6 +51002,20 @@
   "longitude": -2.3109726
  },
  {
+  "locationId": "1-22649557627",
+  "name": "Daly Assessments Ltd Supported Living",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B15 1TR",
+  "providerId": "1-18092984175",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4714668,
+  "longitude": -1.919626
+ },
+ {
   "locationId": "1-114422826",
   "name": "Damascus House",
   "rating": "Good",
@@ -51686,6 +51742,20 @@
   "registeredManagerAbsentDate": "2026-08-20",
   "latitude": 50.927261,
   "longitude": -1.321234
+ },
+ {
+  "locationId": "1-2890688735",
+  "name": "Day to Day Care Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Bromley",
+  "numberOfBeds": 0,
+  "postalCode": "BR6 0NQ",
+  "providerId": "1-125692882",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3734459,
+  "longitude": 0.0972849
  },
  {
   "locationId": "1-13103916887",
@@ -62396,6 +62466,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.884475,
   "longitude": 0.905158
+ },
+ {
+  "locationId": "1-188879650",
+  "name": "Excel Dental Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Stockport",
+  "numberOfBeds": 0,
+  "postalCode": "SK8 1HW",
+  "providerId": "1-153000015",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.3861098,
+  "longitude": -2.2098168
  },
  {
   "locationId": "1-19376056168",
@@ -194696,6 +194780,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.8249862,
   "longitude": 0.2410426
+ },
+ {
+  "locationId": "1-1196033481",
+  "name": "Victoria House Dental Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Devon",
+  "numberOfBeds": 0,
+  "postalCode": "PL21 9AB",
+  "providerId": "1-1156044517",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.3884379,
+  "longitude": -3.9228957
  },
  {
   "locationId": "1-27748483638",

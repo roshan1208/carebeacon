@@ -1,6 +1,9 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-14T08:54:47Z",
- "total_locations": 32373,
- "total_changes_recorded": 8
+ "last_run_utc": "2026-09-14T12:08:25Z",
+ "total_locations": 32380,
+ "total_changes_recorded": 8,
+ "scotland_snapshot_label": "31 August 2026",
+ "scotland_snapshot_date": "2026-08-31",
+ "scotland_care_homes": 1380
 }

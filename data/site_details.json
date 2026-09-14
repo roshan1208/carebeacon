@@ -553678,7 +553678,7 @@
   "brandName": null,
   "registrationDate": "2025-04-16",
   "keyQuestionRatings": [],
-  "addressLine1": "37 Thornmarsh Close",
+  "addressLine1": "The Settlement, CSL, 43 Ducie Road",
   "town": "Bristol",
   "website": null,
   "specialisms": [
@@ -553742,5 +553742,172 @@
   "lastInspectionDate": "2016-11-08",
   "lastReportDate": null,
   "reportUri": "/reports/0df43d8d-a74a-4a17-851f-829e42656a11?20210211085534"
+ },
+ "1-1196033481": {
+  "brandName": null,
+  "registrationDate": "2014-01-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "29-30 Fore Street",
+  "town": "Ivybridge",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-188879650": {
+  "brandName": null,
+  "registrationDate": "2011-04-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "1a Cheadle Road",
+  "town": "Cheadle",
+  "website": "www.exceldental.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Eating disorders",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment",
+   "Services for everyone",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2022-11-16",
+  "lastReportDate": "2023-01-17",
+  "reportUri": "/reports/a2bb5092-9d61-40a2-b4c3-d750c038d59e?20230117080045"
+ },
+ "1-22649557627": {
+  "brandName": null,
+  "registrationDate": "2025-04-09",
+  "keyQuestionRatings": [],
+  "addressLine1": "Apex House",
+  "town": "Birmingham",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-24862369423": {
+  "brandName": null,
+  "registrationDate": "2025-09-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "236 Prestbury Road",
+  "town": "Cheltenham",
+  "website": "www.cotswoldneurology.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-24862369453": {
+  "brandName": null,
+  "registrationDate": "2025-09-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "Glevum Way",
+  "town": "Gloucester",
+  "website": "www.cotswoldneurology.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-24862369479": {
+  "brandName": null,
+  "registrationDate": "2025-09-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "Cirencester Road",
+  "town": "Stroud",
+  "website": "www.cotswoldneurology.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-2890688735": {
+  "brandName": null,
+  "registrationDate": "2016-09-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "350 High Street",
+  "town": "Orpington",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Eating disorders",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2017-11-22",
+  "lastReportDate": "2018-01-19",
+  "reportUri": "/reports/182c5eac-d097-4c85-8624-d6cc6f3dad2d?20200129163919"
  }
 }
