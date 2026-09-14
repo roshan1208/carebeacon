@@ -458,11 +458,13 @@
 
 <main class="wrap">
 
-  <nav class="nations" aria-label="Choose a nation">
+  <nav class="nations" aria-label="Choose a country">
     <a href="./" aria-current="page">England <span class="n" data-nation="england"></span></a>
     <a href="scotland/">Scotland <span class="n" data-nation="scotland"></span></a>
     <a href="wales/">Wales <span class="n" data-nation="wales"></span></a>
     <a href="northern-ireland/">Northern Ireland <span class="n" data-nation="ni"></span></a>
+    <a href="ireland/">Ireland <span class="n" data-nation="ireland"></span></a>
+    <a href="countries/">All countries</a>
   </nav>
 
   <section class="changes" aria-labelledby="changes-heading">
@@ -552,6 +554,8 @@
       <a href="scotland/">Scotland</a>
       <a href="northern-ireland/">Northern Ireland</a>
       <a href="wales/">Wales</a>
+      <a href="ireland/">Ireland</a>
+      <a href="countries/">All countries</a>
       <a href="about/">How it works</a>
     </nav>
     <nav aria-label="Browse care homes by region" class="region-nav">
@@ -751,7 +755,8 @@
       england: state.locations.length,
       scotland: meta && meta.scotland_care_homes,
       wales: meta && meta.wales_care_homes,
-      ni: meta && meta.ni_care_homes
+      ni: meta && meta.ni_care_homes,
+      ireland: meta && meta.ireland_care_homes
     };
     document.querySelectorAll(".nations .n").forEach(function (el) {
       var n = counts[el.getAttribute("data-nation")];

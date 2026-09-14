@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Countries covered by CareBeacon — and where no public care home register exists</title>
+<meta name="description" content="CareBeacon tracks 19,209 care homes across 5 countries against their regulators&#39; registers, and lists the countries where no public per-home register exists.">
+<link rel="canonical" href="https://roshan1208.github.io/carebeacon/countries/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Countries covered by CareBeacon — and where no public care home register exists">
+<meta property="og:description" content="CareBeacon tracks 19,209 care homes across 5 countries against their regulators&#39; registers, and lists the countries where no public per-home register exists.">
+<meta property="og:url" content="https://roshan1208.github.io/carebeacon/countries/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roshan1208.github.io/carebeacon/"}, {"@type": "ListItem", "position": 2, "name": "Countries", "item": "https://roshan1208.github.io/carebeacon/countries/"}]}</script>
+<style>
+  :root { --paper: #f6f4ee; --ink: #14231f; --muted: #4b564f; --accent: #8a5a00; --accent-bg: #e8a33d; --border: #6b6656; --card-bg: #ffffff; }
+  @media (prefers-color-scheme: dark) { :root { --paper: #0d1a17; --ink: #eef1ee; --muted: #a9b6b1; --accent: #e8a33d; --border: #527069; --card-bg: #10201c; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  a { color: var(--accent); }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
+  header { border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
+  .brand { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: var(--ink); }
+  .crumb { color: var(--muted); font-size: 0.85rem; margin: 6px 0 0; }
+  h1 { margin: 0 0 6px; font-size: 1.6rem; }
+  .count, .address { color: var(--muted); margin: 0 0 16px; }
+  .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 20px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
+  .stat { border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; background: var(--card-bg); }
+  .stat .n { font-size: 1.4rem; font-weight: 700; }
+  .stat .l { font-size: 0.82rem; color: var(--muted); }
+  .facts { display: grid; gap: 4px; font-size: 0.92rem; margin: 0 0 20px; }
+  .facts .l { color: var(--muted); }
+  section { margin-bottom: 28px; }
+  h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain li { border-top: 1px solid var(--border); padding: 8px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  ul.plain li:first-child { border-top: none; }
+  ul.plain a { color: inherit; text-decoration: none; }
+  ul.plain a:hover { text-decoration: underline; }
+  .place, .when { color: var(--muted); font-size: 0.9rem; flex: 1 1 auto; }
+  .what { flex: 1 1 100%; font-size: 0.95rem; }
+  li.t-decline .what, li.t-cancelled .what { color: #a3261f; }
+  li.t-improve .what, li.t-new .what, li.t-first_graded .what { color: #1e6b3a; }
+  @media (prefers-color-scheme: dark) { li.t-decline .what, li.t-cancelled .what { color: #ff8a80; } li.t-improve .what, li.t-new .what, li.t-first_graded .what { color: #7fd69a; } }
+  ul.chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  ul.chips li { border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; font-size: 0.85rem; }
+  ul.chips a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.chips a:hover { text-decoration-color: currentColor; }
+  ul.chips .n { color: var(--muted); }
+  .kq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px; }
+  .kq { border: 1px solid var(--border); border-radius: 10px; padding: 10px; }
+  .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
+  .badge { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; }
+  .badge.g6 { color: #1c5aa6; } .badge.g5 { color: #1e6b3a; } .badge.g4 { color: #2f6b3a; }
+  .badge.g3 { color: #a15a00; } .badge.g2 { color: #a3261f; } .badge.g1 { color: #7a1610; } .badge.g0 { color: var(--muted); }
+  @media (prefers-color-scheme: dark) { .badge.g4 { color: #7fd69a; } .badge.g5 { color: #7fd69a; } .badge.g1, .badge.g2 { color: #ff8a80; } }
+  .notice { border: 1px solid #a3261f; border-radius: 10px; padding: 10px 14px; margin: 0 0 14px; }
+  .notice strong { color: #a3261f; }
+  @media (prefers-color-scheme: dark) { .notice { border-color: #ff8a80; } .notice strong { color: #ff8a80; } }
+  .subscribe { font-size: 0.9rem; margin: 4px 0 20px; }
+  .subscribe .how, .note { color: var(--muted); }
+  .note { font-size: 0.85rem; }
+  .links { font-size: 0.92rem; margin: 0 0 20px; }
+  footer { border-top: 1px solid var(--border); padding-top: 16px; color: var(--muted); font-size: 0.85rem; }
+
+  ul.plain li strong { min-width: 9rem; }
+  ul.plain li .what { flex: 1 1 60%; }
+  ul.plain li em { font-style: normal; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
+    <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; Countries</p>
+  </header>
+  <main>
+  <h1>Countries</h1>
+  <p class="count">5 countries, 19,209 registered care homes, each tracked against its own regulator&#39;s published register. Page generated 14 September 2026.</p>
+  <p class="scale">Every country keeps its own regulator&#39;s language and scale. Grades are never compared across countries, because they measure different things in different ways.</p>
+  <section>
+    <h2>Covered</h2>
+    <ul class="plain"><li><a href="https://roshan1208.github.io/carebeacon/"><strong>England</strong></a> <span class="place">Care Quality Commission (CQC)</span><span class="what">15,335 homes &middot; Outstanding / Good / Requires improvement / Inadequate &middot; tracks ratings up or down, first ratings, registrations lost and regained, manager gaps &middot; data as of 14 September 2026</span></li><li><a href="https://roshan1208.github.io/carebeacon/scotland/"><strong>Scotland</strong></a> <span class="place">Care Inspectorate</span><span class="what">1,380 homes &middot; grades 1 (Unsatisfactory) to 6 (Excellent); summarised by the lowest &middot; tracks grade movements across five quality themes back to 2015, registrations, cancellations &middot; data as of 31 August 2026</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/"><strong>Wales</strong></a> <span class="place">Care Inspectorate Wales (CIW)</span><span class="what">1,480 homes &middot; Excellent / Good / Requires Improvement / Requires Significant Improvement across four themes; no overall rating &middot; tracks theme ratings up or down, first ratings, registrations, cancellations, responsible individuals &middot; data as of 14 September 2026</span></li><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/"><strong>Northern Ireland</strong></a> <span class="place">RQIA</span><span class="what">468 homes &middot; RQIA does not rate or grade &middot; tracks registrations, cancellations, registered manager changes, new inspections &middot; data as of 3 August 2026</span></li><li><a href="https://roshan1208.github.io/carebeacon/ireland/"><strong>Ireland</strong></a> <span class="place">HIQA</span><span class="what">546 homes &middot; HIQA does not rate or grade &middot; tracks registrations, cancellations, conditions of registration, persons in charge, notices of intention to close &middot; data as of 14 September 2026</span></li></ul>
+  </section>
+  <section>
+    <h2>Not yet covered, and why</h2>
+    <p class="note">Change tracking needs a regulator that publishes a per-home register in a machine-readable form under a licence that allows reuse. Where that exists, it is on the list to build. Where it does not, saying so is the most useful thing this page can do. Checked 14 September 2026.</p>
+    <ul class="plain"><li><strong>United States</strong><span class="what">CMS publishes a monthly register of ~14,700 nursing homes with 1–5 star ratings and a seven-year archive. <em>In progress: the next country to be added.</em></span></li><li><strong>Australia</strong><span class="what">Quarterly Star Ratings extracts (1–5 stars) for ~2,600 aged care homes; the register itself is published only as a PDF. <em>Planned.</em></span></li><li><strong>New Zealand</strong><span class="what">HealthCERT publishes a CSV of certified aged care premises with certification periods. <em>Planned.</em></span></li><li><strong>Hong Kong</strong><span class="what">The Social Welfare Department publishes a daily XML list of 1,100 licensed residential care homes with accreditation and conviction flags. <em>Planned.</em></span></li><li><strong>South Korea</strong><span class="what">The National Health Insurance Service publishes annual evaluation grades for long-term care institutions as open CSV. <em>Planned.</em></span></li><li><strong>Taiwan</strong><span class="what">Nursing homes and elderly welfare institutions are published as open CSV with evaluation results. <em>Planned.</em></span></li><li><strong>France</strong><span class="what">FINESS lists every EHPAD daily under an open licence, but no quality ratings are published as data. <em>Planned as a register without grades.</em></span></li><li><strong>Japan</strong><span class="what">The care service information system publishes twice-yearly open CSVs of every establishment, with no quality fields. <em>Planned as a register without grades.</em></span></li><li><strong>Belgium</strong><span class="what">Flanders publishes a CSV of every woonzorgcentrum; Wallonia and Brussels publish lists; inspection reports are PDFs. <em>Planned as a register without grades.</em></span></li><li><strong>Germany</strong><span class="what">Inspection grades exist but are published only inside insurers&#39; portals; the register is available to third parties on request. <em>No open dataset. Not covered.</em></span></li><li><strong>Spain</strong><span class="what">No current national per-home register is published; the last open snapshot is a 2019 research dataset. <em>No open dataset. Not covered.</em></span></li><li><strong>Italy</strong><span class="what">No national register of RSAs is published as data; a few regions publish lists. <em>No open dataset. Not covered.</em></span></li><li><strong>Canada</strong><span class="what">Ontario publishes inspection reports per home as web pages and PDFs; other provinces vary; no national data. <em>Would need scraping. Not covered.</em></span></li><li><strong>India, South Africa, Brazil, Singapore</strong><span class="what">No per-home register of care homes is published; only counts, or nothing. <em>No public register exists. Not covered.</em></span></li></ul>
+  </section>
+  </main>
+  <footer>
+    <p>CareBeacon is not affiliated with, endorsed by, or run by any regulator or care provider. This is not care or medical advice.</p>
+  </footer>
+</div>
+</body>
+</html>
