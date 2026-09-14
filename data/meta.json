@@ -1,7 +1,7 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-14T15:46:20Z",
- "total_locations": 32411,
+ "last_run_utc": "2026-09-14T16:58:34Z",
+ "total_locations": 32431,
  "total_changes_recorded": 8,
  "scotland_snapshot_label": "31 August 2026",
  "scotland_snapshot_date": "2026-08-31",
@@ -10,10 +10,10 @@
  "ni_snapshot_label": "2026-08-03",
  "ni_snapshot_date": "2026-08-03",
  "ni_care_homes": 468,
- "wales_snapshot_label": "2026-09-14 16:42",
+ "wales_snapshot_label": "2026-09-14 18:02",
  "wales_snapshot_date": "2026-09-14",
  "wales_care_homes": 1480,
- "ireland_snapshot_label": "2026-09-14 15:48",
+ "ireland_snapshot_label": "2026-09-14 17:02",
  "ireland_snapshot_date": "2026-09-14",
  "ireland_care_homes": 546
 }

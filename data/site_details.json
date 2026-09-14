@@ -120461,28 +120461,7 @@
  "1-122110079": {
   "brandName": null,
   "registrationDate": "2010-12-29",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Shurdington Road",
   "town": "Cheltenham",
   "website": "www.ctch.co.uk",
@@ -246844,28 +246823,7 @@
  "1-142730176": {
   "brandName": null,
   "registrationDate": "2011-01-18",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Effective",
-    "rating": "Requires improvement"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "128 White Hill",
   "town": "Chesham",
   "website": null,
@@ -263757,28 +263715,7 @@
  "1-148879430": {
   "brandName": null,
   "registrationDate": "2010-12-23",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "78 Fairfield Road",
   "town": "Buxton",
   "website": null,
@@ -306470,28 +306407,7 @@
  "1-19058293260": {
   "brandName": null,
   "registrationDate": "2024-04-30",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Wigan Road",
   "town": "Wigan",
   "website": null,
@@ -468870,28 +468786,7 @@
  "1-4699259099": {
   "brandName": null,
   "registrationDate": "2018-01-09",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "2 Woodside Road",
   "town": "Bradford",
   "website": null,
@@ -554430,5 +554325,474 @@
   "lastInspectionDate": "2023-12-11",
   "lastReportDate": "2023-04-06",
   "reportUri": "/reports/e324752f-333b-44fe-9f6e-8f0e04f8dbaa?20230406070236"
+ },
+ "1-116533435": {
+  "brandName": null,
+  "registrationDate": "2010-12-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "15 Ravenscroft Road",
+  "town": "Solihull",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2020-01-27",
+  "lastReportDate": "2020-02-29",
+  "reportUri": "/reports/4627c434-b5c3-46dd-9648-23f8588fb684?20200229130000"
+ },
+ "1-14284729255": {
+  "brandName": null,
+  "registrationDate": "2022-11-02",
+  "keyQuestionRatings": [],
+  "addressLine1": "21 Augustine Drive",
+  "town": "Manchester",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-15301741958": {
+  "brandName": null,
+  "registrationDate": "2023-04-04",
+  "keyQuestionRatings": [],
+  "addressLine1": "St. Marys House",
+  "town": "Lutterworth",
+  "website": "www.fossehealthcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported housing"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2018-07-13",
+  "reportUri": null
+ },
+ "1-15308166952": {
+  "brandName": null,
+  "registrationDate": "2023-03-28",
+  "keyQuestionRatings": [],
+  "addressLine1": "Suite 2 Fairways",
+  "town": "Birmingham",
+  "website": "www.goldcresthealthcareservice.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-17412610232": {
+  "brandName": null,
+  "registrationDate": "2023-09-11",
+  "keyQuestionRatings": [],
+  "addressLine1": "Mendip Court",
+  "town": "Wells",
+  "website": "www.in-caring-hands.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Learning disabilities",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-1916623288": {
+  "brandName": "BUPA Group",
+  "registrationDate": "2015-02-04",
+  "keyQuestionRatings": [],
+  "addressLine1": "149 High Street",
+  "town": "Waltham Cross",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-19404951365": {
+  "brandName": null,
+  "registrationDate": "2024-06-03",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 308 A J P BUSINESS CENTRE,152-154",
+  "town": "London",
+  "website": "www.theroofservices.com",
+  "specialisms": [
+   "Dementia",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2022-09-28",
+  "reportUri": null
+ },
+ "1-197194735": {
+  "brandName": "BUPA Group",
+  "registrationDate": "2011-11-08",
+  "keyQuestionRatings": [],
+  "addressLine1": "Deva Centre",
+  "town": "Salford",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2013-04-23",
+  "lastReportDate": null,
+  "reportUri": "/reports/f25412a7-7a16-4f15-892e-f0cd4426057f?20200129163919"
+ },
+ "1-23208318785": {
+  "brandName": null,
+  "registrationDate": "2025-10-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "30 Fore Street",
+  "town": "Ivybridge",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-257079818": {
+  "brandName": null,
+  "registrationDate": "2011-07-04",
+  "keyQuestionRatings": [],
+  "addressLine1": "22 Norwich Street",
+  "town": "Dereham",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2013-05-07",
+  "lastReportDate": null,
+  "reportUri": "/reports/bfd018b2-2e7d-4396-b605-e573547bbcab?20200129163919"
+ },
+ "1-2699737306": {
+  "brandName": "PortmanDentex",
+  "registrationDate": "2017-02-13",
+  "keyQuestionRatings": [],
+  "addressLine1": "69 Wide Bargate",
+  "town": "Boston",
+  "website": "www.hollandhousedental.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-2825874179": {
+  "brandName": null,
+  "registrationDate": "2016-08-25",
+  "keyQuestionRatings": [],
+  "addressLine1": "46 Beacontree Court",
+  "town": "Reading",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Eating disorders",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2023-04-19",
+  "lastReportDate": "2023-06-07",
+  "reportUri": "/reports/21a1e54c-fe40-440d-896c-c4c82ac9225f?20230713120000"
+ },
+ "1-2969450658": {
+  "brandName": null,
+  "registrationDate": "2016-12-22",
+  "keyQuestionRatings": [],
+  "addressLine1": "Civic Centre 3",
+  "town": "Huddersfield",
+  "website": "www.kirklees.gov.uk/beta/shared-lives/index.aspx",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Eating disorders",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Shared lives"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2018-01-17",
+  "lastReportDate": "2018-03-21",
+  "reportUri": "/reports/e5e1ce74-9e51-4cba-93e3-9f87d1085014?20211030120000"
+ },
+ "1-430553594": {
+  "brandName": null,
+  "registrationDate": "2012-07-03",
+  "keyQuestionRatings": [],
+  "addressLine1": "71 Grays Inn Road",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2014-07-31",
+  "lastReportDate": null,
+  "reportUri": "/reports/716f00cc-1d5a-4281-ac63-17de2ccf7be1?20200129163919"
+ },
+ "1-548384498": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "2-4 Steerforth Street",
+  "town": "London",
+  "website": "www.earlsfieldpractice.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2017-03-27",
+  "lastReportDate": "2017-05-02",
+  "reportUri": "/reports/44ac3770-1415-4aca-93aa-ee38b91564ab?20210119070538"
+ },
+ "1-6438199599": {
+  "brandName": null,
+  "registrationDate": "2019-02-26",
+  "keyQuestionRatings": [],
+  "addressLine1": "126-128 High Street",
+  "town": "Doncaster",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2020-03-03",
+  "lastReportDate": "2020-04-06",
+  "reportUri": "/reports/0d579b2e-7d06-4105-8cf3-6404f23744c0?20210209181423"
+ },
+ "1-6672623527": {
+  "brandName": null,
+  "registrationDate": "2019-04-02",
+  "keyQuestionRatings": [],
+  "addressLine1": "9 Church Road",
+  "town": "Stanmore",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-7382889006": {
+  "brandName": "PortmanDentex",
+  "registrationDate": "2019-09-02",
+  "keyQuestionRatings": [],
+  "addressLine1": "2 Broadbank",
+  "town": "Louth",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2016-04-06",
+  "reportUri": null
+ },
+ "1-8169461152": {
+  "brandName": null,
+  "registrationDate": "2020-02-20",
+  "keyQuestionRatings": [],
+  "addressLine1": "64-65",
+  "town": "London",
+  "website": "www.dentistry100.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-9633974680": {
+  "brandName": null,
+  "registrationDate": "2020-10-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "27 Kershaw Street",
+  "town": "Glossop",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
  }
 }
