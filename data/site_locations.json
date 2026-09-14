@@ -28518,6 +28518,20 @@
   "longitude": -3.0076748
  },
  {
+  "locationId": "1-11127550740",
+  "name": "Bridgwater Satellite Dialysis Unit",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "TA6 5JT",
+  "providerId": "1-101727389",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.1251116,
+  "longitude": -2.9972993
+ },
+ {
   "locationId": "1-262725706",
   "name": "Bridle Lodge",
   "rating": null,
@@ -56518,6 +56532,20 @@
   "longitude": 0.4212683
  },
  {
+  "locationId": "1-3491415842",
+  "name": "Early Days Baby Scan Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 0,
+  "postalCode": "WF1 2SD",
+  "providerId": "1-3133844659",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.682693,
+  "longitude": -1.501878
+ },
+ {
   "locationId": "1-15330382900",
   "name": "Earsdon Grange Care Home",
   "rating": null,
@@ -64300,6 +64328,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.8334991,
   "longitude": -2.9853128
+ },
+ {
+  "locationId": "1-15763254535",
+  "name": "Feeding Together",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 0,
+  "postalCode": "DY11 5AD",
+  "providerId": "1-14766003102",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.3930682,
+  "longitude": -2.2611583
  },
  {
   "locationId": "1-27030875322",
@@ -79296,6 +79338,20 @@
   "longitude": -1.6541777
  },
  {
+  "locationId": "1-9017767277",
+  "name": "Havant Renal Unit",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 0,
+  "postalCode": "PO9 1TR",
+  "providerId": "1-102643338",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.848823,
+  "longitude": -0.984688
+ },
+ {
   "locationId": "1-127818604",
   "name": "Havelock Court Care Home",
   "rating": "Requires improvement",
@@ -82388,6 +82444,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.3445264,
   "longitude": -0.2333354
+ },
+ {
+  "locationId": "1-128766778",
+  "name": "Hendon Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Barnet",
+  "numberOfBeds": 30,
+  "postalCode": "NW4 1RP",
+  "providerId": "1-102643500",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.593715,
+  "longitude": -0.224578
  },
  {
   "locationId": "1-3158302055",
@@ -96248,6 +96318,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.748094,
   "longitude": -3.2924969
+ },
+ {
+  "locationId": "1-14515410660",
+  "name": "Kings Norton Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 20,
+  "postalCode": "B30 3LN",
+  "providerId": "1-9926828655",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4078079,
+  "longitude": -1.924435
  },
  {
   "locationId": "1-11554703477",
@@ -110292,6 +110376,20 @@
   "longitude": -1.8870819
  },
  {
+  "locationId": "RH868",
+  "name": "Mardon Neuro-rehabilitation Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Devon",
+  "numberOfBeds": 0,
+  "postalCode": "EX2 4UD",
+  "providerId": "RH8",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.7171845,
+  "longitude": -3.5130989
+ },
+ {
   "locationId": "1-19737384302",
   "name": "Marella Lodge",
   "rating": null,
@@ -122878,6 +122976,20 @@
   "longitude": -4.2117483
  },
  {
+  "locationId": "RNS01",
+  "name": "Northampton General Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "West Northamptonshire",
+  "numberOfBeds": 0,
+  "postalCode": "NN1 5BD",
+  "providerId": "RNS",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.236068,
+  "longitude": -0.883829
+ },
+ {
   "locationId": "1-458013313",
   "name": "Northants Accommodation and Social Care",
   "rating": "Good",
@@ -123772,6 +123884,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.2232831,
   "longitude": -0.3369266
+ },
+ {
+  "locationId": "1-918228984",
+  "name": "Nuffield Health Bristol Hospital - The Chesterfield",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bristol, City of",
+  "numberOfBeds": 0,
+  "postalCode": "BS8 1BN",
+  "providerId": "1-102643516",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.453605,
+  "longitude": -2.615998
  },
  {
   "locationId": "1-242663754",
@@ -158256,6 +158382,20 @@
   "longitude": -1.6144519
  },
  {
+  "locationId": "1-10444722219",
+  "name": "SpaMedica Poole",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bournemouth, Christchurch and Poole",
+  "numberOfBeds": 0,
+  "postalCode": "BH17 7AG",
+  "providerId": "1-101727990",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.7370199,
+  "longitude": -1.9948925
+ },
+ {
   "locationId": "1-19680639735",
   "name": "SpaMedica Taunton",
   "rating": null,
@@ -158268,6 +158408,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.0205551,
   "longitude": -3.0660734
+ },
+ {
+  "locationId": "1-27019157749",
+  "name": "Spark Medical North West",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Wirral",
+  "numberOfBeds": 0,
+  "postalCode": "CH62 3PW",
+  "providerId": "1-26815883245",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.3358269,
+  "longitude": -2.9761941
  },
  {
   "locationId": "1-28163992927",
@@ -192472,6 +192626,20 @@
   "longitude": -1.5262809
  },
  {
+  "locationId": "1-124012733",
+  "name": "Turning Point - Stanfield House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cumberland",
+  "numberOfBeds": 12,
+  "postalCode": "CA14 4EA",
+  "providerId": "1-102642564",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.6426331,
+  "longitude": -3.5357347
+ },
+ {
   "locationId": "1-124012464",
   "name": "Turning Point - Sybden",
   "rating": "Good",
@@ -192948,6 +193116,20 @@
   "longitude": -4.1976448
  },
  {
+  "locationId": "1-23379133256",
+  "name": "UK Event Medical Services Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Sheffield",
+  "numberOfBeds": 0,
+  "postalCode": "S9 4EX",
+  "providerId": "1-153025049",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.3821864,
+  "longitude": -1.4081477
+ },
+ {
   "locationId": "1-121491795",
   "name": "Ulcomb House",
   "rating": "Good",
@@ -193380,6 +193562,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.9059452,
   "longitude": -1.2366041
+ },
+ {
+  "locationId": "RRV03",
+  "name": "University College Hospital & Elizabeth Garrett Anderson Wing",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Camden",
+  "numberOfBeds": null,
+  "postalCode": "NW1 2BU",
+  "providerId": "RRV",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.524891,
+  "longitude": -0.136911
  },
  {
   "locationId": "1-121959636",

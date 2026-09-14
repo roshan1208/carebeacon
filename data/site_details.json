@@ -553998,5 +553998,341 @@
   "lastInspectionDate": null,
   "lastReportDate": null,
   "reportUri": null
+ },
+ "1-10444722219": {
+  "brandName": "SpaMedica",
+  "registrationDate": "2021-03-05",
+  "keyQuestionRatings": [],
+  "addressLine1": "Forelle House, Marshes End",
+  "town": "Poole",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2022-11-14",
+  "lastReportDate": "2023-01-20",
+  "reportUri": "/reports/1afc01fa-3667-48f7-bc86-40a31346ae13?20230120080044"
+ },
+ "1-11127550740": {
+  "brandName": "Fresenius Medical Care Renal Services UK",
+  "registrationDate": "2021-06-23",
+  "keyQuestionRatings": [],
+  "addressLine1": "Salmon Parade",
+  "town": "Bridgwater",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-124012733": {
+  "brandName": "Turning Point",
+  "registrationDate": "2011-02-08",
+  "keyQuestionRatings": [],
+  "addressLine1": "4 Stainburn Road",
+  "town": "Workington",
+  "website": "www.turning-point.co.uk",
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse"
+  ],
+  "lastInspectionDate": "2024-01-10",
+  "lastReportDate": "2024-03-18",
+  "reportUri": "/reports/03740c32-f124-4ef2-a65b-36b9e4161b46?20240318080254"
+ },
+ "1-128766778": {
+  "brandName": "Circle Healthcare Ltd",
+  "registrationDate": "2011-05-11",
+  "keyQuestionRatings": [],
+  "addressLine1": "46-50 Sunny Gardens Road",
+  "town": "London",
+  "website": "www.circlehealthgroup.co.uk/hospitals/hendon-hospital",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Hospital",
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2016-07-21",
+  "lastReportDate": null,
+  "reportUri": "/reports/d9c4d5db-6801-4be1-bf48-b094765d633e?20210121015514"
+ },
+ "1-14515410660": {
+  "brandName": "Active Care",
+  "registrationDate": "2022-12-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "74 Wharf Road",
+  "town": "Birmingham",
+  "website": "www.activecaregroup.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for people whose rights are restricted under the Mental Health Act",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Hospitals - Mental health/capacity"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require nursing or personal care",
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-15763254535": {
+  "brandName": null,
+  "registrationDate": "2023-05-11",
+  "keyQuestionRatings": [],
+  "addressLine1": "Good Health Naturally Burgage Lodge",
+  "town": "Kidderminster",
+  "website": "www.feedingtogether.co.uk",
+  "specialisms": [
+   "Caring for children"
+  ],
+  "serviceTypes": [
+   "Community services - Healthcare"
+  ],
+  "regulatedActivities": [
+   "Surgical procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-23379133256": {
+  "brandName": null,
+  "registrationDate": "2025-06-19",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 1, Davy Industrial Park",
+  "town": "Sheffield",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-27019157749": {
+  "brandName": null,
+  "registrationDate": "2026-03-26",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 34 Thursby Road",
+  "town": "Wirral",
+  "website": "www.sparkmedical.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2022-11-10",
+  "reportUri": null
+ },
+ "1-3491415842": {
+  "brandName": null,
+  "registrationDate": "2017-02-09",
+  "keyQuestionRatings": [],
+  "addressLine1": "4 Cheapside",
+  "town": "Wakefield",
+  "website": "www.earlydaysbabyscan.co.uk",
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Caring for children"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-01-18",
+  "lastReportDate": "2019-03-15",
+  "reportUri": "/reports/1f3f50e5-c824-4c05-ad14-c408392c615b?20210116122310"
+ },
+ "1-9017767277": {
+  "brandName": "Diaverum Holding UK Limited",
+  "registrationDate": "2020-06-09",
+  "keyQuestionRatings": [],
+  "addressLine1": "Langstone Gate",
+  "town": "Havant",
+  "website": "www.diaverum.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2022-08-30",
+  "lastReportDate": "2022-10-13",
+  "reportUri": "/reports/7765ff97-e1fb-4caa-826a-9a9458bbd740?20221013090100"
+ },
+ "1-918228984": {
+  "brandName": "Nuffield Health",
+  "registrationDate": "2013-10-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "The Chesterfield",
+  "town": "Bristol",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children"
+  ],
+  "serviceTypes": [
+   "Hospital",
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2016-04-14",
+  "lastReportDate": "2016-08-04",
+  "reportUri": "/reports/614691df-3572-4d6d-ac3b-79cc942287af?20210123025722"
+ },
+ "RH868": {
+  "brandName": "NHS England South West (South West South)",
+  "registrationDate": "2010-06-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "Mardon House",
+  "town": "Exeter",
+  "website": "www.rdehospital.nhs.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Hospital"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-01-16",
+  "lastReportDate": "2023-05-26",
+  "reportUri": "/reports/3d4db673-acd2-47cf-a82c-f9bca74b5b35?20230825080228"
+ },
+ "RNS01": {
+  "brandName": "NHS England Midlands - Leicestershire, Lincolnshire and Northamptonshire",
+  "registrationDate": "2010-06-15",
+  "keyQuestionRatings": [],
+  "addressLine1": "Cliftonville",
+  "town": "Northampton",
+  "website": "www.northamptongeneral.nhs.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Hospital",
+   "Blood and transplant service",
+   "Rehabilitation (illness/injury)",
+   "Urgent care centres"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Termination of pregnancies",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+   "Surgical procedures",
+   "Diagnostic and screening procedures",
+   "Management of supply of blood and blood derived products"
+  ],
+  "lastInspectionDate": "2022-11-30",
+  "lastReportDate": "2023-02-24",
+  "reportUri": "/reports/eef4dce7-d348-4215-ac47-f5e663a2aba6?20230224090042"
+ },
+ "RRV03": {
+  "brandName": "NHS England London",
+  "registrationDate": "2010-06-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "235 Euston Road",
+  "town": "London",
+  "website": "www.uclh.org",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Hospital",
+   "Diagnosis/screening",
+   "Hospice",
+   "Long-term conditions",
+   "Mobile doctors",
+   "Urgent care centres"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Maternity and midwifery services",
+   "Termination of pregnancies",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+   "Surgical procedures",
+   "Diagnostic and screening procedures",
+   "Management of supply of blood and blood derived products"
+  ],
+  "lastInspectionDate": "2023-06-13",
+  "lastReportDate": "2023-09-01",
+  "reportUri": "/reports/1d584bd5-52b8-4211-aa6b-1bb1c56cf040?20230901070057"
  }
 }
