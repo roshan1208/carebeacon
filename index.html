@@ -109,6 +109,19 @@
   }
   .brand .name { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.01em; }
   .tagline { color: var(--muted); font-size: 0.95rem; margin: 4px 0 0; }
+  /* Nations strip: the app below is England (CQC) only; the other three
+     nations are static sections with their own regulator's scale. This is
+     the one place a visitor from Cardiff or Belfast learns that before
+     typing a town into an England-only search box. */
+  .nations { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
+  .nations a {
+    display: inline-block; border: 1px solid var(--border); border-radius: 999px; padding: 5px 13px;
+    font-size: 0.9rem; color: inherit; text-decoration: underline; text-decoration-color: var(--border);
+    text-underline-offset: 3px;
+  }
+  .nations a[aria-current="page"] { background: var(--accent-bg); color: var(--accent-fill-text); border-color: var(--accent-bg); text-decoration: none; }
+  .nations a .n { color: inherit; opacity: 0.8; font-variant-numeric: tabular-nums; }
+  .nations a[aria-current="page"] .n { opacity: 1; }
 
   #theme-toggle {
     background: none; border: 1px solid var(--border); color: var(--ink);
@@ -445,6 +458,13 @@
 
 <main class="wrap">
 
+  <nav class="nations" aria-label="Choose a nation">
+    <a href="./" aria-current="page">England <span class="n" data-nation="england"></span></a>
+    <a href="scotland/">Scotland <span class="n" data-nation="scotland"></span></a>
+    <a href="wales/">Wales <span class="n" data-nation="wales"></span></a>
+    <a href="northern-ireland/">Northern Ireland <span class="n" data-nation="ni"></span></a>
+  </nav>
+
   <section class="changes" aria-labelledby="changes-heading">
     <h2 id="changes-heading">Recently changed</h2>
     <p class="lede">CQC publishes today's rating, not what changed. This is what changed.
@@ -720,6 +740,23 @@
         : "") +
       '<p class="detail-caveat">Based on a rolling 90-day window CareBeacon itself has observed, not a CQC report. ' +
       'A quiet period here reflects fewer changes recorded, not necessarily fewer problems.</p>';
+  }
+
+  // Home counts for the nations strip, from the same meta.json the footer
+  // uses. England's count is the loaded export (the truth the app shows);
+  // the other three are what the pipeline recorded from their regulators.
+  // Missing values leave the label bare rather than showing "undefined".
+  function fillNationCounts(meta) {
+    var counts = {
+      england: state.locations.length,
+      scotland: meta && meta.scotland_care_homes,
+      wales: meta && meta.wales_care_homes,
+      ni: meta && meta.ni_care_homes
+    };
+    document.querySelectorAll(".nations .n").forEach(function (el) {
+      var n = counts[el.getAttribute("data-nation")];
+      el.textContent = (typeof n === "number" && n > 0) ? "(" + n.toLocaleString() + ")" : "";
+    });
   }
 
   function populateRegions() {
@@ -1405,6 +1442,7 @@
       } else {
         freshness.textContent = state.locations.length.toLocaleString() + " registered care homes.";
       }
+      fillNationCounts(meta);
       populateRegions();
       populateSpecialisms(results[3] || []);
       // Must come after populateRegions()/populateSpecialisms(): setting

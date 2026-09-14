@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Coed Du Hall Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/wales/operators/SPROV-00000636-NJKH/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/wales/operators/SPROV-00000636-NJKH/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/wales/operators/SPROV-00000636-NJKH/feed</id>
+  <updated>2026-09-14T15:40:05Z</updated>
+  <subtitle>Care home services run by Coed Du Hall Ltd whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009776-QSXJ/2026-09-14/first_rated</id>
+    <title>Swn Y Wylan: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009776-QSXJ/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Conwy. Rated for the first time; lowest theme: Good (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009779-SKLD/2026-09-14/first_rated</id>
+    <title>Maes Y Vaynor: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009779-SKLD/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Flintshire. Rated for the first time; lowest theme: Good (by 14 September 2026).</summary>
+  </entry>
+</feed>
