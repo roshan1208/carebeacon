@@ -35770,6 +35770,20 @@
   "longitude": 0.0178756
  },
  {
+  "locationId": "1-24514830474",
+  "name": "Carn Brea",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Cornwall",
+  "numberOfBeds": 0,
+  "postalCode": "TR1 2QS",
+  "providerId": "1-8211029754",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.2637437,
+  "longitude": -5.0513256
+ },
+ {
   "locationId": "1-107107715",
   "name": "Carnalea Residential Home",
   "rating": null,
@@ -40474,6 +40488,20 @@
   "longitude": -0.383111
  },
  {
+  "locationId": "1-131820053",
+  "name": "Cherry Tree Lodge",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 19,
+  "postalCode": "LN2 4ET",
+  "providerId": "1-102642921",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.2480232,
+  "longitude": -0.514312
+ },
+ {
   "locationId": "1-140327879",
   "name": "Cherry Tree Lodge",
   "rating": "Good",
@@ -40500,20 +40528,6 @@
   "registeredManagerAbsentDate": "2026-04-21",
   "latitude": 52.2658646,
   "longitude": -1.5296726
- },
- {
-  "locationId": "1-131820053",
-  "name": "Cherry Tree Lodge Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Lincolnshire",
-  "numberOfBeds": 19,
-  "postalCode": "LN2 4ET",
-  "providerId": "1-102642921",
-  "registeredManagerAbsentDate": null,
-  "latitude": 53.2480232,
-  "longitude": -0.514312
  },
  {
   "locationId": "1-113871005",
@@ -93170,6 +93184,20 @@
   "longitude": -1.1824589
  },
  {
+  "locationId": "RTH08",
+  "name": "John Radcliffe Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "OX3 9DU",
+  "providerId": "RTH",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7638633,
+  "longitude": -1.2197769
+ },
+ {
   "locationId": "1-5320092578",
   "name": "John Sturrock",
   "rating": "Good",
@@ -127386,6 +127414,20 @@
   "longitude": -1.1606806
  },
  {
+  "locationId": "1-15977021175",
+  "name": "Olive Homecare and Support Limited London Branch",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Ealing",
+  "numberOfBeds": 0,
+  "postalCode": "UB2 4LU",
+  "providerId": "1-2636755483",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4970661,
+  "longitude": -0.3639938
+ },
+ {
   "locationId": "1-121919865",
   "name": "Olive House",
   "rating": "Good",
@@ -158352,6 +158394,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.7971538,
   "longitude": -0.1311071
+ },
+ {
+  "locationId": "1-5282022414",
+  "name": "SpaMedica Birmingham",
+  "rating": "Good",
+  "ratingDate": "2022-01-14",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B15 1TR",
+  "providerId": "1-101727990",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.471463,
+  "longitude": -1.919632
  },
  {
   "locationId": "1-19059902787",
@@ -212662,8 +212718,8 @@
  {
   "locationId": "1-859143446",
   "name": "3 Ferrers Drive",
-  "rating": "Good",
-  "ratingDate": "2019-05-24",
+  "rating": null,
+  "ratingDate": null,
   "region": "South West",
   "localAuthority": "Swindon",
   "numberOfBeds": 5,

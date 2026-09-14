@@ -522052,28 +522052,7 @@
  "1-859143446": {
   "brandName": null,
   "registrationDate": "2013-10-01",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Grange Park",
   "town": "Swindon",
   "website": null,
@@ -554334,5 +554313,122 @@
   "lastInspectionDate": "2023-06-13",
   "lastReportDate": "2023-09-01",
   "reportUri": "/reports/1d584bd5-52b8-4211-aa6b-1bb1c56cf040?20230901070057"
+ },
+ "1-15977021175": {
+  "brandName": null,
+  "registrationDate": "2023-05-31",
+  "keyQuestionRatings": [],
+  "addressLine1": "86 St. Marys Avenue",
+  "town": "Southall",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-24514830474": {
+  "brandName": null,
+  "registrationDate": "2025-09-08",
+  "keyQuestionRatings": [],
+  "addressLine1": "7 Cathedral Lane",
+  "town": "Truro",
+  "website": null,
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Learning disabilities"
+  ],
+  "serviceTypes": [
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-5282022414": {
+  "brandName": "SpaMedica",
+  "registrationDate": "2018-06-01",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Apex House",
+  "town": "Birmingham",
+  "website": "www.spamedica.co.uk/location/birmingham",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2021-11-09",
+  "lastReportDate": "2022-01-14",
+  "reportUri": "/reports/2b9dfc40-412a-46c1-aafc-ef26b755217f?20220114080041"
+ },
+ "RTH08": {
+  "brandName": "NHS England South East (Hampshire, Isle Of Wight and Thames Valley)",
+  "registrationDate": "2010-06-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "Headley Way",
+  "town": "Oxford",
+  "website": "www.ouh.nhs.uk/hospitals/jr/",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Hospital",
+   "Community services - Healthcare"
+  ],
+  "regulatedActivities": [
+   "Personal care",
+   "Maternity and midwifery services",
+   "Termination of pregnancies",
+   "Nursing care",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2023-12-11",
+  "lastReportDate": "2023-04-06",
+  "reportUri": "/reports/e324752f-333b-44fe-9f6e-8f0e04f8dbaa?20230406070236"
  }
 }
