@@ -1,6 +1,6 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-14T14:08:46Z",
+ "last_run_utc": "2026-09-14T14:43:48Z",
  "total_locations": 32407,
  "total_changes_recorded": 8,
  "scotland_snapshot_label": "31 August 2026",
@@ -10,7 +10,7 @@
  "ni_snapshot_label": "2026-08-03",
  "ni_snapshot_date": "2026-08-03",
  "ni_care_homes": 468,
- "wales_snapshot_label": "2026-09-14 14:52",
+ "wales_snapshot_label": "2026-09-14 15:42",
  "wales_snapshot_date": "2026-09-14",
  "wales_care_homes": 1480
 }

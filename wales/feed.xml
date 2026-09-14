@@ -4,7 +4,27 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/feed</id>
-  <updated>2026-09-14T14:39:23Z</updated>
+  <updated>2026-09-14T14:48:06Z</updated>
   <subtitle>Welsh care homes whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register. CIW publishes a directory export; this is what changed between exports.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009776-QSXJ/2026-09-14/first_rated</id>
+    <title>Swn Y Wylan: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009776-QSXJ/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Conwy. Rated for the first time; lowest theme: Good (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008566-FFDG/2026-09-14/first_rated</id>
+    <title>Maes-y-felin Care Home Ltd: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008566-FFDG/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Ceredigion. Rated for the first time; lowest theme: Good (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009779-SKLD/2026-09-14/first_rated</id>
+    <title>Maes Y Vaynor: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009779-SKLD/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Flintshire. Rated for the first time; lowest theme: Good (by 14 September 2026).</summary>
+  </entry>
 </feed>
