@@ -29,6 +29,9 @@
   h1 { margin: 0 0 6px; font-size: 1.5rem; }
   .address { color: var(--muted); margin: 0 0 14px; }
   .manager-flag { color: var(--accent); font-weight: 600; }
+  .closed { border: 1px solid #a3261f; border-radius: 10px; padding: 10px 14px; margin: 0 0 14px; }
+  .closed strong { color: #a3261f; }
+  @media (prefers-color-scheme: dark) { .closed { border-color: #ff8a80; } .closed strong { color: #ff8a80; } }
   .facts { display: grid; gap: 4px; font-size: 0.92rem; margin: 14px 0; }
   .facts .l { color: var(--muted); }
   section { margin-top: 24px; }
@@ -67,6 +70,7 @@
   <main>
   <h1>Waring Close</h1>
   <p class="address">1-3 Waring Close, Leicester, LE3 8PZ</p>
+  
   <span class="badge r-good">Good</span>
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-102643071/">MacIntyre Care</a></div><div><span class="l">Beds:</span> 16</div><div><span class="l">Registered with CQC since:</span> 2011-03-23</div><div><span class="l">Rating published:</span> 2019-01-03</div><div><span class="l">Last inspected:</span> 2018-12-04</div></div>

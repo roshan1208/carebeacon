@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Operator 1-101694068</title>
+  <link href="https://roshan1208.github.io/carebeacon/operators/1-101694068/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/operators/1-101694068/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/operators/1-101694068/feed</id>
+  <updated>2026-09-14T08:21:57Z</updated>
+  <subtitle>Care homes run by Operator 1-101694068 that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-1548075487/2026-09-11/closed</id>
+    <title>Ferndale Residential Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-1548075487"/>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+</feed>

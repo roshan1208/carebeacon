@@ -29,6 +29,9 @@
   h1 { margin: 0 0 6px; font-size: 1.5rem; }
   .address { color: var(--muted); margin: 0 0 14px; }
   .manager-flag { color: var(--accent); font-weight: 600; }
+  .closed { border: 1px solid #a3261f; border-radius: 10px; padding: 10px 14px; margin: 0 0 14px; }
+  .closed strong { color: #a3261f; }
+  @media (prefers-color-scheme: dark) { .closed { border-color: #ff8a80; } .closed strong { color: #ff8a80; } }
   .facts { display: grid; gap: 4px; font-size: 0.92rem; margin: 14px 0; }
   .facts .l { color: var(--muted); }
   section { margin-top: 24px; }
@@ -67,6 +70,7 @@
   <main>
   <h1>Ashley Court Care Home</h1>
   <p class="address">Reservoir Road, Kettering, NN16 9QT</p>
+  
   <span class="badge r-requires-improvement">Requires improvement</span>
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-452492894/">Nicholas James and Regal Care Trading Limited</a></div><div><span class="l">Beds:</span> 38</div><div><span class="l">Registered with CQC since:</span> 2012-08-21</div><div><span class="l">Rating published:</span> 2022-10-01</div><div><span class="l">Last inspected:</span> 2022-07-28</div></div>
