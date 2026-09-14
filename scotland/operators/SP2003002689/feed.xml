@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Stirling Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002689/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002689/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002689/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Stirling Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011484/2025-08-31/decline</id>
+    <title>Brucefield: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011484/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367283/2024-03-31/improve</id>
+    <title>Bellfield Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367283/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011484/2023-03-31/improve</id>
+    <title>Brucefield: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011484/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367283/2023-03-31/decline</id>
+    <title>Bellfield Centre: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367283/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011494/2022-03-31/cancelled</id>
+    <title>Strathendrick: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011494/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Stirling. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367283/2020-03-31/first_graded</id>
+    <title>Bellfield Centre: Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367283/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Stirling. Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011494/2020-03-31/decline</id>
+    <title>Strathendrick: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011494/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367283/2019-03-31/new</id>
+    <title>Bellfield Centre: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367283/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011484/2019-03-31/improve</id>
+    <title>Brucefield: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011484/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011529/2019-03-31/cancelled</id>
+    <title>Beech Gardens: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011529/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011527/2019-03-31/cancelled</id>
+    <title>Allan Lodge: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011527/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011484/2018-03-31/improve</id>
+    <title>Brucefield: Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011484/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011484/2017-03-31/decline</id>
+    <title>Brucefield: Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011484/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011495/2016-03-31/cancelled</id>
+    <title>Wellgreen Residential Home: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011495/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Stirling. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

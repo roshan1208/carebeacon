@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Kibble Education and Care Centre</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004007042/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004007042/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2004007042/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Kibble Education and Care Centre whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000439/2025-11-30/first_graded</id>
+    <title>Hallhill Cottage: Graded for the first time: Excellent (6) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000439/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Excellent (6) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000108/2025-08-31/first_graded</id>
+    <title>Kibble Inverkip: Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000108/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Inverclyde. Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000108/2025-03-31/new</id>
+    <title>Kibble Inverkip: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000108/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000439/2025-03-31/new</id>
+    <title>Hallhill Cottage: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000439/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018370578/2024-03-31/improve</id>
+    <title>Miss Elizabeth Kibble House: Grade improved: Good (4) to Excellent (6) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018370578/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade improved: Good (4) to Excellent (6) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012314383/2024-03-31/improve</id>
+    <title>Arran Villa: Grade improved: Good (4) to Excellent (6) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012314383/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Good (4) to Excellent (6) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000361/2023-03-31/first_graded</id>
+    <title>Kibble Levernbridge: Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000361/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018370616/2023-03-31/first_graded</id>
+    <title>Kibble Community Services: Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018370616/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379601/2023-03-31/first_graded</id>
+    <title>Garnock Lodge: Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379601/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000361/2022-03-31/new</id>
+    <title>Kibble Levernbridge: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000361/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379601/2021-03-22/new</id>
+    <title>Garnock Lodge: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379601/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018370578/2021-03-22/first_graded</id>
+    <title>Miss Elizabeth Kibble House: Graded for the first time: Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018370578/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018370578/2020-03-31/new</id>
+    <title>Miss Elizabeth Kibble House: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018370578/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018370616/2020-03-31/new</id>
+    <title>Kibble Community Services: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018370616/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012314383/2020-03-31/decline</id>
+    <title>Arran Villa: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012314383/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012314383/2018-03-31/improve</id>
+    <title>Arran Villa: Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012314383/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012314383/2017-03-31/first_graded</id>
+    <title>Arran Villa: Graded for the first time: Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012314383/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012314383/2016-03-31/new</id>
+    <title>Arran Villa: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012314383/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Marchmont Residential Homes a partnership</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2017012993/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2017012993/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2017012993/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Marchmont Residential Homes a partnership whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369997/2025-03-31/improve</id>
+    <title>Wilby House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369997/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369997/2022-03-31/first_graded</id>
+    <title>Wilby House: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369997/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Fife. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369999/2022-03-31/first_graded</id>
+    <title>Marchmont: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369999/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Fife. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369997/2020-03-31/new</id>
+    <title>Wilby House: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369997/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Fife. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369999/2020-03-31/new</id>
+    <title>Marchmont: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369999/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Fife. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+</feed>

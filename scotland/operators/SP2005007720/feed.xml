@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Mansfield Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2005007720/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2005007720/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2005007720/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Mansfield Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2026-01-31/decline</id>
+    <title>Argyll House Nursing Home: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005112999/2025-03-31/improve</id>
+    <title>Pine Villa Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005112999/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303194/2025-03-31/improve</id>
+    <title>Belhaven House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303194/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2025-03-31/improve</id>
+    <title>Argyll House Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2024-03-31/decline</id>
+    <title>Peebles Nursing Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008169339/2024-03-31/decline</id>
+    <title>Belleville Lodge Nursing Home: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008169339/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2023-03-31/improve</id>
+    <title>Peebles Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364024/2023-03-31/cancelled</id>
+    <title>Millfield House: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364024/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364012/2023-03-31/cancelled</id>
+    <title>Haugh House: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364012/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364013/2023-03-31/cancelled</id>
+    <title>Craighall House: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364013/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2022-03-31/decline</id>
+    <title>Argyll House Nursing Home: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364013/2021-03-22/first_graded</id>
+    <title>Craighall House: Graded for the first time: Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364013/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005112999/2021-03-22/decline</id>
+    <title>Pine Villa Nursing Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005112999/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Midlothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2021-03-22/decline</id>
+    <title>Peebles Nursing Home: Grade declined: Very good (5) to Adequate (3) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Very good (5) to Adequate (3) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2020-03-31/improve</id>
+    <title>Peebles Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303194/2020-03-31/improve</id>
+    <title>Belhaven House: Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303194/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364024/2020-03-31/first_graded</id>
+    <title>Millfield House: Graded for the first time: Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364024/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Graded for the first time: Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364012/2020-03-31/first_graded</id>
+    <title>Haugh House: Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364012/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364024/2019-03-31/new</id>
+    <title>Millfield House: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364024/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364012/2019-03-31/new</id>
+    <title>Haugh House: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364012/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364013/2019-03-31/new</id>
+    <title>Craighall House: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364013/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195945/2018-03-31/improve</id>
+    <title>Galahill House: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195945/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2018-03-31/improve</id>
+    <title>Argyll House Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2018-03-31/decline</id>
+    <title>Peebles Nursing Home: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303194/2018-03-31/decline</id>
+    <title>Belhaven House: Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303194/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195945/2017-03-31/decline</id>
+    <title>Galahill House: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195945/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010271379/2016-03-31/improve</id>
+    <title>Peebles Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010271379/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303194/2016-03-31/improve</id>
+    <title>Belhaven House: Grade improved: Unsatisfactory (1) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303194/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade improved: Unsatisfactory (1) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2016-03-31/decline</id>
+    <title>Argyll House Nursing Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

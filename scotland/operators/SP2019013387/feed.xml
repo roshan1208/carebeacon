@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Compass Child and Family Services a Scottish Charitable Incorporated Organisation</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2019013387/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2019013387/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2019013387/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Compass Child and Family Services a Scottish Charitable Incorporated Organisation whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000162/2026-04-30/new</id>
+    <title>Solas: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000162/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000413/2025-08-31/first_graded</id>
+    <title>Crannog Mara: Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000413/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000413/2024-03-31/new</id>
+    <title>Crannog Mara: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000413/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377336/2023-03-31/improve</id>
+    <title>Taigh Araich: Grade improved: Weak (2) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377336/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Weak (2) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377336/2022-03-31/first_graded</id>
+    <title>Taigh Araich: Graded for the first time: Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377336/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377336/2020-03-31/new</id>
+    <title>Taigh Araich: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377336/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+</feed>

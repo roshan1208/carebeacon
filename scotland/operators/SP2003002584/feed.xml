@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Enable Scotland (Leading the Way)</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002584/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002584/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002584/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Enable Scotland (Leading the Way) whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011013/2026-07-31/improve</id>
+    <title>Enable Scotland (Leading the Way) - Rosehill Place: Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011013/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000044/2026-04-30/first_graded</id>
+    <title>Roslin House: Graded for the first time: Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000044/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000055/2026-02-28/new</id>
+    <title>Victoria Project: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000055/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000056/2026-02-28/new</id>
+    <title>Twechar Residential Respite Service: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000056/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000058/2026-02-28/new</id>
+    <title>Southside Older People's Services: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000058/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000059/2026-02-28/new</id>
+    <title>Southside Dementia Services: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000059/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000044/2026-02-28/new</id>
+    <title>Roslin House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000044/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000060/2026-02-28/new</id>
+    <title>Riddrievale Service: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000060/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000045/2026-02-28/new</id>
+    <title>Muirfield House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000045/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000061/2026-02-28/new</id>
+    <title>Mitre House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000061/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000046/2026-02-28/new</id>
+    <title>Lanark Project: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000046/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000064/2026-02-28/new</id>
+    <title>Crannog Care Home: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000064/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000047/2026-02-28/new</id>
+    <title>Cherrywood Bungalows: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000047/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000057/2026-02-28/new</id>
+    <title>Carbeth House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000057/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000062/2026-02-28/new</id>
+    <title>Buttercup House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000062/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000063/2026-02-28/new</id>
+    <title>Beacon House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000063/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011013/2026-02-28/decline</id>
+    <title>Enable Scotland (Leading the Way) - Rosehill Place: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011013/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018368484/2025-03-31/decline</id>
+    <title>Arran House Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018368484/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011013/2023-03-31/improve</id>
+    <title>Enable Scotland (Leading the Way) - Rosehill Place: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011013/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018368484/2022-03-31/first_graded</id>
+    <title>Arran House Care Home: Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018368484/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009108/2022-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Old Scapa Road: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009108/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Orkney Islands. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001216/2021-03-22/cancelled</id>
+    <title>Enable Homes - High Barrwood: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001216/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>North Lanarkshire. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018368484/2020-03-31/new</id>
+    <title>Arran House Care Home: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018368484/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009108/2020-03-31/improve</id>
+    <title>Enable Scotland (Leading the Way) - Old Scapa Road: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009108/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Orkney Islands. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011010/2020-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Rowan Street: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011010/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011013/2020-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Rosehill Place: Grade declined: Very good (5) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011013/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011011/2020-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Dunlin Brae: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011011/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011010/2019-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Rowan Street: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011010/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011013/2019-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Rosehill Place: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011013/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011011/2019-03-31/decline</id>
+    <title>Enable Scotland (Leading the Way) - Dunlin Brae: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011011/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011010/2017-03-31/improve</id>
+    <title>Enable Scotland (Leading the Way) - Rowan Street: Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011010/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

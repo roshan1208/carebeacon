@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Keane Premier Healthcare Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2008010039/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2008010039/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2008010039/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Keane Premier Healthcare Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2026-06-30/decline</id>
+    <title>Georgia Park Care Home: Grade declined: Good (4) to Adequate (3) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2025-12-31/improve</id>
+    <title>Georgia Park Care Home: Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2025-03-31/decline</id>
+    <title>Georgia Park Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000327/2024-03-31/first_graded</id>
+    <title>Ryan Meadows Care Home: Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000327/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000327/2023-03-31/new</id>
+    <title>Ryan Meadows Care Home: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000327/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2023-03-31/decline</id>
+    <title>Georgia Park Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011304632/2022-03-31/decline</id>
+    <title>Duncraggan Care Home: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011304632/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2020-03-31/improve</id>
+    <title>Georgia Park Care Home: Grade improved: Adequate (3) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011304632/2020-03-31/improve</id>
+    <title>Duncraggan Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011304632/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2019-03-31/improve</id>
+    <title>Georgia Park Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2018-03-31/first_graded</id>
+    <title>Georgia Park Care Home: Graded for the first time: Weak (2) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Weak (2) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011304632/2018-03-31/decline</id>
+    <title>Duncraggan Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011304632/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016350030/2017-03-31/new</id>
+    <title>Georgia Park Care Home: Newly registered (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016350030/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011304632/2017-03-31/decline</id>
+    <title>Duncraggan Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011304632/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011304632/2016-03-31/improve</id>
+    <title>Duncraggan Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011304632/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

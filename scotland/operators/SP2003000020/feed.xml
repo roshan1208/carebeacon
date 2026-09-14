@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Seabank House Committee</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000020/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000020/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000020/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Seabank House Committee whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2026-02-28/decline</id>
+    <title>Seabank House: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2025-03-31/improve</id>
+    <title>Seabank House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2023-03-31/improve</id>
+    <title>Seabank House: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000250/2023-03-31/decline</id>
+    <title>Aberlea House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000250/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2021-03-22/decline</id>
+    <title>Seabank House: Grade declined: Good (4) to Weak (2) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Weak (2) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2019-03-31/decline</id>
+    <title>Seabank House: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+</feed>

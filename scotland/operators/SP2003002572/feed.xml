@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Royal Blind Asylum and School Trading as Sight Scotland</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002572/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002572/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002572/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Royal Blind Asylum and School Trading as Sight Scotland whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379439/2023-03-31/first_graded</id>
+    <title>Children and Young Peoples Care Service: Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379439/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379439/2021-03-22/new</id>
+    <title>Children and Young Peoples Care Service: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379439/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354890/2021-03-22/cancelled</id>
+    <title>Jenny's Well: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354890/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Renfrewshire. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010617/2021-03-22/cancelled</id>
+    <title>Braeside House: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010617/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354890/2020-03-31/decline</id>
+    <title>Jenny's Well: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354890/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009234136/2020-03-31/decline</id>
+    <title>Forward Vision: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009234136/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010617/2020-03-31/decline</id>
+    <title>Braeside House: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010617/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354890/2019-03-31/first_graded</id>
+    <title>Jenny's Well: Graded for the first time: Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354890/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016344402/2019-03-31/decline</id>
+    <title>Royal Blind Allermuir: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016344402/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354890/2018-03-31/new</id>
+    <title>Jenny's Well: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354890/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016344402/2018-03-31/first_graded</id>
+    <title>Royal Blind Allermuir: Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016344402/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016344402/2017-03-31/new</id>
+    <title>Royal Blind Allermuir: Newly registered (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016344402/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Newly registered (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

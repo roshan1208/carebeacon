@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Voyage 1 Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004005660/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004005660/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2004005660/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Voyage 1 Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2025-08-31/improve</id>
+    <title>Mannering Avenue: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001296/2025-08-31/improve</id>
+    <title>Beechmount: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001296/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011572/2022-03-31/decline</id>
+    <title>Treddinoch: Grade declined: Excellent (6) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011572/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Excellent (6) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2022-03-31/decline</id>
+    <title>Mannering Avenue: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001296/2022-03-31/decline</id>
+    <title>Beechmount: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001296/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010806/2022-03-31/decline</id>
+    <title>Abbey Gardens Nursing Home: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010806/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011572/2020-03-31/improve</id>
+    <title>Treddinoch: Grade improved: Good (4) to Excellent (6) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011572/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Excellent (6) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2020-03-31/improve</id>
+    <title>Mannering Avenue: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359304/2020-03-31/first_graded</id>
+    <title>Tweed Lodge: Graded for the first time: Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359304/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001164/2020-03-31/decline</id>
+    <title>Barrington House: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001164/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001164/2019-03-31/improve</id>
+    <title>Barrington House: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001164/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010806/2019-03-31/improve</id>
+    <title>Abbey Gardens Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010806/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359304/2018-03-31/new</id>
+    <title>Tweed Lodge: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359304/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2018-03-31/first_graded</id>
+    <title>Mannering Avenue: Graded for the first time: Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2017-03-31/new</id>
+    <title>Mannering Avenue: Newly registered (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Barnardo's known as Barnardo's Scotland</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003405/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003405/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003003405/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Barnardo's known as Barnardo's Scotland whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2026-08-31/improve</id>
+    <title>Northern Lights: Grade improved: Weak (2) to Good (4) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Weak (2) to Good (4) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145138/2026-01-31/improve</id>
+    <title>Barnardo's Caern Project: Grade improved: Good (4) to Very good (5) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145138/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Good (4) to Very good (5) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2025-11-30/decline</id>
+    <title>Northern Lights: Grade declined: Good (4) to Weak (2) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Good (4) to Weak (2) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2024-03-31/improve</id>
+    <title>Northern Lights: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145138/2024-03-31/improve</id>
+    <title>Barnardo's Caern Project: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145138/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000246/2023-03-31/improve</id>
+    <title>The Linksfield Residential Service: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000246/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145138/2023-03-31/decline</id>
+    <title>Barnardo's Caern Project: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145138/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019374061/2022-03-31/first_graded</id>
+    <title>Barnardo's Caern - Pentland Way: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019374061/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000246/2022-03-31/decline</id>
+    <title>The Linksfield Residential Service: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000246/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2022-03-31/decline</id>
+    <title>Northern Lights: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019374061/2020-03-31/new</id>
+    <title>Barnardo's Caern - Pentland Way: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019374061/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000246/2020-03-31/improve</id>
+    <title>The Linksfield Residential Service: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000246/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2020-03-31/improve</id>
+    <title>Northern Lights: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145138/2020-03-31/decline</id>
+    <title>Barnardo's Caern Project: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145138/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2019-03-31/decline</id>
+    <title>Northern Lights: Grade declined: Very good (5) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Very good (5) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145138/2017-03-31/improve</id>
+    <title>Barnardo's Caern Project: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145138/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

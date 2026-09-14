@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Phoenix Abbey Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2021000181/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2021000181/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2021000181/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Phoenix Abbey Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000175/2026-03-31/first_graded</id>
+    <title>Drumdow: Graded for the first time: Very good (5) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000175/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000514/2025-12-31/new</id>
+    <title>Wester Melville: Newly registered (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000514/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Midlothian. Newly registered (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000175/2025-08-31/new</id>
+    <title>Drumdow: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000175/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2025-08-31/improve</id>
+    <title>East Welton: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2025-03-31/first_graded</id>
+    <title>East Welton: Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2024-03-31/new</id>
+    <title>East Welton: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000294/2024-03-31/improve</id>
+    <title>Greenview: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000294/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000294/2023-03-31/first_graded</id>
+    <title>Greenview: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000294/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000294/2022-03-31/new</id>
+    <title>Greenview: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000294/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+</feed>

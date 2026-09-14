@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by MMCG (2) Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013105/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013105/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2018013105/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by MMCG (2) Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000165/2024-03-31/first_graded</id>
+    <title>Creggan Bahn Court: Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000165/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000165/2023-03-31/new</id>
+    <title>Creggan Bahn Court: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000165/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018365961/2020-03-31/first_graded</id>
+    <title>Glennie House: Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018365961/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018365961/2019-03-31/new</id>
+    <title>Glennie House: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018365961/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+</feed>

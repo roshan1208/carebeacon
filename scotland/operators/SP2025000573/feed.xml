@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by CVC (SCOTLAND) LIMITED</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2025000573/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2025000573/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2025000573/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by CVC (SCOTLAND) LIMITED whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000408/2026-07-31/first_graded</id>
+    <title>Burton Lodge: Graded for the first time: Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000408/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Graded for the first time: Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000418/2026-04-30/first_graded</id>
+    <title>Carston House: Graded for the first time: Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000418/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000418/2025-09-30/new</id>
+    <title>Carston House: Newly registered (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000418/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000408/2025-09-30/new</id>
+    <title>Burton Lodge: Newly registered (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000408/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (by 30 September 2025).</summary>
+  </entry>
+</feed>

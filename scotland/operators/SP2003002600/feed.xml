@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by East Lothian Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002600/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002600/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002600/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by East Lothian Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000470/2026-07-31/first_graded</id>
+    <title>Meadowmill: Graded for the first time: Adequate (3) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000470/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Lothian. Graded for the first time: Adequate (3) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011076/2025-12-31/decline</id>
+    <title>Lothian Villa: Grade declined: Adequate (3) to Weak (2) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011076/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Adequate (3) to Weak (2) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000470/2025-10-31/new</id>
+    <title>Meadowmill: Newly registered (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000470/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Lothian. Newly registered (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000116/2025-03-31/new</id>
+    <title>Kamali House: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000116/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011078/2025-03-31/cancelled</id>
+    <title>The Abbey: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011078/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004062389/2025-03-31/cancelled</id>
+    <title>Belhaven Nursing Home: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004062389/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011078/2024-03-31/improve</id>
+    <title>The Abbey: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011078/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011076/2024-03-31/decline</id>
+    <title>Lothian Villa: Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011076/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011079/2024-03-31/cancelled</id>
+    <title>Eskgreen: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011079/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004062389/2023-03-31/improve</id>
+    <title>Belhaven Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004062389/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011078/2023-03-31/decline</id>
+    <title>The Abbey: Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011078/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011076/2023-03-31/decline</id>
+    <title>Lothian Villa: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011076/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011078/2022-03-31/decline</id>
+    <title>The Abbey: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011078/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011079/2022-03-31/decline</id>
+    <title>Eskgreen: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011079/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014324303/2022-03-31/decline</id>
+    <title>Crookston Care Home: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014324303/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004062389/2020-03-31/improve</id>
+    <title>Belhaven Nursing Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004062389/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011078/2019-03-31/improve</id>
+    <title>The Abbey: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011078/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011079/2019-03-31/improve</id>
+    <title>Eskgreen: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011079/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004062389/2018-03-31/decline</id>
+    <title>Belhaven Nursing Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004062389/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014324303/2016-03-31/first_graded</id>
+    <title>Crookston Care Home: Graded for the first time: Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014324303/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Graded for the first time: Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011079/2016-03-31/decline</id>
+    <title>Eskgreen: Grade declined: Very good (5) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011079/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Very good (5) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Partners In Care Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2007008923/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2007008923/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2007008923/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Partners In Care Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007144754/2025-03-31/improve</id>
+    <title>Tanglewood: Grade improved: Very good (5) to Excellent (6) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007144754/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Very good (5) to Excellent (6) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007144754/2024-03-31/improve</id>
+    <title>Tanglewood: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007144754/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007144696/2024-03-31/improve</id>
+    <title>Kyllimoons Care Home: Grade improved: Very good (5) to Excellent (6) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007144696/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Very good (5) to Excellent (6) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007144754/2022-03-31/decline</id>
+    <title>Tanglewood: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007144754/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007144754/2016-03-31/decline</id>
+    <title>Tanglewood: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007144754/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

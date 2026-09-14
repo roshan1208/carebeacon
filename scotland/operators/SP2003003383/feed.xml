@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by West Dunbartonshire Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003383/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003383/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003003383/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by West Dunbartonshire Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380482/2026-01-31/decline</id>
+    <title>Queens Quay House: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380482/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380482/2025-08-31/improve</id>
+    <title>Queens Quay House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380482/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001429/2025-08-31/improve</id>
+    <title>Craigellachie Children's Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001429/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380482/2025-03-31/decline</id>
+    <title>Queens Quay House: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380482/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001429/2025-03-31/decline</id>
+    <title>Craigellachie Children's Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001429/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001426/2024-03-31/improve</id>
+    <title>Burnside Children's Unit: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001426/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352864/2023-03-31/improve</id>
+    <title>Crosslet House Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352864/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2023-03-31/improve</id>
+    <title>Blairvadach Residential Home: Grade improved: Good (4) to Excellent (6) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Good (4) to Excellent (6) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380482/2022-03-31/first_graded</id>
+    <title>Queens Quay House: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380482/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380482/2021-03-22/new</id>
+    <title>Queens Quay House: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380482/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001426/2021-03-22/decline</id>
+    <title>Burnside Children's Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001426/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001424/2021-03-22/cancelled</id>
+    <title>Mount Pleasant House: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001424/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001421/2021-03-22/cancelled</id>
+    <title>Frank Downie House: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001421/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001424/2020-03-31/improve</id>
+    <title>Mount Pleasant House: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001424/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2020-03-31/improve</id>
+    <title>Blairvadach Residential Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001421/2020-03-31/decline</id>
+    <title>Frank Downie House: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001421/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352864/2020-03-31/decline</id>
+    <title>Crosslet House Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352864/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001421/2019-03-31/improve</id>
+    <title>Frank Downie House: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001421/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001426/2019-03-31/improve</id>
+    <title>Burnside Children's Unit: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001426/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352864/2019-03-31/first_graded</id>
+    <title>Crosslet House Care Home: Graded for the first time: Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352864/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Graded for the first time: Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001424/2019-03-31/decline</id>
+    <title>Mount Pleasant House: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001424/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2019-03-31/decline</id>
+    <title>Blairvadach Residential Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001419/2019-03-31/cancelled</id>
+    <title>Boquhanran House: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001419/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352864/2018-03-31/new</id>
+    <title>Crosslet House Care Home: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352864/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001429/2018-03-31/decline</id>
+    <title>Craigellachie Children's Home: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001429/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2018-03-31/decline</id>
+    <title>Blairvadach Residential Home: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001425/2018-03-31/cancelled</id>
+    <title>Willox Park: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001425/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001422/2018-03-31/cancelled</id>
+    <title>Langcraigs Centre: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001422/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001420/2018-03-31/cancelled</id>
+    <title>Dalreoch House: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001420/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2017-03-31/improve</id>
+    <title>Blairvadach Residential Home: Grade improved: Adequate (3) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001422/2016-03-31/improve</id>
+    <title>Langcraigs Centre: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001422/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001419/2016-03-31/improve</id>
+    <title>Boquhanran House: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001419/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001426/2016-03-31/decline</id>
+    <title>Burnside Children's Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001426/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000424/2016-03-31/decline</id>
+    <title>Blairvadach Residential Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000424/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050264/2016-03-31/cancelled</id>
+    <title>Ramsay House: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050264/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

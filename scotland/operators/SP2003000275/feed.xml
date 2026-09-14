@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Scottish Autism</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000275/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000275/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000275/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Scottish Autism whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011035/2026-02-28/decline</id>
+    <title>Parkside Court: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011035/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Midlothian. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001386/2025-08-31/improve</id>
+    <title>New Ridgepark: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001386/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015114/2025-03-31/improve</id>
+    <title>Scottish Autism - South West Area Services - Staikhill: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015114/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011035/2024-03-31/improve</id>
+    <title>Parkside Court: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011035/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015114/2023-03-31/decline</id>
+    <title>Scottish Autism - South West Area Services - Staikhill: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015114/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011035/2023-03-31/decline</id>
+    <title>Parkside Court: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011035/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001386/2023-03-31/decline</id>
+    <title>New Ridgepark: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001386/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011035/2019-03-31/decline</id>
+    <title>Parkside Court: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011035/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001386/2019-03-31/decline</id>
+    <title>New Ridgepark: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001386/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012306727/2019-03-31/cancelled</id>
+    <title>Waulkmill Project: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012306727/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Moray. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003006903/2017-03-31/cancelled</id>
+    <title>149 Lumphinnans Road: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003006903/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Fife. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

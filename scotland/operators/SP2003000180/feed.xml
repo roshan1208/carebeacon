@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Scottish Action For Mental Health</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000180/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000180/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000180/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Scottish Action For Mental Health whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000888/2026-07-31/cancelled</id>
+    <title>Easterhill Project Supported Accommodation: Registration cancelled (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000888/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011543/2026-06-30/decline</id>
+    <title>SAMH - Mayfield: Grade declined: Very good (5) to Good (4) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011543/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Good (4) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011549/2026-01-31/decline</id>
+    <title>SAMH - Whins Of Milton: Grade declined: Very good (5) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011549/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Very good (5) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2025-08-31/cancelled</id>
+    <title>Engage - Glenlora: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000888/2025-03-31/improve</id>
+    <title>Easterhill Project Supported Accommodation: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000888/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000878/2025-03-31/improve</id>
+    <title>Brisbane Supported Accommodation Project: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000878/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2025-03-31/decline</id>
+    <title>Engage - Glenlora: Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011549/2023-03-31/improve</id>
+    <title>SAMH - Whins Of Milton: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011549/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2023-03-31/decline</id>
+    <title>Engage - Glenlora: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000888/2023-03-31/decline</id>
+    <title>Easterhill Project Supported Accommodation: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000888/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000878/2023-03-31/decline</id>
+    <title>Brisbane Supported Accommodation Project: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000878/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006136881/2022-03-31/decline</id>
+    <title>Hoddam ARBD Service: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006136881/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011549/2021-03-22/decline</id>
+    <title>SAMH - Whins Of Milton: Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011549/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006136881/2020-03-31/improve</id>
+    <title>Hoddam ARBD Service: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006136881/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011546/2020-03-31/cancelled</id>
+    <title>SAMH - Rosemore SA: Registration cancelled (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011546/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Stirling. Registration cancelled (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011549/2019-03-31/improve</id>
+    <title>SAMH - Whins Of Milton: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011549/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000878/2019-03-31/improve</id>
+    <title>Brisbane Supported Accommodation Project: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000878/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2018-03-31/improve</id>
+    <title>Engage - Glenlora: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000885/2018-03-31/cancelled</id>
+    <title>West End Project - Glasgow: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000885/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008809/2018-03-31/cancelled</id>
+    <title>SAMH - Moray: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008809/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Moray. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000883/2018-03-31/cancelled</id>
+    <title>Maryhill Supported Accommodation: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000883/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000879/2018-03-31/cancelled</id>
+    <title>Drumchapel Supported Accommodation Project: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000879/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014314/2018-03-31/cancelled</id>
+    <title>Bellahouston Project: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014314/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2017-03-31/improve</id>
+    <title>Engage - Glenlora: Grade improved: Weak (2) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000882/2017-03-31/decline</id>
+    <title>Ledmore Supported Accommodation Project: Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000882/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000878/2017-03-31/decline</id>
+    <title>Brisbane Supported Accommodation Project: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000878/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008809/2016-03-31/improve</id>
+    <title>SAMH - Moray: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008809/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Moray. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000878/2016-03-31/improve</id>
+    <title>Brisbane Supported Accommodation Project: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000878/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011549/2016-03-31/decline</id>
+    <title>SAMH - Whins Of Milton: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011549/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006136881/2016-03-31/decline</id>
+    <title>Hoddam ARBD Service: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006136881/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2016-03-31/decline</id>
+    <title>Engage - Glenlora: Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014314/2016-03-31/decline</id>
+    <title>Bellahouston Project: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014314/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010238767/2016-03-31/cancelled</id>
+    <title>Engage - Rathlin: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010238767/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009230637/2016-03-31/cancelled</id>
+    <title>Engage - Muirshiel: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009230637/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

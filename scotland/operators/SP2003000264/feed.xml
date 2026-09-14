@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Quarriers</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000264/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000264/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000264/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Quarriers whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001114/2026-01-31/improve</id>
+    <title>Quarriers Finnart Street: Grade improved: Good (4) to Very good (5) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001114/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001119/2026-01-31/cancelled</id>
+    <title>Rivendell: Registration cancelled (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001119/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Inverclyde. Registration cancelled (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2025-08-31/improve</id>
+    <title>Mavisbank Gardens: Grade improved: Weak (2) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001117/2025-08-31/improve</id>
+    <title>Countryview: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001117/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2025-03-31/decline</id>
+    <title>Mavisbank Gardens: Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001113/2025-03-31/cancelled</id>
+    <title>Riverview: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001113/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001116/2025-03-31/cancelled</id>
+    <title>Quarriers Fountainview: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001116/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001128/2025-03-31/cancelled</id>
+    <title>Quarriers - Ashgrove / Glen Valley: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001128/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001119/2024-03-31/decline</id>
+    <title>Rivendell: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001119/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001113/2023-03-31/decline</id>
+    <title>Riverview: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001113/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001118/2023-03-31/decline</id>
+    <title>Merrybrook: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001118/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001119/2022-03-31/improve</id>
+    <title>Rivendell: Grade improved: Good (4) to Very good (5) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001119/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001113/2022-03-31/decline</id>
+    <title>Riverview: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001113/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001116/2022-03-31/decline</id>
+    <title>Quarriers Fountainview: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001116/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001114/2022-03-31/decline</id>
+    <title>Quarriers Finnart Street: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001114/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001117/2022-03-31/decline</id>
+    <title>Countryview: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001117/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001113/2020-03-31/improve</id>
+    <title>Riverview: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001113/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001116/2020-03-31/improve</id>
+    <title>Quarriers Fountainview: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001116/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001114/2020-03-31/improve</id>
+    <title>Quarriers Finnart Street: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001114/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001117/2020-03-31/improve</id>
+    <title>Countryview: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001117/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001119/2020-03-31/decline</id>
+    <title>Rivendell: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001119/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001127/2020-03-31/cancelled</id>
+    <title>Quarriers - Davidson / Parklands / Kelly: Registration cancelled (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001127/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Registration cancelled (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001119/2019-03-31/improve</id>
+    <title>Rivendell: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001119/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010238999/2019-03-31/improve</id>
+    <title>Dunn Street, Duntocher - Respite Service: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010238999/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001128/2019-03-31/decline</id>
+    <title>Quarriers - Ashgrove / Glen Valley: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001128/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2019-03-31/decline</id>
+    <title>Mavisbank Gardens: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001112/2018-03-31/improve</id>
+    <title>Westview: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001112/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2018-03-31/improve</id>
+    <title>Mavisbank Gardens: Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010238999/2018-03-31/decline</id>
+    <title>Dunn Street, Duntocher - Respite Service: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010238999/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001117/2018-03-31/decline</id>
+    <title>Countryview: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001117/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001116/2017-03-31/improve</id>
+    <title>Quarriers Fountainview: Grade improved: Adequate (3) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001116/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Adequate (3) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001112/2017-03-31/decline</id>
+    <title>Westview: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001112/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2017-03-31/decline</id>
+    <title>Mavisbank Gardens: Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010238999/2017-03-31/decline</id>
+    <title>Dunn Street, Duntocher - Respite Service: Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010238999/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>West Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000812/2017-03-31/cancelled</id>
+    <title>Quarriers Chavey Down: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000812/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001113/2016-03-31/improve</id>
+    <title>Riverview: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001113/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001127/2016-03-31/improve</id>
+    <title>Quarriers - Davidson / Parklands / Kelly: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001127/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001118/2016-03-31/improve</id>
+    <title>Merrybrook: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001118/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001116/2016-03-31/decline</id>
+    <title>Quarriers Fountainview: Grade declined: Very good (5) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001116/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade declined: Very good (5) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

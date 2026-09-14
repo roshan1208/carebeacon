@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Keane Premier Healthcare Glasgow Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013243/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013243/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2018013243/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Keane Premier Healthcare Glasgow Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371796/2025-10-31/improve</id>
+    <title>Ashton Grange: Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371796/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371797/2025-03-31/improve</id>
+    <title>Greyfriars Care Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371797/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371796/2025-03-31/decline</id>
+    <title>Ashton Grange: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371796/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371797/2022-03-31/first_graded</id>
+    <title>Greyfriars Care Centre: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371797/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371796/2022-03-31/first_graded</id>
+    <title>Ashton Grange: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371796/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371797/2020-03-31/new</id>
+    <title>Greyfriars Care Centre: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371797/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371796/2020-03-31/new</id>
+    <title>Ashton Grange: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371796/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+</feed>

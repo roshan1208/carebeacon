@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Horizons Residential Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2013012111/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2013012111/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2013012111/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Horizons Residential Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2026-08-31/new</id>
+    <title>Horizons Residential Care - Glendale House: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Midlothian. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2026-07-31/new</id>
+    <title>Horizons Residential Care - Hillview House: Newly registered (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2026-06-30/cancelled</id>
+    <title>Horizons Residential Care - Hillview House: Registration cancelled (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2026-05-31/decline</id>
+    <title>Horizons Residential Care - Braeside House: Grade declined: Very good (5) to Good (4) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2026-05-31/cancelled</id>
+    <title>Horizons Residential Care - Glendale House: Registration cancelled (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Midlothian. Registration cancelled (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2026-04-30/new</id>
+    <title>Horizons Residential Care - Hillview House: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000350/2026-03-31/improve</id>
+    <title>BonnieView House: Grade improved: Unsatisfactory (1) to Adequate (3) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000350/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Unsatisfactory (1) to Adequate (3) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2025-12-31/cancelled</id>
+    <title>Horizons Residential Care - Hillview House: Registration cancelled (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2025-08-31/new</id>
+    <title>Horizons Residential Care - Hillview House: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318832/2025-08-31/improve</id>
+    <title>Horizons Residential Care - Westhaven House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318832/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000372/2025-08-31/decline</id>
+    <title>Newhaven House: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000372/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318832/2025-03-31/decline</id>
+    <title>Horizons Residential Care - Westhaven House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318832/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2025-03-31/decline</id>
+    <title>Horizons Residential Care - Glendale House: Grade declined: Very good (5) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade declined: Very good (5) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000350/2025-03-31/decline</id>
+    <title>BonnieView House: Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000350/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2025-03-31/cancelled</id>
+    <title>Horizons Residential Care - Hillview House: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318832/2024-03-31/improve</id>
+    <title>Horizons Residential Care - Westhaven House: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318832/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2024-03-31/improve</id>
+    <title>Horizons Residential Care - Braeside House: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000372/2024-03-31/first_graded</id>
+    <title>Newhaven House: Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000372/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000350/2024-03-31/first_graded</id>
+    <title>BonnieView House: Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000350/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000372/2023-03-31/new</id>
+    <title>Newhaven House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000372/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000350/2023-03-31/new</id>
+    <title>BonnieView House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000350/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2023-03-31/improve</id>
+    <title>Horizons Residential Care - Glendale House: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2020-03-31/first_graded</id>
+    <title>Horizons Residential Care - Glendale House: Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Graded for the first time: Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2019-03-31/decline</id>
+    <title>Horizons Residential Care - Braeside House: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2018-03-31/new</id>
+    <title>Horizons Residential Care - Glendale House: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Midlothian. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2018-03-31/improve</id>
+    <title>Horizons Residential Care - Hillview House: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2017-03-31/new</id>
+    <title>Horizons Residential Care - Braeside House: Newly registered (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Newly registered (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2017-03-31/first_graded</id>
+    <title>Horizons Residential Care - Hillview House: Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341621/2016-03-31/new</id>
+    <title>Horizons Residential Care - Hillview House: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341621/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2016-03-31/cancelled</id>
+    <title>Horizons Residential Care - Willow House: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

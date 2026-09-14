@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Aspris Scotland Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2010011131/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2010011131/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2010011131/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Aspris Scotland Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000399/2026-08-31/new</id>
+    <title>Woodend: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000399/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000396/2026-08-31/new</id>
+    <title>Waterside: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000396/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000397/2026-08-31/new</id>
+    <title>Gatehouse: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000397/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000400/2026-08-31/new</id>
+    <title>Croekwood: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000400/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000398/2026-08-31/new</id>
+    <title>Balgray: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000398/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000148/2026-04-30/new</id>
+    <title>Clonmacate: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000148/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (by 30 April 2026).</summary>
+  </entry>
+</feed>

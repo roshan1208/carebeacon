@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Amicura Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2021000220/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2021000220/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2021000220/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Amicura Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000349/2025-03-31/decline</id>
+    <title>Kingsley Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000349/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000396/2024-03-31/first_graded</id>
+    <title>Liberton Brae: Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000396/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000349/2024-03-31/first_graded</id>
+    <title>Kingsley Care Home: Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000349/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000396/2023-03-31/new</id>
+    <title>Liberton Brae: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000396/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000349/2022-03-31/new</id>
+    <title>Kingsley Care Home: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000349/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+</feed>

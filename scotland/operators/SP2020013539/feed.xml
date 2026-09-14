@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Nurture One Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2020013539/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2020013539/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2020013539/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Nurture One Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000306/2026-07-31/improve</id>
+    <title>Coalburn House: Grade improved: Good (4) to Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000306/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000285/2026-04-30/improve</id>
+    <title>Crawford House: Grade improved: Weak (2) to Good (4) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000285/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Weak (2) to Good (4) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2025-08-31/improve</id>
+    <title>Nurture One Ltd: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2025-03-31/improve</id>
+    <title>Nurture One Ltd: Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000306/2025-03-31/first_graded</id>
+    <title>Coalburn House: Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000306/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2024-03-31/decline</id>
+    <title>Nurture One Ltd: Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000285/2024-03-31/decline</id>
+    <title>Crawford House: Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000285/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000306/2023-03-31/new</id>
+    <title>Coalburn House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000306/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2023-03-31/improve</id>
+    <title>Nurture One Ltd: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000285/2023-03-31/first_graded</id>
+    <title>Crawford House: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000285/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000285/2022-03-31/new</id>
+    <title>Crawford House: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000285/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2022-03-31/first_graded</id>
+    <title>Nurture One Ltd: Graded for the first time: Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020380197/2021-03-22/new</id>
+    <title>Nurture One Ltd: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020380197/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by FTS Care Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2009010432/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2009010432/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2009010432/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by FTS Care Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2026-06-30/improve</id>
+    <title>Elmbank House: Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2026-03-31/improve</id>
+    <title>Oswald Street: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2025-11-30/improve</id>
+    <title>Elmbank House: Grade improved: Unsatisfactory (1) to Adequate (3) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Unsatisfactory (1) to Adequate (3) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2025-03-31/decline</id>
+    <title>Oswald Street: Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2025-03-31/decline</id>
+    <title>Elmbank House: Grade declined: Weak (2) to Unsatisfactory (1) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Weak (2) to Unsatisfactory (1) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2024-03-31/improve</id>
+    <title>Elmbank House: Grade improved: Unsatisfactory (1) to Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Unsatisfactory (1) to Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017362452/2023-03-31/improve</id>
+    <title>The Manse 38 Alloa Road: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017362452/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2023-03-31/improve</id>
+    <title>Oswald Street: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2023-03-31/decline</id>
+    <title>Elmbank House: Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017362452/2022-03-31/improve</id>
+    <title>The Manse 38 Alloa Road: Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017362452/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2022-03-31/improve</id>
+    <title>Elmbank House: Grade improved: Adequate (3) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Adequate (3) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2022-03-31/decline</id>
+    <title>Oswald Street: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2020-03-31/improve</id>
+    <title>Oswald Street: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017362452/2020-03-31/first_graded</id>
+    <title>The Manse 38 Alloa Road: Graded for the first time: Weak (2) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017362452/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Graded for the first time: Weak (2) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2020-03-31/decline</id>
+    <title>Elmbank House: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017362452/2019-03-31/new</id>
+    <title>The Manse 38 Alloa Road: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017362452/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009228597/2018-03-31/decline</id>
+    <title>Elmbank House: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009228597/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2017-03-31/first_graded</id>
+    <title>Oswald Street: Graded for the first time: Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Graded for the first time: Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335909/2016-03-31/new</id>
+    <title>Oswald Street: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335909/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

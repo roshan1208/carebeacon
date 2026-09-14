@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Archway (Respite Care &amp; Housing) Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000018/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000018/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000018/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Archway (Respite Care &amp; Housing) Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2025-12-31/cancelled</id>
+    <title>Berryden Mills: Registration cancelled (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2025-11-30/improve</id>
+    <title>71 Westburn Road: Grade improved: Adequate (3) to Good (4) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000245/2025-08-31/improve</id>
+    <title>31 Two Mile Cross: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000245/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2025-03-31/decline</id>
+    <title>Berryden Mills: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000242/2025-03-31/decline</id>
+    <title>153 Victoria Street: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000242/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2024-03-31/decline</id>
+    <title>Berryden Mills: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2023-03-31/decline</id>
+    <title>71 Westburn Road: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000245/2023-03-31/decline</id>
+    <title>31 Two Mile Cross: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000245/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2022-03-31/decline</id>
+    <title>71 Westburn Road: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000242/2022-03-31/decline</id>
+    <title>153 Victoria Street: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000242/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2020-03-31/improve</id>
+    <title>71 Westburn Road: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000242/2020-03-31/improve</id>
+    <title>153 Victoria Street: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000242/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2018-03-31/decline</id>
+    <title>71 Westburn Road: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2017-03-31/improve</id>
+    <title>71 Westburn Road: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

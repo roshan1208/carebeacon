@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Viewpoint HA</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002464/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002464/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002464/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Viewpoint HA whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010670/2025-03-31/decline</id>
+    <title>St. Raphael's Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010670/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010646/2023-03-31/cancelled</id>
+    <title>Lennox House: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010646/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010646/2022-03-31/decline</id>
+    <title>Lennox House: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010646/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010670/2021-03-22/improve</id>
+    <title>St. Raphael's Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010670/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Good (4) to Very good (5) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010646/2020-03-31/improve</id>
+    <title>Lennox House: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010646/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010670/2020-03-31/decline</id>
+    <title>St. Raphael's Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010670/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010646/2018-03-31/decline</id>
+    <title>Lennox House: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010646/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010670/2016-03-31/improve</id>
+    <title>St. Raphael's Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010670/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006136953/2016-03-31/improve</id>
+    <title>Marian House: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006136953/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010646/2016-03-31/improve</id>
+    <title>Lennox House: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010646/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Edinburgh, City of. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

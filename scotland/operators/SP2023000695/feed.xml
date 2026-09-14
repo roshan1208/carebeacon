@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Byker Bairns Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2023000695/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2023000695/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2023000695/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Byker Bairns Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000358/2025-08-31/new</id>
+    <title>Logans Rise: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000358/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000338/2025-08-31/first_graded</id>
+    <title>Anitas Dawn: Graded for the first time: Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000338/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000338/2025-03-31/new</id>
+    <title>Anitas Dawn: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000338/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+</feed>

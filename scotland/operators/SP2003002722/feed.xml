@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Avondale Care (Scotland) Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002722/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002722/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002722/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Avondale Care (Scotland) Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2024-03-31/improve</id>
+    <title>Carrondale Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009215867/2024-03-31/cancelled</id>
+    <title>Lister House: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009215867/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Fife. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340843/2022-03-31/decline</id>
+    <title>Robert Allan Unit: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340843/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2022-03-31/decline</id>
+    <title>Carrondale Nursing Home: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340843/2020-03-31/improve</id>
+    <title>Robert Allan Unit: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340843/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009215867/2020-03-31/improve</id>
+    <title>Lister House: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009215867/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2020-03-31/improve</id>
+    <title>Carrondale Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009215867/2019-03-31/decline</id>
+    <title>Lister House: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009215867/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340843/2018-03-31/improve</id>
+    <title>Robert Allan Unit: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340843/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2018-03-31/improve</id>
+    <title>Carrondale Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007162394/2018-03-31/improve</id>
+    <title>Benore Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007162394/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009215867/2018-03-31/decline</id>
+    <title>Lister House: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009215867/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2017-03-31/improve</id>
+    <title>Carrondale Nursing Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Weak (2) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340843/2017-03-31/first_graded</id>
+    <title>Robert Allan Unit: Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340843/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Fife. Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007162394/2017-03-31/decline</id>
+    <title>Benore Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007162394/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Fife. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340843/2016-03-31/new</id>
+    <title>Robert Allan Unit: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340843/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Fife. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011589/2016-03-31/decline</id>
+    <title>Carrondale Nursing Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011589/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

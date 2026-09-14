@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Seamab</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002135/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002135/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002135/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Seamab whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2026-02-28/improve</id>
+    <title>Seamab: Grade improved: Adequate (3) to Very good (5) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Adequate (3) to Very good (5) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000161/2025-03-31/first_graded</id>
+    <title>Seamab Threemiletown: Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000161/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2025-03-31/decline</id>
+    <title>Seamab: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000161/2024-03-31/new</id>
+    <title>Seamab Threemiletown: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000161/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2024-03-31/decline</id>
+    <title>Seamab: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2023-03-31/improve</id>
+    <title>Seamab: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2022-03-31/decline</id>
+    <title>Seamab: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2020-03-31/improve</id>
+    <title>Seamab: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2019-03-31/first_graded</id>
+    <title>Seamab: Graded for the first time: Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Graded for the first time: Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352925/2018-03-31/new</id>
+    <title>Seamab: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352925/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Sense Scotland</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000181/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000181/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000181/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Sense Scotland whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000149/2026-04-30/new</id>
+    <title>Phew Sense Scotland: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000149/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>North Lanarkshire. Newly registered (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010249688/2025-03-31/cancelled</id>
+    <title>Ardlui Respite House: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010249688/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101796/2024-03-31/decline</id>
+    <title>Sense Scotland Dundee Respite: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101796/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dundee City. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101796/2023-03-31/decline</id>
+    <title>Sense Scotland Dundee Respite: Grade declined: Excellent (6) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101796/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dundee City. Grade declined: Excellent (6) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101796/2021-03-22/improve</id>
+    <title>Sense Scotland Dundee Respite: Grade improved: Very good (5) to Excellent (6) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101796/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Dundee City. Grade improved: Very good (5) to Excellent (6) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003041861/2020-03-31/decline</id>
+    <title>South Lanarkshire Short Break Service: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003041861/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010249688/2020-03-31/decline</id>
+    <title>Ardlui Respite House: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010249688/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000891/2019-03-31/cancelled</id>
+    <title>SENSE (Overbridge) 1+ 2 + Annexe: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000891/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003020223/2019-03-31/cancelled</id>
+    <title>1 &amp; 30 Donald Dewar Court: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003020223/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000891/2018-03-31/decline</id>
+    <title>SENSE (Overbridge) 1+ 2 + Annexe: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000891/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101796/2017-03-31/decline</id>
+    <title>Sense Scotland Dundee Respite: Grade declined: Excellent (6) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101796/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Dundee City. Grade declined: Excellent (6) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003020223/2017-03-31/decline</id>
+    <title>1 &amp; 30 Donald Dewar Court: Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003020223/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003041861/2016-03-31/improve</id>
+    <title>South Lanarkshire Short Break Service: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003041861/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101796/2016-03-31/improve</id>
+    <title>Sense Scotland Respite and Short Breaks Service: Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101796/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Dundee City. Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

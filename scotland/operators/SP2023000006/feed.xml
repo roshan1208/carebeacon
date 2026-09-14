@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Fairview Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2023000006/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2023000006/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2023000006/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Fairview Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000006/2026-01-31/new</id>
+    <title>Eagle Lodge: Newly registered (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000006/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000010/2025-10-31/improve</id>
+    <title>Haugh House: Grade improved: Good (4) to Very good (5) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000010/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Good (4) to Very good (5) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000011/2025-03-31/first_graded</id>
+    <title>Craighall House: Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000011/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000050/2024-03-31/first_graded</id>
+    <title>Millfield House: Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000050/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000010/2024-03-31/first_graded</id>
+    <title>Haugh House: Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000010/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000050/2023-03-31/new</id>
+    <title>Millfield House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000050/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000010/2023-03-31/new</id>
+    <title>Haugh House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000010/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000011/2023-03-31/new</id>
+    <title>Craighall House: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000011/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+</feed>

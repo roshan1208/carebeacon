@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Imagine Care Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2022000146/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2022000146/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2022000146/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Imagine Care Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000022/2026-07-31/improve</id>
+    <title>Pleasantfield Cottage: Grade improved: Good (4) to Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000022/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade improved: Good (4) to Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2026-07-31/improve</id>
+    <title>Dunelm: Grade improved: Good (4) to Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000359/2026-07-31/first_graded</id>
+    <title>Rose Cottage: Graded for the first time: Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000359/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000022/2025-11-30/improve</id>
+    <title>Pleasantfield Cottage: Grade improved: Weak (2) to Good (4) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000022/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>South Ayrshire. Grade improved: Weak (2) to Good (4) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000359/2025-08-31/new</id>
+    <title>Rose Cottage: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000359/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2025-08-31/improve</id>
+    <title>Dunelm: Grade improved: Weak (2) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000376/2025-08-31/first_graded</id>
+    <title>Lochend: Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000376/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000376/2025-03-31/new</id>
+    <title>Lochend: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000376/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2025-03-31/new</id>
+    <title>Dunelm: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000022/2025-03-31/first_graded</id>
+    <title>Pleasantfield Cottage: Graded for the first time: Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000022/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Graded for the first time: Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000022/2024-03-31/new</id>
+    <title>Pleasantfield Cottage: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000022/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000205/2024-03-31/first_graded</id>
+    <title>Hamlet Farm: Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000205/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000205/2023-03-31/new</id>
+    <title>Hamlet Farm: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000205/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by The Richmond Fellowship Scotland Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004006282/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004006282/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2004006282/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by The Richmond Fellowship Scotland Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000415/2026-05-31/first_graded</id>
+    <title>Waterloo Care Home: Graded for the first time: Very good (5) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000415/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Graded for the first time: Very good (5) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000229/2026-03-31/improve</id>
+    <title>Parkholme: Grade improved: Weak (2) to Adequate (3) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000229/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Moray. Grade improved: Weak (2) to Adequate (3) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000932/2026-02-28/cancelled</id>
+    <title>Balmoral Gate: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000932/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000229/2026-01-31/decline</id>
+    <title>Parkholme: Grade declined: Adequate (3) to Weak (2) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000229/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Moray. Grade declined: Adequate (3) to Weak (2) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000237/2026-01-31/decline</id>
+    <title>Leggart Terrace Service: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000237/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000229/2025-09-30/first_graded</id>
+    <title>Parkholme: Graded for the first time: Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000229/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Moray. Graded for the first time: Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000229/2025-08-31/new</id>
+    <title>Parkholme: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000229/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Moray. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000936/2025-08-31/cancelled</id>
+    <title>Woodside Community Mental Health Project: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000936/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000415/2025-03-31/new</id>
+    <title>Waterloo Care Home: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000415/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000347/2025-03-31/cancelled</id>
+    <title>Alford Service: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000347/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000936/2024-03-31/improve</id>
+    <title>Woodside Community Mental Health Project: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000936/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000237/2024-03-31/improve</id>
+    <title>Leggart Terrace Service: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000237/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009194187/2024-03-31/decline</id>
+    <title>Cherry Tree Court: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009194187/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000936/2023-03-31/decline</id>
+    <title>Woodside Community Mental Health Project: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000936/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001398/2023-03-31/decline</id>
+    <title>Sheriff Park Service: Grade declined: Excellent (6) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001398/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Excellent (6) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000932/2023-03-31/decline</id>
+    <title>Balmoral Gate: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000932/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334038/2023-03-31/cancelled</id>
+    <title>The Richmond Fellowship Scotland Todhill Country Centre: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334038/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050894/2023-03-31/cancelled</id>
+    <title>Station Brae Respite Unit: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050894/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011052/2022-03-31/decline</id>
+    <title>Plover Brae: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011052/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000933/2022-03-31/decline</id>
+    <title>Oakley Terrace Scheme: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000933/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000237/2022-03-31/decline</id>
+    <title>Leggart Terrace Service: Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000237/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000787/2022-03-31/decline</id>
+    <title>Ashfield House: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000787/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001174/2022-03-31/cancelled</id>
+    <title>Harbourside Project: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001174/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050894/2021-03-22/decline</id>
+    <title>Station Brae Respite Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050894/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334038/2020-03-31/improve</id>
+    <title>The Richmond Fellowship Scotland Todhill Country Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334038/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011052/2020-03-31/improve</id>
+    <title>Plover Brae: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011052/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000933/2020-03-31/improve</id>
+    <title>Oakley Terrace Scheme: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000933/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000787/2020-03-31/improve</id>
+    <title>Ashfield House: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000787/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001174/2020-03-31/decline</id>
+    <title>Harbourside Project: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001174/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000347/2020-03-31/decline</id>
+    <title>Alford Service: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000347/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050894/2019-03-31/improve</id>
+    <title>Station Brae Respite Unit: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050894/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001398/2019-03-31/improve</id>
+    <title>Sheriff Park Service: Grade improved: Very good (5) to Excellent (6) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001398/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Very good (5) to Excellent (6) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000787/2019-03-31/improve</id>
+    <title>Ashfield House: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000787/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050894/2018-03-31/decline</id>
+    <title>Station Brae Respite Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050894/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000787/2018-03-31/decline</id>
+    <title>Ashfield House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000787/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000934/2018-03-31/cancelled</id>
+    <title>Elliston Drive Service: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000934/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009194187/2017-03-31/improve</id>
+    <title>Cherry Tree Court: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009194187/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334038/2017-03-31/first_graded</id>
+    <title>The Richmond Fellowship Scotland Todhill Country Centre: Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334038/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334038/2016-03-31/new</id>
+    <title>The Richmond Fellowship Scotland Todhill Country Centre: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334038/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001398/2016-03-31/improve</id>
+    <title>Sheriff Park Service: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001398/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009194187/2016-03-31/improve</id>
+    <title>Cherry Tree Court: Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009194187/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000787/2016-03-31/improve</id>
+    <title>Ashfield House: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000787/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000933/2016-03-31/decline</id>
+    <title>Oakley Terrace Scheme: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000933/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

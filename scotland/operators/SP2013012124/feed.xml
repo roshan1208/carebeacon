@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by MMCG (CCH) (3) Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2013012124/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2013012124/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2013012124/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by MMCG (CCH) (3) Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319182/2025-08-31/improve</id>
+    <title>Parksprings Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319182/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319182/2025-03-31/decline</id>
+    <title>Parksprings Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319182/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319182/2020-03-31/improve</id>
+    <title>Parksprings Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319182/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319184/2020-03-31/decline</id>
+    <title>Thorntree Mews: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319184/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319185/2019-03-31/improve</id>
+    <title>Wallace View: Grade improved: Weak (2) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319185/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade improved: Weak (2) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319184/2019-03-31/improve</id>
+    <title>Thorntree Mews: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319184/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Falkirk. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013319185/2016-03-31/decline</id>
+    <title>Wallace View: Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013319185/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Stirling. Grade declined: Adequate (3) to Weak (2) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

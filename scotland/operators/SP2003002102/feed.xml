@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Free Presbyterian Church of Scotland</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002102/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002102/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002102/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Free Presbyterian Church of Scotland whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2026-05-31/improve</id>
+    <title>Leverburgh Care Home: Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2025-08-31/improve</id>
+    <title>Ballifeary House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2025-08-31/decline</id>
+    <title>Leverburgh Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2025-03-31/decline</id>
+    <title>Ballifeary House: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2024-03-31/improve</id>
+    <title>Ballifeary House: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2023-03-31/improve</id>
+    <title>Leverburgh Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2023-03-31/decline</id>
+    <title>Ballifeary House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2020-03-31/decline</id>
+    <title>Leverburgh Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2020-03-31/decline</id>
+    <title>Ballifeary House: Grade declined: Excellent (6) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Excellent (6) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2019-03-31/decline</id>
+    <title>Leverburgh Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2017-03-31/improve</id>
+    <title>Leverburgh Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Na h-Eileanan Siar. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008471/2017-03-31/improve</id>
+    <title>Ballifeary House: Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008471/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009709/2016-03-31/decline</id>
+    <title>Leverburgh Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009709/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Eilean Siar. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

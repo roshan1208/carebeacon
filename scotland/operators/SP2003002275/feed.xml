@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Thorntoun Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002275/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002275/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002275/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Thorntoun Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2026-03-31/improve</id>
+    <title>The Beeches: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2026-02-28/decline</id>
+    <title>The Beeches: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2025-03-31/improve</id>
+    <title>The Beeches: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2024-03-31/improve</id>
+    <title>Thorntoun Estate Nursing Home: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000767/2023-03-31/improve</id>
+    <title>The Elms - Crosshouse: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000767/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2023-03-31/improve</id>
+    <title>The Beeches: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2022-03-31/decline</id>
+    <title>Thorntoun Estate Nursing Home: Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000767/2020-03-31/improve</id>
+    <title>The Elms - Crosshouse: Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000767/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2019-03-31/improve</id>
+    <title>Thorntoun Estate Nursing Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000767/2019-03-31/decline</id>
+    <title>The Elms - Crosshouse: Grade declined: Adequate (3) to Weak (2) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000767/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2019-03-31/decline</id>
+    <title>The Beeches: Grade declined: Adequate (3) to Weak (2) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2018-03-31/decline</id>
+    <title>Thorntoun Estate Nursing Home: Grade declined: Very good (5) to Weak (2) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Weak (2) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000767/2018-03-31/decline</id>
+    <title>The Elms - Crosshouse: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000767/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2018-03-31/decline</id>
+    <title>The Beeches: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2017-03-31/improve</id>
+    <title>Thorntoun Estate Nursing Home: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

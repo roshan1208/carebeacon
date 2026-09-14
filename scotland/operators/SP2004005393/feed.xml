@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Enable Glasgow</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004005393/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2004005393/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2004005393/feed</id>
+  <updated>2026-09-14T14:03:05Z</updated>
+  <subtitle>Care homes run by Enable Glasgow whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2026-08-31/decline</id>
+    <title>Esmond Street Advanced Support Service: Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000838/2025-12-31/decline</id>
+    <title>Balshagray House: Grade declined: Very good (5) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000838/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2025-08-31/decline</id>
+    <title>Esmond Street Advanced Support Service: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2025-03-31/improve</id>
+    <title>Esmond Street Advanced Support Service: Grade improved: Adequate (3) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2023-03-31/decline</id>
+    <title>Esmond Street Advanced Support Service: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000838/2019-03-31/improve</id>
+    <title>Balshagray House: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000838/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2018-03-31/improve</id>
+    <title>Esmond Street Advanced Support Service: Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000838/2018-03-31/decline</id>
+    <title>Balshagray House: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000838/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000838/2017-03-31/improve</id>
+    <title>Balshagray House: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000838/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

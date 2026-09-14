@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Aberdeen City Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000349/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000349/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000349/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Aberdeen City Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000310/2026-07-31/new</id>
+    <title>Fergus House: Newly registered (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000310/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000317/2026-07-31/new</id>
+    <title>Balnagask House: Newly registered (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000317/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000206/2026-05-31/new</id>
+    <title>Kingswells Care Home: Newly registered (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000206/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2024-03-31/cancelled</id>
+    <title>Kincorth Children's Home: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2023-03-31/new</id>
+    <title>Kincorth Children's Home: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015550/2023-03-31/improve</id>
+    <title>Kingsfield Children's Home: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015550/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015550/2022-03-31/decline</id>
+    <title>Kingsfield Children's Home: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015550/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2022-03-31/cancelled</id>
+    <title>Kincorth Children's Home: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2021-03-22/new</id>
+    <title>Kincorth Children's Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007167560/2021-03-22/improve</id>
+    <title>Marchburn Children's Home: Grade improved: Good (4) to Very good (5) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007167560/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315737/2021-03-22/cancelled</id>
+    <title>Marchburn Children's Home: Registration cancelled (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315737/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015550/2020-03-31/improve</id>
+    <title>Kingsfield Children's Home: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015550/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315737/2019-03-31/new</id>
+    <title>Marchburn Children's Home: Newly registered (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315737/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013322477/2018-03-31/cancelled</id>
+    <title>North Balnagask Road: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013322477/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014470/2017-03-31/improve</id>
+    <title>Residential Support Services - 2 Gilbert Road: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014470/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2017-03-31/cancelled</id>
+    <title>Kincorth Children's Home: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004079629/2017-03-31/cancelled</id>
+    <title>57 Long Walk Road: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004079629/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004079629/2016-03-31/new</id>
+    <title>57 Long Walk Road: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004079629/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007167560/2016-03-31/improve</id>
+    <title>The Willows: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007167560/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014470/2016-03-31/improve</id>
+    <title>Residential Support Services - 2 Gilbert Road: Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014470/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315737/2016-03-31/cancelled</id>
+    <title>Marchburn Children's Home: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315737/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by West Lothian Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002601/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002601/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002601/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by West Lothian Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145114/2026-06-30/decline</id>
+    <title>Deans House: Grade declined: Good (4) to Adequate (3) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145114/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003051727/2025-03-31/cancelled</id>
+    <title>Craigmair Interim Care Home: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003051727/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003016586/2025-03-31/cancelled</id>
+    <title>Burnside (Respite): Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003016586/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011110/2023-03-31/improve</id>
+    <title>Whitrigg House: Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011110/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007150524/2023-03-31/improve</id>
+    <title>Torcroft: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007150524/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011082/2023-03-31/improve</id>
+    <title>Limecroft: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011082/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003051727/2023-03-31/improve</id>
+    <title>Craigmair Interim Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003051727/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011084/2022-03-31/decline</id>
+    <title>Whitdale House: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011084/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145114/2022-03-31/decline</id>
+    <title>Deans House: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145114/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003016586/2022-03-31/decline</id>
+    <title>Burnside (Respite): Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003016586/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011108/2022-03-31/cancelled</id>
+    <title>Newton House: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011108/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011110/2021-03-22/decline</id>
+    <title>Whitrigg House: Grade declined: Good (4) to Weak (2) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011110/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Weak (2) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011108/2021-03-22/decline</id>
+    <title>Newton House: Grade declined: Good (4) to Adequate (3) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011108/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011084/2020-03-31/improve</id>
+    <title>Whitdale House: Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011084/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007150524/2020-03-31/decline</id>
+    <title>Torcroft: Grade declined: Good (4) to Weak (2) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007150524/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Weak (2) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011108/2019-03-31/improve</id>
+    <title>Letham Young People's Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011108/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007145114/2019-03-31/improve</id>
+    <title>Deans House: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007145114/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003016586/2019-03-31/improve</id>
+    <title>Burnside (Respite): Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003016586/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011082/2019-03-31/decline</id>
+    <title>Limecroft: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011082/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011108/2018-03-31/decline</id>
+    <title>Letham Young People's Centre: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011108/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003051727/2018-03-31/decline</id>
+    <title>Craigmair Interim Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003051727/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003051727/2017-03-31/decline</id>
+    <title>Craigmair Interim Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003051727/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade declined: Very good (5) to Good (4) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011084/2016-03-31/improve</id>
+    <title>Whitdale House: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011084/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011108/2016-03-31/improve</id>
+    <title>Letham Young People's Centre: Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011108/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003051731/2016-03-31/improve</id>
+    <title>Burngrange Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003051731/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>West Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Pacific Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002346/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002346/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002346/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Pacific Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012312934/2025-08-31/improve</id>
+    <title>Mosswood Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012312934/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010430/2023-03-31/decline</id>
+    <title>Birdston: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010430/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Dunbartonshire. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012312934/2019-03-31/decline</id>
+    <title>Mosswood Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012312934/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012312934/2016-03-31/improve</id>
+    <title>Mosswood Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012312934/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

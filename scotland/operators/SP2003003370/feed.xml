@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Perth &amp; Kinross Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003370/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003370/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003003370/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Perth &amp; Kinross Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009740/2025-11-30/decline</id>
+    <title>Parkdale: Grade declined: Good (4) to Adequate (3) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009740/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Good (4) to Adequate (3) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009740/2025-03-31/improve</id>
+    <title>Parkdale: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009740/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009236865/2024-03-31/decline</id>
+    <title>Woodlea Cottage: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009236865/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009740/2024-03-31/decline</id>
+    <title>Parkdale: Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009740/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009735/2024-03-31/decline</id>
+    <title>Dalweem: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009735/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009236865/2019-03-31/decline</id>
+    <title>Woodlea Cottage: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009236865/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009732/2019-03-31/cancelled</id>
+    <title>Beechgrove House: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009732/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015658/2018-03-31/cancelled</id>
+    <title>The Cottages: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015658/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009236865/2017-03-31/improve</id>
+    <title>Woodlea Cottage: Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009236865/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Very good (5) to Excellent (6) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003009735/2017-03-31/improve</id>
+    <title>Dalweem: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003009735/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015658/2016-03-31/decline</id>
+    <title>The Cottages: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015658/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

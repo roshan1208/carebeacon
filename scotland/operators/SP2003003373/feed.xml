@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Argyll and Bute Council</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003373/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003003373/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003003373/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Argyll and Bute Council whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000081/2026-06-30/decline</id>
+    <title>Kintyre Care Centre: Grade declined: Weak (2) to Unsatisfactory (1) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000081/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Weak (2) to Unsatisfactory (1) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000452/2026-04-30/decline</id>
+    <title>Struan Lodge: Grade declined: Very good (5) to Good (4) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000452/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000426/2026-03-31/decline</id>
+    <title>East King Street Children's House: Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000426/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000447/2025-12-31/improve</id>
+    <title>Gortanvogie Residential Home: Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000447/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000460/2025-10-31/improve</id>
+    <title>Eadar Glinn Residential Home: Grade improved: Weak (2) to Adequate (3) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000460/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Weak (2) to Adequate (3) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000453/2025-09-30/improve</id>
+    <title>Thomson Court: Grade improved: Weak (2) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000453/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Weak (2) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000426/2025-08-31/improve</id>
+    <title>East King Street Children's House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000426/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000453/2025-08-31/decline</id>
+    <title>Thomson Court: Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000453/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000426/2025-03-31/improve</id>
+    <title>East King Street children's house: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000426/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000081/2025-03-31/decline</id>
+    <title>Kintyre Care Centre: Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000081/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000460/2025-03-31/decline</id>
+    <title>Eadar Glinn Residential Home: Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000460/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000461/2024-03-31/improve</id>
+    <title>Shellach View: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000461/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000081/2024-03-31/first_graded</id>
+    <title>Kintyre Care Centre: Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000081/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000081/2023-03-31/new</id>
+    <title>Kintyre Care Centre: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000081/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000462/2023-03-31/improve</id>
+    <title>Tigh-a-Rudha Residential Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000462/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000452/2023-03-31/improve</id>
+    <title>Struan Lodge: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000452/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000460/2023-03-31/improve</id>
+    <title>Eadar Glinn Residential Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000460/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000461/2023-03-31/decline</id>
+    <title>Shellach View: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000461/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000426/2023-03-31/decline</id>
+    <title>Helensburgh Childrens Unit: Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000426/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000452/2021-03-22/decline</id>
+    <title>Struan Lodge: Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000452/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000462/2020-03-31/decline</id>
+    <title>Tigh-a-Rudha Residential Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000462/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000426/2020-03-31/decline</id>
+    <title>Helensburgh Childrens Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000426/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000460/2020-03-31/decline</id>
+    <title>Eadar Glinn Residential Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000460/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000447/2019-03-31/improve</id>
+    <title>Gortanvogie Residential Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000447/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Weak (2) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014233/2019-03-31/improve</id>
+    <title>Ardfenaig Residential Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014233/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000453/2018-03-31/decline</id>
+    <title>Thomson Court: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000453/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000447/2018-03-31/decline</id>
+    <title>Gortanvogie Residential Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000447/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Adequate (3) to Weak (2) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014233/2018-03-31/decline</id>
+    <title>Ardfenaig Residential Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014233/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000453/2016-03-31/improve</id>
+    <title>Thomson Court: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000453/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000447/2016-03-31/decline</id>
+    <title>Gortanvogie Residential Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000447/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

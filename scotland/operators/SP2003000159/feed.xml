@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Third Life Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000159/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003000159/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003000159/feed</id>
+  <updated>2026-09-14T14:03:03Z</updated>
+  <subtitle>Care homes run by Third Life Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005089642/2026-03-31/improve</id>
+    <title>Rosehall Manor: Grade improved: Adequate (3) to Very good (5) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005089642/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade improved: Adequate (3) to Very good (5) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000436/2026-03-31/improve</id>
+    <title>Northwood House Care Home: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000436/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000436/2025-08-31/decline</id>
+    <title>Northwood House Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000436/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000436/2025-03-31/improve</id>
+    <title>Northwood House Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000436/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005089642/2025-03-31/decline</id>
+    <title>Rosehall Manor: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005089642/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2023-03-31/improve</id>
+    <title>Westlea Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005089642/2023-03-31/improve</id>
+    <title>Rosehall Manor: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005089642/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000436/2023-03-31/decline</id>
+    <title>Northwood House Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000436/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2022-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2021-03-22/improve</id>
+    <title>Westlea Care Home: Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2020-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2019-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2018-03-31/improve</id>
+    <title>Westlea Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005089642/2018-03-31/decline</id>
+    <title>Rosehall Manor: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005089642/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>North Lanarkshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2017-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000436/2016-03-31/decline</id>
+    <title>Northwood House Residential Home: Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000436/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Argyll &amp; Bute. Grade declined: Very good (5) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

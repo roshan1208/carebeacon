@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by East Park School</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002355/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003002355/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003002355/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by East Park School whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000257/2026-07-31/decline</id>
+    <title>East Park Community Residences Group 2: Grade declined: Very good (5) to Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000257/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346438/2025-03-31/improve</id>
+    <title>East Park - Community Residences Group 1: Grade improved: Very good (5) to Excellent (6) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346438/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Very good (5) to Excellent (6) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000257/2025-03-31/first_graded</id>
+    <title>East Park Community Residences Group 2: Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000257/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000257/2024-03-31/new</id>
+    <title>East Park Community Residences Group 2: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000257/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346438/2022-03-31/improve</id>
+    <title>East Park School - Intensive Support Service: Grade improved: Good (4) to Very good (5) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346438/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346438/2019-03-31/decline</id>
+    <title>East Park School - Intensive Support Service: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346438/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346438/2018-03-31/first_graded</id>
+    <title>East Park School - Intensive Support Service: Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346438/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346438/2017-03-31/new</id>
+    <title>East Park School - Intensive Support Service: Newly registered (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346438/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+</feed>

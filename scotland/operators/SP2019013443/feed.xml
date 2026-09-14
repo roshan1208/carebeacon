@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Sanctuary Care Limited</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2019013443/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2019013443/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2019013443/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Sanctuary Care Limited whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000389/2026-08-31/first_graded</id>
+    <title>Bridge View House Nursing Home: Graded for the first time: Good (4) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000389/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Dundee City. Graded for the first time: Good (4) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000388/2026-07-31/first_graded</id>
+    <title>The Meadows Care Home: Graded for the first time: Adequate (3) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000388/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Highland. Graded for the first time: Adequate (3) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378616/2026-04-30/improve</id>
+    <title>Tyneholm Stables Care Home: Grade improved: Adequate (3) to Good (4) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378616/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Adequate (3) to Good (4) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378614/2026-03-31/improve</id>
+    <title>Pitcairn Lodge Nursing Home: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378614/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000388/2025-08-31/new</id>
+    <title>The Meadows Care Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000388/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Highland. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000390/2025-08-31/new</id>
+    <title>Mull Hall Care Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000390/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Highland. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000389/2025-08-31/new</id>
+    <title>Bridge View House Nursing Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000389/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dundee City. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378616/2025-08-31/decline</id>
+    <title>Tyneholm Stables Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378616/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378616/2025-03-31/improve</id>
+    <title>Tyneholm Stables Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378616/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378610/2025-03-31/improve</id>
+    <title>Millport Care Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378610/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378609/2025-03-31/improve</id>
+    <title>Forefaulds Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378609/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378613/2024-03-31/improve</id>
+    <title>Park Lodge Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378613/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378608/2024-03-31/improve</id>
+    <title>Camilla House Care Home: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378608/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2024-03-31/improve</id>
+    <title>Allanbank Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378604/2024-03-31/improve</id>
+    <title>Abercorn House Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378604/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378614/2024-03-31/decline</id>
+    <title>Pitcairn Lodge Nursing Home: Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378614/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2023-03-31/improve</id>
+    <title>Allanbank Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378616/2022-03-31/first_graded</id>
+    <title>Tyneholm Stables Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378616/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Lothian. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378615/2022-03-31/first_graded</id>
+    <title>Queens Care Home: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378615/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Ayrshire. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378614/2022-03-31/first_graded</id>
+    <title>Pitcairn Lodge Nursing Home: Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378614/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378613/2022-03-31/first_graded</id>
+    <title>Park Lodge Care Home: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378613/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeenshire. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378610/2022-03-31/first_graded</id>
+    <title>Millport Care Centre: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378610/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>North Ayrshire. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378609/2022-03-31/first_graded</id>
+    <title>Forefaulds Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378609/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378608/2022-03-31/first_graded</id>
+    <title>Camilla House Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378608/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>City of Edinburgh. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378607/2022-03-31/first_graded</id>
+    <title>Birch House Care Home: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378607/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2022-03-31/first_graded</id>
+    <title>Allanbank Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378604/2022-03-31/first_graded</id>
+    <title>Abercorn House Care Home: Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378604/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378616/2021-03-22/new</id>
+    <title>Tyneholm Stables Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378616/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>East Lothian. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378615/2021-03-22/new</id>
+    <title>Queens Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378615/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>South Ayrshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378614/2021-03-22/new</id>
+    <title>Pitcairn Lodge Nursing Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378614/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeenshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378613/2021-03-22/new</id>
+    <title>Park Lodge Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378613/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeenshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378610/2021-03-22/new</id>
+    <title>Millport Care Centre: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378610/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>North Ayrshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378609/2021-03-22/new</id>
+    <title>Forefaulds Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378609/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378608/2021-03-22/new</id>
+    <title>Camilla House Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378608/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>City of Edinburgh. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378607/2021-03-22/new</id>
+    <title>Birch House Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378607/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2021-03-22/new</id>
+    <title>Allanbank Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378604/2021-03-22/new</id>
+    <title>Abercorn House Care Home: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378604/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+</feed>

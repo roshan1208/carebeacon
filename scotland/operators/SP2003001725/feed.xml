@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Nansen Highland</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003001725/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2003001725/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2003001725/feed</id>
+  <updated>2026-09-14T14:03:04Z</updated>
+  <subtitle>Care homes run by Nansen Highland whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008187641/2023-03-31/decline</id>
+    <title>Tigh-na-Cloich: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008187641/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008526/2020-03-31/decline</id>
+    <title>Fram House: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008526/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008187641/2017-03-31/improve</id>
+    <title>Tigh-na-Cloich: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008187641/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008526/2017-03-31/improve</id>
+    <title>Fram House: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008526/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008187641/2016-03-31/improve</id>
+    <title>Tigh-na-Cloich: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008187641/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Highland. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

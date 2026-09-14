@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes at care homes run by Greenleaf House Co Ltd</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013227/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/operators/SP2018013227/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/operators/SP2018013227/feed</id>
+  <updated>2026-09-14T14:03:06Z</updated>
+  <subtitle>Care homes run by Greenleaf House Co Ltd whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2026-06-30/improve</id>
+    <title>Drummond House: Grade improved: Good (4) to Very good (5) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000354/2026-06-30/improve</id>
+    <title>Dallifour: Grade improved: Good (4) to Very good (5) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000354/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Good (4) to Very good (5) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2026-06-30/decline</id>
+    <title>Braehead Cottage: Grade declined: Very good (5) to Adequate (3) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Very good (5) to Adequate (3) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000391/2026-04-30/first_graded</id>
+    <title>Molmontend Farm: Graded for the first time: Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000391/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2025-12-31/decline</id>
+    <title>Drummond House: Grade declined: Very good (5) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade declined: Very good (5) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000344/2025-10-31/improve</id>
+    <title>Netherton Farm: Grade improved: Weak (2) to Good (4) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000344/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Weak (2) to Good (4) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2025-10-31/improve</id>
+    <title>Braehead Cottage: Grade improved: Adequate (3) to Very good (5) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Adequate (3) to Very good (5) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000391/2025-08-31/new</id>
+    <title>Molmontend Farm: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000391/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000404/2025-08-31/first_graded</id>
+    <title>82 Main Street: Graded for the first time: Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000404/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000404/2025-03-31/new</id>
+    <title>82 Main Street: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000404/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000354/2025-03-31/improve</id>
+    <title>Dallifour: Grade improved: Weak (2) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000354/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Grade improved: Weak (2) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000344/2025-03-31/decline</id>
+    <title>Netherton Farm: Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000344/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2025-03-31/decline</id>
+    <title>Braehead Cottage: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000344/2024-03-31/improve</id>
+    <title>Netherton Farm: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000344/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2024-03-31/improve</id>
+    <title>Holestane Cottages: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2024-03-31/improve</id>
+    <title>Drummond House: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2024-03-31/improve</id>
+    <title>Braehead Cottage: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371331/2023-03-31/improve</id>
+    <title>Blossom House: Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371331/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000344/2023-03-31/first_graded</id>
+    <title>Netherton Farm: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000344/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2023-03-31/first_graded</id>
+    <title>Holestane Cottages: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000354/2023-03-31/first_graded</id>
+    <title>Dallifour: Graded for the first time: Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000354/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Graded for the first time: Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2023-03-31/decline</id>
+    <title>Braehead Cottage: Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000344/2022-03-31/new</id>
+    <title>Netherton Farm: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000344/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Perth &amp; Kinross. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2022-03-31/new</id>
+    <title>Holestane Cottages: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000354/2022-03-31/new</id>
+    <title>Dallifour: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000354/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Inverclyde. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2022-03-31/improve</id>
+    <title>Drummond House: Grade improved: Weak (2) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Grade improved: Weak (2) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2022-03-31/first_graded</id>
+    <title>Braehead Cottage: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Scottish Borders. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379252/2021-03-22/new</id>
+    <title>Braehead Cottage: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379252/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Scottish Borders. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371331/2021-03-22/first_graded</id>
+    <title>Greenleaf House: Graded for the first time: Adequate (3) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371331/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Adequate (3) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2021-03-22/first_graded</id>
+    <title>Drummond House: Graded for the first time: Weak (2) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>South Lanarkshire. Graded for the first time: Weak (2) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371331/2020-03-31/new</id>
+    <title>Greenleaf House: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371331/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019377045/2020-03-31/new</id>
+    <title>Drummond House: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019377045/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>South Lanarkshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+</feed>
