@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/north-east/">North East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/newcastle-upon-tyne/">Newcastle upon Tyne</a> &rsaquo; Westwood Lodge Care Home</p>
   </header>
+  <main>
   <h1>Westwood Lodge Care Home</h1>
   <p class="address">7 Bentinck Villas, Newcastle Upon Tyne, NE4 6UR</p>
   <span class="badge r-unrated">No published rating</span>
@@ -77,7 +79,8 @@
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/3d9832fa-f990-44a4-b683-03874cd59982?20220211130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=54.9723148%2C-1.6435467" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/newcastle-upon-tyne/feed.xml">Subscribe to changes in Newcastle upon Tyne</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-2328001101">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-2328001101,1-10571036946,1-9523939741,1-27789308353,1-131623918,1-25703953319">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

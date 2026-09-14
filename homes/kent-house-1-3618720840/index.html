@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/london/">London</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/harrow/">Harrow</a> &rsaquo; Kent House</p>
   </header>
+  <main>
   <h1>Kent House</h1>
   <p class="address">Augustine Road, Harrow, HA3 5NS</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../baugh-house-care-centre-1-3618662661/">Baugh House Care Centre</a> <span class="badge r-good">Good</span></li><li><a href="../brackenbridge-house-1-3618720793/">Brackenbridge House</a> <span class="badge r-good">Good</span></li><li><a href="../hillside-nursing-home-1-3618720737/">Hillside Nursing Home</a> <span class="badge r-good">Good</span></li><li><a href="../peverel-green-care-home-1-18873486255/">Peverel Green Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../wickham-care-home-1-3618623018/">Wickham Care Home</a> <span class="badge r-requires-improvement">Requires improvement</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/0ad35bc5-bad2-4719-af7e-23b280df29ba?20220316130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.goldcarehomes.com" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.6033065%2C-0.3566987" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/harrow/feed.xml">Subscribe to changes in Harrow</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-3618720840">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-3618720840,1-114057875,1-18577295638,1-135968427,1-14149598365,1-574473273">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

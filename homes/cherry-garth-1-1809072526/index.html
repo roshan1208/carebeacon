@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/yorkshire-and-humberside/">Yorkshire &amp; Humberside</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/wakefield/">Wakefield</a> &rsaquo; Cherry Garth</p>
   </header>
+  <main>
   <h1>Cherry Garth</h1>
   <p class="address">118a Station Road, Wakefield, WF4 2BZ</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../community-places-1-111000037/">Community Places</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../community-places-clifton-drive-1-2795909857/">Community Places-Clifton Drive</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/07ee67c9-3483-4362-86a4-92683e0327b3?20220125130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.communityplaces.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.6242646%2C-1.4199434" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/wakefield/feed.xml">Subscribe to changes in Wakefield</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-1809072526">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-1809072526,1-304849619,1-6198289700,1-10853560587,1-906333089,1-22160036656">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

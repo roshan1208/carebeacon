@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/west-midlands/">West Midlands</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/">Birmingham</a> &rsaquo; Harborne House</p>
   </header>
+  <main>
   <h1>Harborne House</h1>
   <p class="address">8a Albert Road, Birmingham, B17 0AN</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../1a-west-avenue-1-122285802/">1a West Avenue</a> <span class="badge r-good">Good</span></li><li><a href="../21-trittiford-road-1-11741876315/">21 Trittiford Road</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../23-trittiford-road-1-392043786/">23 Trittiford Road</a> <span class="badge r-good">Good</span></li><li><a href="../53a-ipstones-avenue-1-122285770/">53a Ipstones Avenue</a> <span class="badge r-good">Good</span></li><li><a href="../fallings-heath-1-122285524/">Fallings Heath</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../hightrees-1-122285740/">Hightrees</a> <span class="badge r-good">Good</span></li><li><a href="../hob-meadow-1-122285755/">Hob Meadow</a> <span class="badge r-good">Good</span></li><li><a href="../lonsdale-house-1-3310772193/">Lonsdale House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/1bd279d6-2bc2-4ff7-b283-0b334aef209e?20210115130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.accordha.org.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.4570002%2C-1.9576553" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/feed.xml">Subscribe to changes in Birmingham</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-122285710">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-122285710,1-122285740,1-1382016486,1-116439860,1-143053393,1-28986623614">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

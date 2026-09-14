@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/east/">East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/essex/">Essex</a> &rsaquo; 18 Acorn Avenue</p>
   </header>
+  <main>
   <h1>18 Acorn Avenue</h1>
   <p class="address">18 Acorn Avenue, Halstead, CO9 1LQ</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../blamster-s-farm-1-9187964192/">Blamster&#39;s Farm</a> <span class="badge r-good">Good</span></li><li><a href="../blamster-s-link-1-9188107863/">Blamster&#39;s Link</a> <span class="badge r-good">Good</span></li><li><a href="../moulton-1-18779089740/">Moulton</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/8473c2e9-069a-4548-8005-d5e8d603f663?20240214130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.tlccarehomes.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.9406772%2C0.6258617" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/essex/feed.xml">Subscribe to changes in Essex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-9188107801">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-9188107801,1-9187964192,1-131482122,1-4487228008,1-3942625345,1-342331191">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

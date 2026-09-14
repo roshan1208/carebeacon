@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/south-west/">South West</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/cornwall/">Cornwall</a> &rsaquo; Harbour House</p>
   </header>
+  <main>
   <h1>Harbour House</h1>
   <p class="address">Penberthy Road, Redruth, TR16 4LW</p>
   <span class="badge r-requires-improvement">Requires improvement</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../crossroads-house-care-home-1-4780638410/">Crossroads House Care Home</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../st-mary-s-haven-1-4780639226/">St Mary&#39;s Haven</a> <span class="badge r-good">Good</span></li><li><a href="../the-old-manor-house-1-4780956347/">The Old Manor House</a> <span class="badge r-good">Good</span></li><li><a href="../tremethick-house-1-4780639120/">Tremethick House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/883d2acc-cd86-4a42-b79d-4eb4fddd2d04?20230614120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.ansoncare.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.2613581%2C-5.2870993" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/cornwall/feed.xml">Subscribe to changes in Cornwall</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-4780639168">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-4780639168,1-150212680,1-3078078820,1-8896583560,1-3090676388,1-4780639120">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

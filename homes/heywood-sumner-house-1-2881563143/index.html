@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/south-east/">South East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/hampshire/">Hampshire</a> &rsaquo; Heywood Sumner House</p>
   </header>
+  <main>
   <h1>Heywood Sumner House</h1>
   <p class="address">Cuckoo Hill, Fordingbridge, SP6 2PP</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../abbeyfield-lodge-1-2849062388/">Abbeyfield Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../albert-lodge-1-2845673576/">Albert Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../appleton-house-1-2849148981/">Appleton House</a> <span class="badge r-good">Good</span></li><li><a href="../appletrees-1-122256241/">Appletrees</a> <span class="badge r-good">Good</span></li><li><a href="../argyll-house-1-122255977/">Argyll House</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../ballards-ash-1-122255993/">Ballards Ash</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../beech-tree-house-1-2847413737/">Beech Tree House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../beechcroft-cheltenham-1-2847288176/">Beechcroft - Cheltenham</a> <span class="badge r-good">Good</span></li><li><a href="../boxgrove-house-1-122256007/">Boxgrove House</a> <span class="badge r-good">Good</span></li><li><a href="../bramerton-1-122256021/">Bramerton</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../bridgman-house-1-8907572935/">Bridgman House</a> <span class="badge r-good">Good</span></li><li><a href="../cambria-house-1-122256059/">Cambria House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/998ed03d-8f2e-4384-bf8f-98452cbb1287?20200116130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.choicecaregroup.com" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.895675%2C-1.7637727" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/hampshire/feed.xml">Subscribe to changes in Hampshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-2881563143">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-2881563143,1-7003566232,1-484114822,1-116816865,1-320568988,1-9792556763">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

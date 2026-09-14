@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/east/">East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/suffolk/">Suffolk</a> &rsaquo; Kirkley Manor</p>
   </header>
+  <main>
   <h1>Kirkley Manor</h1>
   <p class="address">3 Kirkley Park Road, Lowestoft, NR33 0LQ</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../allonsfield-house-1-122586775/">Allonsfield House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../branksome-heights-1-3005696350/">Branksome Heights</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../downham-grange-1-122586803/">Downham Grange</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../four-oaks-care-home-1-2650333959/">Four Oaks Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../heron-lodge-1-122586817/">Heron Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../lynfield-1-122586851/">Lynfield</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../wisteria-house-1-122586866/">Wisteria House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/e675d39b-eae9-4b38-8c93-b327de5784ac?20190620120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.kingsleyhealthcare.com" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.4606327%2C1.7362167" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/suffolk/feed.xml">Subscribe to changes in Suffolk</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-122586834">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-122586834,1-3157879545,1-25979032205,1-115057520,1-3071662571,1-2162570024">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

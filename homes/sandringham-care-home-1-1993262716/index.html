@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/north-east/">North East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/county-durham/">County Durham</a> &rsaquo; Sandringham Care Home</p>
   </header>
+  <main>
   <h1>Sandringham Care Home</h1>
   <p class="address">Escomb Road, Bishop Auckland, DL14 6HT</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../astell-care-centre-1-17947621173/">Astell Care Centre</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../clarence-house-care-home-1-2574756695/">Clarence House Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../holyrood-house-care-home-1-1881267379/">Holyrood House Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../pennine-lodge-care-home-1-19790100122/">Pennine Lodge Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../westroyd-care-home-1-17948359299/">Westroyd Care Home</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/345bea0d-b3bc-4772-95e4-1f649ad8c7b1?20230519120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=54.656669%2C-1.68333" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/county-durham/feed.xml">Subscribe to changes in County Durham</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-1993262716">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-1993262716,1-894198181,1-999096321,1-19878487603,1-24034056911,1-2034431542">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

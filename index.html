@@ -99,7 +99,9 @@
   header.site .row {
     display: flex; align-items: center; justify-content: space-between; gap: 16px;
   }
-  .brand { display: flex; align-items: baseline; gap: 10px; }
+  /* An h1 (axe: the page had no level-one heading), styled to look exactly
+     as the old div did — .name carries the size and weight. */
+  .brand { display: flex; align-items: baseline; gap: 10px; margin: 0; font-size: 1rem; font-weight: normal; }
   .brand .mark {
     display: inline-block; width: 12px; height: 12px; border-radius: 50%;
     background: var(--accent-bg);
@@ -431,10 +433,10 @@
 <header class="site">
   <div class="wrap row">
     <div>
-      <div class="brand">
+      <h1 class="brand">
         <span class="mark" aria-hidden="true"></span>
         <span class="name">CareBeacon</span>
-      </div>
+      </h1>
       <p class="tagline">Every care home in England, and what changed this week.</p>
     </div>
     <button id="theme-toggle" type="button" aria-label="Switch colour theme">Theme</button>
@@ -1301,8 +1303,13 @@
     );
   }
 
-  function openCompare() {
-    var homes = getShortlist().map(findLocation).filter(Boolean);
+  // ids: an explicit list of locationIds (from a ?compare= deep link — the
+  // static home pages link "compare with the 5 nearest" this way), or
+  // anything else (a click event) to mean "the saved shortlist". A deep
+  // link never touches the visitor's own shortlist.
+  function openCompare(ids) {
+    var source = Array.isArray(ids) ? ids : getShortlist();
+    var homes = source.map(findLocation).filter(Boolean);
     if (homes.length < 2) return;
 
     var overlay = document.getElementById("detail-overlay");
@@ -1325,7 +1332,7 @@
     if (overlay.hidden) return;
     overlay.hidden = true;
     releaseFocusTrap();
-    if (location.search.indexOf("home=") !== -1) {
+    if (/(^\?|&)(home|compare)=/.test(location.search)) {
       history.pushState(null, "", location.pathname);
     }
   }
@@ -1341,7 +1348,7 @@
     renderResults();
     renderShortlistBar();
   });
-  document.getElementById("compare-shortlist").addEventListener("click", openCompare);
+  document.getElementById("compare-shortlist").addEventListener("click", function () { openCompare(); });
 
   document.getElementById("view-list").addEventListener("click", function () { switchView("list"); });
   document.getElementById("view-map").addEventListener("click", function () { switchView("map"); });
@@ -1409,6 +1416,14 @@
       var homeId = params.get("home");
       if (homeId && findLocation(homeId)) {
         openDetail(homeId, false);
+      }
+      // "?compare=<id>,<id>,..." opens the comparison table directly —
+      // the static home pages link here with a home and its nearest
+      // neighbours. Unknown ids are dropped; fewer than two valid ones
+      // and nothing opens.
+      var compareIds = params.get("compare");
+      if (compareIds) {
+        openCompare(compareIds.split(",").filter(Boolean).slice(0, 8));
       }
     }).catch(function (err) {
       document.getElementById("results").innerHTML =

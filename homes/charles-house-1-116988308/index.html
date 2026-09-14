@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/west-midlands/">West Midlands</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/">Birmingham</a> &rsaquo; Charles House</p>
   </header>
+  <main>
   <h1>Charles House</h1>
   <p class="address">257 Birchfield Road, Birmingham, B20 3DG</p>
   <span class="badge r-good">Good</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../beatrice-house-1-305494748/">Beatrice House</a> <span class="badge r-good">Good</span></li><li><a href="../eve-house-1-345785207/">Eve House</a> <span class="badge r-good">Good</span></li><li><a href="../florrie-robbins-house-1-116988534/">Florrie Robbins House</a> <span class="badge r-good">Good</span></li><li><a href="../kathleen-house-1-116988548/">Kathleen House</a> <span class="badge r-good">Good</span></li><li><a href="../natalie-house-1-116988562/">Natalie House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/29f3d18a-086f-4be1-aee1-28fb31df0269?20210419120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.5117881%2C-1.901951" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/feed.xml">Subscribe to changes in Birmingham</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-116988308">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-116988308,1-116988534,1-123591876,1-117609512,1-10646798947,1-22164555168">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

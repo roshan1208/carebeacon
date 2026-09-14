@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/west-midlands/">West Midlands</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/">Birmingham</a> &rsaquo; Hunters Moor Neurorehabilitation Centre</p>
   </header>
+  <main>
   <h1>Hunters Moor Neurorehabilitation Centre</h1>
   <p class="address">Whisley Brook Lane off Shaftmoor Lane, Birmingham, B28 8SR</p>
   <span class="badge r-unrated">No published rating</span>
@@ -77,7 +79,8 @@
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/c374e7fd-c01b-46ad-915c-18d9b7e3e1a5?20230929120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.activecaregroup.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.440939%2C-1.842062" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/birmingham/feed.xml">Subscribe to changes in Birmingham</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-188270227">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-188270227,1-590655827,1-218625887,1-120814457,1-2168180408,1-378764733">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

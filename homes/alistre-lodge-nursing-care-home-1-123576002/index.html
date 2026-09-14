@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/north-west/">North West</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/lancashire/">Lancashire</a> &rsaquo; Alistre Lodge Nursing &amp; Care Home</p>
   </header>
+  <main>
   <h1>Alistre Lodge Nursing &amp; Care Home</h1>
   <p class="address">J Parker (Care) Limited, Lytham St Annes, FY8 1UR</p>
   <span class="badge r-unrated">No published rating</span>
@@ -77,7 +79,8 @@
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/a8cedc10-ee7d-4246-9836-ec2f9cea6965?20220323130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.alistrelodge.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.7553492%2C-3.0245422" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/lancashire/feed.xml">Subscribe to changes in Lancashire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-123576002">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-123576002,1-2153555238,1-124974775,1-24113094298,1-27339462454,1-121596290">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>

@@ -38,7 +38,8 @@
   .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
   ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 3px 10px; font-size: 0.85rem; }
-  ul.tags li a { text-decoration: none; }
+  ul.tags li a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.tags li a:hover { text-decoration-color: currentColor; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
   .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
   ul.changes { list-style: none; margin: 0; padding: 0; }
@@ -63,6 +64,7 @@
     <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/south-east/">South East</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/areas/west-sussex/">West Sussex</a> &rsaquo; Aster Grove Nursing Home</p>
   </header>
+  <main>
   <h1>Aster Grove Nursing Home</h1>
   <p class="address">18-20, Littlehampton, BN17 5NZ</p>
   <span class="badge r-unrated">No published rating</span>
@@ -77,7 +79,8 @@
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../ashdown-nursing-home-1-2216047891/">Ashdown Nursing Home</a> <span class="badge r-good">Good</span></li><li><a href="../birchwood-grove-1-1135298153/">Birchwood Grove</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.google.com/maps/search/?api=1&amp;query=50.80412%2C-0.5318238" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/west-sussex/feed.xml">Subscribe to changes in West Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
-  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?home=1-13000173759">Compare with other homes on CareBeacon</a></p>
+  <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-13000173759,1-22741969107,1-11355048638,1-155400770,1-20710238535,1-9173028586">Compare this home with its 5 nearest on CareBeacon</a></p>
+  </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
   </footer>
