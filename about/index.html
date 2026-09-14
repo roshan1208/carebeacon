@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How CareBeacon works — sources, scales, cadence and limits</title>
+<meta name="description" content="Where CareBeacon&#39;s care home data comes from (CQC, Care Inspectorate, RQIA), what each regulator&#39;s scale means, how often it updates, what counts as a change, and what the site does not do.">
+<link rel="canonical" href="https://roshan1208.github.io/carebeacon/about/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="How CareBeacon works — sources, scales, cadence and limits">
+<meta property="og:description" content="Where CareBeacon&#39;s care home data comes from (CQC, Care Inspectorate, RQIA), what each regulator&#39;s scale means, how often it updates, what counts as a change, and what the site does not do.">
+<meta property="og:url" content="https://roshan1208.github.io/carebeacon/about/">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roshan1208.github.io/carebeacon/"}, {"@type": "ListItem", "position": 2, "name": "How it works", "item": "https://roshan1208.github.io/carebeacon/about/"}]}</script>
+<style>
+  :root { --paper: #f6f4ee; --ink: #14231f; --muted: #4b564f; --accent: #8a5a00; --accent-bg: #e8a33d; --border: #6b6656; --card-bg: #ffffff; }
+  @media (prefers-color-scheme: dark) { :root { --paper: #0d1a17; --ink: #eef1ee; --muted: #a9b6b1; --accent: #e8a33d; --border: #527069; --card-bg: #10201c; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  a { color: var(--accent); }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
+  header { border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
+  .brand { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: var(--ink); }
+  .crumb { color: var(--muted); font-size: 0.85rem; margin: 6px 0 0; }
+  h1 { margin: 0 0 6px; font-size: 1.6rem; }
+  .count, .address { color: var(--muted); margin: 0 0 16px; }
+  .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 20px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 24px; }
+  .stat { border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; background: var(--card-bg); }
+  .stat .n { font-size: 1.4rem; font-weight: 700; }
+  .stat .l { font-size: 0.82rem; color: var(--muted); }
+  .facts { display: grid; gap: 4px; font-size: 0.92rem; margin: 0 0 20px; }
+  .facts .l { color: var(--muted); }
+  section { margin-bottom: 28px; }
+  h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain li { border-top: 1px solid var(--border); padding: 8px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  ul.plain li:first-child { border-top: none; }
+  ul.plain a { color: inherit; text-decoration: none; }
+  ul.plain a:hover { text-decoration: underline; }
+  .place, .when { color: var(--muted); font-size: 0.9rem; flex: 1 1 auto; }
+  .what { flex: 1 1 100%; font-size: 0.95rem; }
+  li.t-decline .what, li.t-cancelled .what { color: #a3261f; }
+  li.t-improve .what, li.t-new .what, li.t-first_graded .what { color: #1e6b3a; }
+  @media (prefers-color-scheme: dark) { li.t-decline .what, li.t-cancelled .what { color: #ff8a80; } li.t-improve .what, li.t-new .what, li.t-first_graded .what { color: #7fd69a; } }
+  ul.chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  ul.chips li { border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; font-size: 0.85rem; }
+  ul.chips a { text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 2px; }
+  ul.chips a:hover { text-decoration-color: currentColor; }
+  ul.chips .n { color: var(--muted); }
+  .kq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px; }
+  .kq { border: 1px solid var(--border); border-radius: 10px; padding: 10px; }
+  .kq .n { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
+  .badge { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; }
+  .badge.g6 { color: #1c5aa6; } .badge.g5 { color: #1e6b3a; } .badge.g4 { color: #2f6b3a; }
+  .badge.g3 { color: #a15a00; } .badge.g2 { color: #a3261f; } .badge.g1 { color: #7a1610; } .badge.g0 { color: var(--muted); }
+  @media (prefers-color-scheme: dark) { .badge.g4 { color: #7fd69a; } .badge.g5 { color: #7fd69a; } .badge.g1, .badge.g2 { color: #ff8a80; } }
+  .notice { border: 1px solid #a3261f; border-radius: 10px; padding: 10px 14px; margin: 0 0 14px; }
+  .notice strong { color: #a3261f; }
+  @media (prefers-color-scheme: dark) { .notice { border-color: #ff8a80; } .notice strong { color: #ff8a80; } }
+  .subscribe { font-size: 0.9rem; margin: 4px 0 20px; }
+  .subscribe .how, .note { color: var(--muted); }
+  .note { font-size: 0.85rem; }
+  .links { font-size: 0.92rem; margin: 0 0 20px; }
+  footer { border-top: 1px solid var(--border); padding-top: 16px; color: var(--muted); font-size: 0.85rem; }
+
+  ul.plain li strong { min-width: 9rem; }
+  ul.plain li .what { flex: 1 1 60%; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
+    <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; How it works</p>
+  </header>
+  <main>
+  <h1>How CareBeacon works</h1>
+  <p class="count">Last data update 14 September 2026. Page generated 14 September 2026.</p>
+
+  <section>
+    <h2>What this site is</h2>
+    <p>The regulators of care homes in the UK publish today&#39;s picture: the current rating or grade, the current
+    registered manager, whether a home is registered. They do not publish what changed. CareBeacon keeps the
+    picture from each update and shows the differences &mdash; a home downgraded, a home that lost its registration,
+    a new manager, a new inspection &mdash; so that a family, a council commissioner or an adviser can see movement,
+    not just a snapshot. Everything here is derived from the regulators&#39; own published data.</p>
+  </section>
+
+  <section>
+    <h2>Sources, by nation</h2>
+    <ul class="plain">
+      <li><strong>England</strong><span class="what">15,317 registered care homes from the <a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a>&#39;s
+      Syndication API, checked daily. CQC rates on a four-point scale &mdash; Outstanding, Good, Requires improvement, Inadequate &mdash;
+      overall and for five key questions. Changes shown: rating up or down, first rating, registration lost, registration regained.
+      The public change window on this site is 90 days; 1,722 operator pages cover groups running two or more homes.</span></li>
+      <li><strong>Scotland</strong><span class="what">1,380 registered care homes from the <a href="https://www.careinspectorate.scot/" rel="noopener">Care Inspectorate</a>&#39;s
+      monthly datastore (latest snapshot 31 August 2026). The Care Inspectorate grades 1 (Unsatisfactory) to 6 (Excellent)
+      on up to five quality themes; the grade shown for a home is its lowest current theme grade, which is how the Care Inspectorate
+      itself summarises a service. Changes shown: grade up or down, first grading, new registration, cancellation. Because the
+      Care Inspectorate keeps an archive, each Scottish home&#39;s page carries its grade history back to 31 March 2015
+      &mdash; annual to 2025, monthly since &mdash; and a change in an annual window is shown as such, never as a day the source did not give.</span></li>
+      <li><strong>Northern Ireland</strong><span class="what">468 registered nursing and residential care homes from <a href="https://www.rqia.org.uk/" rel="noopener">RQIA</a>&#39;s
+      register on Open Data NI (latest file 3 August 2026, updated roughly monthly). RQIA inspects and reports but
+      does not rate or grade, so no quality badge is shown. Changes shown: new registration, cancellation, a change of registered manager,
+      a new inspection. There is no archive, so history begins with the first file this site recorded.</span></li>
+      <li><strong>Wales</strong><span class="what">Not covered. Care Inspectorate Wales publishes ratings (since April 2025) in an online directory and
+      aggregate dashboards, but no downloadable register; its data is available on request by email. Wales will be added if and when a
+      dataset is available.</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Update cadence</h2>
+    <p>England is refreshed every day from CQC&#39;s change feed. Scotland and Northern Ireland are refreshed the day a new
+    register file appears, which is roughly monthly. Every page states the date of the data it shows.</p>
+  </section>
+
+  <section>
+    <h2>What we do not do</h2>
+    <ul class="plain">
+      <li><span class="what">We do not inspect, rate or recommend care homes. Ratings and grades are the regulators&#39; own published judgements, reproduced as published.</span></li>
+      <li><span class="what">We do not collect reviews, prices or availability.</span></li>
+      <li><span class="what">We do not hold personal data about residents. Registered managers&#39; names appear only where the regulator publishes them.</span></li>
+      <li><span class="what">A change on this site is the difference between two of a regulator&#39;s published states. If the regulator corrects its data, the change here may be a correction, not an event.</span></li>
+      <li><span class="what">Distances on English home pages are straight-line, not by road.</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Licences and independence</h2>
+    <p>All source data is reused under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="noopener">Open Government Licence v3.0</a>.
+    CareBeacon is independent of, and not endorsed by, the Care Quality Commission, the Care Inspectorate, RQIA or any care provider.
+    If something here looks wrong, the regulator&#39;s own record &mdash; linked from every home&#39;s page &mdash; is the authority.</p>
+  </section>
+
+  <section>
+    <h2>Following changes</h2>
+    <p>Every nation, region, local authority, council area and operator page has an Atom feed, so any feed reader or
+    no-code automation can watch exactly the homes that matter to you: <a href="https://roshan1208.github.io/carebeacon/feed.xml">England</a> &middot;
+    <a href="https://roshan1208.github.io/carebeacon/scotland/feed.xml">Scotland</a> &middot; <a href="https://roshan1208.github.io/carebeacon/northern-ireland/feed.xml">Northern Ireland</a>.</p>
+  </section>
+  </main>
+  <footer>
+    <p>CareBeacon is not affiliated with, endorsed by, or run by any regulator or care provider. This is not care or medical advice.</p>
+  </footer>
+</div>
+</body>
+</html>
