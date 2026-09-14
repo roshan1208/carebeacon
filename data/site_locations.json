@@ -48874,6 +48874,20 @@
   "longitude": -0.6921287
  },
  {
+  "locationId": "1-22164545198",
+  "name": "Creative Support Living CIC",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "BS34 8AT",
+  "providerId": "1-21083300027",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5138552,
+  "longitude": -2.5300671
+ },
+ {
   "locationId": "1-2158400320",
   "name": "Crecy Care Home",
   "rating": "Good",
@@ -161320,6 +161334,20 @@
   "registeredManagerAbsentDate": "2026-04-21",
   "latitude": 51.3392379,
   "longitude": -0.0121451
+ },
+ {
+  "locationId": "1-570836520",
+  "name": "St Edwards Medical Centre",
+  "rating": "Good",
+  "ratingDate": "2017-02-15",
+  "region": "London",
+  "localAuthority": "Havering",
+  "numberOfBeds": 0,
+  "postalCode": "RM1 3DQ",
+  "providerId": "1-199728982",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5802924,
+  "longitude": 0.1819469
  },
  {
   "locationId": "1-9792556763",

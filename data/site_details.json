@@ -553673,5 +553673,74 @@
   "lastInspectionDate": null,
   "lastReportDate": null,
   "reportUri": null
+ },
+ "1-22164545198": {
+  "brandName": null,
+  "registrationDate": "2025-04-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "37 Thornmarsh Close",
+  "town": "Bristol",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-570836520": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "7 St Edwards Way",
+  "town": "Romford",
+  "website": "www.stedwardsmedicalcentre.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2016-11-08",
+  "lastReportDate": null,
+  "reportUri": "/reports/0df43d8d-a74a-4a17-851f-829e42656a11?20210211085534"
  }
 }
