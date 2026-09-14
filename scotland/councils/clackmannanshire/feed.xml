@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Clackmannanshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/clackmannanshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/clackmannanshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/clackmannanshire/feed</id>
+  <updated>2026-09-14T12:58:13Z</updated>
+  <subtitle>Care homes in Clackmannanshire whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2026-07-31/decline</id>
+    <title>Parklands Care Home: Grade declined: Good (4) to Adequate (3) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2026-05-31/improve</id>
+    <title>Marchglen Care Centre: Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318120/2026-03-31/decline</id>
+    <title>Hillview Court: Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318120/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300783/2025-10-31/decline</id>
+    <title>Orchard Care Centre: Grade declined: Good (4) to Adequate (3) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300783/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011556/2025-09-30/cancelled</id>
+    <title>Menstrie House: Registration cancelled (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011556/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Clackmannanshire. Registration cancelled (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2025-08-31/improve</id>
+    <title>Parklands Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318118/2025-08-31/improve</id>
+    <title>Beechwood Park: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318118/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2025-08-31/decline</id>
+    <title>Woodside Childrens Unit: Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009233155/2025-08-31/decline</id>
+    <title>Millbank: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009233155/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2025-03-31/decline</id>
+    <title>Parklands Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011441/2025-03-31/decline</id>
+    <title>Ludgate House Resource Centre: Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011441/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318118/2025-03-31/decline</id>
+    <title>Beechwood Park: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318118/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2024-03-31/improve</id>
+    <title>Woodside Childrens Unit: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011556/2024-03-31/improve</id>
+    <title>Menstrie House: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011556/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318120/2024-03-31/improve</id>
+    <title>Hillview Court: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318120/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2024-03-31/decline</id>
+    <title>Marchglen Care Centre: Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2023-03-31/improve</id>
+    <title>Marchglen Care Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318118/2023-03-31/improve</id>
+    <title>Beechwood Park: Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318118/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2023-03-31/first_graded</id>
+    <title>Parklands Care Home: Graded for the first time: Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Graded for the first time: Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318120/2023-03-31/decline</id>
+    <title>Hillview Court: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318120/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2022-03-31/new</id>
+    <title>Parklands Care Home: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2022-03-31/decline</id>
+    <title>Woodside Childrens Unit: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011556/2022-03-31/decline</id>
+    <title>Menstrie House: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011556/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2022-03-31/decline</id>
+    <title>Marchglen Care Centre: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011299487/2022-03-31/cancelled</id>
+    <title>Parklands Care Home: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011299487/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011478/2022-03-31/cancelled</id>
+    <title>ARK Alloa Care Home: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011478/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2021-03-22/improve</id>
+    <title>Woodside Childrens Unit: Grade improved: Adequate (3) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300783/2021-03-22/decline</id>
+    <title>Orchard Care Centre: Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300783/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318120/2020-03-31/decline</id>
+    <title>Hillview Court: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318120/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318118/2020-03-31/decline</id>
+    <title>Beechwood Park: Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318118/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011299487/2019-03-31/improve</id>
+    <title>Parklands Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011299487/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011556/2019-03-31/improve</id>
+    <title>Menstrie House: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011556/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2019-03-31/decline</id>
+    <title>Woodside Childrens Unit: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009233155/2019-03-31/decline</id>
+    <title>Millbank: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009233155/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2019-03-31/decline</id>
+    <title>Marchglen Care Centre: Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318118/2019-03-31/decline</id>
+    <title>Beechwood Park: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318118/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011478/2019-03-31/decline</id>
+    <title>ARK Alloa Care Home: Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011478/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Excellent (6) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011578/2018-03-31/decline</id>
+    <title>Woodside Childrens Unit: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011578/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011556/2018-03-31/decline</id>
+    <title>Menstrie House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011556/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2018-03-31/decline</id>
+    <title>Marchglen Care Centre: Grade declined: Excellent (6) to Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Excellent (6) to Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011515/2018-03-31/decline</id>
+    <title>Gaberston House: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011515/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009233155/2016-03-31/improve</id>
+    <title>Millbank: Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009233155/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318121/2016-03-31/improve</id>
+    <title>Marchglen Care Centre: Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318121/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Very good (5) to Excellent (6) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318120/2016-03-31/improve</id>
+    <title>Hillview Court: Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318120/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Grade improved: Good (4) to Very good (5) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014334337/2016-03-31/cancelled</id>
+    <title>Horizons Residential Care - Willow House: Registration cancelled (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014334337/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>Clackmannanshire. Registration cancelled (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in East Ayrshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/east-ayrshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/east-ayrshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/east-ayrshire/feed</id>
+  <updated>2026-09-14T12:58:12Z</updated>
+  <subtitle>Care homes in East Ayrshire whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000397/2026-08-31/new</id>
+    <title>Gatehouse: Newly registered (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000397/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2026-07-31/improve</id>
+    <title>Dunelm: Grade improved: Good (4) to Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000468/2026-07-31/first_graded</id>
+    <title>Glebe House Care Home: Graded for the first time: Adequate (3) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000468/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Adequate (3) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000467/2026-07-31/first_graded</id>
+    <title>Doonbank House Care Home: Graded for the first time: Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000467/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000469/2026-07-31/first_graded</id>
+    <title>Burnfoot House Care Home: Graded for the first time: Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000469/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007167896/2026-07-31/decline</id>
+    <title>Sunnyside House: Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007167896/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367595/2026-07-31/decline</id>
+    <title>Gainhill Farmhouse: Grade declined: Very good (5) to Adequate (3) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367595/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Adequate (3) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352761/2026-06-30/improve</id>
+    <title>Springhill Care Home: Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352761/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000375/2026-06-30/first_graded</id>
+    <title>Netherton: Graded for the first time: Excellent (6) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000375/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Excellent (6) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300604/2026-05-31/improve</id>
+    <title>Crossgate Care Centre: Grade improved: Weak (2) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300604/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004084228/2026-05-31/decline</id>
+    <title>Montgomery Place: Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004084228/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000391/2026-04-30/first_graded</id>
+    <title>Molmontend Farm: Graded for the first time: Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000391/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000418/2026-04-30/first_graded</id>
+    <title>Carston House: Graded for the first time: Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000418/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2026-03-31/improve</id>
+    <title>The Beeches: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000175/2026-03-31/first_graded</id>
+    <title>Drumdow: Graded for the first time: Very good (5) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000175/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2026-02-28/decline</id>
+    <title>The Beeches: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004076623/2026-02-28/decline</id>
+    <title>Grange Care Home Ltd: Grade declined: Very good (5) to Good (4) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004076623/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Good (4) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000373/2026-01-31/first_graded</id>
+    <title>Foxhill Cottage: Graded for the first time: Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000373/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2026-01-31/decline</id>
+    <title>Argyll House Nursing Home: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012310008/2025-12-31/improve</id>
+    <title>Highview: Grade improved: Good (4) to Very good (5) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012310008/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300604/2025-12-31/decline</id>
+    <title>Crossgate Care Centre: Grade declined: Adequate (3) to Weak (2) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300604/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017356925/2025-11-30/improve</id>
+    <title>Torrance Lodge: Grade improved: Weak (2) to Adequate (3) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017356925/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000468/2025-10-31/new</id>
+    <title>Glebe House Care Home: Newly registered (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000468/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000467/2025-10-31/new</id>
+    <title>Doonbank House Care Home: Newly registered (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000467/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000469/2025-10-31/new</id>
+    <title>Burnfoot House Care Home: Newly registered (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000469/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354628/2025-10-31/cancelled</id>
+    <title>Glebe House Care Home: Registration cancelled (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354628/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354634/2025-10-31/cancelled</id>
+    <title>Doonbank House Care Home: Registration cancelled (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354634/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354626/2025-10-31/cancelled</id>
+    <title>Burnfoot Care Home: Registration cancelled (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354626/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000406/2025-09-30/new</id>
+    <title>Riverside House: Newly registered (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000406/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000418/2025-09-30/new</id>
+    <title>Carston House: Newly registered (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000418/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000782/2025-09-30/improve</id>
+    <title>Action for Children - Lisalanna: Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000782/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017356925/2025-09-30/decline</id>
+    <title>Torrance Lodge: Grade declined: Good (4) to Weak (2) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017356925/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Weak (2) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000044/2025-09-30/decline</id>
+    <title>Craigie Care Home: Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000044/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371684/2025-09-30/cancelled</id>
+    <title>Carston House: Registration cancelled (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371684/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000306/2025-08-31/new</id>
+    <title>Willow House: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000306/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000375/2025-08-31/new</id>
+    <title>Netherton: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000375/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000391/2025-08-31/new</id>
+    <title>Molmontend Farm: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000391/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000373/2025-08-31/new</id>
+    <title>Foxhill Cottage: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000373/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000175/2025-08-31/new</id>
+    <title>Drumdow: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000175/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367595/2025-08-31/improve</id>
+    <title>Gainhill Farmhouse: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367595/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378597/2025-08-31/improve</id>
+    <title>Fosterhill: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378597/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2025-08-31/improve</id>
+    <title>East Welton: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2025-08-31/improve</id>
+    <title>Dunelm: Grade improved: Weak (2) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019372681/2025-08-31/improve</id>
+    <title>Bute House Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019372681/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354626/2025-08-31/improve</id>
+    <title>Burnfoot Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354626/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000743/2025-08-31/improve</id>
+    <title>Benrig Children's House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000743/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000417/2025-08-31/first_graded</id>
+    <title>Brae: Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000417/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007167896/2025-08-31/decline</id>
+    <title>Sunnyside House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007167896/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000230/2025-08-31/cancelled</id>
+    <title>Willow House: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000230/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000319/2025-03-31/new</id>
+    <title>Dunelm: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000319/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000417/2025-03-31/new</id>
+    <title>Brae: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000417/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000230/2025-03-31/improve</id>
+    <title>Willow House: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000230/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335183/2025-03-31/improve</id>
+    <title>Thistlebank: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335183/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335573/2025-03-31/improve</id>
+    <title>The Paddock: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335573/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2025-03-31/improve</id>
+    <title>The Beeches: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010268/2025-03-31/improve</id>
+    <title>Howard House Nursing &amp; Residential Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010268/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007164138/2025-03-31/improve</id>
+    <title>Argyll House Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007164138/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2025-03-31/first_graded</id>
+    <title>East Welton: Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000044/2025-03-31/first_graded</id>
+    <title>Craigie Care Home: Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000044/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352761/2025-03-31/decline</id>
+    <title>Springhill Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352761/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012310008/2025-03-31/decline</id>
+    <title>Highview: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012310008/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300604/2025-03-31/decline</id>
+    <title>Crossgate Care Centre: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300604/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371313/2025-03-31/decline</id>
+    <title>Cronberry House: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371313/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000782/2025-03-31/decline</id>
+    <title>Action for Children - Lisalanna: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000782/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000153/2025-03-31/cancelled</id>
+    <title>The Farmhouse: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000153/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010267/2025-03-31/cancelled</id>
+    <title>Hollybush House: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010267/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000230/2024-03-31/new</id>
+    <title>Willow House: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000230/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000153/2024-03-31/new</id>
+    <title>The Farmhouse: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000153/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000223/2024-03-31/new</id>
+    <title>East Welton: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000223/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017356925/2024-03-31/improve</id>
+    <title>Torrance Lodge: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017356925/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000768/2024-03-31/improve</id>
+    <title>Thorntoun Estate Nursing Home: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000768/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007167896/2024-03-31/improve</id>
+    <title>Sunnyside House: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007167896/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017353586/2024-03-31/improve</id>
+    <title>Stepdown Hurlford: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017353586/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352761/2024-03-31/improve</id>
+    <title>Springhill Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352761/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012310008/2024-03-31/improve</id>
+    <title>Highview: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012310008/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000766/2024-03-31/improve</id>
+    <title>Graceland: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000766/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018367595/2024-03-31/improve</id>
+    <title>Gainhill Farmhouse: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018367595/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354626/2024-03-31/improve</id>
+    <title>Burnfoot Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354626/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000743/2024-03-31/improve</id>
+    <title>Benrig Children's House: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000743/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018364199/2024-03-31/cancelled</id>
+    <title>Lewis House: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018364199/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000044/2023-03-31/new</id>
+    <title>Craigie Care Home: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000044/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016348139/2023-03-31/improve</id>
+    <title>West Park Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016348139/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015335573/2023-03-31/improve</id>
+    <title>The Paddock: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015335573/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000767/2023-03-31/improve</id>
+    <title>The Elms - Crosshouse: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000767/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004070909/2023-03-31/improve</id>
+    <title>The Beeches: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004070909/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379444/2023-03-31/improve</id>
+    <title>Hallhouse Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379444/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354628/2023-03-31/improve</id>
+    <title>Glebe House Care Home: Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354628/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300604/2023-03-31/improve</id>
+    <title>Crossgate Care Centre: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300604/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371313/2023-03-31/improve</id>
+    <title>Cronberry House: Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371313/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371331/2023-03-31/improve</id>
+    <title>Blossom House: Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371331/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378597/2023-03-31/first_graded</id>
+    <title>Fosterhill: Graded for the first time: Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378597/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000743/2023-03-31/decline</id>
+    <title>Benrig Children's House: Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000743/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015336138/2023-03-31/cancelled</id>
+    <title>Nightingale House Ayrshire Limited: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015336138/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010259/2023-03-31/cancelled</id>
+    <title>Craigie Care Home: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010259/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016352761/2022-03-31/improve</id>
+    <title>Springhill Care Home: Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016352761/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354626/2022-03-31/improve</id>
+    <title>Burnfoot Care Home: Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354626/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Grade improved: Weak (2) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379444/2022-03-31/first_graded</id>
+    <title>Hallhouse Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379444/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371313/2022-03-31/first_graded</id>
+    <title>Cronberry House: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371313/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371684/2022-03-31/first_graded</id>
+    <title>Carston House: Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371684/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Very good (5) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019372681/2022-03-31/first_graded</id>
+    <title>Bute House Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019372681/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Ayrshire. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+</feed>

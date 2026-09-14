@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Aberdeen City</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/aberdeen-city/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/aberdeen-city/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/aberdeen-city/feed</id>
+  <updated>2026-09-14T12:58:12Z</updated>
+  <subtitle>Care homes in Aberdeen City whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000310/2026-07-31/new</id>
+    <title>Fergus House: Newly registered (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000310/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000317/2026-07-31/new</id>
+    <title>Balnagask House: Newly registered (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000317/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000192/2026-07-31/first_graded</id>
+    <title>Angusfield Care Home: Graded for the first time: Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000192/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315405/2026-07-31/cancelled</id>
+    <title>Bon Accord Care - Fergus House: Registration cancelled (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315405/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315404/2026-07-31/cancelled</id>
+    <title>Bon Accord Care - Balnagask House: Registration cancelled (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315404/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014332384/2026-06-30/improve</id>
+    <title>Rubislaw Park Care Home: Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014332384/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000200/2026-06-30/first_graded</id>
+    <title>Dee View Court Care Home: Graded for the first time: Adequate (3) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000200/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Adequate (3) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379125/2026-06-30/decline</id>
+    <title>Grandholm Care Home: Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379125/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000206/2026-05-31/new</id>
+    <title>Kingswells Care Home: Newly registered (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000206/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000227/2026-05-31/decline</id>
+    <title>Riverside Care Home: Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000227/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359559/2026-05-31/cancelled</id>
+    <title>Bon Accord Care - Kingswells Care Home: Registration cancelled (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359559/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000154/2026-04-30/new</id>
+    <title>Donald Dewar Court: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000154/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000095/2026-04-30/first_graded</id>
+    <title>Tor Na Dee Care Centre: Graded for the first time: Good (4) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000095/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Good (4) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000164/2026-04-30/first_graded</id>
+    <title>Carriag Care: Graded for the first time: Adequate (3) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000164/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Adequate (3) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018366682/2026-04-30/cancelled</id>
+    <title>Inspire Donald Dewar Court: Registration cancelled (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018366682/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000280/2026-03-31/improve</id>
+    <title>Woodlands Care Home: Grade improved: Good (4) to Very good (5) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000280/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000095/2026-02-28/new</id>
+    <title>Tor Na Dee Care Centre: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000095/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000172/2026-02-28/improve</id>
+    <title>VSA,450 Holburn Street: Grade improved: Good (4) to Very good (5) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000172/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014325430/2026-02-28/improve</id>
+    <title>Cornerstone Sunnybank: Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014325430/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359559/2026-02-28/improve</id>
+    <title>Bon Accord Care - Kingswells Care Home: Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359559/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2026-02-28/decline</id>
+    <title>Seabank House: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014332384/2026-02-28/decline</id>
+    <title>Rubislaw Park Care Home: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014332384/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300793/2026-02-28/cancelled</id>
+    <title>Tor - Na - Dee Care Home: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300793/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000237/2026-01-31/decline</id>
+    <title>Leggart Terrace Service: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000237/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379125/2026-01-31/decline</id>
+    <title>Grandholm Care Home: Grade declined: Very good (5) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379125/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014329149/2026-01-31/cancelled</id>
+    <title>Bon Accord Care - Clashieknowe: Registration cancelled (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014329149/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000231/2025-12-31/improve</id>
+    <title>Wernham House: Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000231/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2025-12-31/cancelled</id>
+    <title>Berryden Mills: Registration cancelled (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300711/2025-11-30/improve</id>
+    <title>Hamewith Lodge: Grade improved: Weak (2) to Adequate (3) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300711/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000244/2025-11-30/improve</id>
+    <title>71 Westburn Road: Grade improved: Adequate (3) to Good (4) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000244/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000252/2025-10-31/decline</id>
+    <title>CSA Young Adult Residential Care: Grade declined: Very good (5) to Good (4) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000252/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315404/2025-10-31/decline</id>
+    <title>Bon Accord Care - Balnagask House: Grade declined: Good (4) to Adequate (3) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315404/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000261/2025-09-30/cancelled</id>
+    <title>Tigh-A'Chomainn: Registration cancelled (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000261/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000200/2025-08-31/new</id>
+    <title>Dee View Court Care Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000200/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000164/2025-08-31/new</id>
+    <title>Carriag Care: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000164/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000192/2025-08-31/new</id>
+    <title>Angusfield Care Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000192/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015268/2025-08-31/improve</id>
+    <title>St. Aubins: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015268/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000227/2025-08-31/improve</id>
+    <title>Riverside Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000227/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007142892/2025-08-31/improve</id>
+    <title>Fairview House Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007142892/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303086/2025-08-31/improve</id>
+    <title>Cowdray Club: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303086/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000220/2025-08-31/improve</id>
+    <title>Cornerstone Stevenson Court: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000220/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000232/2025-08-31/improve</id>
+    <title>Blackwood Care - Raeden Court Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000232/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000168/2025-08-31/improve</id>
+    <title>Arrdeir: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000168/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000245/2025-08-31/improve</id>
+    <title>31 Two Mile Cross: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000245/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000037/2025-08-31/first_graded</id>
+    <title>Cranford Care Home: Graded for the first time: Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000037/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000261/2025-08-31/decline</id>
+    <title>Tigh-A'Chomainn: Grade declined: Weak (2) to Unsatisfactory (1) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000261/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Weak (2) to Unsatisfactory (1) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300711/2025-08-31/decline</id>
+    <title>Hamewith Lodge: Grade declined: Adequate (3) to Weak (2) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300711/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003013713/2025-08-31/cancelled</id>
+    <title>Dee View Court: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003013713/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346124/2025-08-31/cancelled</id>
+    <title>Angusfield Care Home: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346124/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000037/2025-03-31/new</id>
+    <title>Cranford Care Home: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000037/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000280/2025-03-31/improve</id>
+    <title>Woodlands Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000280/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000172/2025-03-31/improve</id>
+    <title>VSA,450 Holburn Street: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000172/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000249/2025-03-31/improve</id>
+    <title>Seabank House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000249/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303083/2025-03-31/improve</id>
+    <title>Persley Castle: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303083/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000170/2025-03-31/improve</id>
+    <title>Northfield Lodge: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000170/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010251941/2025-03-31/improve</id>
+    <title>Northcote Lodge Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010251941/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007142892/2025-03-31/improve</id>
+    <title>Fairview House Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007142892/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318602/2025-03-31/improve</id>
+    <title>Deeside Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318602/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014325430/2025-03-31/improve</id>
+    <title>Cornerstone Sunnybank: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014325430/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359559/2025-03-31/improve</id>
+    <title>Bon Accord Care - Kingswells Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359559/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315404/2025-03-31/improve</id>
+    <title>Bon Accord Care - Balnagask House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315404/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000217/2025-03-31/improve</id>
+    <title>Bob Cooney Court: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000217/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016346124/2025-03-31/improve</id>
+    <title>Angusfield Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016346124/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000261/2025-03-31/decline</id>
+    <title>Tigh-A'Chomainn: Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000261/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014332384/2025-03-31/decline</id>
+    <title>Rubislaw Park Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014332384/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300711/2025-03-31/decline</id>
+    <title>Hamewith Lodge: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300711/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011298871/2025-03-31/decline</id>
+    <title>Crosby House: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011298871/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303086/2025-03-31/decline</id>
+    <title>Cowdray Club: Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303086/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2025-03-31/decline</id>
+    <title>Berryden Mills: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000242/2025-03-31/decline</id>
+    <title>153 Victoria Street: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000242/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000164/2025-03-31/cancelled</id>
+    <title>Ruthrieston House: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000164/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301134/2025-03-31/cancelled</id>
+    <title>Cranford Care Centre: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301134/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000227/2024-03-31/new</id>
+    <title>Riverside Care Home: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000227/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000172/2024-03-31/improve</id>
+    <title>VSA,450 Holburn Street: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000172/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369768/2024-03-31/improve</id>
+    <title>Torry Care Home: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369768/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014332384/2024-03-31/improve</id>
+    <title>Rubislaw Park Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014332384/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010251941/2024-03-31/improve</id>
+    <title>Northcote Lodge Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010251941/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020378893/2024-03-31/improve</id>
+    <title>Maryfield West Care Home: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020378893/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000237/2024-03-31/improve</id>
+    <title>Leggart Terrace Service: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000237/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018369775/2024-03-31/improve</id>
+    <title>Jesmond Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018369775/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300711/2024-03-31/improve</id>
+    <title>Hamewith Lodge: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300711/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379125/2024-03-31/improve</id>
+    <title>Grandholm Care Home: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379125/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301134/2024-03-31/improve</id>
+    <title>Cranford Care Centre: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301134/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303086/2024-03-31/improve</id>
+    <title>Cowdray Club: Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303086/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Adequate (3) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009196657/2024-03-31/improve</id>
+    <title>Camphill School and Care Home Services Aberdeen: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009196657/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010272082/2024-03-31/improve</id>
+    <title>Aberlour Options - Aberdeen: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010272082/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000280/2024-03-31/first_graded</id>
+    <title>Woodlands Care Home: Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000280/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011303083/2024-03-31/decline</id>
+    <title>Persley Castle: Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011303083/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014325430/2024-03-31/decline</id>
+    <title>Cornerstone Sunnybank: Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014325430/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017359559/2024-03-31/decline</id>
+    <title>Bon Accord Care - Kingswells Care Home: Grade declined: Good (4) to Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017359559/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Good (4) to Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000232/2024-03-31/decline</id>
+    <title>Blackwood Care - Raeden Court Care Home: Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000232/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000243/2024-03-31/decline</id>
+    <title>Berryden Mills: Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000243/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade declined: Very good (5) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020378903/2024-03-31/cancelled</id>
+    <title>Woodside Care Home: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020378903/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014146/2024-03-31/cancelled</id>
+    <title>Riverside Nursing Home: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014146/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2024-03-31/cancelled</id>
+    <title>Kincorth Children's Home: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017360578/2024-03-31/cancelled</id>
+    <title>Inspire Manor Project: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017360578/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000175/2024-03-31/cancelled</id>
+    <title>4 Rosemount Terrace: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000175/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000280/2023-03-31/new</id>
+    <title>Woodlands Care Home: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000280/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000179/2023-03-31/new</id>
+    <title>Kincorth Children's Home: Newly registered (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000179/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Newly registered (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000246/2023-03-31/improve</id>
+    <title>The Linksfield Residential Service: Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000246/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Aberdeen City. Grade improved: Good (4) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+</feed>

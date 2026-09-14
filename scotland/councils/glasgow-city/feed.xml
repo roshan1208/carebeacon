@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Glasgow City</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/glasgow-city/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/glasgow-city/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/glasgow-city/feed</id>
+  <updated>2026-09-14T12:58:12Z</updated>
+  <subtitle>Care homes in Glasgow City whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001077/2026-08-31/improve</id>
+    <title>Oxton House Residential Home For Older People: Grade improved: Weak (2) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001077/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361011/2026-08-31/improve</id>
+    <title>Golfhill Care Home: Grade improved: Adequate (3) to Good (4) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361011/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015202/2026-08-31/improve</id>
+    <title>Ardencraig Care Home: Grade improved: Weak (2) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015202/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008184419/2026-08-31/decline</id>
+    <title>Glenlivet Gardens Care Home: Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008184419/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014325015/2026-08-31/decline</id>
+    <title>Executive Suites at 3 Bridges: Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014325015/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2026-08-31/decline</id>
+    <title>Esmond Street Advanced Support Service: Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379123/2026-08-31/decline</id>
+    <title>Almond Court Care Home: Grade declined: Good (4) to Weak (2) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379123/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Weak (2) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011280879/2026-07-31/improve</id>
+    <title>Stepdown - Castlemilk and South: Grade improved: Good (4) to Very good (5) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011280879/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014530/2026-07-31/improve</id>
+    <title>Oakview Manor Care Home: Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014530/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000213/2026-07-31/improve</id>
+    <title>Baillieston Care Home: Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000213/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013318490/2026-07-31/decline</id>
+    <title>Silverburn Care Home: Grade declined: Good (4) to Weak (2) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318490/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Weak (2) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000257/2026-07-31/decline</id>
+    <title>East Park Community Residences Group 2: Grade declined: Very good (5) to Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000257/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000212/2026-07-31/decline</id>
+    <title>Cardonald Care Home: Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000212/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000888/2026-07-31/cancelled</id>
+    <title>Easterhill Project Supported Accommodation: Registration cancelled (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000888/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012307351/2026-06-30/improve</id>
+    <title>Stoneside Flat: Grade improved: Good (4) to Very good (5) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012307351/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003047092/2026-06-30/improve</id>
+    <title>Hinshaw Street Residential Children's House: Grade improved: Good (4) to Very good (5) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003047092/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000863/2026-06-30/improve</id>
+    <title>Daniel House: Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000863/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016347297/2026-06-30/decline</id>
+    <title>St. Francis Care Home: Grade declined: Very good (5) to Adequate (3) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016347297/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Adequate (3) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001077/2026-06-30/decline</id>
+    <title>Oxton House Residential Home For Older People: Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001077/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009194973/2026-06-30/decline</id>
+    <title>Chaplet Avenue Children's Unit: Grade declined: Excellent (6) to Very good (5) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009194973/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Excellent (6) to Very good (5) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015202/2026-06-30/decline</id>
+    <title>Ardencraig Care Home: Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015202/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (by 30 June 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000215/2026-05-31/new</id>
+    <title>Fresh Start: Newly registered (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000215/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000346/2026-05-31/improve</id>
+    <title>Eastfields: Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000346/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000922/2026-05-31/improve</id>
+    <title>CrossReach Abstinence Recovery Service: Grade improved: Good (4) to Very good (5) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000922/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013320082/2026-04-30/new</id>
+    <title>Hamilton Park Avenue: Newly registered (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013320082/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001058/2026-04-30/improve</id>
+    <title>Kempsthorn RCU: Grade improved: Good (4) to Very good (5) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001058/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000212/2026-04-30/improve</id>
+    <title>Cardonald Care Home: Grade improved: Weak (2) to Adequate (3) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000212/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001059/2026-03-31/improve</id>
+    <title>Balmore Children's Unit: Grade improved: Very good (5) to Excellent (6) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001059/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Very good (5) to Excellent (6) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361011/2026-03-31/decline</id>
+    <title>Golfhill Care Home: Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361011/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000055/2026-02-28/new</id>
+    <title>Victoria Project: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000055/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000058/2026-02-28/new</id>
+    <title>Southside Older People's Services: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000058/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000059/2026-02-28/new</id>
+    <title>Southside Dementia Services: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000059/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000060/2026-02-28/new</id>
+    <title>Riddrievale Service: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000060/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000061/2026-02-28/new</id>
+    <title>Mitre House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000061/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000064/2026-02-28/new</id>
+    <title>Crannog Care Home: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000064/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000057/2026-02-28/new</id>
+    <title>Carbeth House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000057/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000063/2026-02-28/new</id>
+    <title>Beacon House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000063/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001025/2026-02-28/improve</id>
+    <title>Hawthorn House: Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001025/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361009/2026-02-28/decline</id>
+    <title>Deanfield Care Home: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361009/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000898/2026-02-28/cancelled</id>
+    <title>Victoria Project: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000898/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010270387/2026-02-28/cancelled</id>
+    <title>Southside Older People's Services: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010270387/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000905/2026-02-28/cancelled</id>
+    <title>Southside Dementia Services: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000905/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006137042/2026-02-28/cancelled</id>
+    <title>Riddrievale Service: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006137042/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000910/2026-02-28/cancelled</id>
+    <title>Mitre House: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000910/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006125795/2026-02-28/cancelled</id>
+    <title>Crannog Care Home: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006125795/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000900/2026-02-28/cancelled</id>
+    <title>Carbeth House: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000900/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000897/2026-02-28/cancelled</id>
+    <title>Beacon House: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000897/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000932/2026-02-28/cancelled</id>
+    <title>Balmoral Gate: Registration cancelled (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000932/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000013/2026-01-31/new</id>
+    <title>Spring Bank Eden Residential Care: Newly registered (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000013/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006137042/2026-01-31/improve</id>
+    <title>Riddrievale Service: Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006137042/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300709/2026-01-31/improve</id>
+    <title>Greenfield Park Care Centre: Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300709/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000265/2026-01-31/improve</id>
+    <title>Clarence Court Care Home: Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000265/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010458/2026-01-31/decline</id>
+    <title>Florence House: Grade declined: Very good (5) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010458/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000863/2026-01-31/decline</id>
+    <title>Daniel House: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000863/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000512/2025-12-31/new</id>
+    <title>Greenways Care Home: Newly registered (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000512/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361011/2025-12-31/improve</id>
+    <title>Golfhill Care Home: Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361011/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001068/2025-12-31/improve</id>
+    <title>Crossbank Crescent RCU: Grade improved: Good (4) to Very good (5) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001068/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016349810/2025-12-31/improve</id>
+    <title>Ailsa Craig: Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016349810/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000017/2025-12-31/first_graded</id>
+    <title>Kelvinside Manor: Graded for the first time: Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000017/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000136/2025-12-31/first_graded</id>
+    <title>Burlington Care Home: Graded for the first time: Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000136/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Graded for the first time: Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012309487/2025-12-31/decline</id>
+    <title>Kinning Park Care Home: Grade declined: Good (4) to Adequate (3) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012309487/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000838/2025-12-31/decline</id>
+    <title>Balshagray House: Grade declined: Very good (5) to Good (4) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000838/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017362468/2025-11-30/improve</id>
+    <title>St. Joseph's: Grade improved: Good (4) to Very good (5) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017362468/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000211/2025-11-30/decline</id>
+    <title>Stobhill Nursing Home: Grade declined: Adequate (3) to Weak (2) (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000211/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016349798/2025-10-31/improve</id>
+    <title>Eastbank Nursing Home: Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016349798/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371796/2025-10-31/improve</id>
+    <title>Ashton Grange: Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371796/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012306467/2025-10-31/improve</id>
+    <title>Ashgill Care Home: Grade improved: Weak (2) to Adequate (3) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012306467/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016349798/2025-09-30/improve</id>
+    <title>Eastbank Nursing Home: Grade improved: Weak (2) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016349798/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006125795/2025-09-30/improve</id>
+    <title>Crannog Care Home: Grade improved: Good (4) to Very good (5) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006125795/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000865/2025-09-30/improve</id>
+    <title>Blackwood Care - Belses Gardens Care Home: Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000865/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000940/2025-09-30/decline</id>
+    <title>Riverside Project: Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000940/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006137042/2025-09-30/decline</id>
+    <title>Riddrievale Service: Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006137042/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000346/2025-09-30/decline</id>
+    <title>Eastfields: Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000346/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000212/2025-09-30/decline</id>
+    <title>Cardonald Care Home: Grade declined: Adequate (3) to Weak (2) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000212/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Adequate (3) to Weak (2) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000331/2025-08-31/new</id>
+    <title>Abbey Court Care Home: Newly registered (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000331/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000898/2025-08-31/improve</id>
+    <title>Victoria Project: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000898/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371437/2025-08-31/improve</id>
+    <title>Victoria Gardens Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371437/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333774/2025-08-31/improve</id>
+    <title>Parkhouse Manor Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333774/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001064/2025-08-31/improve</id>
+    <title>Norse Road: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001064/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001063/2025-08-31/improve</id>
+    <title>Newlands Road RCU: Grade improved: Adequate (3) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001063/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000874/2025-08-31/improve</id>
+    <title>Mavisbank Gardens: Grade improved: Weak (2) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000874/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003047092/2025-08-31/improve</id>
+    <title>Hinshaw Street Residential Children's House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003047092/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008173617/2025-08-31/improve</id>
+    <title>Hector House (Glasgow) Ltd: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008173617/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361012/2025-08-31/improve</id>
+    <title>Haydale Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361012/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007142905/2025-08-31/improve</id>
+    <title>Four Hills Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007142905/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000875/2025-08-31/improve</id>
+    <title>Forrest House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000875/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000822/2025-08-31/improve</id>
+    <title>Craigend Gardens Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000822/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361116/2025-08-31/improve</id>
+    <title>Bonnyholm Gardens Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361116/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2022000108/2025-08-31/improve</id>
+    <title>Balmoral By Northcare: Grade improved: Adequate (3) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2022000108/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020379123/2025-08-31/improve</id>
+    <title>Almond Court Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020379123/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000839/2025-08-31/decline</id>
+    <title>Esmond Street Advanced Support Service: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000839/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016349798/2025-08-31/decline</id>
+    <title>Eastbank Nursing Home: Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016349798/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012306467/2025-08-31/decline</id>
+    <title>Ashgill Care Home: Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012306467/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Weak (2) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016349810/2025-08-31/decline</id>
+    <title>Ailsa Craig: Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016349810/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012307106/2025-08-31/decline</id>
+    <title>3 Bridges Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012307106/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Grade declined: Very good (5) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000936/2025-08-31/cancelled</id>
+    <title>Woodside Community Mental Health Project: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000936/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013320082/2025-08-31/cancelled</id>
+    <title>Hamilton Park Avenue: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013320082/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008192701/2025-08-31/cancelled</id>
+    <title>Engage - Glenlora: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008192701/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017356769/2025-08-31/cancelled</id>
+    <title>Abbey Court Care Home: Registration cancelled (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017356769/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Glasgow City. Registration cancelled (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000402/2025-03-31/new</id>
+    <title>Northcare Residences - Glasgow: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000402/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Glasgow City. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+</feed>

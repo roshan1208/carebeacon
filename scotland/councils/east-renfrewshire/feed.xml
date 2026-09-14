@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in East Renfrewshire</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/east-renfrewshire/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/east-renfrewshire/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/east-renfrewshire/feed</id>
+  <updated>2026-09-14T12:58:12Z</updated>
+  <subtitle>Care homes in East Renfrewshire whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000483/2026-07-31/first_graded</id>
+    <title>Westacres Care Home: Graded for the first time: Good (4) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000483/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Good (4) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2026-05-31/improve</id>
+    <title>Williamwood: Grade improved: Weak (2) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333443/2026-03-31/improve</id>
+    <title>Clarkston House: Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333443/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000402/2026-02-28/first_graded</id>
+    <title>Northcare Residences - Glasgow: Graded for the first time: Very good (5) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000402/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Very good (5) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333443/2026-02-28/decline</id>
+    <title>Clarkston House: Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333443/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2025-12-31/decline</id>
+    <title>Williamwood: Grade declined: Good (4) to Weak (2) (by 31 December 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2025-12-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Weak (2) (by 31 December 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000483/2025-11-30/new</id>
+    <title>Westacres Care Home: Newly registered (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000483/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010478/2025-11-30/cancelled</id>
+    <title>Westacres: Registration cancelled (by 30 November 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010478/"/>
+    <updated>2025-11-30T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (by 30 November 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2025-09-30/improve</id>
+    <title>Millview Care Home: Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2025-09-30T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (by 30 September 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000388/2025-03-31/new</id>
+    <title>Eastwood Court Care Home: Newly registered (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000388/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010478/2025-03-31/improve</id>
+    <title>Westacres: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010478/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018372062/2025-03-31/improve</id>
+    <title>Newton House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018372062/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000127/2025-03-31/first_graded</id>
+    <title>Mearns View Care Home: Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000127/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2025-03-31/decline</id>
+    <title>Millview Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333443/2025-03-31/decline</id>
+    <title>Clarkston House: Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333443/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Very good (5) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301138/2025-03-31/cancelled</id>
+    <title>Eastwood Court: Registration cancelled (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301138/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2023000127/2024-03-31/new</id>
+    <title>Mearns View Care Home: Newly registered (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2023000127/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2024-03-31/improve</id>
+    <title>Williamwood: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315033/2024-03-31/improve</id>
+    <title>The Firs Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315033/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2024-03-31/improve</id>
+    <title>Millview Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010478/2024-03-31/decline</id>
+    <title>Westacres: Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010478/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2023-03-31/improve</id>
+    <title>Williamwood: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2023-03-31/improve</id>
+    <title>Westlea Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018372062/2023-03-31/improve</id>
+    <title>Newton House: Grade improved: Unsatisfactory (1) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018372062/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Unsatisfactory (1) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003045155/2023-03-31/improve</id>
+    <title>Bonnyton House - Busby: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003045155/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2022-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010478/2022-03-31/decline</id>
+    <title>Westacres: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010478/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018372062/2022-03-31/decline</id>
+    <title>Newton House: Grade declined: Adequate (3) to Unsatisfactory (1) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018372062/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Adequate (3) to Unsatisfactory (1) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2022-03-31/decline</id>
+    <title>Millview Care Home: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300796/2022-03-31/cancelled</id>
+    <title>Wellmeadow Lodge: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300796/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2021-03-22/improve</id>
+    <title>Westlea Care Home: Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Unsatisfactory (1) to Good (4) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300796/2021-03-22/decline</id>
+    <title>Wellmeadow Lodge: Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300796/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Unsatisfactory (1) (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018372062/2020-03-31/new</id>
+    <title>Newton House: Newly registered (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018372062/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361017/2020-03-31/improve</id>
+    <title>Norwood Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361017/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340329/2020-03-31/improve</id>
+    <title>Mearns House: Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340329/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010474/2020-03-31/improve</id>
+    <title>Applecross Nursing Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010474/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2020-03-31/decline</id>
+    <title>Williamwood: Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2020-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Adequate (3) to Unsatisfactory (1) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2020-03-31/decline</id>
+    <title>Millview Care Home: Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Very good (5) to Good (4) (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000816/2020-03-31/cancelled</id>
+    <title>Netherlee House: Registration cancelled (between 31 March 2019 and 31 March 2020).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000816/"/>
+    <updated>2020-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2019 and 31 March 2020).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010478/2019-03-31/improve</id>
+    <title>Westacres: Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010478/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300796/2019-03-31/improve</id>
+    <title>Wellmeadow Lodge: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300796/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000816/2019-03-31/improve</id>
+    <title>Netherlee House: Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000816/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361017/2019-03-31/first_graded</id>
+    <title>Norwood Care Home: Graded for the first time: Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361017/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2019-03-31/first_graded</id>
+    <title>Millview Care Home: Graded for the first time: Very good (5) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Very good (5) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2019-03-31/decline</id>
+    <title>Williamwood: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2019-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340329/2019-03-31/decline</id>
+    <title>Mearns House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340329/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Very good (5) to Adequate (3) (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354327/2019-03-31/cancelled</id>
+    <title>Eastwoodhill Care Home: Registration cancelled (between 31 March 2018 and 31 March 2019).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354327/"/>
+    <updated>2019-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2018 and 31 March 2019).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361017/2018-03-31/new</id>
+    <title>Norwood Care Home: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361017/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361015/2018-03-31/new</id>
+    <title>Millview Care Home: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361015/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017354327/2018-03-31/new</id>
+    <title>Eastwoodhill Care Home: Newly registered (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017354327/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2018-03-31/improve</id>
+    <title>Westlea Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315033/2018-03-31/improve</id>
+    <title>The Firs Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315033/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000816/2018-03-31/improve</id>
+    <title>Netherlee House: Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000816/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015340329/2018-03-31/first_graded</id>
+    <title>Mearns House: Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015340329/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Very good (5) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2018-03-31/decline</id>
+    <title>Williamwood: Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Very good (5) to Good (4) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300796/2018-03-31/decline</id>
+    <title>Wellmeadow Lodge: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300796/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301138/2018-03-31/decline</id>
+    <title>Eastwood Court: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301138/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003045155/2018-03-31/decline</id>
+    <title>Bonnyton House - Busby: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003045155/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010474/2018-03-31/decline</id>
+    <title>Applecross Nursing Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010474/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010214/2018-03-31/cancelled</id>
+    <title>Norwood Care Home: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010214/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010213/2018-03-31/cancelled</id>
+    <title>Millview Care Home: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010213/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013320045/2018-03-31/cancelled</id>
+    <title>Greenlaw Grove: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013320045/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000814/2018-03-31/cancelled</id>
+    <title>Eastwoodhill Eventide Home: Registration cancelled (between 31 March 2017 and 31 March 2018).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000814/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2017 and 31 March 2018).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2017-03-31/improve</id>
+    <title>Williamwood: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333443/2017-03-31/improve</id>
+    <title>Clarkston House: Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333443/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Good (4) to Very good (5) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013320045/2017-03-31/first_graded</id>
+    <title>Greenlaw Grove: Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013320045/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Graded for the first time: Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000820/2017-03-31/decline</id>
+    <title>Westlea Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000820/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013315033/2017-03-31/decline</id>
+    <title>The Firs Care Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013315033/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Adequate (3) to Weak (2) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000816/2017-03-31/decline</id>
+    <title>Netherlee House: Grade declined: Good (4) to Weak (2) (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000816/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Weak (2) (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000817/2017-03-31/cancelled</id>
+    <title>Retail Trust: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000817/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000812/2017-03-31/cancelled</id>
+    <title>Quarriers Chavey Down: Registration cancelled (between 31 March 2016 and 31 March 2017).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000812/"/>
+    <updated>2017-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Registration cancelled (between 31 March 2016 and 31 March 2017).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2014333443/2016-03-31/new</id>
+    <title>Clarkston House: Newly registered (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2014333443/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Newly registered (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000821/2016-03-31/improve</id>
+    <title>Williamwood: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000821/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300796/2016-03-31/improve</id>
+    <title>Wellmeadow Lodge: Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300796/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Weak (2) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301138/2016-03-31/improve</id>
+    <title>Eastwood Court: Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301138/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade improved: Adequate (3) to Good (4) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003000817/2016-03-31/decline</id>
+    <title>Retail Trust: Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003000817/"/>
+    <updated>2016-03-31T00:00:00Z</updated>
+    <summary>East Renfrewshire. Grade declined: Good (4) to Adequate (3) (between 31 March 2015 and 31 March 2016).</summary>
+  </entry>
+</feed>

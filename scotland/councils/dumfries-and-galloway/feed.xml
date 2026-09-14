@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CareBeacon — changes to care homes in Dumfries &amp; Galloway</title>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/dumfries-and-galloway/feed.xml" rel="self"/>
+  <link href="https://roshan1208.github.io/carebeacon/scotland/councils/dumfries-and-galloway/"/>
+  <id>tag:roshan1208.github.io,2026:carebeacon/scotland/councils/dumfries-and-galloway/feed</id>
+  <updated>2026-09-14T12:58:13Z</updated>
+  <subtitle>Care homes in Dumfries &amp; Galloway whose Care Inspectorate grades just moved, or that were just registered or cancelled.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000471/2026-08-31/first_graded</id>
+    <title>Senwick House: Graded for the first time: Good (4) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000471/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Good (4) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011299794/2026-08-31/decline</id>
+    <title>Care Visions - Blackburn House: Grade declined: Very good (5) to Adequate (3) (by 31 August 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011299794/"/>
+    <updated>2026-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Adequate (3) (by 31 August 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008185641/2026-07-31/decline</id>
+    <title>Queensberry Care Home: Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008185641/"/>
+    <updated>2026-07-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (by 31 July 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010274118/2026-05-31/decline</id>
+    <title>Care Visions Quhytewoollen: Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010274118/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013316737/2026-05-31/decline</id>
+    <title>38 Hardthorn Road: Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013316737/"/>
+    <updated>2026-05-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (by 31 May 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007148153/2026-04-30/improve</id>
+    <title>Gardenhouse: Grade improved: Weak (2) to Good (4) (by 30 April 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007148153/"/>
+    <updated>2026-04-30T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Good (4) (by 30 April 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000135/2026-03-31/new</id>
+    <title>Briery Park: Newly registered (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000135/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008169826/2026-03-31/cancelled</id>
+    <title>Briery Park: Registration cancelled (by 31 March 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008169826/"/>
+    <updated>2026-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (by 31 March 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000084/2026-02-28/new</id>
+    <title>Croft House: Newly registered (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000084/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000288/2026-02-28/improve</id>
+    <title>Carlingwark House: Grade improved: Weak (2) to Adequate (3) (by 28 February 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000288/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (by 28 February 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000293/2026-01-31/improve</id>
+    <title>Thorney Croft: Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000293/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000290/2026-01-31/decline</id>
+    <title>Cornwall Park: Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000290/"/>
+    <updated>2026-01-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (by 31 January 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000471/2025-10-31/new</id>
+    <title>Senwick House: Newly registered (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000471/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007147639/2025-10-31/improve</id>
+    <title>Dunmuir Park Respite Unit: Grade improved: Adequate (3) to Very good (5) (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007147639/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Very good (5) (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010847/2025-10-31/cancelled</id>
+    <title>Senwick House: Registration cancelled (by 31 October 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010847/"/>
+    <updated>2025-10-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (by 31 October 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000289/2025-08-31/improve</id>
+    <title>Merse House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000289/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2025-08-31/improve</id>
+    <title>Mannering Avenue: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019376881/2025-08-31/improve</id>
+    <title>Fleet Valley Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019376881/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007155419/2025-08-31/improve</id>
+    <title>Dala: Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007155419/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015334/2025-08-31/improve</id>
+    <title>Claremont House: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015334/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013316737/2025-08-31/improve</id>
+    <title>38 Hardthorn Road: Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013316737/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000288/2025-08-31/decline</id>
+    <title>Carlingwark House: Grade declined: Adequate (3) to Weak (2) (between 31 March 2025 and 31 August 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000288/"/>
+    <updated>2025-08-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 31 March 2025 and 31 August 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000291/2025-03-31/improve</id>
+    <title>Munches Park House: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000291/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004073594/2025-03-31/improve</id>
+    <title>Lydiafield Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004073594/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019376881/2025-03-31/improve</id>
+    <title>Fleet Valley Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019376881/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010839/2025-03-31/improve</id>
+    <title>Dryfemount Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010839/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2016347104/2025-03-31/improve</id>
+    <title>Dalveen Farmhouse: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2016347104/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010886/2025-03-31/improve</id>
+    <title>Cumloden Manor Nursing Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010886/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000290/2025-03-31/improve</id>
+    <title>Cornwall Park: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000290/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004073607/2025-03-31/improve</id>
+    <title>Burnfoot Coach House: Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004073607/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009230636/2025-03-31/improve</id>
+    <title>Annie's Cottage: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009230636/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015103/2025-03-31/improve</id>
+    <title>ACAD Close Support Service: Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015103/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007148153/2025-03-31/decline</id>
+    <title>Gardenhouse: Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007148153/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Weak (2) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000288/2025-03-31/decline</id>
+    <title>Carlingwark House: Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000288/"/>
+    <updated>2025-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (between 31 March 2024 and 31 March 2025).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010849/2024-03-31/improve</id>
+    <title>West View (Monreith) Ltd: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010849/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009231465/2024-03-31/improve</id>
+    <title>Murraythwaite: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009231465/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004073594/2024-03-31/improve</id>
+    <title>Lydiafield Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004073594/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2024-03-31/improve</id>
+    <title>Holestane Cottages: Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007148153/2024-03-31/improve</id>
+    <title>Gardenhouse: Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007148153/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Good (4) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010884/2024-03-31/improve</id>
+    <title>Closeburn Centre: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010884/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011299794/2024-03-31/improve</id>
+    <title>Care Visions - Blackburn House: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011299794/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2024-03-31/improve</id>
+    <title>Allanbank Care Home: Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Good (4) to Very good (5) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013316737/2024-03-31/improve</id>
+    <title>38 Hardthorn Road: Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013316737/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000293/2024-03-31/first_graded</id>
+    <title>Thorney Croft: Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000293/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000291/2024-03-31/first_graded</id>
+    <title>Munches Park House: Graded for the first time: Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000291/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000290/2024-03-31/first_graded</id>
+    <title>Cornwall Park: Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000290/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019376881/2024-03-31/decline</id>
+    <title>Fleet Valley Care Home: Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019376881/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004073607/2024-03-31/decline</id>
+    <title>Burnfoot Coach House: Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004073607/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005095225/2024-03-31/cancelled</id>
+    <title>Common Ground: Registration cancelled (between 31 March 2023 and 31 March 2024).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005095225/"/>
+    <updated>2024-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 31 March 2023 and 31 March 2024).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008185641/2023-03-31/improve</id>
+    <title>Queensberry Care Home: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008185641/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006117507/2023-03-31/improve</id>
+    <title>Notwen House: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006117507/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010819/2023-03-31/improve</id>
+    <title>Maben House: Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010819/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008169826/2023-03-31/improve</id>
+    <title>Briery Park: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008169826/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003045190/2023-03-31/improve</id>
+    <title>Belmont Care Centre: Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003045190/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Weak (2) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2023-03-31/improve</id>
+    <title>Allanbank Care Home: Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005101942/2023-03-31/improve</id>
+    <title>ACAD Long Term Care Home Service: Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005101942/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Adequate (3) to Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020382163/2023-03-31/first_graded</id>
+    <title>Wallace Hall: Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020382163/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Very good (5) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000289/2023-03-31/first_graded</id>
+    <title>Merse House: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000289/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2023-03-31/first_graded</id>
+    <title>Holestane Cottages: Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010849/2023-03-31/decline</id>
+    <title>West View (Monreith) Ltd: Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010849/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010847/2023-03-31/decline</id>
+    <title>Senwick House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010847/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012306097/2023-03-31/decline</id>
+    <title>Goldielea Care Home: Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012306097/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007148153/2023-03-31/decline</id>
+    <title>Gardenhouse: Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007148153/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005095225/2023-03-31/decline</id>
+    <title>Common Ground: Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005095225/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010884/2023-03-31/decline</id>
+    <title>Closeburn Centre: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010884/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010779/2023-03-31/decline</id>
+    <title>Bankfoot House: Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010779/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Adequate (3) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010827/2023-03-31/decline</id>
+    <title>Atkinson Road Respite: Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010827/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003050894/2023-03-31/cancelled</id>
+    <title>Station Brae Respite Unit: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003050894/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013316350/2023-03-31/cancelled</id>
+    <title>Dalawoodie House Nursing Home: Registration cancelled (between 31 March 2022 and 31 March 2023).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013316350/"/>
+    <updated>2023-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 31 March 2022 and 31 March 2023).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000293/2022-03-31/new</id>
+    <title>Thorney Croft: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000293/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000291/2022-03-31/new</id>
+    <title>Munches Park House: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000291/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000289/2022-03-31/new</id>
+    <title>Merse House: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000289/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000121/2022-03-31/new</id>
+    <title>Holestane Cottages: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000121/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000290/2022-03-31/new</id>
+    <title>Cornwall Park: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000290/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000292/2022-03-31/new</id>
+    <title>Charnwood Lodge: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000292/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000288/2022-03-31/new</id>
+    <title>Carlingwark House: Newly registered (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000288/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008185641/2022-03-31/improve</id>
+    <title>Queensberry Care Home: Grade improved: Unsatisfactory (1) to Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008185641/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade improved: Unsatisfactory (1) to Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019376881/2022-03-31/first_graded</id>
+    <title>Fleet Valley Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019376881/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2019378605/2022-03-31/first_graded</id>
+    <title>Allanbank Care Home: Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2019378605/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Graded for the first time: Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004066879/2022-03-31/decline</id>
+    <title>Westfield: Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004066879/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009231465/2022-03-31/decline</id>
+    <title>Murraythwaite: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009231465/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015342405/2022-03-31/decline</id>
+    <title>Mannering Avenue: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015342405/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2004073594/2022-03-31/decline</id>
+    <title>Lydiafield Care Home: Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2004073594/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007148153/2022-03-31/decline</id>
+    <title>Gardenhouse: Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007148153/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2013316350/2022-03-31/decline</id>
+    <title>Dalawoodie House Nursing Home: Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013316350/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005095225/2022-03-31/decline</id>
+    <title>Common Ground: Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005095225/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Adequate (3) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008169826/2022-03-31/decline</id>
+    <title>Briery Park: Grade declined: Good (4) to Weak (2) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008169826/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Good (4) to Weak (2) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009230636/2022-03-31/decline</id>
+    <title>Annie's Cottage: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009230636/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2005111354/2022-03-31/decline</id>
+    <title>Alma McFadyen: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2005111354/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003015103/2022-03-31/decline</id>
+    <title>ACAD Close Support Service: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003015103/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010806/2022-03-31/decline</id>
+    <title>Abbey Gardens Nursing Home: Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010806/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Grade declined: Very good (5) to Good (4) (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010797/2022-03-31/cancelled</id>
+    <title>Thorney Croft: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010797/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012310748/2022-03-31/cancelled</id>
+    <title>Singleton Park Care Home: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012310748/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010795/2022-03-31/cancelled</id>
+    <title>Munches Park House: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010795/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010796/2022-03-31/cancelled</id>
+    <title>Merse House: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010796/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010794/2022-03-31/cancelled</id>
+    <title>Cornwall Park: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010794/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010793/2022-03-31/cancelled</id>
+    <title>Charnwood Lodge: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010793/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010792/2022-03-31/cancelled</id>
+    <title>Carlingwark House: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010792/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010873/2022-03-31/cancelled</id>
+    <title>Cairnryan House: Registration cancelled (between 22 March 2021 and 31 March 2022).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010873/"/>
+    <updated>2022-03-31T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Registration cancelled (between 22 March 2021 and 31 March 2022).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020382163/2021-03-22/new</id>
+    <title>Wallace Hall: Newly registered (between 31 March 2020 and 22 March 2021).</title>
+    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020382163/"/>
+    <updated>2021-03-22T00:00:00Z</updated>
+    <summary>Dumfries &amp; Galloway. Newly registered (between 31 March 2020 and 22 March 2021).</summary>
+  </entry>
+</feed>
