@@ -241,6 +241,29 @@
   .change-type.closed { background: color-mix(in srgb, var(--rating-inadequate) 18%, transparent); color: var(--rating-inadequate); }
   .change-type.reopened { background: color-mix(in srgb, var(--rating-good) 18%, transparent); color: var(--rating-good); }
   .change-type.rated { background: color-mix(in srgb, var(--muted) 18%, transparent); color: var(--muted); }
+  .change-type.up { background: color-mix(in srgb, var(--rating-good) 18%, transparent); color: var(--rating-good); }
+  .change-type.down, .change-type.closed { background: color-mix(in srgb, var(--rating-inadequate) 18%, transparent); color: var(--rating-inadequate); }
+  .change-type.new { background: color-mix(in srgb, var(--rating-outstanding) 18%, transparent); color: var(--rating-outstanding); }
+  .change-type.other { background: color-mix(in srgb, var(--muted) 18%, transparent); color: var(--muted); }
+  .changes-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  #changes-country { font: inherit; font-size: 0.85rem; padding: 5px 8px; border: 1px solid var(--border); border-radius: 8px; background: var(--card-bg); color: var(--ink); max-width: 100%; }
+  ul.change-list.world { gap: 0; }
+  ul.change-list.world li { display: block; padding: 10px 0 10px 10px; border-left: 3px solid var(--border); }
+  ul.change-list.world li.k-up { border-left-color: var(--rating-good); }
+  ul.change-list.world li.k-down, ul.change-list.world li.k-closed { border-left-color: var(--rating-inadequate); }
+  ul.change-list.world li.k-new { border-left-color: var(--rating-outstanding); }
+  .change-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 0.8rem; margin-bottom: 3px; }
+  .change-top .change-date { min-width: 0; }
+  .change-country { color: var(--ink); text-decoration: none; font-weight: 600; border-bottom: 1px solid var(--border); }
+  .change-country:hover { border-bottom-color: var(--accent); color: var(--accent); }
+  .change-main { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; line-height: 1.35; }
+  .change-main a { color: inherit; text-decoration: none; }
+  .change-main a:hover strong { text-decoration: underline; }
+  .change-what { font-size: 0.88rem; color: var(--muted); margin-top: 2px; }
+  li.k-down .change-what, li.k-closed .change-what { color: var(--rating-inadequate); }
+  li.k-up .change-what { color: var(--rating-good); }
+  .changes-foot { margin: 12px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .changes-foot .feed-link { margin-left: 0; }
 
   .results-count { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
@@ -508,11 +531,14 @@
   </nav>
 
   <section class="changes" aria-labelledby="changes-heading">
-    <h2 id="changes-heading">Recently changed</h2>
-    <p class="lede">CQC publishes today's rating, not what changed. This is what changed.
-      <a href="feed.xml" class="feed-link">Subscribe with a feed reader</a> &middot;
-      <a href="changes/" class="feed-link">See every change from the last 90 days</a></p>
+    <div class="changes-head">
+      <h2 id="changes-heading">Recently changed</h2>
+      <label class="visually-hidden" for="changes-country">Show changes from</label>
+      <select id="changes-country" aria-label="Show changes from"><option value="">All countries</option></select>
+    </div>
+    <p class="lede">Regulators publish today&#39;s rating, not what changed. This is what changed, in every register we track, last 30 days.</p>
     <div id="changes-body"><p class="state">Loading recent changes…</p></div>
+    <p class="changes-foot"><a href="feed.xml" class="feed-link">England feed</a> <a href="changes/" class="feed-link">All England changes</a> <a href="countries/" class="feed-link">Other countries</a></p>
   </section>
 
   <form class="filterbar" role="search" aria-label="Search care homes" onsubmit="return false;">
@@ -697,7 +723,41 @@
     document.getElementById("compare-shortlist").disabled = list.length < 2;
   }
 
+  var KIND_LABEL = { up: "Improved", down: "Declined", "new": "New", closed: "Left register", other: "Changed" };
+
+  function renderWorldChanges() {
+    var body = document.getElementById("changes-body");
+    var sel = document.getElementById("changes-country");
+    var all = state.world || [];
+    if (sel && sel.options.length === 1) {
+      var countries = {};
+      all.forEach(function (c) { countries[c.country] = (countries[c.country] || 0) + 1; });
+      Object.keys(countries).sort().forEach(function (name) {
+        var o = document.createElement("option"); o.value = name; o.textContent = name + " (" + countries[name] + ")"; sel.appendChild(o);
+      });
+      sel.addEventListener("change", renderWorldChanges);
+    }
+    var want = sel ? sel.value : "";
+    var rows = all.filter(function (c) { return !want || c.country === want; }).slice(0, 12);
+    if (!rows.length) {
+      body.innerHTML = '<p class="state">No changes recorded in the last 30 days' + (want ? " for " + attr(want) : "") + '.</p>';
+      return;
+    }
+    body.innerHTML = '<ul class="change-list world">' + rows.map(function (c) {
+      var when = c.since ? "by " + attr(c.date) : attr(c.date);
+      return '<li class="k-' + attr(c.kind) + '">' +
+        '<div class="change-top"><span class="change-date">' + when + '</span>' +
+          '<a class="change-country" href="' + attr(c.countryPath) + 'changes/">' + attr(c.country) + '</a>' +
+          '<span class="change-type ' + attr(c.kind) + '">' + attr(KIND_LABEL[c.kind] || "Changed") + '</span></div>' +
+        '<div class="change-main"><a href="' + attr(c.url) + '"><strong>' + attr(c.name) + '</strong></a>' +
+          (c.place ? '<span class="place">' + attr(c.place) + '</span>' : "") + '</div>' +
+        '<div class="change-what">' + attr(c.text) + '</div>' +
+      '</li>';
+    }).join("") + '</ul>';
+  }
+
   function renderChanges() {
+    if (state.world && state.world.length) { renderWorldChanges(); return; }
     var body = document.getElementById("changes-body");
     if (!state.changes.length) {
       body.innerHTML = '<p class="state">No changes recorded yet.</p>';
@@ -1486,10 +1546,14 @@
       // Tiny (a few dozen strings) — fetched eagerly so the specialism
       // filter has options before anyone has picked one, unlike
       // site_details.json, which stays lazy because it is not tiny.
-      fetch("data/site_specialisms.json").then(function (r) { if (!r.ok) throw new Error("specialisms " + r.status); return r.json(); }).catch(function () { return []; })
+      fetch("data/site_specialisms.json").then(function (r) { if (!r.ok) throw new Error("specialisms " + r.status); return r.json(); }).catch(function () { return []; }),
+      // Cross-country window for the "Recently changed" panel. Optional:
+      // if it is missing the panel falls back to England's own changes.
+      fetch("data/site_world_changes.json").then(function (r) { if (!r.ok) throw new Error("world " + r.status); return r.json(); }).catch(function () { return null; })
     ]).then(function (results) {
       state.locations = results[0] || [];
       state.changes = results[1] || [];
+      state.world = results[4] || null;
       var meta = results[2];
       var freshness = document.getElementById("freshness");
       if (meta && meta.last_run_utc) {
