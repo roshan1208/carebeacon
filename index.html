@@ -145,7 +145,8 @@
      manager gap, postcode, CSV, map, trends) are hidden and the search
      runs over the world index for that country instead. */
   body.scoped .filterbar > :not(#q):not(label[for="q"]):not(.scoped-only) { display: none; }
-  body.scoped .view-toggle, body.scoped .shortlist-bar, body.scoped #world-results, body.scoped #map, body.scoped #trends { display: none !important; }
+  body.scoped .shortlist-bar, body.scoped #world-results, body.scoped #trends, body.scoped #view-trends { display: none !important; }
+  body.scoped.no-coords .view-toggle { display: none; }
   body.scoped .filterbar { position: static; }
   #scope-near { font: inherit; padding: 10px 14px; border: 1px solid var(--border); border-radius: 8px; background: var(--card-bg); color: var(--ink); cursor: pointer; white-space: nowrap; }
   #scope-near:hover { border-color: var(--accent); }
@@ -298,7 +299,7 @@
   ul.world-list a { color: inherit; text-decoration: none; }
   ul.world-list a:hover strong { text-decoration: underline; }
   .world-country { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); white-space: nowrap; }
-  .world-grade { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid color-mix(in srgb, currentColor 35%, transparent); background: color-mix(in srgb, currentColor 10%, transparent); color: var(--muted); margin-left: auto; white-space: nowrap; }
+  .world-grade { margin-left: auto; align-self: center; }
   .world-more { color: var(--muted); font-size: 0.88rem; margin: 8px 0 0; }
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
   /* The save (shortlist) button has to be a sibling of .card, not a
@@ -352,6 +353,8 @@
   .badge[data-rating="Requires improvement"] { color: var(--rating-reqimprove); }
   .badge.Inadequate { color: var(--rating-inadequate); }
   .badge.unrated { color: var(--muted); }
+  .badge.g6 { color: var(--rating-outstanding); } .badge.g5, .badge.g4 { color: var(--rating-good); }
+  .badge.g3 { color: var(--rating-reqimprove); } .badge.g2, .badge.g1 { color: var(--rating-inadequate); } .badge.g0 { color: var(--muted); }
   .card .meta { font-size: 0.85rem; color: var(--muted); }
   /* Reuses the already-contrast-checked "requires improvement" amber
      rather than a new colour, since this is the same kind of caution,
@@ -1073,7 +1076,7 @@
     // A located postcode (England's "near me") also orders the cross-country
     // matches by distance, when the regulator published coordinates.
     if (state.nearMe) {
-      hits.forEach(function (h) { h.miles = (h.length >= 7) ? haversineMiles(state.nearMe.latitude, state.nearMe.longitude, h[5], h[6]) : Infinity; });
+      hits.forEach(function (h) { h.miles = (h[6] != null) ? haversineMiles(state.nearMe.latitude, state.nearMe.longitude, h[6], h[7]) : Infinity; });
       hits.sort(function (a, b) { return a.miles - b.miles; });
     }
     var byCountry = {};
@@ -1085,7 +1088,7 @@
         '<a href="' + attr(c.path) + 'homes/' + attr(h[1]) + '/"><strong>' + attr(h[2]) + '</strong></a>' +
         (h[3] ? '<span class="place">' + attr(h[3]) + '</span>' : "") +
         (state.nearMe && isFinite(h.miles) ? '<span class="distance">' + (h.miles < 10 ? h.miles.toFixed(1) : Math.round(h.miles)) + ' mi</span>' : "") +
-        (h[4] ? '<span class="world-grade">' + attr(h[4]) + '</span>' : "") + '</li>';
+        (h[4] ? '<span class="badge ' + attr(h[5] || "g0") + ' world-grade">' + attr(h[4]) + '</span>' : "") + '</li>';
     }).join("");
     var lead = englandCount === 0
       ? "Nothing in England matches, but these do elsewhere."
@@ -1107,6 +1110,8 @@
   function setScope(name) {
     state.scope = name || "England";
     state.scopeGeo = null;
+    state.lastScoped = null;
+    document.body.classList.remove("no-coords");
     var scoped = state.scope !== "England";
     document.body.classList.toggle("scoped", scoped);
     document.querySelectorAll(".nations a[data-name]").forEach(function (a) {
@@ -1162,13 +1167,17 @@
         if (s < 0) return;
         h = h.slice(); h.score = s;
       } else { h = h.slice(); h.score = 0; }
-      if (state.scopeGeo) h.km = (h.length >= 7) ? haversineMiles(state.scopeGeo.latitude, state.scopeGeo.longitude, h[5], h[6]) * 1.609344 : Infinity;
+      if (state.scopeGeo) h.km = (h[6] != null) ? haversineMiles(state.scopeGeo.latitude, state.scopeGeo.longitude, h[6], h[7]) * 1.609344 : Infinity;
       hits.push(h);
     });
     if (state.scopeGeo) hits.sort(function (a, b) { return a.km - b.km; });
     else hits.sort(function (a, b) { return a.score - b.score || a[2].localeCompare(b[2]); });
-    var hasCoords = all.some(function (h) { return h.length >= 7; });
+    var hasCoords = all.some(function (h) { return h[6] != null; });
     document.getElementById("scope-near").hidden = !hasCoords;
+    document.body.classList.toggle("no-coords", !hasCoords);
+    state.lastScoped = hits;
+    state.lastScopedPath = country.path;
+    if (state.view === "map") { renderMap(); return; }
     browse.innerHTML = '<a href="' + attr(country.path) + '">Browse every home in ' + attr(state.scope) + ' by area, with grades and what changed &rarr;</a>';
     browse.hidden = false;
     countEl.textContent = (q ? hits.length.toLocaleString() + " of " : "") + all.length.toLocaleString() + " homes in " + state.scope +
@@ -1178,7 +1187,7 @@
       var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies)</div>' : "";
       return '<div class="card-wrap"><a class="card" href="' + attr(country.path) + 'homes/' + attr(h[1]) + '/">' +
         '<h3>' + attr(h[2]) + '</h3>' + (h[3] ? '<div class="place">' + attr(h[3]) + '</div>' : "") +
-        (h[4] ? '<span class="badge unrated grade">' + attr(h[4]) + '</span>' : "") + dist + '</a></div>';
+        (h[4] ? '<span class="badge ' + attr(h[5] || "g0") + '">' + attr(h[4]) + '</span>' : "") + dist + '</a></div>';
     }).join("") + '</div>';
   }
 
@@ -1328,9 +1337,36 @@
     return leafletMap;
   }
 
+  var GCLASS_COLOR = { g6: "--rating-outstanding", g5: "--rating-good", g4: "--rating-good", g3: "--rating-reqimprove", g2: "--rating-inadequate", g1: "--rating-inadequate" };
+  function gclassColor(g) {
+    var v = GCLASS_COLOR[g];
+    return v ? getComputedStyle(document.documentElement).getPropertyValue(v).trim() || "#888" : (getComputedStyle(document.documentElement).getPropertyValue("--muted").trim() || "#888");
+  }
+
+  // A scoped country's map: every home in the current scoped result set
+  // that has published coordinates, coloured by its grade class, popup
+  // linking to the home's page (there is no in-page detail view for
+  // homes outside England — their pages are the detail view).
+  function renderScopedMap(map) {
+    var rows = (state.lastScoped || []).filter(function (h) { return h[6] != null; });
+    var path = state.lastScopedPath || "";
+    var markers = rows.map(function (h) {
+      var icon = L.divIcon({ className: "care-home-marker", html: '<span style="background:' + gclassColor(h[5]) + '"></span>', iconSize: [16, 16] });
+      var marker = L.marker([h[6], h[7]], { icon: icon });
+      marker.bindPopup('<div class="map-popup"><h4>' + attr(h[2]) + '</h4>' + attr(h[3] || "") + (h[4] ? '<br>' + attr(h[4]) : "") +
+        '<br><a href="' + attr(path) + 'homes/' + attr(h[1]) + '/">Open this home\'s page</a></div>');
+      return marker;
+    });
+    clusterGroup.addLayers(markers);
+    if (markers.length) map.fitBounds(clusterGroup.getBounds(), { padding: [30, 30], maxZoom: 13 });
+    document.getElementById("results-count").textContent = markers.length.toLocaleString() + " of " + (state.lastScoped || []).length.toLocaleString() +
+      " homes in " + state.scope + " shown on the map" + (markers.length < (state.lastScoped || []).length ? " (the rest have no published coordinates)" : "");
+  }
+
   function renderMap() {
     var map = ensureMap();
     clusterGroup.clearLayers();
+    if (state.scope && state.scope !== "England") { renderScopedMap(map); return; }
 
     var withCoords = (state.lastFiltered || []).filter(function (l) {
       return l.latitude != null && l.longitude != null;
@@ -1386,7 +1422,7 @@
       renderShortlistBar();
     }
     if (view === "map") {
-      renderMap();
+      if (state.scope && state.scope !== "England" && !state.lastScoped) renderResults(); else renderMap();
       // Leaflet miscalculates its own size if it was ever initialised
       // while hidden, even though the container has real dimensions by
       // the time this runs — an explicit nudge after the browser has
