@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,15 +141,19 @@
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-131468887/">Elysium Care Partnerships Limited</a></div><div><span class="l">Beds:</span> 8</div><div><span class="l">Registered with CQC since:</span> 2011-09-08</div><div><span class="l">Last inspected:</span> 2023-03-07</div></div>
   
+  
+  <section class="compare"><h2>How this compares in Richmond upon Thames</h2><div class="dist" aria-hidden="true"><span style="width:2.3%;background:var(--info)" title="Outstanding: 1"></span><span style="width:61.4%;background:var(--good)" title="Good: 27"></span><span style="width:36.4%;background:var(--border)" title="No published rating: 16"></span></div><p class="note">Of 44 care homes in Richmond upon Thames: 1 Outstanding, 27 Good. 16 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Learning disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
+  
   
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../united-response-29-mayfair-avenue-1-5088905448/">United Response - 29 Mayfair Avenue</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../chertsey-road-1-4474419140/">Chertsey Road</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../brinsworth-house-1-122497565/">Brinsworth House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li><li><a href="../united-response-131-kneller-road-1-123018041/">United Response - 131 Kneller Road</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li><li><a href="../united-response-8-10-woodlawn-crescent-1-5089633283/">United Response - 8 -10 Woodlawn Crescent</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../elysium-care-partnerships-limited-13-alexandra-gardens-1-2172191305/">Elysium Care Partnerships Limited - 13 Alexandra Gardens</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../elysium-care-partnerships-limited-185-arabella-drive-1-154473315/">Elysium Care Partnerships Limited - 185 Arabella Drive</a> <span class="badge r-good">Good</span></li><li><a href="../elysium-care-partnerships-limited-187-nursery-road-1-3997000739/">Elysium Care Partnerships Limited - 187 Nursery Road</a> <span class="badge r-good">Good</span></li><li><a href="../elysium-care-partnerships-limited-1a-upper-brighton-road-1-4309669977/">Elysium Care Partnerships Limited - 1a Upper Brighton Road</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../elysium-care-partnerships-limited-21b-upper-brighton-road-1-154473332/">Elysium Care Partnerships Limited - 21b Upper Brighton Road</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../elysium-care-partnerships-limited-78-park-road-1-154473298/">Elysium Care Partnerships Limited - 78 Park Road</a> <span class="badge r-good">Good</span></li><li><a href="../elysium-care-partnerships-limited-89-ewell-road-1-840450080/">Elysium Care Partnerships Limited - 89 Ewell Road</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../elysium-care-partnerships-limited-school-house-1-1568682810/">Elysium Care Partnerships Limited - School House</a> <span class="badge r-outstanding">Outstanding</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/8ea8a23b-5989-4675-af8f-1d97312cfed7?20230331120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.elysiumhealthcare.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.4484092%2C-0.3576455" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/richmond-upon-thames/feed.xml">Subscribe to changes in Richmond upon Thames</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-279496420,1-5088905448,1-4474419140,1-122497565,1-123018041,1-5089633283">Compare this home with its 5 nearest on CareBeacon</a></p>
+  <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>

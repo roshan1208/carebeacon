@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,7 +141,9 @@
   <div class="facts"><div><span class="l">Local authority:</span> <a href="https://roshan1208.github.io/carebeacon/wales/areas/newport/">Newport</a></div><div><span class="l">Type:</span> Adults Without Nursing</div><div><span class="l">Care and support for:</span> People with a learning disability, People with a physical disability, People requiring short-breaks or respite care, People with mental health needs</div><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/wales/operators/SPROV-00006506-BRWP/">Principality Care Ltd</a></div><div><span class="l">Provider type:</span> Limited Company</div><div><span class="l">Responsible individual(s):</span> Alun Phillips</div><div><span class="l">Places:</span> 3</div><div><span class="l">Main language:</span> English</div><div><span class="l">Directory record updated:</span> 11 August 2026</div></div>
   <section><h2>Care Inspectorate Wales ratings</h2><p class="note">Not yet rated. CIW began publishing ratings for care homes in April 2025 and rates services as it inspects them.</p></section>
   
+  <section><h2>Nearby care home services</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00012268-KPMV/">Reene House</a> <span class="badge g0">Not yet rated</span> <span class="miles">0.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009898-PHGR/">Redlands</a> <span class="badge g0">Not yet rated</span> <span class="miles">1.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010146-PKKR/">Danygraig Nursing Home</a> <span class="badge g3">Requires Improvement</span> <span class="miles">1.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009454-FPPQ/">Priory Mount Eveswell</a> <span class="badge g4">Good</span> <span class="miles">1.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00013765-HLKY/">Balmoral House</a> <span class="badge g4">Good</span> <span class="miles">1.8 km approx.</span></li></ul><p class="note">Straight-line distances, not by road. A position marked approx. is the home&#39;s town or district, not its building.</p></section>
   <p class="links"><a href="https://digital.careinspectorate.wales/directory/service/SIN-00015973-NSLG" rel="noopener">This service on Care Inspectorate Wales&#39;s directory</a> &middot; <a href="https://www.principalitycare.com" rel="noopener">Their website</a> &middot; <a href="https://roshan1208.github.io/carebeacon/wales/areas/newport/feed.xml">Subscribe to changes in Newport</a></p>
+  <section class="guide"><h2>Choosing a care home in Wales: official sources</h2><ul class="guide-links"><li><a href="https://www.careinspectorate.wales/" rel="noopener">Care Inspectorate Wales</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by Care Inspectorate Wales. Ratings and details shown are CIW&#39;s own published data, reused under the Open Government Licence, not our assessment. Changes are differences between two of CIW&#39;s published directory exports. This is not care or medical advice.</p>

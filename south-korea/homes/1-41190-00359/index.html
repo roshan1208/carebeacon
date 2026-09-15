@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -127,8 +140,11 @@
   
   <p class="scale">South Korea&#39;s National Health Insurance Service evaluates long-term care institutions on a roughly three-year cycle and grades them A (highest) to E (lowest), with a total score out of 100. The grade shown is the NHIS&#39;s own most recent published grade for the facility. Facilities that have not yet been evaluated do not appear in the NHIS file and so are not on these pages.</p>
   <div class="facts"><div><span class="l">Province or metropolitan city:</span> <a href="https://roshan1208.github.io/carebeacon/south-korea/areas/hbfcc2516dc/">경기도</a></div><div><span class="l">District:</span> 부천시 원미구</div><div><span class="l">Facility type:</span> Residential facility, under 10 residents (group home)</div><div><span class="l">Founder:</span> Individual</div><div><span class="l">Total score:</span> 85.81</div><div><span class="l">Evaluation round:</span> 2025년 정기평가</div><div><span class="l">Evaluated on:</span> 4 June 2025</div></div>
+  <section class="compare"><h2>How this compares in 경기도</h2><div class="dist" aria-hidden="true"><span style="width:17.9%;background:var(--info)" title="A (highest): 378"></span><span style="width:39.7%;background:var(--good)" title="B: 838"></span><span style="width:25.1%;background:var(--warn)" title="C: 530"></span><span style="width:9.6%;background:var(--bad)" title="D: 202"></span><span style="width:7.7%;background:var(--bad)" title="E (lowest): 162"></span><span style="width:0.0%;background:var(--border)" title="Not graded: 1"></span></div><p class="note">Of 2,111 residential long-term care facilities in 경기도: 378 A (highest), 838 B, 530 C, 202 D, 162 E (lowest). 1 not graded. This one: B.</p></section>
   
+  <section><h2>Nearby residential long-term care facilities</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/south-korea/homes/1-41190-00002/">부천삼광전문요양원</a> <span class="badge g6">A (highest)</span> <span class="miles">0.0 km approx.</span></li><li><a href="https://roshan1208.github.io/carebeacon/south-korea/homes/1-41190-00357/">라일락요양원</a> <span class="badge g6">A (highest)</span> <span class="miles">0.0 km approx.</span></li><li><a href="https://roshan1208.github.io/carebeacon/south-korea/homes/1-41190-00745/">은성효요양원</a> <span class="badge g4">B</span> <span class="miles">0.0 km approx.</span></li><li><a href="https://roshan1208.github.io/carebeacon/south-korea/homes/1-41190-00021/">너싱홈해피나라</a> <span class="badge g6">A (highest)</span> <span class="miles">0.0 km approx.</span></li><li><a href="https://roshan1208.github.io/carebeacon/south-korea/homes/1-41190-00724/">쉴만한 물가 요양원</a> <span class="badge g4">B</span> <span class="miles">0.0 km approx.</span></li></ul><p class="note">Straight-line distances, not by road. A position marked approx. is the home&#39;s town or district, not its building.</p></section>
   <p class="links"><a href="https://www.longtermcare.or.kr/" rel="noopener">The NHIS long-term care portal</a> &middot; <a href="https://roshan1208.github.io/carebeacon/south-korea/areas/hbfcc2516dc/feed.xml">Subscribe to changes in 경기도</a></p>
+  <section class="guide"><h2>Choosing a care home in South Korea: official sources</h2><ul class="guide-links"><li><a href="https://www.longtermcare.or.kr/npbs/e/b/101/npeb101m01.web" rel="noopener">국민건강보험 노인장기요양보험</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the National Health Insurance Service of Korea. Details shown are the NHIS&#39;s own published evaluation results (public data portal, no usage restrictions), not our assessment. Changes are differences between two annual releases. This is not care or medical advice.</p>

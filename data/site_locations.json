@@ -3598,6 +3598,20 @@
   "longitude": -0.191243
  },
  {
+  "locationId": "1-14277509410",
+  "name": "Affinity Supporting People (North Lancashire and Burnley)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "LA1 2RX",
+  "providerId": "1-101674596",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.055258,
+  "longitude": -2.804327
+ },
+ {
   "locationId": "1-152119799",
   "name": "Afton Lodge Care Home",
   "rating": "Good",
@@ -33432,6 +33446,20 @@
   "longitude": 0.5464654
  },
  {
+  "locationId": "1-6028139214",
+  "name": "BYS Care & Training Services Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hammersmith and Fulham",
+  "numberOfBeds": 0,
+  "postalCode": "W12 7EH",
+  "providerId": "1-5805601667",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5067073,
+  "longitude": -0.2308466
+ },
+ {
   "locationId": "1-111187477",
   "name": "Byway House",
   "rating": "Good",
@@ -62272,6 +62300,20 @@
   "longitude": -1.1522349
  },
  {
+  "locationId": "1-19829074433",
+  "name": "Essence Supported Living limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Barking and Dagenham",
+  "numberOfBeds": 0,
+  "postalCode": "IG11 8BB",
+  "providerId": "1-16869139121",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.537194,
+  "longitude": 0.070644
+ },
+ {
   "locationId": "1-111168933",
   "name": "Essex Care Consortium - Colchester",
   "rating": null,
@@ -72798,6 +72840,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.923882,
   "longitude": -1.218396
+ },
+ {
+  "locationId": "1-13215149772",
+  "name": "GoodOaks Homecare – Mid Cheshire",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 0,
+  "postalCode": "CW9 7LN",
+  "providerId": "1-12768926155",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.2476019,
+  "longitude": -2.4814294
  },
  {
   "locationId": "1-3293564973",
@@ -99624,6 +99680,20 @@
   "longitude": 0.298927
  },
  {
+  "locationId": "1-19676027868",
+  "name": "Lago Homecare - Yarm Office",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Stockton-on-Tees",
+  "numberOfBeds": 0,
+  "postalCode": "TS15 9AH",
+  "providerId": "1-18737463235",
+  "registeredManagerAbsentDate": "2026-03-09",
+  "latitude": 54.5094614,
+  "longitude": -1.354153
+ },
+ {
   "locationId": "1-26445623040",
   "name": "Lake Side Nursing Home",
   "rating": "Requires improvement",
@@ -101110,8 +101180,8 @@
  {
   "locationId": "1-119212638",
   "name": "Larchfield Manor",
-  "rating": "Good",
-  "ratingDate": "2019-11-13",
+  "rating": null,
+  "ratingDate": null,
   "region": "Yorkshire & Humberside",
   "localAuthority": "North Yorkshire",
   "numberOfBeds": 47,
@@ -115416,6 +115486,20 @@
   "longitude": -0.2017428
  },
  {
+  "locationId": "1-26405193685",
+  "name": "Mersea Island Medical Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CO5 8RA",
+  "providerId": "1-25865287057",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7785646,
+  "longitude": 0.9193697
+ },
+ {
   "locationId": "1-28599872095",
   "name": "Mersey Parks Care Home",
   "rating": "Good",
@@ -122862,6 +122946,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.0804793,
   "longitude": -0.4491445
+ },
+ {
+  "locationId": "1-15735510949",
+  "name": "Night and Day Emergency Dentist",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "numberOfBeds": 0,
+  "postalCode": "NG4 2HG",
+  "providerId": "1-9268478718",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.963447,
+  "longitude": -1.0780316
  },
  {
   "locationId": "1-124958747",
@@ -138390,6 +138488,20 @@
   "longitude": -0.171029
  },
  {
+  "locationId": "1-2838594713",
+  "name": "Prestige Nursing East Lancs",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Blackburn with Darwen",
+  "numberOfBeds": 0,
+  "postalCode": "BB1 2EH",
+  "providerId": "1-101641791",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.731954,
+  "longitude": -2.453034
+ },
+ {
   "locationId": "1-4983475872",
   "name": "Preston",
   "rating": "Good",
@@ -143498,6 +143610,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.2416206,
   "longitude": -0.7665325
+ },
+ {
+  "locationId": "1-4172372987",
+  "name": "REN Caring Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 0,
+  "postalCode": "IG9 6ED",
+  "providerId": "1-3835934643",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.617006,
+  "longitude": 0.04738
  },
  {
   "locationId": "1-113472102",
@@ -150836,6 +150962,20 @@
   "longitude": -1.4547738
  },
  {
+  "locationId": "1-18572855195",
+  "name": "S&S Care Solutions Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Peterborough",
+  "numberOfBeds": 0,
+  "postalCode": "PE2 8AN",
+  "providerId": "1-17188531846",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.5649495,
+  "longitude": -0.2419451
+ },
+ {
   "locationId": "1-139145018",
   "name": "Sable Cottage Nursing Home",
   "rating": "Good",
@@ -152658,8 +152798,8 @@
  {
   "locationId": "1-1648817611",
   "name": "Scarlet House",
-  "rating": "Good",
-  "ratingDate": "2021-12-21",
+  "rating": null,
+  "ratingDate": null,
   "region": "South West",
   "localAuthority": "Gloucestershire",
   "numberOfBeds": 86,
@@ -170534,6 +170674,20 @@
   "longitude": -0.0446819
  },
  {
+  "locationId": "1-1820202214",
+  "name": "Surrey SCP",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "RH1 5YP",
+  "providerId": "1-139035676",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.216021,
+  "longitude": -0.138354
+ },
+ {
   "locationId": "1-120661120",
   "name": "Sursum Limited Bramley House",
   "rating": null,
@@ -174592,6 +174746,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.1837757,
   "longitude": -2.2177079
+ },
+ {
+  "locationId": "1-12642466909",
+  "name": "The Brocken",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 0,
+  "postalCode": "CW9 7TB",
+  "providerId": "1-12199310245",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.2460832,
+  "longitude": -2.4330322
  },
  {
   "locationId": "1-122330755",
@@ -187098,8 +187266,8 @@
  {
   "locationId": "1-136882897",
   "name": "The Regard Partnership Limited - Vancouver Road",
-  "rating": "Good",
-  "ratingDate": "2019-02-20",
+  "rating": null,
+  "ratingDate": null,
   "region": "London",
   "localAuthority": "Lewisham",
   "numberOfBeds": 8,
@@ -200424,6 +200592,20 @@
   "longitude": -3.2283234
  },
  {
+  "locationId": "1-10523637897",
+  "name": "Wellington Care Head Office",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 0,
+  "postalCode": "HU3 1YA",
+  "providerId": "1-3746058842",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7529275,
+  "longitude": -0.3475993
+ },
+ {
   "locationId": "1-2471505314",
   "name": "Wellington Grange",
   "rating": "Good",
@@ -203502,6 +203684,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.7060664,
   "longitude": 0.2437877
+ },
+ {
+  "locationId": "1-16736130156",
+  "name": "Whelby Dental",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM5 9AA",
+  "providerId": "1-152956215",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7064084,
+  "longitude": 0.2446105
  },
  {
   "locationId": "1-14913158434",

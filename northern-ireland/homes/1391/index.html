@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -126,7 +139,9 @@
   <p class="scale">RQIA inspects and publishes reports but does not rate or grade services, so no quality badge is shown here. What is shown is RQIA&#39;s own register data, reused under the Open Government Licence.</p>
   <div class="facts"><div><span class="l">Type:</span> Nursing home</div><div><span class="l">Run by:</span> Beaumont Care Homes Limited</div><div><span class="l">Registered manager:</span> Helen McCullagh</div><div><span class="l">Approved places:</span> 46</div><div><span class="l">Categories of care (RQIA codes):</span> NH-TI, NH-PH(E), NH-PH, NH-I</div><div><span class="l">Last inspected:</span> 1 July 2025</div></div>
   
+  <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/homes/020820/">Willow Tree Lodge Care Home</a> <span class="miles">0.2 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/homes/020252/">Wood Green Residential Home</a> <span class="miles">0.2 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/homes/020218/">Shaftesbury Mews</a> <span class="miles">0.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/homes/020201/">Loughshore 1</a> <span class="miles">0.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/northern-ireland/homes/1427/">Abbeylands Care Home</a> <span class="miles">1.0 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>
   <p class="links"><a href="https://www.rqia.org.uk/inspections/" rel="noopener">Inspection reports on RQIA&#39;s website</a> &middot; <a href="https://roshan1208.github.io/carebeacon/northern-ireland/feed.xml">Subscribe to changes in Northern Ireland</a></p>
+  <section class="guide"><h2>Choosing a care home in Northern Ireland: official sources</h2><ul class="guide-links"><li><a href="https://www.rqia.org.uk/" rel="noopener">RQIA (Regulation and Quality Improvement Authority)</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by RQIA. Details shown are RQIA&#39;s own published register, reused under the Open Government Licence, not our assessment. Changes are differences between two of RQIA&#39;s published register files. This is not care or medical advice.</p>

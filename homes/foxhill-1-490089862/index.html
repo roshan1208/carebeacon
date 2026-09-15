@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,15 +141,19 @@
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101618077/">Beeshaw Care Limited</a></div><div><span class="l">Beds:</span> 4</div><div><span class="l">Registered with CQC since:</span> 2012-10-26</div><div><span class="l">Rating published:</span> 2019-03-27</div><div><span class="l">Last inspected:</span> 2019-02-14</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
+  
+  <section class="compare"><h2>How this compares in Norfolk</h2><div class="dist" aria-hidden="true"><span style="width:5.3%;background:var(--info)" title="Outstanding: 17"></span><span style="width:45.2%;background:var(--good)" title="Good: 146"></span><span style="width:19.5%;background:var(--warn)" title="Requires improvement: 63"></span><span style="width:0.6%;background:var(--bad)" title="Inadequate: 2"></span><span style="width:29.4%;background:var(--border)" title="No published rating: 95"></span></div><p class="note">Of 323 care homes in Norfolk: 17 Outstanding, 146 Good, 63 Requires improvement, 2 Inadequate. 95 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Learning disabilities</li><li>Mental health conditions</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li><li>Rehabilitation (illness/injury)</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
+  
   
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../honeysuckle-lodge-1-11105378522/">HoneySuckle Lodge</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li><li><a href="../lindum-1-249412491/">Lindum</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li><li><a href="../emerald-house-1-15282671993/">Emerald House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.5 mi</span></li><li><a href="../ashfields-1-125862182/">Ashfields</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">1.5 mi</span></li><li><a href="../keys-hill-park-1-111483538/">Keys Hill Park</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.7 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../lindum-1-249412491/">Lindum</a> <span class="badge r-good">Good</span></li><li><a href="../the-meadows-1-3719269141/">The Meadows</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/476a4fe2-659d-4925-881a-2e6fb7c2cf47?20190419120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.6777847%2C1.408644" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/norfolk/feed.xml">Subscribe to changes in Norfolk</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-490089862,1-11105378522,1-249412491,1-15282671993,1-125862182,1-111483538">Compare this home with its 5 nearest on CareBeacon</a></p>
+  <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>

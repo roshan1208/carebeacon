@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,7 +141,10 @@
   <p class="scale">FINESS is France&#39;s national register of health and social care establishments, maintained by the Agence du Numérique en Santé for the Ministry of Health. These pages show every active EHPAD (établissement d&#39;hébergement pour personnes âgées dépendantes). France publishes no quality rating as open data, and this export carries no capacity figures; what is shown is the register itself and what changed in it.</p>
   <div class="facts"><div><span class="l">Département:</span> <a href="https://roshan1208.github.io/carebeacon/france/areas/loire-atlantique/">Loire-Atlantique</a></div><div><span class="l">Managing entity:</span> <a href="https://roshan1208.github.io/carebeacon/france/operators/440002970/">ASSOCIATION L&#39;AUTOMNE</a></div><div><span class="l">SIRET:</span> 78597563200031</div><div><span class="l">Opened:</span> 15 November 1979</div><div><span class="l">First authorised:</span> 4 January 2017</div><div><span class="l">FINESS record updated:</span> 24 July 2017</div><div><span class="l">Telephone:</span> 0240539953</div></div>
   
+  
+  <section><h2>Nearby EHPAD (care homes for dependent older people)</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/france/homes/440003457/">EHPAD RESIDENCE LES AJONCS</a>  <span class="miles">3.2 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/france/homes/440002822/">EHPAD RESIDENCE DE LA BRIERE</a>  <span class="miles">7.3 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/france/homes/440009371/">EHPAD RESIDENCE ELSA TRIOLET</a>  <span class="miles">7.8 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/france/homes/560002271/">EHPAD LE FLORILEGE</a>  <span class="miles">8.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/france/homes/560006736/">EHPAD CH DE BASSE VILAINE</a>  <span class="miles">9.1 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>
   <p class="links"><a href="https://finess.esante.gouv.fr/fininter/jsp/actionDetailEtablissement.do?noFiness=440013290" rel="noopener">This establishment&#39;s FINESS record</a> &middot; <a href="https://roshan1208.github.io/carebeacon/france/areas/loire-atlantique/feed.xml">Subscribe to changes in Loire-Atlantique</a></p>
+  <section class="guide"><h2>Choosing a care home in France: official sources</h2><ul class="guide-links"><li><a href="https://www.pour-les-personnes-agees.gouv.fr/choisir-un-hebergement/vivre-dans-un-etablissement-medicalise" rel="noopener">Pour les personnes âgées (gouv.fr): vivre dans un établissement médicalisé</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Agence du Numérique en Santé or the French Ministry of Health. Details shown are FINESS&#39;s own published data, re-used under the Licence Ouverte 2.0, not our assessment. Changes are differences between two daily exports. This is not care or medical advice.</p>

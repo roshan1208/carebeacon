@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,15 +141,19 @@
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101606293/">Edge View Homes Limited</a></div><div><span class="l">Beds:</span> 19</div><div><span class="l">Registered with CQC since:</span> 2011-01-10</div><div><span class="l">Rating published:</span> 2023-04-21</div><div><span class="l">Last inspected:</span> 2023-02-01</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
+  
+  <section class="compare"><h2>How this compares in Staffordshire</h2><div class="dist" aria-hidden="true"><span style="width:2.8%;background:var(--info)" title="Outstanding: 8"></span><span style="width:55.2%;background:var(--good)" title="Good: 155"></span><span style="width:12.1%;background:var(--warn)" title="Requires improvement: 34"></span><span style="width:29.9%;background:var(--border)" title="No published rating: 84"></span></div><p class="note">Of 281 care homes in Staffordshire: 8 Outstanding, 155 Good, 34 Requires improvement. 84 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Dementia</li><li>Learning disabilities</li><li>Mental health conditions</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li><li>Supported living</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Personal care</li><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
+  
   
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../westley-court-care-home-1-479372248/">Westley Court Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.9 mi</span></li><li><a href="../prestwood-lodge-1-2171888618/">Prestwood Lodge</a> <span class="badge r-good">Good</span> <span class="miles">2.4 mi</span></li><li><a href="../fairmont-residential-limited-1-145540428/">Fairmont Residential Limited</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">2.5 mi</span></li><li><a href="../prestwood-coach-house-1-127625275/">Prestwood Coach House</a> <span class="badge r-good">Good</span> <span class="miles">2.5 mi</span></li><li><a href="../high-lodge-care-home-1-392696615/">High Lodge Care Home</a> <span class="badge r-good">Good</span> <span class="miles">2.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../abbeycroft-1-113524636/">Abbeycroft</a> <span class="badge r-good">Good</span></li><li><a href="../ascot-house-oldbury-1-113524606/">Ascot House - Oldbury</a> <span class="badge r-good">Good</span></li><li><a href="../bromley-place-1-19266891654/">Bromley Place</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../keo-lodge-1-113524621/">Keo Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../knoll-house-1-2632838280/">Knoll House</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/79d8df48-d645-4937-ae59-fb561ee7fdb5?20230421120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.4468976%2C-2.2372291" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/staffordshire/feed.xml">Subscribe to changes in Staffordshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-113524587,1-479372248,1-2171888618,1-145540428,1-127625275,1-392696615">Compare this home with its 5 nearest on CareBeacon</a></p>
+  <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>

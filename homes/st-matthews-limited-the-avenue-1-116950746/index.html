@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,15 +141,19 @@
   
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101725628/">St. Matthews Limited</a></div><div><span class="l">Beds:</span> 32</div><div><span class="l">Registered with CQC since:</span> 2011-01-24</div><div><span class="l">Last inspected:</span> 2021-12-08</div></div>
   
+  
+  <section class="compare"><h2>How this compares in West Northamptonshire</h2><div class="dist" aria-hidden="true"><span style="width:8.0%;background:var(--info)" title="Outstanding: 9"></span><span style="width:27.4%;background:var(--good)" title="Good: 31"></span><span style="width:14.2%;background:var(--warn)" title="Requires improvement: 16"></span><span style="width:0.9%;background:var(--bad)" title="Inadequate: 1"></span><span style="width:49.6%;background:var(--border)" title="No published rating: 56"></span></div><p class="note">Of 113 care homes in West Northamptonshire: 9 Outstanding, 31 Good, 16 Requires improvement, 1 Inadequate. 56 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li><li>Mental health conditions</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
+  
   
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../rathgar-care-home-1-3616776307/">Rathgar Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0 mi</span></li><li><a href="../hillcrest-2-1-22160036273/">Hillcrest 2</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../st-albans-close-1-21881345938/">St Albans Close</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../squires-mews-care-home-1-14325866832/">Squires Mews Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../spinney-hill-house-1-8416049385/">Spinney Hill House</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../althorp-grange-1-390976877/">Althorp Grange</a> <span class="badge r-inadequate">Inadequate</span></li><li><a href="../hawthorne-house-1-3798575125/">Hawthorne House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../kingsthorpe-grange-1-116950728/">Kingsthorpe Grange</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../maple-leaf-house-1-1686797586/">Maple Leaf House</a> <span class="badge r-good">Good</span></li><li><a href="../st-matthews-unit-1-116950708/">St Matthews Unit</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../willow-brook-house-1-10759026417/">Willow Brook House</a> <span class="badge r-requires-improvement">Requires improvement</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/1b389338-c9ac-412e-90dd-9db01f96268e?20220727120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.smhc.uk.com" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.2611183%2C-0.8698085" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/west-northamptonshire/feed.xml">Subscribe to changes in West Northamptonshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-116950746,1-3616776307,1-22160036273,1-21881345938,1-14325866832,1-8416049385">Compare this home with its 5 nearest on CareBeacon</a></p>
+  <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>

@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,7 +141,9 @@
   <div class="facts"><div><span class="l">Local authority:</span> <a href="https://roshan1208.github.io/carebeacon/wales/areas/ceredigion/">Ceredigion</a></div><div><span class="l">Type:</span> Adults Without Nursing</div><div><span class="l">Care and support for:</span> People with a learning disability, People with mental health needs, People living with dementia</div><div><span class="l">Run by:</span> Tilmala Healthcare Ltd</div><div><span class="l">Provider type:</span> Limited Company</div><div><span class="l">Responsible individual(s):</span> David Lewis</div><div><span class="l">Places:</span> 16</div><div><span class="l">Main language:</span> English</div><div><span class="l">Directory record updated:</span> 8 September 2026</div></div>
   <section><h2>Care Inspectorate Wales ratings by theme</h2><div class="kq-grid"><div class="kq"><div class="n">Well-being</div><span class="badge g6">Excellent</span></div><div class="kq"><div class="n">Care and support</div><span class="badge g6">Excellent</span></div><div class="kq"><div class="n">Environment</div><span class="badge g6">Excellent</span></div><div class="kq"><div class="n">Leadership and management</div><span class="badge g6">Excellent</span></div></div></section>
   
+  <section><h2>Nearby care home services</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009412-FPPP/">Carlton House Residential Care Home</a> <span class="badge g0">Not yet rated</span> <span class="miles">1.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015256-WSHL/">Ty Ni</a> <span class="badge g0">Not yet rated</span> <span class="miles">8.7 km approx.</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009577-YSTS/">Min y Mor Residential Care Home</a> <span class="badge g4">Good</span> <span class="miles">9.1 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00013102-QWSH/">Pennal View Residential Care Home Ltd</a> <span class="badge g4">Good</span> <span class="miles">10.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008915-CKJC/">Cysgod Y Coed Ltd</a> <span class="badge g0">Not yet rated</span> <span class="miles">11.0 km</span></li></ul><p class="note">Straight-line distances, not by road. A position marked approx. is the home&#39;s town or district, not its building.</p></section>
   <p class="links"><a href="https://digital.careinspectorate.wales/directory/service/SIN-00009322-PCRH" rel="noopener">This service on Care Inspectorate Wales&#39;s directory</a> &middot; <a href="https://roshan1208.github.io/carebeacon/wales/areas/ceredigion/feed.xml">Subscribe to changes in Ceredigion</a></p>
+  <section class="guide"><h2>Choosing a care home in Wales: official sources</h2><ul class="guide-links"><li><a href="https://www.careinspectorate.wales/" rel="noopener">Care Inspectorate Wales</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by Care Inspectorate Wales. Ratings and details shown are CIW&#39;s own published data, reused under the Open Government Licence, not our assessment. Changes are differences between two of CIW&#39;s published directory exports. This is not care or medical advice.</p>

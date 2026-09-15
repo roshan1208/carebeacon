@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,7 +141,10 @@
   <p class="scale">Japan&#39;s Ministry of Health, Labour and Welfare publishes the register of long-term care insurance facilities twice a year. Three residential types are shown: special nursing homes for the elderly (介護老人福祉施設), geriatric health services facilities (介護老人保健施設) and long-term care medical facilities (介護医療院). The Ministry publishes no quality rating; capacity (定員) is optional in the disclosure and is shown only where given.</p>
   <div class="facts"><div><span class="l">Prefecture:</span> <a href="https://roshan1208.github.io/carebeacon/japan/areas/h55643374ef/">東京都</a></div><div><span class="l">Name (kana):</span> トクベツヨウゴロウジンホーム　タムスサクラノモリハナハタ</div><div><span class="l">Facility type:</span> Special nursing home for the elderly (介護老人福祉施設)</div><div><span class="l">Municipality:</span> 足立区</div><div><span class="l">Operating corporation:</span> <a href="https://roshan1208.github.io/carebeacon/japan/operators/8030005012781/">社会福祉法人桐和会</a></div><div><span class="l">Capacity:</span> 105</div><div><span class="l">Facility number:</span> 1372114304</div><div><span class="l">Telephone:</span> 03-5851-8028</div><div><span class="l">Website:</span> <a href="https://hanahata.sakuranomori.tums.jp/" rel="noopener">https://hanahata.sakuranomori.tums.jp/</a></div></div>
   
+  
+  <section><h2>Nearby residential long-term care facilities</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1372114312-510/">特別養護老人ホーム　タムスさくらの杜花畑</a>  <span class="miles">0.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1372111573-510/">花畑あすか苑</a>  <span class="miles">0.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1372111581-510/">花畑あすか苑</a>  <span class="miles">0.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1372100766-510/">足立新生苑</a>  <span class="miles">0.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1352180036-520/">介護老人保健施設あさひ</a>  <span class="miles">0.5 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>
   <p class="links"><a href="https://www.kaigokensaku.mhlw.go.jp/13/index.php?action_kouhyou_detail_022_kani=true&amp;JigyosyoCd=1372114304-00&amp;ServiceCd=510" rel="noopener">This facility on the MHLW care service information system</a> &middot; <a href="https://roshan1208.github.io/carebeacon/japan/areas/h55643374ef/feed.xml">Subscribe to changes in 東京都</a></p>
+  <section class="guide"><h2>Choosing a care home in Japan: official sources</h2><ul class="guide-links"><li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index.html" rel="noopener">厚生労働省: 介護・高齢者福祉</a></li><li><a href="https://www.kaigokensaku.mhlw.go.jp/" rel="noopener">介護サービス情報公表システム</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by Japan&#39;s Ministry of Health, Labour and Welfare. Details shown are the Ministry&#39;s own open data (CC BY 4.0), not our assessment. Changes are differences between two half-yearly releases. This is not care or medical advice.</p>

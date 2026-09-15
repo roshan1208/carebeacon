@@ -109,6 +109,19 @@
   .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
+  .guide { border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px 6px; background: var(--card-bg); }
+  .guide h2 { border-bottom: none; margin-bottom: 8px; }
+  ul.guide-links { margin: 0 0 8px; padding-left: 1.1rem; font-size: 0.95rem; }
+  ul.guide-links li { margin: 0 0 4px; }
+  .compare .dist { margin: 0 0 8px; }
+  ul.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--border); }
+  ul.timeline li { position: relative; padding: 0 0 12px 14px; font-size: 0.95rem; }
+  ul.timeline li::before { content: ""; position: absolute; left: -19px; top: 6px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent-bg); }
+  ul.timeline .d { display: inline-block; min-width: 100px; }
+  table.record { border-collapse: collapse; font-size: 0.92rem; width: 100%; max-width: 620px; }
+  table.record th, table.record td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--border); }
+  table.record th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  table.record td.bad { color: var(--bad); font-weight: 700; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -128,15 +141,19 @@
   <p class="manager-flag">No registered manager since 2026-07-24</p>
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101611981/">Crosscrown Limited</a></div><div><span class="l">Beds:</span> 26</div><div><span class="l">Registered with CQC since:</span> 2011-03-01</div><div><span class="l">Last inspected:</span> 2018-01-05</div></div>
   
+  
+  <section class="compare"><h2>How this compares in Warwickshire</h2><div class="dist" aria-hidden="true"><span style="width:0.6%;background:var(--info)" title="Outstanding: 1"></span><span style="width:40.8%;background:var(--good)" title="Good: 71"></span><span style="width:9.2%;background:var(--warn)" title="Requires improvement: 16"></span><span style="width:49.4%;background:var(--border)" title="No published rating: 86"></span></div><p class="note">Of 174 care homes in Warwickshire: 1 Outstanding, 71 Good, 16 Requires improvement. 86 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li><li>Learning disabilities</li><li>Physical disabilities</li><li>Sensory impairment</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
+  
   
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../bilton-house-1-112970768/">Bilton House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../manor-house-1-112968287/">Manor House</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.2 mi</span></li><li><a href="../dewar-close-1-113543583/">Dewar Close</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../hallmark-anya-court-luxury-care-home-1-1726017467/">Hallmark Anya Court Luxury Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.6 mi</span></li><li><a href="../overslade-house-1-125861674/">Overslade House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../clifton-court-nursing-home-1-121320878/">Clifton Court Nursing Home</a> <span class="badge r-good">Good</span></li><li><a href="../granville-house-1-233373099/">Granville House</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../lilbourne-court-nursing-home-1-6308868869/">Lilbourne Court Nursing Home</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../the-elms-residential-care-home-1-121320910/">The Elms Residential Care Home</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/c93e2546-5d5e-410d-a21c-286b8f822086?20180206130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.356988%2C-1.285897" rel="noopener">View on a map</a></p>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/warwickshire/feed.xml">Subscribe to changes in Warwickshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-121320894,1-112970768,1-112968287,1-113543583,1-1726017467,1-125861674">Compare this home with its 5 nearest on CareBeacon</a></p>
+  <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>
     <p>CareBeacon is not affiliated with, endorsed by, or run by the Care Quality Commission. Ratings and details shown are CQC's own published data, reused under the Open Government Licence, not our assessment. This is not care or medical advice, and not a recommendation of this home over another. Always visit in person before making a decision.</p>
