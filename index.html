@@ -1027,7 +1027,7 @@
   function renderWorldResults(q, englandCount) {
     var box = document.getElementById("world-results");
     if (!box) return;
-    if (!q || q.length < 2 || state.nearMe) { box.hidden = true; box.innerHTML = ""; return; }
+    if (!q || q.length < 2) { box.hidden = true; box.innerHTML = ""; return; }
     if (!state.worldIndex) {
       fetchWorldIndexOnce().then(function (idx) { if (idx && document.getElementById("q").value.trim().toLowerCase() === q) renderWorldResults(q, englandCount); });
       return;
@@ -1050,6 +1050,12 @@
     // Name matches before place matches, then alphabetical — "Cork" should
     // lead with the Cork nursing homes, not every home in County Cork.
     hits.sort(function (a, b) { return a.score - b.score || a[2].localeCompare(b[2]); });
+    // A located postcode (England's "near me") also orders the cross-country
+    // matches by distance, when the regulator published coordinates.
+    if (state.nearMe) {
+      hits.forEach(function (h) { h.miles = (h.length >= 7) ? haversineMiles(state.nearMe.latitude, state.nearMe.longitude, h[5], h[6]) : Infinity; });
+      hits.sort(function (a, b) { return a.miles - b.miles; });
+    }
     var byCountry = {};
     hits.forEach(function (h) { var n = idx.countries[h[0]].name; byCountry[n] = (byCountry[n] || 0) + 1; });
     var summary = Object.keys(byCountry).sort().map(function (n) { return attr(n) + " " + byCountry[n]; }).join(" · ");
@@ -1058,6 +1064,7 @@
       return '<li><span class="world-country">' + attr(c.name) + '</span>' +
         '<a href="' + attr(c.path) + 'homes/' + attr(h[1]) + '/"><strong>' + attr(h[2]) + '</strong></a>' +
         (h[3] ? '<span class="place">' + attr(h[3]) + '</span>' : "") +
+        (state.nearMe && isFinite(h.miles) ? '<span class="distance">' + (h.miles < 10 ? h.miles.toFixed(1) : Math.round(h.miles)) + ' mi</span>' : "") +
         (h[4] ? '<span class="world-grade">' + attr(h[4]) + '</span>' : "") + '</li>';
     }).join("");
     var lead = englandCount === 0
