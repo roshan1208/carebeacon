@@ -126,7 +126,7 @@
   <p class="count">1,481 registered care home services across 22 local authorities. Directory export of 15 September 2026 (CIW refreshes it daily).</p>
   <form class="findbox" role="search" onsubmit="return false" data-country="Wales">
     <label for="find-q">Find a care home in Wales by name or town</label>
-    <div class="findrow"><input id="find-q" type="search" placeholder="Type a name or a town" autocomplete="off"></div>
+    <div class="findrow"><input id="find-q" type="search" placeholder="Type a name or a town" autocomplete="off"><button type="button" id="find-near">Use my location</button></div>
     <div id="find-results" aria-live="polite"></div>
   </form>
   <script>(function(){
@@ -155,8 +155,9 @@
         if(!hits.length){out.innerHTML='<p class="note">No coordinates are published for homes here.</p>';return;}
         hits.sort(function(a,b){return a[0]-b[0];});
         if(hits[0][0]>500){out.innerHTML='<p class="note">You seem to be more than 500 km from the nearest home on this register. Type a town instead.</p>';return;}
-        var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1],dist=x[0]<10?x[0].toFixed(1):Math.round(x[0]);return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+'<span class="place dist">'+dist+' km</span>'+(h[4]?'<span class="badge '+esc(h[5]||"g0")+' grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
-        out.innerHTML='<p class="note">The 25 nearest to you, straight-line distance.</p><ul class="plain">'+rows+'</ul>';
+        var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1],dist=x[0]<10?x[0].toFixed(1):Math.round(x[0]);return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+'<span class="place dist">'+dist+' km'+(h[8]==="a"?' (approx.)':'')+'</span>'+(h[4]?'<span class="badge '+esc(h[5]||"g0")+' grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
+        var approx=hits.slice(0,25).some(function(x){return x[1][8]==="a";});
+        out.innerHTML='<p class="note">The 25 nearest to you, straight-line distance.'+(approx?' Locations marked approx. are placed at their town or district, not the building.':'')+'</p><ul class="plain">'+rows+'</ul>';
       });},function(){out.innerHTML='<p class="note">Location not available. Type a town instead.</p>';},{timeout:10000});
     });}else if(near){near.hidden=true;}
   })();</script>

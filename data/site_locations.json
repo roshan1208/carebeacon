@@ -69286,6 +69286,20 @@
   "longitude": -1.4835085
  },
  {
+  "locationId": "1-22155348205",
+  "name": "FT Care Agency- Domiciliary Care Service Hastings",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 0,
+  "postalCode": "TN39 3PD",
+  "providerId": "1-20708846376",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8422276,
+  "longitude": 0.4675068
+ },
+ {
   "locationId": "1-3153714830",
   "name": "Fulford Care & Nursing Home",
   "rating": null,
@@ -90272,6 +90286,20 @@
   "longitude": -3.1194893
  },
  {
+  "locationId": "1-29148637420",
+  "name": "Hummingbird Domiciliary Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "AL7 1HL",
+  "providerId": "1-26553391255",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.8013883,
+  "longitude": -0.1971726
+ },
+ {
   "locationId": "1-26777238105",
   "name": "Hummingbird House",
   "rating": null,
@@ -103710,6 +103738,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.982538,
   "longitude": 0.9640769
+ },
+ {
+  "locationId": "1-1594893823",
+  "name": "Linday Office",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-04-05",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B29 6BJ",
+  "providerId": "1-1455369981",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4438107,
+  "longitude": -1.9355117
  },
  {
   "locationId": "1-120634770",

@@ -554997,5 +554997,99 @@
   "lastInspectionDate": "2019-04-11",
   "lastReportDate": "2019-07-08",
   "reportUri": "/reports/aeabb050-150b-4bfe-9b05-43a0866d1617?20210116031139"
+ },
+ "1-1594893823": {
+  "brandName": null,
+  "registrationDate": "2014-09-03",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "648 Bristol Road",
+  "town": "Birmingham",
+  "website": "www.lindaymedicareservices.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2023-01-24",
+  "lastReportDate": "2023-04-05",
+  "reportUri": "/reports/68f78a6e-7da1-4d02-ae1a-60b62d34a325?20230405120000"
+ },
+ "1-22155348205": {
+  "brandName": null,
+  "registrationDate": "2025-03-11",
+  "keyQuestionRatings": [],
+  "addressLine1": "Victoria works",
+  "town": "Bexhill-on-sea",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-29148637420": {
+  "brandName": null,
+  "registrationDate": "2026-08-05",
+  "keyQuestionRatings": [],
+  "addressLine1": "14 Pure Offices",
+  "town": "Welwyn Garden City",
+  "website": "www.hummingbirddomcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
  }
 }
