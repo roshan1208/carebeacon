@@ -98,6 +98,14 @@
   .state { padding: 40px 0; text-align: center; color: var(--muted); }
   ol.conds { margin: 0; padding-left: 1.2rem; font-size: 0.95rem; }
   ol.conds li { margin: 0 0 8px; }
+  .findbox { margin: 0 0 22px; }
+  .findbox label { display: block; font-weight: 650; margin: 0 0 6px; }
+  .findrow { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .findbox input[type="search"] { font: inherit; font-size: 1.05rem; padding: 12px 14px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--card-bg); color: var(--ink); width: 100%; max-width: 560px; }
+  .findbox input[type="search"]:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .filterbox input[type="search"] { font-size: 0.95rem; padding: 8px 12px; max-width: 360px; }
+  #find-results { margin-top: 12px; }
+  #find-results .grade-hit { margin-left: auto; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
   @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
     .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
@@ -112,6 +120,27 @@
   <main>
   <h1>Residential long-term care facilities in South Korea</h1>
   <p class="count">6,263 residential long-term care facilities on National Health Insurance Service (NHIS)&#39;s register, across 17 provinces and metropolitan cities. Register as published 14 September 2026 (NHIS publishes evaluation results once a year).</p>
+  <form class="findbox" role="search" onsubmit="return false" data-country="South Korea">
+    <label for="find-q">Find a long-term care facility in South Koreaby name or town</label>
+    <div class="findrow"><input id="find-q" type="search" placeholder="Type a name or a town" autocomplete="off"></div>
+    <div id="find-results" aria-live="polite"></div>
+  </form>
+  <script>(function(){
+    var q=document.getElementById("find-q"),out=document.getElementById("find-results"),form=q.form,country=form.getAttribute("data-country"),idx=null,pending=null;
+    function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+    function load(){if(idx)return Promise.resolve(idx);if(!pending)pending=fetch("https://roshan1208.github.io/carebeacon/data/site_world_index.json").then(function(r){return r.ok?r.json():null;}).then(function(d){idx=d;return d;}).catch(function(){pending=null;return null;});return pending;}
+    function run(){var v=q.value.trim().toLowerCase();if(v.length<2){out.innerHTML="";return;}out.innerHTML='<p class="note">Searching…</p>';load().then(function(d){
+      if(!d){out.innerHTML='<p class="note">Search is unavailable right now. Use the areas below.</p>';return;}
+      if(q.value.trim().toLowerCase()!==v)return;
+      var ci=-1;for(var k=0;k<d.countries.length;k++)if(d.countries[k].name===country)ci=k;
+      var hits=[];for(var i=0;i<d.homes.length&&hits.length<300;i++){var h=d.homes[i];if(h[0]!==ci)continue;var n=h[2].toLowerCase(),p=h[3].toLowerCase();var s=n.indexOf(v)===0?0:n.indexOf(v)!==-1?1:p.indexOf(v)!==-1?2:-1;if(s>=0)hits.push([s,h]);}
+      if(!hits.length){out.innerHTML='<p class="note">No match for “'+esc(q.value.trim())+'”. Try a shorter word, or browse by area below.</p>';return;}
+      hits.sort(function(a,b){return a[0]-b[0]||a[1][2].localeCompare(b[1][2]);});
+      var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1];return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+(h[4]?'<span class="badge g0 grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
+      out.innerHTML='<p class="note">'+hits.length+(hits.length>=300?"+":"")+' match'+(hits.length===1?"":"es")+(hits.length>25?", showing the first 25":"")+'</p><ul class="plain">'+rows+'</ul>';
+    });}
+    q.addEventListener("input",run);
+  })();</script>
   <p class="scale">South Korea&#39;s National Health Insurance Service evaluates long-term care institutions on a roughly three-year cycle and grades them A (highest) to E (lowest), with a total score out of 100. The grade shown is the NHIS&#39;s own most recent published grade for the facility. Facilities that have not yet been evaluated do not appear in the NHIS file and so are not on these pages.</p>
   <div class="stats"><div class="stat"><div class="n">6,263</div><div class="l">Residential long-term care facilities</div></div><div class="stat"><div class="n">1,450</div><div class="l">A (highest)</div></div><div class="stat"><div class="n">2,299</div><div class="l">B</div></div><div class="stat"><div class="n">1,373</div><div class="l">C</div></div><div class="stat"><div class="n">539</div><div class="l">D</div></div><div class="stat"><div class="n">601</div><div class="l">E (lowest)</div></div><div class="stat"><div class="n">1</div><div class="l">Not graded</div></div><div class="dist" aria-hidden="true"><span style="width:23.2%;background:var(--info)" title="A (highest): 1,450"></span><span style="width:36.7%;background:var(--good)" title="B: 2,299"></span><span style="width:21.9%;background:var(--warn)" title="C: 1,373"></span><span style="width:8.6%;background:var(--bad)" title="D: 539"></span><span style="width:9.6%;background:var(--bad)" title="E (lowest): 601"></span></div></div>
   <p class="subscribe"><a href="feed.xml">Subscribe to changes in South Korea</a> <span class="how">(Atom feed — works with any feed reader; every province or metropolitan city has its own feed too)</span></p>
