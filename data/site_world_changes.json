@@ -121,6 +121,39 @@
  },
  {
   "date": "2026-09-15",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Northwick House",
+  "place": "Harrow",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-15",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Montague Street Care Home",
+  "place": "Nottinghamshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-15",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Barnes Court Care Home",
+  "place": "Sunderland",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-15",
   "country": "Belgium (Flanders)",
   "countryPath": "flanders/",
   "kind": "other",

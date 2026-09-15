@@ -70,5 +70,38 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-15",
+  "locationId": "1-119186248",
+  "name": "Montague Street Care Home",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "providerId": "1-102642790",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-15",
+  "locationId": "1-310512450",
+  "name": "Barnes Court Care Home",
+  "region": "North East",
+  "localAuthority": "Sunderland",
+  "providerId": "1-302350583",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-15",
+  "locationId": "1-3214503986",
+  "name": "Northwick House",
+  "region": "London",
+  "localAuthority": "Harrow",
+  "providerId": "1-101692356",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

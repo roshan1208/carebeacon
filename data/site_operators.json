@@ -339,6 +339,10 @@
   "name": "Purley Park Trust Limited",
   "homes": 5
  },
+ "1-101613086": {
+  "name": "Minstead Trust",
+  "homes": 2
+ },
  "1-101613131": {
   "name": "Hestia Care Limited",
   "homes": 2
@@ -1835,6 +1839,10 @@
   "name": "Lovett Care Limited",
   "homes": 8
  },
+ "1-101658961": {
+  "name": "Apasen",
+  "homes": 2
+ },
  "1-101659184": {
   "name": "Autism Care (UK) Limited",
   "homes": 6
@@ -2499,6 +2507,10 @@
   "name": "Healthcare Homes Group Limited",
   "homes": 29
  },
+ "1-101669326": {
+  "name": "Fosse Healthcare Limited",
+  "homes": 2
+ },
  "1-101669569": {
   "name": "Step Forward (Nottingham) Limited",
   "homes": 2
@@ -2561,7 +2573,7 @@
  },
  "1-101671690": {
   "name": "Midshires Care Limited",
-  "homes": 8
+  "homes": 9
  },
  "1-101672001": {
   "name": "Buckland Care Limited",
@@ -3053,7 +3065,7 @@
  },
  "1-101692356": {
   "name": "Seva Care (Respite And Residential Services) Limited",
-  "homes": 3
+  "homes": 2
  },
  "1-101692683": {
   "name": "Parkside Care Limited",
@@ -3525,7 +3537,7 @@
  },
  "1-102642790": {
   "name": "Royal Mencap Society",
-  "homes": 28
+  "homes": 27
  },
  "1-102642859": {
   "name": "Abbeyfield Society (The)",
@@ -3653,7 +3665,7 @@
  },
  "1-102643363": {
   "name": "St Andrew's Healthcare",
-  "homes": 3
+  "homes": 5
  },
  "1-102643425": {
   "name": "Cygnet Health Care Limited",
@@ -3974,6 +3986,10 @@
  "1-11841717076": {
   "name": "Hoople Ltd",
   "homes": 3
+ },
+ "1-11860473164": {
+  "name": "South Tyneside Health Collaboration Ltd (STHC)",
+  "homes": 2
  },
  "1-119227410": {
   "name": "Barker Care Limited",
@@ -4739,6 +4755,10 @@
   "name": "Xeon Smiles UK Limited",
   "homes": 3
  },
+ "1-152986753": {
+  "name": "Rodericks Dental Partners Limited",
+  "homes": 2
+ },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
   "homes": 5
@@ -4787,9 +4807,13 @@
   "name": "Ashes Care Group Limited",
   "homes": 2
  },
+ "1-161850942": {
+  "name": "Petrie Tucker and Partners Limited",
+  "homes": 3
+ },
  "1-161851228": {
   "name": "Whitecross Dental Care Limited",
-  "homes": 2
+  "homes": 4
  },
  "1-16435814558": {
   "name": "Resident Care at Signature Opco LLP",
@@ -4835,13 +4859,17 @@
   "name": "Red Apple Care Ltd",
   "homes": 2
  },
+ "1-171553721": {
+  "name": "IDH Limited",
+  "homes": 2
+ },
  "1-171564599": {
   "name": "Spalding Dental Surgery",
   "homes": 2
  },
  "1-172521302": {
   "name": "Yourlife Management Services Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-173121845": {
   "name": "Moorville Developments Limited",
@@ -5114,6 +5142,10 @@
  "1-19889583910": {
   "name": "Torwood Care 2 Limited",
   "homes": 3
+ },
+ "1-199738570": {
+  "name": "Faversham Medical Group",
+  "homes": 2
  },
  "1-200367080": {
   "name": "Norse Care (Services) Limited",
@@ -5679,9 +5711,13 @@
   "name": "Approach Community Homes Limited",
   "homes": 2
  },
+ "1-302314292": {
+  "name": "MMCG (CCH) Limited",
+  "homes": 2
+ },
  "1-302350583": {
   "name": "MMCG (CCH) (2) Limited",
-  "homes": 14
+  "homes": 13
  },
  "1-3054392813": {
   "name": "Faircross Care Home London Limited",
@@ -5880,207 +5916,207 @@
   "homes": 5
  },
  "1-3694211200": {
-  "name": "Grosvenor Health and Social Care",
+  "name": "Dale Topco Limited",
   "homes": 5
  },
  "1-3720185015": {
-  "name": "Operator 1-3720185015",
+  "name": "Optimal Living (Kent) Limited",
   "homes": 2
  },
  "1-3727516665": {
-  "name": "Bondcare",
+  "name": "Bondcare (London) Limited",
   "homes": 17
  },
  "1-3731216930": {
-  "name": "Operator 1-3731216930",
+  "name": "Blue Ribbon Healthcare Limited",
   "homes": 6
  },
  "1-3738636560": {
-  "name": "Maria Mallaband Care Group",
+  "name": "MMCG (2) Limited",
   "homes": 12
  },
  "1-373879067": {
-  "name": "Hill Care Group",
+  "name": "Hill Care 3 Limited",
   "homes": 5
  },
  "1-3741616639": {
-  "name": "Liaise",
+  "name": "Liaise (South East) Limited",
   "homes": 7
  },
  "1-3758136587": {
-  "name": "Operator 1-3758136587",
+  "name": "Our Health Partnership",
   "homes": 2
  },
  "1-3768954732": {
-  "name": "Operator 1-3768954732",
+  "name": "The Berrys Carehome Limited",
   "homes": 2
  },
  "1-3782441590": {
-  "name": "Operator 1-3782441590",
+  "name": "Roughcote Hall Farm Ltd",
   "homes": 2
  },
  "1-378490080": {
-  "name": "Operator 1-378490080",
+  "name": "Leading Lives Limited",
   "homes": 3
  },
  "1-379345453": {
-  "name": "Operator 1-379345453",
+  "name": "Eco Wings & Nights Limited",
   "homes": 3
  },
  "1-3831872891": {
-  "name": "Operator 1-3831872891",
+  "name": "Lion Care Service Limited",
   "homes": 3
  },
  "1-384343411": {
-  "name": "National Care Group",
+  "name": "Wellington Support Limited",
   "homes": 4
  },
  "1-3857037627": {
-  "name": "Operator 1-3857037627",
+  "name": "Dormy Care Communities South Ltd",
   "homes": 2
  },
  "1-3857605321": {
-  "name": "Operator 1-3857605321",
+  "name": "Gemstone Properties Limited",
   "homes": 2
  },
  "1-3877767825": {
-  "name": "Operator 1-3877767825",
+  "name": "Umika Trading Ltd",
   "homes": 4
  },
  "1-3878046994": {
-  "name": "Operator 1-3878046994",
+  "name": "Inclusion Independence Limited",
   "homes": 3
  },
  "1-3928763125": {
-  "name": "Welltower",
+  "name": "HC-One No.3 Limited",
   "homes": 4
  },
  "1-393984913": {
-  "name": "Operator 1-393984913",
+  "name": "ASD Unique Services LLP",
   "homes": 4
  },
  "1-395627674": {
-  "name": "Operator 1-395627674",
+  "name": "AMAFHH Healthcare Limited",
   "homes": 2
  },
  "1-3961105724": {
-  "name": "Avery",
+  "name": "Avery Homes Downend Limited",
   "homes": 2
  },
  "1-396852177": {
-  "name": "Choice Care Group",
+  "name": "Witham Valley Care Group Limited",
   "homes": 2
  },
  "1-397085785": {
-  "name": "Operator 1-397085785",
+  "name": "Langley Trust",
   "homes": 5
  },
  "1-3991408870": {
-  "name": "Operator 1-3991408870",
+  "name": "SASA Homes Limited",
   "homes": 2
  },
  "1-399929026": {
-  "name": "Colten Care",
+  "name": "Colten Care (2009) Limited",
   "homes": 5
  },
  "1-400504569": {
-  "name": "Operator 1-400504569",
+  "name": "Nazareth Care Charitable Trust",
   "homes": 9
  },
  "1-401252396": {
-  "name": "Operator 1-401252396",
+  "name": "Ignite Health And Home Care Services Ltd",
   "homes": 2
  },
  "1-408590895": {
-  "name": "Operator 1-408590895",
+  "name": "Randall Care Homes Limited",
   "homes": 4
  },
  "1-4103248455": {
-  "name": "Operator 1-4103248455",
+  "name": "Birchester Care Limited",
   "homes": 2
  },
  "1-4131274590": {
-  "name": "Operator 1-4131274590",
+  "name": "Jesmund Care Limited",
   "homes": 3
  },
  "1-4131290297": {
-  "name": "North Bay Group",
+  "name": "Highgate Care Services (Yorkshire) LTD",
   "homes": 7
  },
  "1-4138899486": {
-  "name": "Operator 1-4138899486",
+  "name": "Stow Healthcare Group Limited",
   "homes": 8
  },
  "1-414352541": {
-  "name": "CareTech Community Services",
+  "name": "Interact Care Limited",
   "homes": 3
  },
  "1-4155218218": {
-  "name": "Operator 1-4155218218",
+  "name": "Nexxus Trading Services Limited",
   "homes": 4
  },
  "1-4175772412": {
-  "name": "Operator 1-4175772412",
+  "name": "Cathena Healthcare Limited",
   "homes": 4
  },
  "1-419405204": {
-  "name": "Operator 1-419405204",
+  "name": "Alexandra Specialist Care Limited",
   "homes": 2
  },
  "1-4196257018": {
-  "name": "Operator 1-4196257018",
+  "name": "National Care Consortium Ltd",
   "homes": 6
  },
  "1-4197019856": {
-  "name": "Operator 1-4197019856",
+  "name": "Cascade (Cohen House) Limited",
   "homes": 3
  },
  "1-4204379714": {
-  "name": "Orchard Care Homes",
+  "name": "Indigo Care Services (2) Limited",
   "homes": 3
  },
  "1-421364519": {
-  "name": "Operator 1-421364519",
+  "name": "Maison Care Ltd",
   "homes": 4
  },
  "1-421422248": {
-  "name": "Operator 1-421422248",
+  "name": "Boulevard Care Limited",
   "homes": 6
  },
  "1-423184991": {
-  "name": "Operator 1-423184991",
+  "name": "Primary Medical Solutions Limited",
   "homes": 3
  },
  "1-423458587": {
-  "name": "Operator 1-423458587",
+  "name": "Lime Lodge Care Ltd",
   "homes": 2
  },
  "1-4277392400": {
-  "name": "Minster Care Group",
+  "name": "Croftwood Care UK Limited",
   "homes": 19
  },
  "1-4328010968": {
-  "name": "Advinia Healthcare",
+  "name": "Advinia Care Homes Limited",
   "homes": 10
  },
  "1-437030136": {
-  "name": "Operator 1-437030136",
+  "name": "Castlehaven Care Limited",
   "homes": 2
  },
  "1-437495003": {
-  "name": "Operator 1-437495003",
+  "name": "IBC Quality Solutions Limited",
   "homes": 2
  },
  "1-4381208930": {
-  "name": "Operator 1-4381208930",
+  "name": "Park Avenue Care Limited",
   "homes": 2
  },
  "1-438920790": {
-  "name": "Operator 1-438920790",
+  "name": "Future Directions CIC",
   "homes": 3
  },
  "1-4404561430": {
-  "name": "Harbour Healthcare",
+  "name": "Birch Care Limited",
   "homes": 2
  },
  "1-441228632": {
@@ -6638,6 +6674,10 @@
  "1-7779216903": {
   "name": "Operator 1-7779216903",
   "homes": 3
+ },
+ "1-7868092085": {
+  "name": "Operator 1-7868092085",
+  "homes": 2
  },
  "1-787451633": {
   "name": "Operator 1-787451633",
