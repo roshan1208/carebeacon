@@ -136,7 +136,10 @@
      nations are static sections with their own regulator's scale. This is
      the one place a visitor from Cardiff or Belfast learns that before
      typing a town into an England-only search box. */
-  .nations { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
+  .nations { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; align-items: center; }
+  .nations-label { flex-basis: 100%; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
+  .nations a[hidden] { display: none; }
+  .nations a.nations-all { border-style: dashed; }
   .nations a {
     display: inline-block; border: 1px solid var(--border); border-radius: 999px; padding: 5px 13px;
     font-size: 0.9rem; color: inherit; text-decoration: underline; text-decoration-color: var(--border);
@@ -535,13 +538,21 @@
       <strong id="hero-total">every registered</strong> care homes across <strong id="hero-countries">12</strong> countries, checked daily.</p>
   </section>
 
-  <nav class="nations" aria-label="Choose a country">
+  <nav class="nations" aria-labelledby="nations-label">
+    <span id="nations-label" class="nations-label">Where are you looking?</span>
     <a href="./" aria-current="page">England <span class="n" data-nation="england"></span></a>
     <a href="scotland/">Scotland <span class="n" data-nation="scotland"></span></a>
     <a href="wales/">Wales <span class="n" data-nation="wales"></span></a>
     <a href="northern-ireland/">Northern Ireland <span class="n" data-nation="ni"></span></a>
     <a href="ireland/">Ireland <span class="n" data-nation="ireland"></span></a>
-    <a href="countries/">All countries</a>
+    <a href="united-states/" data-needs="united-states">United States <span class="n" data-nation="united-states"></span></a>
+    <a href="france/" data-needs="france">France <span class="n" data-nation="france"></span></a>
+    <a href="japan/" data-needs="japan">Japan <span class="n" data-nation="japan"></span></a>
+    <a href="south-korea/" data-needs="south-korea">South Korea <span class="n" data-nation="south-korea"></span></a>
+    <a href="hong-kong/" data-needs="hong-kong">Hong Kong <span class="n" data-nation="hong-kong"></span></a>
+    <a href="new-zealand/" data-needs="new-zealand">New Zealand <span class="n" data-nation="new-zealand"></span></a>
+    <a href="flanders/" data-needs="flanders">Belgium (Flanders) <span class="n" data-nation="flanders"></span></a>
+    <a href="countries/" class="nations-all">All countries &amp; where we have no data</a>
   </nav>
 
   <section class="changes" aria-labelledby="changes-heading">
@@ -873,6 +884,13 @@
       ni: meta && meta.ni_care_homes,
       ireland: meta && meta.ireland_care_homes
     };
+    // Adapter nations are keyed by their site path in meta ("<code>_care_homes").
+    document.querySelectorAll(".nations a[data-needs]").forEach(function (a) {
+      var code = a.getAttribute("data-needs"), n = meta && meta[code + "_care_homes"];
+      counts[code] = n;
+      // A country whose first sync has not landed yet has no pages: do not offer it.
+      if (!(typeof n === "number" && n > 0)) a.hidden = true;
+    });
     document.querySelectorAll(".nations .n").forEach(function (el) {
       var n = counts[el.getAttribute("data-nation")];
       el.textContent = (typeof n === "number" && n > 0) ? "(" + n.toLocaleString() + ")" : "";
@@ -1015,12 +1033,20 @@
       return;
     }
     var idx = state.worldIndex, hits = [];
+    var countryHits = idx.countries.filter(function (c) { return c.name.toLowerCase().indexOf(q) !== -1; });
     for (var i = 0; i < idx.homes.length && hits.length < 400; i++) {
       var h = idx.homes[i], name = h[2].toLowerCase(), place = h[3].toLowerCase();
       var score = name.indexOf(q) === 0 ? 0 : name.indexOf(q) !== -1 ? 1 : place.indexOf(q) !== -1 ? 2 : -1;
       if (score >= 0) { h = h.slice(); h.score = score; hits.push(h); }
     }
-    if (!hits.length) { box.hidden = true; box.innerHTML = ""; return; }
+    if (!hits.length && !countryHits.length) { box.hidden = true; box.innerHTML = ""; return; }
+    var countryCards = countryHits.map(function (c) {
+      return '<li class="country-hit"><a href="' + attr(c.path) + '"><strong>Browse every care home in ' + attr(c.name) + '</strong></a><span class="place">country page: areas, grades, what changed</span></li>';
+    }).join("");
+    if (!hits.length) {
+      box.innerHTML = '<h2>Looking for a country?</h2><ul class="world-list">' + countryCards + '</ul>';
+      box.hidden = false; return;
+    }
     // Name matches before place matches, then alphabetical — "Cork" should
     // lead with the Cork nursing homes, not every home in County Cork.
     hits.sort(function (a, b) { return a.score - b.score || a[2].localeCompare(b[2]); });
@@ -1039,7 +1065,7 @@
       : "Matches outside England, each on its own regulator's scale.";
     box.innerHTML = '<h2>In other countries (' + hits.length + (hits.length >= 400 ? "+" : "") + ')</h2>' +
       '<p class="lede">' + lead + ' ' + summary + '.</p>' +
-      '<ul class="world-list">' + rows + '</ul>' +
+      '<ul class="world-list">' + countryCards + rows + '</ul>' +
       (hits.length > 12 ? '<p class="world-more">Showing 12. Narrow the search, or open a country from the strip above to browse by area.</p>' : "");
     box.hidden = false;
   }
