@@ -126,10 +126,10 @@
   main.wrap > * { grid-column: 1; min-width: 0; }
   main.wrap > .hero { order: 1; } main.wrap > .nations { order: 2; } main.wrap > .filterbar { order: 3; }
   main.wrap > .shortlist-bar { order: 4; } main.wrap > .view-toggle { order: 5; } main.wrap > .results-count { order: 6; }
-  main.wrap > #results { order: 7; } main.wrap > #map { order: 8; } main.wrap > #trends { order: 9; } main.wrap > section.changes { order: 10; margin-top: 28px; }
+  main.wrap > #results { order: 7; } main.wrap > #world-results { order: 7; } main.wrap > #map { order: 8; } main.wrap > #trends { order: 9; } main.wrap > section.changes { order: 10; margin-top: 28px; }
   @media (min-width: 1000px) {
     main.wrap { grid-template-columns: minmax(0, 1fr) 340px; }
-    main.wrap > section.changes { grid-column: 2; grid-row: 1 / span 9; order: 0; align-self: start; position: sticky; top: 16px; margin-top: 0; max-height: calc(100vh - 32px); overflow: auto; }
+    main.wrap > section.changes { grid-column: 2; grid-row: 1 / span 10; order: 0; align-self: start; position: sticky; top: 16px; margin-top: 0; max-height: calc(100vh - 32px); overflow: auto; }
     main.wrap > .hero, main.wrap > .nations { grid-column: 1; }
   }
   /* Nations strip: the app below is England (CQC) only; the other three
@@ -266,6 +266,20 @@
   .changes-foot .feed-link { margin-left: 0; }
 
   .results-count { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
+  /* Cross-country matches, under the England results. */
+  #world-results { margin: 22px 0 0; }
+  #world-results[hidden] { display: none; }
+  #world-results h2 { margin: 0 0 4px; font-size: 1.05rem; }
+  #world-results .lede { margin: 0 0 12px; color: var(--muted); font-size: 0.92rem; }
+  ul.world-list { list-style: none; margin: 0; padding: 0; border: 1px solid var(--border); border-radius: 14px; background: var(--card-bg); overflow: hidden; }
+  ul.world-list li { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 10px 14px; border-top: 1px solid var(--border); }
+  ul.world-list li:first-child { border-top: none; }
+  ul.world-list li:hover { background: color-mix(in srgb, var(--accent-bg) 6%, transparent); }
+  ul.world-list a { color: inherit; text-decoration: none; }
+  ul.world-list a:hover strong { text-decoration: underline; }
+  .world-country { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); white-space: nowrap; }
+  .world-grade { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid color-mix(in srgb, currentColor 35%, transparent); background: color-mix(in srgb, currentColor 10%, transparent); color: var(--muted); margin-left: auto; white-space: nowrap; }
+  .world-more { color: var(--muted); font-size: 0.88rem; margin: 8px 0 0; }
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
   /* The save (shortlist) button has to be a sibling of .card, not a
      descendant — .card is itself a <button>, and a <button> nested
@@ -594,6 +608,7 @@
 
   <p class="results-count" id="results-count" aria-live="polite"></p>
   <div id="results"><p class="state">Loading care homes…</p></div>
+  <section id="world-results" aria-live="polite" hidden></section>
   <div id="map" hidden></div>
   <div id="trends" hidden></div>
 
@@ -977,6 +992,58 @@
     return hay.indexOf(q) !== -1;
   }
 
+  // Every registered home outside England, as [country, id, name, place,
+  // grade] rows — fetched once, on the first search, never on page load
+  // (see pipeline/world_index.py). England is searched from its own export.
+  function fetchWorldIndexOnce() {
+    if (state.worldIndex) return Promise.resolve(state.worldIndex);
+    if (!state.worldIndexPromise) {
+      state.worldIndexPromise = fetch("data/site_world_index.json")
+        .then(function (r) { if (!r.ok) throw new Error("world index " + r.status); return r.json(); })
+        .then(function (idx) { state.worldIndex = idx; return idx; })
+        .catch(function () { state.worldIndexPromise = null; return null; });
+    }
+    return state.worldIndexPromise;
+  }
+
+  function renderWorldResults(q, englandCount) {
+    var box = document.getElementById("world-results");
+    if (!box) return;
+    if (!q || q.length < 2 || state.nearMe) { box.hidden = true; box.innerHTML = ""; return; }
+    if (!state.worldIndex) {
+      fetchWorldIndexOnce().then(function (idx) { if (idx && document.getElementById("q").value.trim().toLowerCase() === q) renderWorldResults(q, englandCount); });
+      return;
+    }
+    var idx = state.worldIndex, hits = [];
+    for (var i = 0; i < idx.homes.length && hits.length < 400; i++) {
+      var h = idx.homes[i], name = h[2].toLowerCase(), place = h[3].toLowerCase();
+      var score = name.indexOf(q) === 0 ? 0 : name.indexOf(q) !== -1 ? 1 : place.indexOf(q) !== -1 ? 2 : -1;
+      if (score >= 0) { h = h.slice(); h.score = score; hits.push(h); }
+    }
+    if (!hits.length) { box.hidden = true; box.innerHTML = ""; return; }
+    // Name matches before place matches, then alphabetical — "Cork" should
+    // lead with the Cork nursing homes, not every home in County Cork.
+    hits.sort(function (a, b) { return a.score - b.score || a[2].localeCompare(b[2]); });
+    var byCountry = {};
+    hits.forEach(function (h) { var n = idx.countries[h[0]].name; byCountry[n] = (byCountry[n] || 0) + 1; });
+    var summary = Object.keys(byCountry).sort().map(function (n) { return attr(n) + " " + byCountry[n]; }).join(" · ");
+    var rows = hits.slice(0, 12).map(function (h) {
+      var c = idx.countries[h[0]];
+      return '<li><span class="world-country">' + attr(c.name) + '</span>' +
+        '<a href="' + attr(c.path) + 'homes/' + attr(h[1]) + '/"><strong>' + attr(h[2]) + '</strong></a>' +
+        (h[3] ? '<span class="place">' + attr(h[3]) + '</span>' : "") +
+        (h[4] ? '<span class="world-grade">' + attr(h[4]) + '</span>' : "") + '</li>';
+    }).join("");
+    var lead = englandCount === 0
+      ? "Nothing in England matches, but these do elsewhere."
+      : "Matches outside England, each on its own regulator's scale.";
+    box.innerHTML = '<h2>In other countries (' + hits.length + (hits.length >= 400 ? "+" : "") + ')</h2>' +
+      '<p class="lede">' + lead + ' ' + summary + '.</p>' +
+      '<ul class="world-list">' + rows + '</ul>' +
+      (hits.length > 12 ? '<p class="world-more">Showing 12. Narrow the search, or open a country from the strip above to browse by area.</p>' : "");
+    box.hidden = false;
+  }
+
   function renderResults() {
     var q = document.getElementById("q").value.trim().toLowerCase();
     var rating = document.getElementById("rating").value;
@@ -1007,6 +1074,7 @@
     }
 
     var shown = state.locations.filter(function (loc) { return matches(loc, q, rating, region, managerGapOnly, specialism); });
+    renderWorldResults(q, shown.length);
 
     if (state.nearMe) {
       // Homes without published coordinates (rare, but real — a small
