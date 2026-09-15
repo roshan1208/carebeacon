@@ -554804,7 +554804,7 @@
     "rating": "No published rating"
    }
   ],
-  "addressLine1": "Office 11 - Discovery, Yeovil Innovation Centre, Copse Road",
+  "addressLine1": "Office 16 - Discovery, Yeovil Innovation Centre",
   "town": "Yeovil",
   "website": "www.dimensions-uk.org/",
   "specialisms": [
@@ -557077,5 +557077,102 @@
   "lastInspectionDate": "2022-05-23",
   "lastReportDate": "2022-06-29",
   "reportUri": "/reports/2f3ba0dc-dc75-4cbf-b058-f6018f43ee0c?20230125130000"
+ },
+ "1-13813209548": {
+  "brandName": null,
+  "registrationDate": "2022-09-07",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit C, Higham Road Trading Estate",
+  "town": "Kettering",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-14476858586": {
+  "brandName": null,
+  "registrationDate": "2023-01-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "89 Connaught Avenue",
+  "town": "Frinton-on-sea",
+  "website": "www.all4ucare.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-19498710653": {
+  "brandName": null,
+  "registrationDate": "2024-05-21",
+  "keyQuestionRatings": [],
+  "addressLine1": "Office 14 Beaumont Enterprise Centre",
+  "town": "Leicester",
+  "website": "www.enmorecaresupply.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-20632991886": {
+  "brandName": null,
+  "registrationDate": "2024-12-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "324 Katherine Street",
+  "town": "Ashton-under-lyne",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
  }
 }

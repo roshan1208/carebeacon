@@ -39,6 +39,18 @@
   "date": "2026-09-15",
   "country": "Wales",
   "countryPath": "wales/",
+  "kind": "other",
+  "type": "ri_changed",
+  "name": "Claremont Court Care Home Ltd",
+  "place": "Newport",
+  "text": "Responsible individual changed: Cerion Thomas,Janet Eagles to Cerion Thomas",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009008-DHJS/",
+  "since": "2026-09-15"
+ },
+ {
+  "date": "2026-09-15",
+  "country": "Wales",
+  "countryPath": "wales/",
   "kind": "up",
   "type": "first_rated",
   "name": "CityView Guided stars",

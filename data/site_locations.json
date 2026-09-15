@@ -5474,6 +5474,20 @@
   "longitude": -0.1293031
  },
  {
+  "locationId": "1-14476858586",
+  "name": "All 4U Care",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CO13 9PP",
+  "providerId": "1-14356492110",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.8313025,
+  "longitude": 1.2452961
+ },
+ {
   "locationId": "1-15653070797",
   "name": "All Hallows Neuro Rehabilitation Centre",
   "rating": "Good",
@@ -54274,8 +54288,8 @@
   "postalCode": "BA22 8RN",
   "providerId": "1-3241092145",
   "registeredManagerAbsentDate": null,
-  "latitude": 50.9530494,
-  "longitude": -2.6740903
+  "latitude": 50.9533304,
+  "longitude": -2.6740955
  },
  {
   "locationId": "1-353888265",
@@ -59948,6 +59962,20 @@
   "longitude": -1.3275017
  },
  {
+  "locationId": "1-20632991886",
+  "name": "Elliott House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Tameside",
+  "numberOfBeds": 0,
+  "postalCode": "OL6 7BD",
+  "providerId": "1-119229030",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4869381,
+  "longitude": -2.1042186
+ },
+ {
   "locationId": "1-3004022901",
   "name": "Elliott Residential Care Home",
   "rating": "Good",
@@ -61794,6 +61822,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.5040027,
   "longitude": -1.9134295
+ },
+ {
+  "locationId": "1-19498710653",
+  "name": "Enmore Care Supply Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicester",
+  "numberOfBeds": 0,
+  "postalCode": "LE4 1HB",
+  "providerId": "1-18132543378",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.6670004,
+  "longitude": -1.1725802
  },
  {
   "locationId": "1-4853343115",
@@ -135532,6 +135574,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4739694,
   "longitude": -0.9889525
+ },
+ {
+  "locationId": "1-13813209548",
+  "name": "Percurra North Northamptonshire",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "North Northamptonshire",
+  "numberOfBeds": 0,
+  "postalCode": "NN15 5PU",
+  "providerId": "1-11566482863",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.3605339,
+  "longitude": -0.6788324
  },
  {
   "locationId": "1-141869916",
