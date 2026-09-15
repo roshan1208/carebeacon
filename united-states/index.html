@@ -140,7 +140,7 @@
       var hits=[];for(var i=0;i<d.homes.length&&hits.length<300;i++){var h=d.homes[i];if(h[0]!==ci)continue;var n=h[2].toLowerCase(),p=h[3].toLowerCase();var s=n.indexOf(v)===0?0:n.indexOf(v)!==-1?1:p.indexOf(v)!==-1?2:-1;if(s>=0)hits.push([s,h]);}
       if(!hits.length){out.innerHTML='<p class="note">No match for “'+esc(q.value.trim())+'”. Try a shorter word, or browse by area below.</p>';return;}
       hits.sort(function(a,b){return a[0]-b[0]||a[1][2].localeCompare(b[1][2]);});
-      var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1];return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+(h[4]?'<span class="badge g0 grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
+      var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1];return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+(h[4]?'<span class="badge '+esc(h[5]||"g0")+' grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
       out.innerHTML='<p class="note">'+hits.length+(hits.length>=300?"+":"")+' match'+(hits.length===1?"":"es")+(hits.length>25?", showing the first 25":"")+'</p><ul class="plain">'+rows+'</ul>';
     });}
     q.addEventListener("input",run);
@@ -151,11 +151,11 @@
         if(!d){out.innerHTML='<p class="note">Search is unavailable right now.</p>';return;}
         var ci=-1;for(var k=0;k<d.countries.length;k++)if(d.countries[k].name===country)ci=k;
         function km(a,b,c,e){var R=6371,dLat=(c-a)*Math.PI/180,dLon=(e-b)*Math.PI/180,x=Math.sin(dLat/2),y=Math.sin(dLon/2);var h=x*x+Math.cos(a*Math.PI/180)*Math.cos(c*Math.PI/180)*y*y;return 2*R*Math.asin(Math.sqrt(h));}
-        var hits=[];for(var i=0;i<d.homes.length;i++){var h=d.homes[i];if(h[0]!==ci||h.length<7)continue;hits.push([km(la,lo,h[5],h[6]),h]);}
+        var hits=[];for(var i=0;i<d.homes.length;i++){var h=d.homes[i];if(h[0]!==ci||h[6]==null)continue;hits.push([km(la,lo,h[6],h[7]),h]);}
         if(!hits.length){out.innerHTML='<p class="note">No coordinates are published for homes here.</p>';return;}
         hits.sort(function(a,b){return a[0]-b[0];});
         if(hits[0][0]>500){out.innerHTML='<p class="note">You seem to be more than 500 km from the nearest home on this register. Type a town instead.</p>';return;}
-        var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1],dist=x[0]<10?x[0].toFixed(1):Math.round(x[0]);return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+'<span class="place dist">'+dist+' km</span>'+(h[4]?'<span class="badge g0 grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
+        var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1],dist=x[0]<10?x[0].toFixed(1):Math.round(x[0]);return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+'<span class="place dist">'+dist+' km</span>'+(h[4]?'<span class="badge '+esc(h[5]||"g0")+' grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
         out.innerHTML='<p class="note">The 25 nearest to you, straight-line distance.</p><ul class="plain">'+rows+'</ul>';
       });},function(){out.innerHTML='<p class="note">Location not available. Type a town instead.</p>';},{timeout:10000});
     });}else if(near){near.hidden=true;}

@@ -44760,8 +44760,8 @@
  {
   "locationId": "1-125732908",
   "name": "Clifton Manor Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2019-11-16",
+  "rating": null,
+  "ratingDate": null,
   "region": "East Midlands",
   "localAuthority": "Nottingham",
   "numberOfBeds": 30,
@@ -54024,6 +54024,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.0081207,
   "longitude": -3.1051129
+ },
+ {
+  "locationId": "1-19323268382",
+  "name": "Dimensions Somerset Yeovil Domiciliary Care Office",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-06-20",
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "BA22 8RN",
+  "providerId": "1-3241092145",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.9530494,
+  "longitude": -2.6740903
  },
  {
   "locationId": "1-353888265",
@@ -91572,6 +91586,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.537165,
   "longitude": -0.003474
+ },
+ {
+  "locationId": "1-2096586065",
+  "name": "InHealth MRI - Northumbria Specialist Emergency Care Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Northumberland",
+  "numberOfBeds": 0,
+  "postalCode": "NE23 6NZ",
+  "providerId": "1-101634763",
+  "registeredManagerAbsentDate": null,
+  "latitude": 55.0740938,
+  "longitude": -1.5695062
  },
  {
   "locationId": "1-131480392",
@@ -149084,6 +149112,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.9040263,
   "longitude": -0.6501885
+ },
+ {
+  "locationId": "1-10087632956",
+  "name": "Royalcare- Thanet",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 0,
+  "postalCode": "CT10 2QQ",
+  "providerId": "1-6192052130",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.358932,
+  "longitude": 1.406302
  },
  {
   "locationId": "1-16495221524",

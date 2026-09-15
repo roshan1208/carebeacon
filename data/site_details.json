@@ -150390,28 +150390,7 @@
  "1-125732908": {
   "brandName": "Monarch Healthcare",
   "registrationDate": "2011-01-17",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Rivergreen",
   "town": "Nottingham",
   "website": "www.monarchhealthcare.co.uk",
@@ -512850,7 +512829,7 @@
   ],
   "lastInspectionDate": "2023-05-15",
   "lastReportDate": "2023-06-01",
-  "reportUri": "/reports/40edf515-b6db-46dc-9606-c1d2f03e18c8?20230822120105"
+  "reportUri": "/reports/40edf515-b6db-46dc-9606-c1d2f03e18c8?20230822172301"
  },
  "1-786963811": {
   "brandName": "Welltower",
@@ -554929,5 +554908,94 @@
   "lastInspectionDate": "2017-04-25",
   "lastReportDate": "2017-05-18",
   "reportUri": "/reports/da3dec47-940c-431b-b404-b234a490a8bf?20210119060616"
+ },
+ "1-10087632956": {
+  "brandName": null,
+  "registrationDate": "2020-12-23",
+  "keyQuestionRatings": [],
+  "addressLine1": "Kent Innovation Centre",
+  "town": "Broadstairs",
+  "website": "www.royalcare24.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2022-04-22",
+  "lastReportDate": "2022-05-25",
+  "reportUri": "/reports/49e05bbb-75f3-4aba-8df3-3eb662e690cb?20220609120000"
+ },
+ "1-19323268382": {
+  "brandName": "Dimensions",
+  "registrationDate": "2024-05-09",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Caring",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Responsive",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Effective",
+    "rating": "No published rating"
+   }
+  ],
+  "addressLine1": "Office 11 - Discovery, Yeovil Innovation Centre, Copse Road",
+  "town": "Yeovil",
+  "website": "www.dimensions-uk.org/",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Learning disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2023-06-20",
+  "reportUri": null
+ },
+ "1-2096586065": {
+  "brandName": "InHealth Limited",
+  "registrationDate": "2015-06-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "Northumbria Specialist Emergency Care Hospital",
+  "town": "Cramlington",
+  "website": "www.inhealthgroup.com",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-04-11",
+  "lastReportDate": "2019-07-08",
+  "reportUri": "/reports/aeabb050-150b-4bfe-9b05-43a0866d1617?20210116031139"
  }
 }

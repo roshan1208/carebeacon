@@ -13,6 +13,18 @@
  },
  {
   "date": "2026-09-15",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "new",
+  "type": "new",
+  "name": "Cotswold House",
+  "place": null,
+  "text": "Newly registered",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00016239-QBNX/",
+  "since": "2026-09-15"
+ },
+ {
+  "date": "2026-09-15",
   "country": "Ireland",
   "countryPath": "ireland/",
   "kind": "other",
