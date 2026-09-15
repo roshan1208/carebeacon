@@ -24766,6 +24766,20 @@
   "longitude": -1.5816952
  },
  {
+  "locationId": "1-525508238",
+  "name": "Bluebird Care (Wiltshire North)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 0,
+  "postalCode": "BA15 1FH",
+  "providerId": "1-510124193",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3471361,
+  "longitude": -2.2495364
+ },
+ {
   "locationId": "1-11976755575",
   "name": "Bluebird Care Burton & Swadlincote",
   "rating": null,
@@ -55354,6 +55368,34 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.6062713,
   "longitude": 0.2249271
+ },
+ {
+  "locationId": "1-582415795",
+  "name": "Dr H W Ng & Partner",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Southend-on-Sea",
+  "numberOfBeds": 0,
+  "postalCode": "SS2 6XY",
+  "providerId": "1-199728775",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5709398,
+  "longitude": 0.6689307
+ },
+ {
+  "locationId": "1-549549831",
+  "name": "Dr I K Babar & Partners",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Rochdale",
+  "numberOfBeds": 0,
+  "postalCode": "OL16 2UP",
+  "providerId": "1-199785795",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.622824,
+  "longitude": -2.14084
  },
  {
   "locationId": "1-509697918",
@@ -103504,8 +103546,8 @@
  {
   "locationId": "1-5179341609",
   "name": "Lincoln Road",
-  "rating": "Good",
-  "ratingDate": "2019-08-28",
+  "rating": null,
+  "ratingDate": null,
   "region": "West Midlands",
   "localAuthority": "Walsall",
   "numberOfBeds": 6,
@@ -114858,8 +114900,8 @@
  {
   "locationId": "1-2793531144",
   "name": "Meteor Rest Home",
-  "rating": "Good",
-  "ratingDate": "2020-01-21",
+  "rating": null,
+  "ratingDate": null,
   "region": "East",
   "localAuthority": "Southend-on-Sea",
   "numberOfBeds": 15,
@@ -127848,6 +127890,20 @@
   "longitude": -2.1587832
  },
  {
+  "locationId": "1-2268096404",
+  "name": "Onecare-uk Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Harrow",
+  "numberOfBeds": 0,
+  "postalCode": "HA2 0DU",
+  "providerId": "1-486960191",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.564742,
+  "longitude": -0.351848
+ },
+ {
   "locationId": "1-15126176652",
   "name": "OneWelbeck Health Assessment and Longevity",
   "rating": null,
@@ -132540,8 +132596,8 @@
  {
   "locationId": "1-148118909",
   "name": "Parkview Care Home",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-07-13",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Brighton and Hove",
   "numberOfBeds": 10,
@@ -142562,6 +142618,20 @@
   "longitude": -0.2182288
  },
  {
+  "locationId": "1-15280863496",
+  "name": "Reignscare Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "numberOfBeds": 0,
+  "postalCode": "UB3 4PN",
+  "providerId": "1-13408499860",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4985103,
+  "longitude": -0.4134599
+ },
+ {
   "locationId": "1-119415837",
   "name": "Reinbek",
   "rating": null,
@@ -143848,6 +143918,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.780166,
   "longitude": 0.287163
+ },
+ {
+  "locationId": "1-125534625",
+  "name": "Right Care (Lancashire) Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "BB10 4QD",
+  "providerId": "1-101646594",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7895078,
+  "longitude": -2.2262785
  },
  {
   "locationId": "1-22162266820",
@@ -175338,8 +175422,8 @@
  {
   "locationId": "1-24874567433",
   "name": "The Croft",
-  "rating": "Good",
-  "ratingDate": "2019-03-05",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Buckinghamshire",
   "numberOfBeds": 60,
@@ -191788,8 +191872,8 @@
  {
   "locationId": "1-131717967",
   "name": "Trepassey Residential Home",
-  "rating": "Good",
-  "ratingDate": "2018-06-23",
+  "rating": null,
+  "ratingDate": null,
   "region": "North West",
   "localAuthority": "Wirral",
   "numberOfBeds": 34,
@@ -210936,6 +211020,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.623556,
   "longitude": -2.182675
+ },
+ {
+  "locationId": "1-5262076614",
+  "name": "Your Life (Tettenhall)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Wolverhampton",
+  "numberOfBeds": 0,
+  "postalCode": "WV6 8PR",
+  "providerId": "1-172521302",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.594412,
+  "longitude": -2.170915
  },
  {
   "locationId": "1-22150466669",

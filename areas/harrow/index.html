@@ -4,87 +4,122 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Care homes in Harrow — ratings and recent changes | CareBeacon</title>
-<meta name="description" content="54 registered care homes in Harrow. See ratings and which homes were recently downgraded, upgraded, or lost their registration. Free, updated daily.">
+<meta name="description" content="55 registered care homes in Harrow. See ratings and which homes were recently downgraded, upgraded, or lost their registration. Free, updated daily.">
 <link rel="canonical" href="https://roshan1208.github.io/carebeacon/areas/harrow/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Care homes in Harrow — ratings and recent changes | CareBeacon">
-<meta property="og:description" content="54 registered care homes in Harrow. See ratings and which homes were recently downgraded, upgraded, or lost their registration. Free, updated daily.">
+<meta property="og:description" content="55 registered care homes in Harrow. See ratings and which homes were recently downgraded, upgraded, or lost their registration. Free, updated daily.">
 <meta property="og:url" content="https://roshan1208.github.io/carebeacon/areas/harrow/">
 <link rel="alternate" type="application/atom+xml" href="feed.xml" title="Changes to care homes in Harrow">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://roshan1208.github.io/carebeacon/"}, {"@type": "ListItem", "position": 2, "name": "London", "item": "https://roshan1208.github.io/carebeacon/regions/london/"}, {"@type": "ListItem", "position": 3, "name": "Harrow", "item": "https://roshan1208.github.io/carebeacon/areas/harrow/"}]}</script>
 <style>
-  :root {
-    --paper: #f6f4ee; --ink: #14231f; --muted: #4b564f; --accent: #8a5a00;
-    --accent-bg: #e8a33d; --border: #6b6656; --card-bg: #ffffff;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper: #0d1a17; --ink: #eef1ee; --muted: #a9b6b1; --accent: #e8a33d;
-      --border: #527069; --card-bg: #10201c;
-    }
-  }
+  :root { --paper: #f6f4ee; --ink: #14231f; --muted: #4b564f; --accent: #8a5a00; --accent-bg: #e8a33d; --accent-fill-text: #1a1206;
+          --border: #dcd6c8; --border-strong: #6b6656; --card-bg: #ffffff; --shadow: 0 1px 2px rgba(20,35,31,.05), 0 8px 24px -16px rgba(20,35,31,.35);
+          --good: #1e6b3a; --info: #1c5aa6; --warn: #a15a00; --bad: #a3261f; }
+  @media (prefers-color-scheme: dark) { :root { --paper: #0d1a17; --ink: #eef1ee; --muted: #a9b6b1; --accent: #e8a33d; --border: #24352f; --border-strong: #527069;
+          --card-bg: #10201c; --shadow: none; --good: #7fd69a; --info: #7fb8ff; --warn: #ffb56b; --bad: #ff8a80; } }
   * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--paper); color: var(--ink);
-    font: 16px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.55 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   a { color: var(--accent); }
-  .wrap { max-width: 900px; margin: 0 auto; padding: 24px 20px 60px; }
-  header { border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
-  .brand { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: var(--ink); }
-  .crumb { color: var(--muted); font-size: 0.85rem; margin: 6px 0 0; }
-  h1 { margin: 0 0 6px; font-size: 1.6rem; }
-  .count { color: var(--muted); margin: 0 0 20px; }
-  .stats { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 28px; }
-  .stat { border: 1px solid var(--border); border-radius: 10px; padding: 12px 16px; background: var(--card-bg); }
-  .stat .n { font-size: 1.4rem; font-weight: 700; }
-  .stat .l { font-size: 0.82rem; color: var(--muted); }
-  section { margin-bottom: 28px; }
-  h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); }
-  ul.changes, ul.homes { list-style: none; margin: 0; padding: 0; }
-  ul.changes li { border-top: 1px solid var(--border); padding: 8px 0; }
-  ul.changes li:first-child { border-top: none; }
-  ul.homes li {
-    display: flex; justify-content: space-between; align-items: center; gap: 8px;
-    border-top: 1px solid var(--border); padding: 8px 0; flex-wrap: wrap;
-  }
-  ul.homes li:first-child { border-top: none; }
-  ul.homes a { color: inherit; text-decoration: none; }
-  ul.homes a:hover { text-decoration: underline; }
-  .badge { font-size: 0.78rem; font-weight: 700; padding: 2px 9px; border-radius: 999px; border: 1px solid currentColor; white-space: nowrap; }
-  .badge.r-outstanding { color: #1c5aa6; }
-  .badge.r-good { color: #1e6b3a; }
-  .badge.r-requires-improvement { color: #a15a00; }
-  .badge.r-inadequate { color: #a3261f; }
-  .badge.r-unrated { color: var(--muted); }
-  .cta {
-    display: inline-block; margin-top: 8px; padding: 10px 18px; border-radius: 8px;
-    background: var(--accent-bg); color: #1a1206; text-decoration: none; font-weight: 700;
-  }
-  footer { border-top: 1px solid var(--border); padding-top: 16px; color: var(--muted); font-size: 0.85rem; }
-  .subscribe { font-size: 0.9rem; margin: 4px 0 0; }
-  .subscribe .how { color: var(--muted); }
-  .since { color: var(--accent); font-size: 0.9rem; flex: 1 1 auto; }
-  .note { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
+  header { padding: 14px 0 12px; border-bottom: 1px solid var(--border); margin-bottom: 26px; }
+  .masthead { display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap; }
+  .brand { display: inline-flex; align-items: center; gap: 10px; font-size: 1.25rem; font-weight: 800; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; }
+  .brand .mark { width: 12px; height: 12px; border-radius: 50%; background: var(--accent-bg); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent-bg) 30%, transparent); }
+  nav.sitenav { display: flex; flex-wrap: wrap; gap: 2px 16px; font-size: 0.9rem; }
+  nav.sitenav a { color: var(--muted); text-decoration: none; padding: 4px 0; border-bottom: 2px solid transparent; }
+  nav.sitenav a:hover, nav.sitenav a:focus-visible { color: var(--ink); border-bottom-color: var(--accent-bg); }
+  .crumb, .tagline { color: var(--muted); font-size: 0.85rem; margin: 8px 0 0; }
+  .crumb a { color: var(--muted); }
+  a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 1.25rem + 1.5vw, 2.3rem); line-height: 1.15; letter-spacing: -0.015em; overflow-wrap: anywhere; }
+  .count, .address { color: var(--muted); font-size: 1.02rem; margin: 0 0 14px; }
+  .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 22px; padding: 10px 14px 10px 16px; border-left: 3px solid var(--accent-bg);
+           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 10px 10px 0; }
+  .scale strong { color: var(--ink); }
+  .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); gap: 10px; margin: 0 0 22px; }
+  .stat { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px 10px; background: var(--card-bg); box-shadow: var(--shadow); }
+  .stat .n { font-size: 1.55rem; font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .stat .l { font-size: 0.78rem; color: var(--muted); margin-top: 4px; line-height: 1.3; }
+  .dist { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--border); grid-column: 1 / -1; margin: 2px 0 0; }
+  .dist span { display: block; height: 100%; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 0 0 24px; }
+  .facts > div { border: 1px solid var(--border); border-radius: 10px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
+  .facts .l { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 2px; }
+  section { margin: 0 0 30px; }
+  h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+  ul.plain, ul.homes, ul.changes { list-style: none; margin: 0; padding: 0; border: 1px solid var(--border); border-radius: 12px; background: var(--card-bg); box-shadow: var(--shadow); overflow: hidden; }
+  ul.plain li, ul.homes li, ul.changes li { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; padding: 10px 14px 10px 12px; border-top: 1px solid var(--border); border-left: 3px solid transparent; }
+  ul.plain li:first-child, ul.homes li:first-child, ul.changes li:first-child { border-top: none; }
+  ul.plain li:hover, ul.homes li:hover { background: color-mix(in srgb, var(--accent-bg) 6%, transparent); }
+  ul.plain a, ul.homes a { color: inherit; text-decoration: none; }
+  ul.plain a:hover, ul.homes a:hover { text-decoration: underline; text-underline-offset: 2px; }
+  ul.plain li strong, ul.homes li strong { font-weight: 650; }
+  .place { color: var(--muted); font-size: 0.88rem; }
+  .when, .d { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
+  .when { margin-left: auto; }
+  .what { flex: 1 1 100%; font-size: 0.92rem; color: var(--muted); }
+  li.t-decline, li.t-cancelled, li.t-closed, li.t-note_added, li.t-conviction_changed { border-left-color: var(--bad); }
+  li.t-improve, li.t-new, li.t-first_rated, li.t-first_graded, li.t-reopened, li.t-accreditation_changed { border-left-color: var(--good); }
+  li.t-decline .what, li.t-cancelled .what, li.t-closed .what, li.t-note_added .what { color: var(--bad); }
+  li.t-improve .what, li.t-new .what, li.t-first_rated .what, li.t-first_graded .what, li.t-reopened .what { color: var(--good); }
+  ul.chips, ul.areas, ul.ops, ul.tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  ul.chips li, ul.areas li, ul.ops li, ul.tags li { border: 1px solid var(--border); border-radius: 999px; padding: 5px 12px; font-size: 0.86rem; background: var(--card-bg); }
+  ul.chips a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--border-strong); text-underline-offset: 3px; }
+  ul.areas a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--border-strong); text-underline-offset: 3px; }
+  ul.ops a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--border-strong); text-underline-offset: 3px; }
+  ul.tags li a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--border-strong); text-underline-offset: 3px; }
+  ul.chips a:hover, ul.areas a:hover, ul.ops a:hover, ul.tags li a:hover { text-decoration-color: currentColor; }
+  ul.chips .n, ul.areas .n, ul.ops .n, .n { color: var(--muted); }
+  .kq-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+  .kq { border: 1px solid var(--border); border-radius: 12px; padding: 12px; background: var(--card-bg); box-shadow: var(--shadow); }
+  .kq .n { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 6px; }
+  .badge { display: inline-block; font-size: 0.76rem; font-weight: 700; padding: 3px 10px; border-radius: 999px; white-space: nowrap; line-height: 1.4;
+           border: 1px solid color-mix(in srgb, currentColor 35%, transparent); background: color-mix(in srgb, currentColor 10%, transparent); }
+  .badge.g6, .badge.r-outstanding { color: var(--info); }
+  .badge.g5, .badge.g4, .badge.r-good { color: var(--good); }
+  .badge.g3, .badge.r-requires-improvement { color: var(--warn); }
+  .badge.g2, .badge.g1, .badge.r-inadequate { color: var(--bad); }
+  .badge.g0, .badge.r-unrated { color: var(--muted); }
+  .notice, .closed, .banner { border: 1px solid color-mix(in srgb, var(--bad) 40%, transparent); background: color-mix(in srgb, var(--bad) 8%, transparent);
+           border-radius: 12px; padding: 12px 16px; margin: 0 0 16px; }
+  .notice strong, .closed strong, .banner strong { color: var(--bad); }
+  .manager-flag, .since { color: var(--warn); font-weight: 600; font-size: 0.9rem; }
+  .subscribe, .alerts { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 0.9rem; margin: 0 0 24px; }
+  .subscribe > a, .alerts > a { display: inline-block; padding: 6px 13px; border: 1px solid var(--border-strong); border-radius: 999px; text-decoration: none; font-weight: 600; color: var(--ink); background: var(--card-bg); }
+  .subscribe > a:hover, .alerts > a:hover { border-color: var(--accent); color: var(--accent); }
+  .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
+  .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
+  .cta:hover { filter: brightness(1.04); }
+  .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
+  .links a { font-weight: 600; }
+  ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
+  .state { padding: 40px 0; text-align: center; color: var(--muted); }
+  ol.conds { margin: 0; padding-left: 1.2rem; font-size: 0.95rem; }
+  ol.conds li { margin: 0 0 8px; }
+  footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
+  @media (max-width: 640px) { .wrap { padding: 0 14px 48px; } .stats { grid-template-columns: repeat(2, 1fr); } .when { margin-left: 0; }
+    .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); } .facts > div { font-size: 0.9rem; padding: 8px 10px; } }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <a class="brand" href="https://roshan1208.github.io/carebeacon/">CareBeacon</a>
+    <div class="masthead"><a class="brand" href="https://roshan1208.github.io/carebeacon/"><span class="mark" aria-hidden="true"></span>CareBeacon</a><nav class="sitenav" aria-label="Site"><a href="https://roshan1208.github.io/carebeacon/">Search England</a><a href="https://roshan1208.github.io/carebeacon/countries/">Countries</a><a href="https://roshan1208.github.io/carebeacon/changes/">What changed</a><a href="https://roshan1208.github.io/carebeacon/about/">How it works</a></nav></div>
     <p class="crumb"><a href="https://roshan1208.github.io/carebeacon/">Home</a> &rsaquo; <a href="https://roshan1208.github.io/carebeacon/regions/london/">London</a> &rsaquo; Harrow</p>
   </header>
   <main>
   <h1>Care homes in Harrow</h1>
-  <p class="count">54 registered care homes, last checked 2026-09-14.</p>
-  <div class="stats"><div class="stat"><div class="n">3</div><div class="l">Outstanding</div></div><div class="stat"><div class="n">34</div><div class="l">Good</div></div><div class="stat"><div class="n">1</div><div class="l">Requires improvement</div></div><div class="stat"><div class="n">16</div><div class="l">No published rating</div></div></div>
+  <p class="count">55 registered care homes, last checked 2026-09-15.</p>
+  <div class="stats"><div class="stat"><div class="n">3</div><div class="l">Outstanding</div></div><div class="stat"><div class="n">34</div><div class="l">Good</div></div><div class="stat"><div class="n">1</div><div class="l">Requires improvement</div></div><div class="stat"><div class="n">17</div><div class="l">No published rating</div></div></div>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?q=Harrow">Search and compare these homes on CareBeacon</a></p>
   <p class="subscribe"><a href="feed.xml">Subscribe to changes in Harrow</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   
   <section><h2>Homes without a registered manager (4)</h2><ul class="homes gaps"><li><a href="../../homes/694-pinner-road-1-129453517/"><strong>694 Pinner Road</strong></a> <span class="since">no registered manager since 2023-11-17</span> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/real-life-options-90-capel-gardens-1-126668388/"><strong>Real Life Options - 90 Capel Gardens</strong></a> <span class="since">no registered manager since 2026-05-01</span> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/sairam-villa-care-home-1-2766989820/"><strong>Sairam Villa Care Home</strong></a> <span class="since">no registered manager since 2026-06-29</span> <span class="badge r-good">Good</span></li><li><a href="../../homes/northwick-house-1-3214503986/"><strong>Northwick House</strong></a> <span class="since">no registered manager since 2026-08-12</span> <span class="badge r-good">Good</span></li></ul><p class="note">Longest-standing first. CQC requires every home to have a registered manager; this is the date CQC records the post as having become vacant.</p></section>
   <section>
     <h2>Every registered care home in Harrow</h2>
-    <ul class="homes"><li><a href="../../homes/18-argyle-road-1-14285660967/"><strong>18 Argyle Road</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/63-gayton-house-1-28332799546/"><strong>63 Gayton House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/694-pinner-road-1-129453517/"><strong>694 Pinner Road</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/abbotsford-residential-care-home-1-10363767558/"><strong>Abbotsford Residential Care Home.</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/anita-dorfman-house-1-6275699891/"><strong>Anita Dorfman House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/ashgale-house-1-126943779/"><strong>Ashgale House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/buchanan-court-1-19896801449/"><strong>Buchanan Court</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/buchanan-court-1-4538699416/"><strong>Buchanan Court</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/carlton-house-residential-care-home-1-18577295638/"><strong>Carlton House Residential Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/college-hill-residential-home-1-714736328/"><strong>College Hill Residential Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/davids-house-1-117977580/"><strong>Davids House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/gayton-house-1-5829118423/"><strong>Gayton House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/greenways-1-127549093/"><strong>Greenways</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/hadley-house-nursing-home-1-1460372276/"><strong>Hadley House Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/harrow-council-bedford-house-1-139098678/"><strong>Harrow Council - Bedford House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/haven-residential-care-home-1-574473273/"><strong>Haven Residential Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/hazelwood-house-1-105303258/"><strong>Hazelwood House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/high-worple-1-1481323967/"><strong>High Worple</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/holly-bush-nursing-home-1-424090955/"><strong>Holly Bush Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/idelo-limited-5-courtenay-avenue-1-114057875/"><strong>Idelo Limited - 5 Courtenay Avenue</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kailash-manor-care-home-1-14149598365/"><strong>Kailash Manor Care Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/karuna-manor-1-1995472106/"><strong>Karuna Manor</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/kent-house-1-3618720840/"><strong>Kent House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kestrel-grove-care-home-1-14734165770/"><strong>Kestrel Grove Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kingshill-court-1-12814478057/"><strong>Kingshill Court</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/knights-court-nursing-home-1-3883604795/"><strong>Knights Court Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/manor-lodge-1-117589811/"><strong>Manor Lodge</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/newton-care-homes-limited-1-107095355/"><strong>Newton Care Homes Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/northwick-house-1-3214503986/"><strong>Northwick House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/norwood-30-old-church-lane-1-123927430/"><strong>Norwood - 30 Old Church Lane</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/norwood-60-carlton-avenue-1-123927458/"><strong>Norwood - 60 Carlton Avenue</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/pathfinder-ashness-house-1-12539188017/"><strong>Pathfinder Ashness House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/primrose-house-nursing-home-1-1601829730/"><strong>Primrose House Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-90-capel-gardens-1-126668388/"><strong>Real Life Options - 90 Capel Gardens</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/residential-care-providers-limited-1-109006690/"><strong>Residential Care Providers Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/residential-care-providers-limited-1-109015116/"><strong>Residential Care Providers Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/rowanweald-residential-and-nursing-home-1-135968427/"><strong>Rowanweald Residential and Nursing Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/rowland-house-1-7689372059/"><strong>Rowland House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sairam-villa-care-home-1-2766989820/"><strong>Sairam Villa Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sancroft-community-care-limited-sancroft-hall-1-4728292013/"><strong>Sancroft Community Care Limited- Sancroft Hall</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/santa-care-1-124267323/"><strong>Santa Care</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/shaftesbury-bradbury-court-1-119324775/"><strong>Shaftesbury Bradbury Court</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sitwell-grove-1-177562275/"><strong>Sitwell Grove</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sophia-care-home-1-119961519/"><strong>Sophia Care Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/stanmore-dental-surgery-limited-1-6672623527/"><strong>Stanmore Dental Surgery Limited</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/stanmore-house-1-177562259/"><strong>Stanmore House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/support-for-living-limited-79-harrow-view-1-126430407/"><strong>Support for Living Limited - 79 Harrow View</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/the-laurels-1-141599761/"><strong>The Laurels</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/the-mayfield-residential-care-home-1-18615034385/"><strong>The Mayfield Residential Care Home</strong></a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../../homes/westside-home-2-1-119748178/"><strong>Westside Home 2</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/whitchurch-lodge-1-117294497/"><strong>Whitchurch Lodge</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/wilsmere-house-1-125863094/"><strong>Wilsmere House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/woodland-hall-1-1228071068/"><strong>Woodland Hall</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/woodland-hall-1-19896849680/"><strong>Woodland Hall</strong></a> <span class="badge r-unrated">No published rating</span></li></ul>
+    <ul class="homes"><li><a href="../../homes/18-argyle-road-1-14285660967/"><strong>18 Argyle Road</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/63-gayton-house-1-28332799546/"><strong>63 Gayton House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/694-pinner-road-1-129453517/"><strong>694 Pinner Road</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/abbotsford-residential-care-home-1-10363767558/"><strong>Abbotsford Residential Care Home.</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/anita-dorfman-house-1-6275699891/"><strong>Anita Dorfman House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/ashgale-house-1-126943779/"><strong>Ashgale House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/buchanan-court-1-19896801449/"><strong>Buchanan Court</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/buchanan-court-1-4538699416/"><strong>Buchanan Court</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/carlton-house-residential-care-home-1-18577295638/"><strong>Carlton House Residential Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/college-hill-residential-home-1-714736328/"><strong>College Hill Residential Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/davids-house-1-117977580/"><strong>Davids House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/gayton-house-1-5829118423/"><strong>Gayton House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/greenways-1-127549093/"><strong>Greenways</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/hadley-house-nursing-home-1-1460372276/"><strong>Hadley House Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/harrow-council-bedford-house-1-139098678/"><strong>Harrow Council - Bedford House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/haven-residential-care-home-1-574473273/"><strong>Haven Residential Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/hazelwood-house-1-105303258/"><strong>Hazelwood House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/high-worple-1-1481323967/"><strong>High Worple</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/holly-bush-nursing-home-1-424090955/"><strong>Holly Bush Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/idelo-limited-5-courtenay-avenue-1-114057875/"><strong>Idelo Limited - 5 Courtenay Avenue</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kailash-manor-care-home-1-14149598365/"><strong>Kailash Manor Care Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/karuna-manor-1-1995472106/"><strong>Karuna Manor</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/kent-house-1-3618720840/"><strong>Kent House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kestrel-grove-care-home-1-14734165770/"><strong>Kestrel Grove Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/kingshill-court-1-12814478057/"><strong>Kingshill Court</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/knights-court-nursing-home-1-3883604795/"><strong>Knights Court Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/manor-lodge-1-117589811/"><strong>Manor Lodge</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/newton-care-homes-limited-1-107095355/"><strong>Newton Care Homes Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/northwick-house-1-3214503986/"><strong>Northwick House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/norwood-30-old-church-lane-1-123927430/"><strong>Norwood - 30 Old Church Lane</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/norwood-60-carlton-avenue-1-123927458/"><strong>Norwood - 60 Carlton Avenue</strong></a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../../homes/onecare-uk-ltd-1-2268096404/"><strong>Onecare-uk Ltd</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/pathfinder-ashness-house-1-12539188017/"><strong>Pathfinder Ashness House</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/primrose-house-nursing-home-1-1601829730/"><strong>Primrose House Nursing Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-90-capel-gardens-1-126668388/"><strong>Real Life Options - 90 Capel Gardens</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/residential-care-providers-limited-1-109006690/"><strong>Residential Care Providers Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/residential-care-providers-limited-1-109015116/"><strong>Residential Care Providers Limited</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/rowanweald-residential-and-nursing-home-1-135968427/"><strong>Rowanweald Residential and Nursing Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/rowland-house-1-7689372059/"><strong>Rowland House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sairam-villa-care-home-1-2766989820/"><strong>Sairam Villa Care Home</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sancroft-community-care-limited-sancroft-hall-1-4728292013/"><strong>Sancroft Community Care Limited- Sancroft Hall</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/santa-care-1-124267323/"><strong>Santa Care</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/shaftesbury-bradbury-court-1-119324775/"><strong>Shaftesbury Bradbury Court</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sitwell-grove-1-177562275/"><strong>Sitwell Grove</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/sophia-care-home-1-119961519/"><strong>Sophia Care Home</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/stanmore-dental-surgery-limited-1-6672623527/"><strong>Stanmore Dental Surgery Limited</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/stanmore-house-1-177562259/"><strong>Stanmore House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/support-for-living-limited-79-harrow-view-1-126430407/"><strong>Support for Living Limited - 79 Harrow View</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/the-laurels-1-141599761/"><strong>The Laurels</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/the-mayfield-residential-care-home-1-18615034385/"><strong>The Mayfield Residential Care Home</strong></a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../../homes/westside-home-2-1-119748178/"><strong>Westside Home 2</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/whitchurch-lodge-1-117294497/"><strong>Whitchurch Lodge</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/wilsmere-house-1-125863094/"><strong>Wilsmere House</strong></a> <span class="badge r-good">Good</span></li><li><a href="../../homes/woodland-hall-1-1228071068/"><strong>Woodland Hall</strong></a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/woodland-hall-1-19896849680/"><strong>Woodland Hall</strong></a> <span class="badge r-unrated">No published rating</span></li></ul>
   </section>
   </main>
   <footer>

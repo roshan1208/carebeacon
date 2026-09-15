@@ -4,7 +4,34 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/feed</id>
-  <updated>2026-09-14T22:55:28Z</updated>
+  <updated>2026-09-15T06:43:52Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in Flanders whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/25774/2026-09-15/provider_changed</id>
+    <title>Aan de Schelde: Governing body changed: Anima to Anima Cura (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/25774/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Antwerp. Governing body changed: Anima to Anima Cura (by 15 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-15/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.79 per day to €65.80 per day (by 15 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-15/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 87 to 3 (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 87 to 3 (by 15 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/25774/2026-09-15/legal_form_changed</id>
+    <title>Aan de Schelde: Legal form changed: Public limited company (nv) to Non-profit association (vzw) (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/25774/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Antwerp. Legal form changed: Public limited company (nv) to Non-profit association (vzw) (by 15 September 2026).</summary>
+  </entry>
 </feed>

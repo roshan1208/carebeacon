@@ -199403,28 +199403,7 @@
  "1-131717967": {
   "brandName": null,
   "registrationDate": "2010-12-24",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "26 Hillside Road",
   "town": "Wirral",
   "website": "www.crhtrust.org.uk",
@@ -262108,28 +262087,7 @@
  "1-148118909": {
   "brandName": null,
   "registrationDate": "2011-01-26",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Requires improvement"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "70 Old Shoreham Road",
   "town": "Hove",
   "website": "www.macleodpinsentcarehomes.co.uk",
@@ -368978,28 +368936,7 @@
  "1-24874567433": {
   "brandName": "Agincare",
   "registrationDate": "2025-10-14",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "The Penningtons",
   "town": "Amersham",
   "website": null,
@@ -400313,28 +400250,7 @@
  "1-2793531144": {
   "brandName": null,
   "registrationDate": "2016-07-27",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "34-36 Meteor Road",
   "town": "Westcliff On Sea",
   "website": null,
@@ -478472,28 +478388,7 @@
  "1-5179341609": {
   "brandName": null,
   "registrationDate": "2018-08-10",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "3 Lincoln Road",
   "town": "Walsall",
   "website": null,
@@ -554794,5 +554689,180 @@
   "lastInspectionDate": null,
   "lastReportDate": null,
   "reportUri": null
+ },
+ "1-125534625": {
+  "brandName": null,
+  "registrationDate": "2011-01-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "26 Brownhill Avenue",
+  "town": "Burnley",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2018-01-05",
+  "lastReportDate": "2018-01-24",
+  "reportUri": "/reports/2c8a7a7b-e52b-4b96-9079-47cd017f680d?20211030120000"
+ },
+ "1-15280863496": {
+  "brandName": null,
+  "registrationDate": "2023-04-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "4 Sutherland Avenue",
+  "town": "Hayes",
+  "website": "www.reignscare.com",
+  "specialisms": [
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null
+ },
+ "1-2268096404": {
+  "brandName": null,
+  "registrationDate": "2015-10-28",
+  "keyQuestionRatings": [],
+  "addressLine1": "Pentax House Suite 305",
+  "town": "Harrow",
+  "website": "www.Onecare-uk.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported housing",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2019-01-03",
+  "lastReportDate": "2019-03-30",
+  "reportUri": "/reports/ef1dd3d9-7d76-4e33-858c-8cd53dc1c264?20211030120000"
+ },
+ "1-525508238": {
+  "brandName": "Bluebird Care",
+  "registrationDate": "2012-12-13",
+  "keyQuestionRatings": [],
+  "addressLine1": "2 Kingston Square",
+  "town": "Bradford-on-avon",
+  "website": "www.bluebirdcare.co.uk/wiltshirenorth",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Learning disabilities",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2019-01-16",
+  "lastReportDate": "2019-02-21",
+  "reportUri": "/reports/fe67cd7d-0b51-4268-a1b6-03ee041d128b?20190221130700"
+ },
+ "1-5262076614": {
+  "brandName": "Yourlife Management Services",
+  "registrationDate": "2018-05-24",
+  "keyQuestionRatings": [],
+  "addressLine1": "Thorneycroft, Wood Road",
+  "town": "Wolverhampton",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2019-05-20",
+  "lastReportDate": "2019-06-27",
+  "reportUri": "/reports/dd121e91-f676-4df8-8509-7b6b49f7fa8a?20190627134734"
+ },
+ "1-549549831": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "The Croft Shifa Health Centre",
+  "town": "Rochdale",
+  "website": "www.croftshifahealthcentre.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2022-09-01",
+  "lastReportDate": "2022-10-11",
+  "reportUri": "/reports/ee9b2ea6-b5e2-48fd-8a45-c494adb5838c?20221011070409"
+ },
+ "1-582415795": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "Scott Park Surgery",
+  "town": "Southend On Sea",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2018-11-08",
+  "lastReportDate": "2018-12-05",
+  "reportUri": "/reports/e9423104-3a1b-421a-9347-1fa3e5662d90?20210116223743"
  }
 }
