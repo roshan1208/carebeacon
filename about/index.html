@@ -103,6 +103,10 @@
   .findbox input[type="search"] { font: inherit; font-size: 1.05rem; padding: 12px 14px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--card-bg); color: var(--ink); width: 100%; max-width: 560px; }
   .findbox input[type="search"]:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
   .filterbox input[type="search"] { font-size: 0.95rem; padding: 8px 12px; max-width: 360px; }
+  #find-near { font: inherit; padding: 11px 16px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--card-bg); color: var(--ink); cursor: pointer; white-space: nowrap; }
+  #find-near:hover { border-color: var(--accent); color: var(--accent); }
+  .dist { font-variant-numeric: tabular-nums; }
+  .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
@@ -136,7 +140,7 @@
     <h2>Sources, by country</h2>
     <p class="note"><a href="https://roshan1208.github.io/carebeacon/countries/">Every country covered, and every country not yet covered with the reason</a>.</p>
     <ul class="plain">
-      <li><strong>England</strong><span class="what">15,362 registered care homes from the <a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a>&#39;s
+      <li><strong>England</strong><span class="what">15,365 registered care homes from the <a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a>&#39;s
       Syndication API, checked daily. CQC rates on a four-point scale &mdash; Outstanding, Good, Requires improvement, Inadequate &mdash;
       overall and for five key questions. Changes shown: rating up or down, first rating, registration lost, registration regained.
       The public change window on this site is 90 days; 1,725 operator pages cover groups running two or more homes.</span></li>

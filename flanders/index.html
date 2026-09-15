@@ -104,6 +104,10 @@
   .findbox input[type="search"] { font: inherit; font-size: 1.05rem; padding: 12px 14px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--card-bg); color: var(--ink); width: 100%; max-width: 560px; }
   .findbox input[type="search"]:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
   .filterbox input[type="search"] { font-size: 0.95rem; padding: 8px 12px; max-width: 360px; }
+  #find-near { font: inherit; padding: 11px 16px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--card-bg); color: var(--ink); cursor: pointer; white-space: nowrap; }
+  #find-near:hover { border-color: var(--accent); color: var(--accent); }
+  .dist { font-variant-numeric: tabular-nums; }
+  .grade-explain { margin: -6px 0 16px; font-size: 0.95rem; }
   #find-results { margin-top: 12px; }
   #find-results .grade-hit { margin-left: auto; }
   footer { border-top: 1px solid var(--border); margin-top: 40px; padding-top: 20px; color: var(--muted); font-size: 0.85rem; line-height: 1.55; }
@@ -120,8 +124,8 @@
   <main>
   <h1>Woonzorgcentra (residential care homes) in Flanders</h1>
   <p class="count">812 woonzorgcentra (residential care homes) on Departement Zorg (Flemish Department of Care)&#39;s register, across 6 provinces. Register as published 15 September 2026 (checked daily; the Department refreshes the export as records change). &middot; <a href="operators/">Operators</a></p>
-  <form class="findbox" role="search" onsubmit="return false" data-country="Flanders">
-    <label for="find-q">Find a residential care home in Flandersby name or town</label>
+  <form class="findbox" role="search" onsubmit="return false" data-country="Belgium (Flanders)">
+    <label for="find-q">Find a residential care home in Flanders by name or town</label>
     <div class="findrow"><input id="find-q" type="search" placeholder="Type a name or a town" autocomplete="off"></div>
     <div id="find-results" aria-live="polite"></div>
   </form>
@@ -140,6 +144,21 @@
       out.innerHTML='<p class="note">'+hits.length+(hits.length>=300?"+":"")+' match'+(hits.length===1?"":"es")+(hits.length>25?", showing the first 25":"")+'</p><ul class="plain">'+rows+'</ul>';
     });}
     q.addEventListener("input",run);
+    var near=document.getElementById("find-near");
+    if(near&&navigator.geolocation){near.addEventListener("click",function(){
+      out.innerHTML='<p class="note">Finding your location…</p>';
+      navigator.geolocation.getCurrentPosition(function(pos){var la=pos.coords.latitude,lo=pos.coords.longitude;load().then(function(d){
+        if(!d){out.innerHTML='<p class="note">Search is unavailable right now.</p>';return;}
+        var ci=-1;for(var k=0;k<d.countries.length;k++)if(d.countries[k].name===country)ci=k;
+        function km(a,b,c,e){var R=6371,dLat=(c-a)*Math.PI/180,dLon=(e-b)*Math.PI/180,x=Math.sin(dLat/2),y=Math.sin(dLon/2);var h=x*x+Math.cos(a*Math.PI/180)*Math.cos(c*Math.PI/180)*y*y;return 2*R*Math.asin(Math.sqrt(h));}
+        var hits=[];for(var i=0;i<d.homes.length;i++){var h=d.homes[i];if(h[0]!==ci||h.length<7)continue;hits.push([km(la,lo,h[5],h[6]),h]);}
+        if(!hits.length){out.innerHTML='<p class="note">No coordinates are published for homes here.</p>';return;}
+        hits.sort(function(a,b){return a[0]-b[0];});
+        if(hits[0][0]>500){out.innerHTML='<p class="note">You seem to be more than 500 km from the nearest home on this register. Type a town instead.</p>';return;}
+        var path=d.countries[ci].path,rows=hits.slice(0,25).map(function(x){var h=x[1],dist=x[0]<10?x[0].toFixed(1):Math.round(x[0]);return '<li><a href="https://roshan1208.github.io/carebeacon/'+path+'homes/'+esc(h[1])+'/"><strong>'+esc(h[2])+'</strong></a>'+(h[3]?'<span class="place">'+esc(h[3])+'</span>':'')+'<span class="place dist">'+dist+' km</span>'+(h[4]?'<span class="badge g0 grade-hit">'+esc(h[4])+'</span>':'')+'</li>';}).join("");
+        out.innerHTML='<p class="note">The 25 nearest to you, straight-line distance.</p><ul class="plain">'+rows+'</ul>';
+      });},function(){out.innerHTML='<p class="note">Location not available. Type a town instead.</p>';},{timeout:10000});
+    });}else if(near){near.hidden=true;}
   })();</script>
   <p class="scale">The Flemish Department of Care recognises and inspects woonzorgcentra (residential care homes for older people) in Flanders and publishes this register. It does not grade them; inspection reports are published per home as PDFs. Resident counts and the average daily price are as the home last reported them to the Department; small counts are published as &lt;5. Belgium regulates care homes regionally, so Wallonia and Brussels are not on these pages.</p>
   <div class="stats"><div class="stat"><div class="n">812</div><div class="l">Woonzorgcentra (residential care homes)</div></div><div class="stat"><div class="n">83,909</div><div class="l">Registered places</div></div></div>

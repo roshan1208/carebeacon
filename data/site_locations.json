@@ -27818,6 +27818,20 @@
   "longitude": 0.2852723
  },
  {
+  "locationId": "1-547811560",
+  "name": "Brereton Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 0,
+  "postalCode": "WS15 1DU",
+  "providerId": "1-199769430",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.746654,
+  "longitude": -1.9239427
+ },
+ {
   "locationId": "1-20707564706",
   "name": "Bretby House",
   "rating": "Requires improvement",
@@ -33962,6 +33976,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4874208,
   "longitude": -2.7696709
+ },
+ {
+  "locationId": "1-29011446815",
+  "name": "Cambridge Allergy Partners Sawston Medical Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Cambridgeshire",
+  "numberOfBeds": 0,
+  "postalCode": "CB22 3HU",
+  "providerId": "1-25327000314",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.1154114,
+  "longitude": 0.1701765
  },
  {
   "locationId": "1-446330615",
@@ -41914,6 +41942,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5100954,
   "longitude": -1.7340593
+ },
+ {
+  "locationId": "1-145353745",
+  "name": "Chislehurst Homecare Partnership",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Bromley",
+  "numberOfBeds": 0,
+  "postalCode": "BR6 7DB",
+  "providerId": "1-128034269",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3589125,
+  "longitude": 0.0715712
  },
  {
   "locationId": "1-135436298",
