@@ -1,6 +1,6 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-15T17:10:43Z",
+ "last_run_utc": "2026-09-15T18:16:51Z",
  "total_locations": 32543,
  "total_changes_recorded": 11,
  "scotland_snapshot_label": "31 August 2026",
@@ -10,10 +10,10 @@
  "ni_snapshot_label": "2026-08-03",
  "ni_snapshot_date": "2026-08-03",
  "ni_care_homes": 468,
- "wales_snapshot_label": "2026-09-15 18:22",
+ "wales_snapshot_label": "2026-09-15 19:32",
  "wales_snapshot_date": "2026-09-15",
  "wales_care_homes": 1481,
- "ireland_snapshot_label": "2026-09-15 17:15",
+ "ireland_snapshot_label": "2026-09-15 18:31",
  "ireland_snapshot_date": "2026-09-15",
  "ireland_care_homes": 546,
  "france_snapshot_label": "2026-09-15",
@@ -25,11 +25,11 @@
  "south-korea_snapshot_label": "2026-06-25",
  "south-korea_snapshot_date": "2026-09-14",
  "south-korea_care_homes": 6263,
- "hong-kong_snapshot_label": "2026-09-15 03:03:09",
+ "hong-kong_snapshot_label": "2026-09-16 02:03:05",
  "hong-kong_snapshot_date": "2026-09-15",
  "hong-kong_care_homes": 1103,
- "new-zealand_snapshot_label": "2026-09-14 18:15",
- "new-zealand_snapshot_date": "2026-09-14",
+ "new-zealand_snapshot_label": "2026-09-15 18:14",
+ "new-zealand_snapshot_date": "2026-09-15",
  "new-zealand_care_homes": 685,
  "flanders_snapshot_label": "2026-09-14 06:21",
  "flanders_snapshot_date": "2026-09-15",
@@ -40,5 +40,6 @@
  "japan_parse_version": 2,
  "france_parse_version": 2,
  "united-states_parse_version": 2,
- "hong-kong_parse_version": 1
+ "hong-kong_parse_version": 1,
+ "new-zealand_parse_version": 1
 }

@@ -61,6 +61,18 @@
  },
  {
   "date": "2026-09-15",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "services_changed",
+  "name": "Cashmere Hospital",
+  "place": "Capital and Coast District Health Board",
+  "text": "Services changed: Rest home care to Geriatric, Rest home care, Medical",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/cashmere-hospital-wellington/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-15",
   "country": "Ireland",
   "countryPath": "ireland/",
   "kind": "other",
