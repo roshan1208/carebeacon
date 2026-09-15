@@ -1,6 +1,18 @@
 [
  {
   "date": "2026-09-15",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "other",
+  "type": "ri_changed",
+  "name": "Hengoed Court Care Home",
+  "place": "Swansea",
+  "text": "Responsible individual changed: Desmond Davies to TIMOTHY  Williams",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/",
+  "since": "2026-09-15"
+ },
+ {
+  "date": "2026-09-15",
   "country": "Ireland",
   "countryPath": "ireland/",
   "kind": "other",
