@@ -60,7 +60,7 @@
     --accent: #8a5a00;
     --accent-bg: #e8a33d;
     --accent-fill-text: #1a1206;
-    --border: #6b6656;
+    --border: #cfc9b9;
     --card-bg: #ffffff;
     --rating-outstanding: #1c5aa6;
     --rating-good: #1e6b3a;
@@ -74,7 +74,7 @@
     --accent: #e8a33d;
     --accent-bg: #e8a33d;
     --accent-fill-text: #1a1206;
-    --border: #527069;
+    --border: #3a5049;
     --card-bg: #10201c;
     --rating-outstanding: #7fb8ff;
     --rating-good: #5fd88a;
@@ -109,6 +109,29 @@
   }
   .brand .name { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.01em; }
   .tagline { color: var(--muted); font-size: 0.95rem; margin: 4px 0 0; }
+  .head-right { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  nav.sitenav { display: flex; flex-wrap: wrap; gap: 2px 16px; font-size: 0.9rem; }
+  nav.sitenav a { color: var(--muted); text-decoration: none; padding: 4px 0; border-bottom: 2px solid transparent; }
+  nav.sitenav a:hover, nav.sitenav a:focus-visible { color: var(--ink); border-bottom-color: var(--accent-bg); }
+  /* Hero: the one sentence that says what this is, before any control. */
+  .hero { margin: 0 0 18px; }
+  .hero h2 { margin: 0 0 6px; font-size: clamp(1.6rem, 1.1rem + 1.8vw, 2.4rem); line-height: 1.12; letter-spacing: -0.02em; }
+  .hero p { margin: 0; color: var(--muted); font-size: 1.05rem; max-width: 62ch; }
+  .hero strong { color: var(--ink); font-variant-numeric: tabular-nums; }
+  /* Layout: on wide screens the "Recently changed" panel becomes a sticky
+     aside beside the search and results, instead of a block the visitor
+     has to scroll past to reach the search box. On narrow screens it
+     drops below the results (order), so the search box comes first. */
+  main.wrap { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 28px; }
+  main.wrap > * { grid-column: 1; min-width: 0; }
+  main.wrap > .hero { order: 1; } main.wrap > .nations { order: 2; } main.wrap > .filterbar { order: 3; }
+  main.wrap > .shortlist-bar { order: 4; } main.wrap > .view-toggle { order: 5; } main.wrap > .results-count { order: 6; }
+  main.wrap > #results { order: 7; } main.wrap > #map { order: 8; } main.wrap > #trends { order: 9; } main.wrap > section.changes { order: 10; margin-top: 28px; }
+  @media (min-width: 1000px) {
+    main.wrap { grid-template-columns: minmax(0, 1fr) 340px; }
+    main.wrap > section.changes { grid-column: 2; grid-row: 1 / span 9; order: 0; align-self: start; position: sticky; top: 16px; margin-top: 0; max-height: calc(100vh - 32px); overflow: auto; }
+    main.wrap > .hero, main.wrap > .nations { grid-column: 1; }
+  }
   /* Nations strip: the app below is England (CQC) only; the other three
      nations are static sections with their own regulator's scale. This is
      the one place a visitor from Cardiff or Belfast learns that before
@@ -189,9 +212,11 @@
   .card .distance { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
 
   section.changes {
-    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
     margin-bottom: 28px; background: var(--card-bg);
+    box-shadow: 0 1px 2px rgba(20,35,31,.05), 0 8px 24px -16px rgba(20,35,31,.35);
   }
+  html[data-theme="dark"] section.changes { box-shadow: none; }
   section.changes h2 { margin: 0 0 4px; font-size: 1.05rem; }
   section.changes p.lede { margin: 0 0 14px; color: var(--muted); font-size: 0.92rem; }
   .feed-link {
@@ -227,16 +252,16 @@
      absolutely positioned over the top-right corner of the card body. */
   .card-wrap { position: relative; }
   .card {
-    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
     background: var(--card-bg); display: flex; flex-direction: column; gap: 8px;
-    height: 100%;
+    height: 100%; transition: transform .12s ease, border-color .12s ease;
     /* .card is a <button> now, not an <article> — every card is clickable
        to open the detail view, so these reset the browser's default
        button chrome (Safari needs appearance:none explicitly). */
     appearance: none; cursor: pointer; text-align: left; font: inherit;
     color: inherit; width: 100%;
   }
-  .card:hover { border-color: var(--accent); }
+  .card:hover { border-color: var(--accent); transform: translateY(-1px); }
   .card h3 { margin: 0; font-size: 1.05rem; padding-right: 28px; }
   .card .place { color: var(--muted); font-size: 0.9rem; }
   .save-toggle {
@@ -261,7 +286,9 @@
   #compare-shortlist:not(:disabled):hover, #clear-shortlist:hover { border-color: var(--accent); }
   .badge {
     display: inline-block; align-self: flex-start; font-size: 0.78rem; font-weight: 700;
-    padding: 3px 10px; border-radius: 999px; border: 1px solid currentColor;
+    padding: 3px 10px; border-radius: 999px; line-height: 1.4;
+    border: 1px solid color-mix(in srgb, currentColor 35%, transparent);
+    background: color-mix(in srgb, currentColor 10%, transparent);
   }
   .badge.Outstanding { color: var(--rating-outstanding); }
   .badge.Good { color: var(--rating-good); }
@@ -450,13 +477,26 @@
         <span class="mark" aria-hidden="true"></span>
         <span class="name">CareBeacon</span>
       </h1>
-      <p class="tagline">Every care home in England, Scotland, Wales and Northern Ireland, and what changed. <a href="about/">How it works</a></p>
+      <p class="tagline">Care home registers, and what changed in them.</p>
     </div>
-    <button id="theme-toggle" type="button" aria-label="Switch colour theme">Theme</button>
+    <div class="head-right">
+      <nav class="sitenav" aria-label="Site">
+        <a href="countries/">Countries</a>
+        <a href="changes/">What changed</a>
+        <a href="about/">How it works</a>
+      </nav>
+      <button id="theme-toggle" type="button" aria-label="Switch colour theme">Theme</button>
+    </div>
   </div>
 </header>
 
 <main class="wrap">
+
+  <section class="hero" aria-labelledby="hero-title">
+    <h2 id="hero-title">Find a care home. Know the moment it changes.</h2>
+    <p>Regulators publish today&#39;s rating, never what changed. CareBeacon keeps every register and shows the difference:
+      <strong id="hero-total">every registered</strong> care homes across <strong id="hero-countries">12</strong> countries, checked daily.</p>
+  </section>
 
   <nav class="nations" aria-label="Choose a country">
     <a href="./" aria-current="page">England <span class="n" data-nation="england"></span></a>
@@ -762,6 +802,16 @@
       var n = counts[el.getAttribute("data-nation")];
       el.textContent = (typeof n === "number" && n > 0) ? "(" + n.toLocaleString() + ")" : "";
     });
+    // Hero total: England from the loaded export plus every *_care_homes count meta records.
+    var total = state.locations.length, countries = 1;
+    if (meta) {
+      Object.keys(meta).forEach(function (k) {
+        if (/_care_homes$/.test(k) && typeof meta[k] === "number" && meta[k] > 0) { total += meta[k]; countries += 1; }
+      });
+    }
+    var heroTotal = document.getElementById("hero-total"), heroCountries = document.getElementById("hero-countries");
+    if (heroTotal && total > state.locations.length) heroTotal.textContent = total.toLocaleString();
+    if (heroCountries && countries > 1) heroCountries.textContent = String(countries);
   }
 
   function populateRegions() {
