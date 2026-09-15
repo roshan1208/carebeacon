@@ -18652,8 +18652,8 @@
    "SIN-00014728-YGVY",
    "CityView Guided stars",
    "Swansea",
-   "",
-   "",
+   "Requires Improvement",
+   "g3",
    51.6196,
    -3.94592,
    "a"
@@ -27969,8 +27969,8 @@
    "SIN-00011494-XGPD",
    "The Oaks",
    "Newtown, Powys",
-   "",
-   "",
+   "Good",
+   "g4",
    52.50652,
    -3.33413,
    ""
@@ -37921,17 +37921,6 @@
   ],
   [
    3,
-   "125",
-   "Catherine McAuley House",
-   "Dublin",
-   "",
-   "",
-   53.39145,
-   -6.22696,
-   ""
-  ],
-  [
-   3,
    "413",
    "Catherine McAuley House",
    "Limerick",
@@ -37940,6 +37929,17 @@
    52.51883,
    -8.79583,
    "a"
+  ],
+  [
+   3,
+   "125",
+   "Catherine McAuley House",
+   "Dublin",
+   "",
+   "",
+   53.39145,
+   -6.22696,
+   ""
   ],
   [
    3,
@@ -39725,17 +39725,6 @@
   ],
   [
    3,
-   "359",
-   "Maryfield Nursing Home",
-   "Galway",
-   "",
-   "",
-   53.3015,
-   -8.74856,
-   "a"
-  ],
-  [
-   3,
    "64",
    "Maryfield Nursing Home",
    "Dublin",
@@ -39744,6 +39733,17 @@
    53.35755,
    -6.37546,
    ""
+  ],
+  [
+   3,
+   "359",
+   "Maryfield Nursing Home",
+   "Galway",
+   "",
+   "",
+   53.3015,
+   -8.74856,
+   "a"
   ],
   [
    3,
@@ -40319,17 +40319,6 @@
   ],
   [
    3,
-   "373",
-   "Oakwood Private Nursing Home",
-   "Roscommon",
-   "",
-   "",
-   53.27699,
-   -6.21621,
-   ""
-  ],
-  [
-   3,
    "372",
    "Oakwood Private Nursing Home",
    "Roscommon",
@@ -40338,6 +40327,17 @@
    53.63124,
    -8.19068,
    "a"
+  ],
+  [
+   3,
+   "373",
+   "Oakwood Private Nursing Home",
+   "Roscommon",
+   "",
+   "",
+   53.27699,
+   -6.21621,
+   ""
   ],
   [
    3,
@@ -40451,17 +40451,6 @@
   ],
   [
    3,
-   "267",
-   "Padre Pio Nursing Home",
-   "Tipperary",
-   "",
-   "",
-   52.67669,
-   -7.82191,
-   "a"
-  ],
-  [
-   3,
    "5314",
    "Padre Pio Nursing Home",
    "Cork",
@@ -40470,6 +40459,17 @@
    51.8728,
    -8.50792,
    ""
+  ],
+  [
+   3,
+   "267",
+   "Padre Pio Nursing Home",
+   "Tipperary",
+   "",
+   "",
+   52.67669,
+   -7.82191,
+   "a"
   ],
   [
    3,
@@ -521530,8 +521530,8 @@
    "Feilding, MidCentral District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -40.21995,
+   175.57221,
    ""
   ],
   [
@@ -521541,9 +521541,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.90929,
+   174.7609,
+   ""
   ],
   [
    9,
@@ -521552,8 +521552,8 @@
    "Putaruru, Waikato District Health Board",
    "",
    "",
-   null,
-   null,
+   -38.05661,
+   175.77784,
    ""
   ],
   [
@@ -521563,9 +521563,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.87648,
+   174.80572,
+   ""
   ],
   [
    9,
@@ -521574,9 +521574,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.88611,
+   174.81415,
+   ""
   ],
   [
    9,
@@ -521585,9 +521585,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.91327,
+   174.62801,
+   ""
   ],
   [
    9,
@@ -521596,9 +521596,9 @@
    "Christchurch, Canterbury District Health Board",
    "36-month certification",
    "g4",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.56966,
+   172.63031,
+   ""
   ],
   [
    9,
@@ -521607,8 +521607,8 @@
    "Wellington, Capital and Coast District Health Board",
    "",
    "",
-   null,
-   null,
+   -41.32073,
+   174.79699,
    ""
   ],
   [
@@ -521618,8 +521618,8 @@
    "Lower Hutt, Hutt Valley District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.20212,
+   174.91487,
    ""
   ],
   [
@@ -521629,8 +521629,8 @@
    "Lower Hutt, Hutt Valley District Health Board",
    "",
    "",
-   null,
-   null,
+   -41.20336,
+   174.91637,
    ""
   ],
   [
@@ -521640,9 +521640,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.88979,
+   174.69852,
+   ""
   ],
   [
    9,
@@ -521651,8 +521651,8 @@
    "Napier, Hawke's Bay District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.49863,
+   176.89253,
    ""
   ],
   [
@@ -521662,8 +521662,8 @@
    "Ashburton, Canterbury District Health Board",
    "",
    "",
-   null,
-   null,
+   -43.89476,
+   171.75244,
    ""
   ],
   [
@@ -521673,9 +521673,9 @@
    "Auckland, Waitemata District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.86297,
+   174.62124,
+   ""
   ],
   [
    9,
@@ -521684,8 +521684,8 @@
    "Rotorua, Lakes District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -38.0792,
+   176.2168,
    ""
   ],
   [
@@ -521695,8 +521695,8 @@
    "Invercargill, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -46.37916,
+   168.35018,
    ""
   ],
   [
@@ -521706,9 +521706,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.52974,
+   172.60938,
+   ""
   ],
   [
    9,
@@ -521717,9 +521717,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.49597,
+   172.6177,
+   ""
   ],
   [
    9,
@@ -521728,9 +521728,9 @@
    "Christchurch, Canterbury District Health Board",
    "",
    "",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.54456,
+   172.51254,
+   ""
   ],
   [
    9,
@@ -521739,8 +521739,8 @@
    "Napier, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.48638,
+   176.89738,
    ""
   ],
   [
@@ -521750,8 +521750,8 @@
    "New Plymouth, Taranaki District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.07386,
+   174.06316,
    ""
   ],
   [
@@ -521761,9 +521761,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.86424,
+   174.70106,
+   ""
   ],
   [
    9,
@@ -521772,9 +521772,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.86424,
+   174.70106,
+   ""
   ],
   [
    9,
@@ -521783,8 +521783,8 @@
    "Tauranga, Bay of Plenty District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.70669,
+   176.15949,
    ""
   ],
   [
@@ -521794,8 +521794,8 @@
    "Geraldine, South Canterbury District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -44.09199,
+   171.2378,
    ""
   ],
   [
@@ -521805,9 +521805,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.87463,
+   174.83974,
+   ""
   ],
   [
    9,
@@ -521816,8 +521816,8 @@
    "Raglan, Waikato District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.80154,
+   174.88131,
    ""
   ],
   [
@@ -521827,8 +521827,8 @@
    "Lower Hutt, Hutt Valley District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.18886,
+   174.94265,
    ""
   ],
   [
@@ -521838,8 +521838,8 @@
    "Eltham, Taranaki District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.44673,
+   174.30431,
    ""
   ],
   [
@@ -521849,8 +521849,8 @@
    "Wellington, Capital and Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.3197,
+   174.77255,
    ""
   ],
   [
@@ -521860,9 +521860,9 @@
    "Christchurch, Canterbury District Health Board",
    "36-month certification",
    "g4",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.51826,
+   172.63571,
+   ""
   ],
   [
    9,
@@ -521871,9 +521871,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.86224,
+   174.8752,
+   ""
   ],
   [
    9,
@@ -521882,9 +521882,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.8452,
+   174.74868,
+   ""
   ],
   [
    9,
@@ -521893,8 +521893,8 @@
    "Dunedin, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -45.91045,
+   170.46487,
    ""
   ],
   [
@@ -521904,9 +521904,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.89155,
+   174.76976,
+   ""
   ],
   [
    9,
@@ -521915,9 +521915,9 @@
    "Hamilton, Waikato District Health Board",
    "48-month certification",
    "g6",
-   -37.78788,
-   175.28179,
-   "a"
+   -37.79259,
+   175.29627,
+   ""
   ],
   [
    9,
@@ -521926,8 +521926,8 @@
    "New Plymouth, Taranaki District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -39.06346,
+   174.08714,
    ""
   ],
   [
@@ -521937,8 +521937,8 @@
    "Lower Hutt, Hutt Valley District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.19999,
+   174.92276,
    ""
   ],
   [
@@ -521948,9 +521948,9 @@
    "Cambridge, Waikato District Health Board",
    "12-month certification",
    "g1",
-   -37.89179,
-   175.46911,
-   "a"
+   -37.87293,
+   175.46224,
+   ""
   ],
   [
    9,
@@ -521959,9 +521959,9 @@
    "Warkworth, Waitemata District Health Board",
    "48-month certification",
    "g6",
-   -36.39767,
-   174.66585,
-   "a"
+   -36.40594,
+   174.64712,
+   ""
   ],
   [
    9,
@@ -521970,9 +521970,9 @@
    "Auckland, Waitemata District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.78924,
+   174.65485,
+   ""
   ],
   [
    9,
@@ -521981,9 +521981,9 @@
    "Whangarei, Northland District Health Board",
    "12-month certification",
    "g1",
-   -35.72753,
-   174.31942,
-   "a"
+   -35.68518,
+   174.32058,
+   ""
   ],
   [
    9,
@@ -521992,9 +521992,9 @@
    "New Plymouth, Taranaki District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
-   ""
+   -39.05799,
+   174.08065,
+   "a"
   ],
   [
    9,
@@ -522003,8 +522003,8 @@
    "Napier, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.52876,
+   176.91101,
    ""
   ],
   [
@@ -522014,8 +522014,8 @@
    "New Plymouth, Taranaki District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.03881,
+   174.13459,
    ""
   ],
   [
@@ -522025,8 +522025,8 @@
    "Richmond, Nelson Marlborough District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.33762,
+   173.21426,
    ""
   ],
   [
@@ -522036,9 +522036,9 @@
    "Hamilton, Waikato District Health Board",
    "48-month certification",
    "g6",
-   -37.78788,
-   175.28179,
-   "a"
+   -37.71766,
+   175.26654,
+   ""
   ],
   [
    9,
@@ -522047,9 +522047,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.87259,
+   174.83856,
+   ""
   ],
   [
    9,
@@ -522058,8 +522058,8 @@
    "Waikanae, Capital and Coast District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -40.8716,
+   175.04061,
    ""
   ],
   [
@@ -522069,8 +522069,8 @@
    "Porirua, Capital and Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.12301,
+   174.86739,
    ""
   ],
   [
@@ -522080,9 +522080,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.50779,
+   172.5505,
+   ""
   ],
   [
    9,
@@ -522091,8 +522091,8 @@
    "Dunedin, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -45.86139,
+   170.4897,
    ""
   ],
   [
@@ -522102,9 +522102,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.90029,
+   174.82508,
+   ""
   ],
   [
    9,
@@ -522113,9 +522113,9 @@
    "Papakura, Counties Manukau District Health Board",
    "48-month certification",
    "g6",
-   -37.06426,
-   174.94467,
-   "a"
+   -37.07837,
+   174.91673,
+   ""
   ],
   [
    9,
@@ -522124,9 +522124,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.565,
+   172.55432,
+   ""
   ],
   [
    9,
@@ -522135,8 +522135,8 @@
    "Upper Hutt, Hutt Valley District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.13597,
+   175.04704,
    ""
   ],
   [
@@ -522146,8 +522146,8 @@
    "Papamoa, Bay of Plenty District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.71877,
+   176.32074,
    ""
   ],
   [
@@ -522157,8 +522157,8 @@
    "Taupo, Lakes District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -38.72997,
+   176.07153,
    ""
   ],
   [
@@ -522168,9 +522168,9 @@
    "Auckland, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.97656,
+   174.92968,
+   ""
   ],
   [
    9,
@@ -522179,8 +522179,8 @@
    "Levin, MidCentral District Health Board",
    "",
    "",
-   null,
-   null,
+   -40.63462,
+   175.28879,
    ""
   ],
   [
@@ -522190,9 +522190,9 @@
    "Katikati, Bay of Plenty District Health Board",
    "",
    "",
-   -37.55223,
-   175.91541,
-   "a"
+   -37.53943,
+   175.93357,
+   ""
   ],
   [
    9,
@@ -522212,9 +522212,9 @@
    "Napier, Hawke's Bay District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
-   ""
+   -39.49021,
+   176.91784,
+   "a"
   ],
   [
    9,
@@ -522223,8 +522223,8 @@
    "Wanganui, Whanganui District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.91521,
+   175.06935,
    ""
   ],
   [
@@ -522234,8 +522234,8 @@
    "Nelson, Nelson Marlborough District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -41.31772,
+   173.22089,
    ""
   ],
   [
@@ -522245,9 +522245,9 @@
    "Havelock North, Hawke's Bay District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
-   ""
+   -39.67021,
+   176.87714,
+   "a"
   ],
   [
    9,
@@ -522256,9 +522256,9 @@
    "Christchurch, Canterbury District Health Board",
    "",
    "",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.47397,
+   172.60595,
+   ""
   ],
   [
    9,
@@ -522267,9 +522267,9 @@
    "Palmerston North, MidCentral District Health Board",
    "",
    "",
-   -40.35632,
-   175.61124,
-   "a"
+   -40.38653,
+   175.63792,
+   ""
   ],
   [
    9,
@@ -522278,9 +522278,9 @@
    "Paraparaumu, Capital and Coast District Health Board",
    "48-month certification",
    "g6",
-   -40.91446,
-   175.0062,
-   "a"
+   -40.89732,
+   175.00436,
+   ""
   ],
   [
    9,
@@ -522289,8 +522289,8 @@
    "Porirua, Capital and Coast District Health Board",
    "",
    "",
-   null,
-   null,
+   -41.14433,
+   174.83846,
    ""
   ],
   [
@@ -522300,8 +522300,8 @@
    "Hastings, Hawke's Bay District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.63003,
+   176.85218,
    ""
   ],
   [
@@ -522311,8 +522311,8 @@
    "New Plymouth, Taranaki District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -39.0298,
+   174.15405,
    ""
   ],
   [
@@ -522322,9 +522322,9 @@
    "Auckland, Waitemata District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.81846,
+   174.80297,
+   ""
   ],
   [
    9,
@@ -522333,9 +522333,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.84915,
+   174.72728,
+   ""
   ],
   [
    9,
@@ -522344,9 +522344,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.80247,
+   174.64016,
+   ""
   ],
   [
    9,
@@ -522355,9 +522355,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.9144,
+   174.8355,
+   ""
   ],
   [
    9,
@@ -522377,8 +522377,8 @@
    "Te Aroha, Waikato District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.54761,
+   175.70501,
    ""
   ],
   [
@@ -522388,8 +522388,8 @@
    "New Plymouth, Taranaki District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.07354,
+   174.06178,
    ""
   ],
   [
@@ -522399,8 +522399,8 @@
    "Tairua, Waikato District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.00823,
+   175.85022,
    ""
   ],
   [
@@ -522410,8 +522410,8 @@
    "Takanini, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.04289,
+   174.92073,
    ""
   ],
   [
@@ -522454,8 +522454,8 @@
    "Havelock North, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.67214,
+   176.89461,
    ""
   ],
   [
@@ -522465,8 +522465,8 @@
    "Napier, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.5428,
+   176.83861,
    ""
   ],
   [
@@ -522476,9 +522476,9 @@
    "Auckland, Waitemata District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.87618,
+   174.62955,
+   ""
   ],
   [
    9,
@@ -522487,8 +522487,8 @@
    "Nelson, Nelson Marlborough District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.31613,
+   173.22553,
    ""
   ],
   [
@@ -522498,8 +522498,8 @@
    "Te Aroha, Waikato District Health Board",
    "",
    "",
-   null,
-   null,
+   -37.54565,
+   175.69711,
    ""
   ],
   [
@@ -522509,8 +522509,8 @@
    "Te Awamutu, Waikato District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -38.01152,
+   175.31701,
    ""
   ],
   [
@@ -522531,8 +522531,8 @@
    "Wellington, Capital and Coast District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -41.30841,
+   174.78226,
    ""
   ],
   [
@@ -522542,8 +522542,8 @@
    "Te Kauwhata, Waikato District Health Board",
    "",
    "",
-   null,
-   null,
+   -37.40174,
+   175.14505,
    ""
   ],
   [
@@ -522553,8 +522553,8 @@
    "Patea, Taranaki District Health Board",
    "",
    "",
-   null,
-   null,
+   -39.75374,
+   174.47311,
    ""
   ],
   [
@@ -522564,9 +522564,9 @@
    "Auckland, Waitemata District Health Board",
    "12-month certification",
    "g1",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.80415,
+   174.70165,
+   ""
   ],
   [
    9,
@@ -522575,8 +522575,8 @@
    "Levin, MidCentral District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -40.62564,
+   175.29592,
    ""
   ],
   [
@@ -522586,8 +522586,8 @@
    "Taupo, Lakes District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -38.70861,
+   176.09018,
    ""
   ],
   [
@@ -522597,8 +522597,8 @@
    "Hastings, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.63815,
+   176.85799,
    ""
   ],
   [
@@ -522608,8 +522608,8 @@
    "Ashburton, Canterbury District Health Board",
    "",
    "",
-   null,
-   null,
+   -43.91693,
+   171.73548,
    ""
   ],
   [
@@ -522619,8 +522619,8 @@
    "Roxburgh, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -45.5385,
+   169.30943,
    ""
   ],
   [
@@ -522630,8 +522630,8 @@
    "Thames, Waikato District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -37.15613,
+   175.5623,
    ""
   ],
   [
@@ -522641,8 +522641,8 @@
    "Wellsford, Waitemata District Health Board",
    "",
    "",
-   null,
-   null,
+   -36.29242,
+   174.52688,
    ""
   ],
   [
@@ -522652,9 +522652,9 @@
    "Auckland, Auckland District Health Board",
    "12-month certification",
    "g1",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.86311,
+   174.78039,
+   ""
   ],
   [
    9,
@@ -522663,8 +522663,8 @@
    "Mosgiel, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -45.8936,
+   170.34555,
    ""
   ],
   [
@@ -522674,9 +522674,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.90488,
+   174.77118,
+   ""
   ],
   [
    9,
@@ -522685,8 +522685,8 @@
    "Te Kuiti, Waikato District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -38.32979,
+   175.15758,
    ""
   ],
   [
@@ -522696,8 +522696,8 @@
    "Kawerau, Bay of Plenty District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -38.09481,
+   176.70521,
    ""
   ],
   [
@@ -522707,8 +522707,8 @@
    "Napier South, Hawke's Bay District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -39.49808,
+   176.91238,
    ""
   ],
   [
@@ -522718,8 +522718,8 @@
    "Napier, Hawke's Bay District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -39.53827,
+   176.84597,
    ""
   ],
   [
@@ -522729,8 +522729,8 @@
    "Westport, West Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.77015,
+   171.60388,
    ""
   ],
   [
@@ -522740,9 +522740,9 @@
    "Auckland, Auckland District Health Board",
    "12-month certification",
    "g1",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.85139,
+   174.82381,
+   ""
   ],
   [
    9,
@@ -522751,9 +522751,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.49731,
+   172.5617,
+   ""
   ],
   [
    9,
@@ -522762,8 +522762,8 @@
    "Hokitika, West Coast District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -42.71876,
+   170.96674,
    ""
   ],
   [
@@ -522773,9 +522773,9 @@
    "Palmerston North, MidCentral District Health Board",
    "",
    "",
-   -40.35632,
-   175.61124,
-   "a"
+   -40.36296,
+   175.5818,
+   ""
   ],
   [
    9,
@@ -522784,9 +522784,9 @@
    "Christchurch, Canterbury District Health Board",
    "",
    "",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.54644,
+   172.62272,
+   ""
   ],
   [
    9,
@@ -522795,9 +522795,9 @@
    "Cambridge, Waikato District Health Board",
    "",
    "",
-   -37.89179,
-   175.46911,
-   "a"
+   -37.91091,
+   175.4789,
+   ""
   ],
   [
    9,
@@ -522806,8 +522806,8 @@
    "Wellington, Capital and Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.20595,
+   174.80776,
    ""
   ],
   [
@@ -522817,8 +522817,8 @@
    "Wanaka, Southern District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -44.70416,
+   169.1286,
    ""
   ],
   [
@@ -522828,8 +522828,8 @@
    "Oxford, Canterbury District Health Board",
    "",
    "",
-   null,
-   null,
+   -43.28816,
+   172.19317,
    ""
   ],
   [
@@ -522839,8 +522839,8 @@
    "Nelson, Nelson Marlborough District Health Board",
    "",
    "",
-   null,
-   null,
+   -41.32,
+   173.22559,
    ""
   ],
   [
@@ -522850,9 +522850,9 @@
    "Christchurch, Canterbury District Health Board",
    "",
    "",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.50532,
+   172.66731,
+   ""
   ],
   [
    9,
@@ -522861,8 +522861,8 @@
    "Masterton, Wairarapa District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -40.94422,
+   175.66891,
    ""
   ],
   [
@@ -522872,8 +522872,8 @@
    "Levin, MidCentral District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -40.61572,
+   175.27288,
    ""
   ],
   [
@@ -522883,9 +522883,9 @@
    "Auckland, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -37.01117,
+   174.89122,
+   ""
   ],
   [
    9,
@@ -522894,8 +522894,8 @@
    "Tauranga, Bay of Plenty District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.70381,
+   176.15971,
    ""
   ],
   [
@@ -522905,8 +522905,8 @@
    "Greytown, Wairarapa District Health Board",
    "24-month certification",
    "g3",
-   null,
-   null,
+   -41.08921,
+   175.45212,
    ""
   ],
   [
@@ -522916,8 +522916,8 @@
    "Wellington, Capital and Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.31231,
+   174.78805,
    ""
   ],
   [
@@ -522927,8 +522927,8 @@
    "Waipu, Northland District Health Board",
    "",
    "",
-   null,
-   null,
+   -35.9842,
+   174.44737,
    ""
   ],
   [
@@ -522938,9 +522938,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.56466,
+   172.62233,
+   ""
   ],
   [
    9,
@@ -522949,8 +522949,8 @@
    "Invercargill, Southern District Health Board",
    "",
    "",
-   null,
-   null,
+   -46.41814,
+   168.34982,
    ""
   ],
   [
@@ -522960,9 +522960,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.7415,
+   174.70973,
+   ""
   ],
   [
    9,
@@ -522971,8 +522971,8 @@
    "Porirua, Capital and Coast District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.1106,
+   174.83783,
    ""
   ],
   [
@@ -522982,8 +522982,8 @@
    "Kurow, Southern District Health Board",
    "",
    "",
-   null,
-   null,
+   -44.74508,
+   170.46441,
    ""
   ],
   [
@@ -522993,9 +522993,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.94042,
+   174.84227,
+   ""
   ],
   [
    9,
@@ -523004,8 +523004,8 @@
    "Nelson, Nelson Marlborough District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -41.27031,
+   173.2944,
    ""
   ],
   [
@@ -523015,9 +523015,9 @@
    "Opotiki, Bay of Plenty District Health Board",
    "",
    "",
-   null,
-   null,
-   ""
+   -38.00424,
+   177.28713,
+   "a"
   ],
   [
    9,
@@ -523026,9 +523026,9 @@
    "Cromwell, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
-   ""
+   -45.03713,
+   169.19729,
+   "a"
   ],
   [
    9,
@@ -523037,8 +523037,8 @@
    "New Plymouth, Taranaki District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.06465,
+   174.09165,
    ""
   ],
   [
@@ -523048,8 +523048,8 @@
    "Parua Bay, Northland District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -35.77703,
+   174.43437,
    ""
   ],
   [
@@ -523059,9 +523059,9 @@
    "Palmerston North, MidCentral District Health Board",
    "12-month certification",
    "g1",
-   -40.35632,
-   175.61124,
-   "a"
+   -40.36563,
+   175.60729,
+   ""
   ],
   [
    9,
@@ -523070,8 +523070,8 @@
    "Hawera, Taranaki District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.59619,
+   174.28039,
    ""
   ],
   [
@@ -523081,8 +523081,8 @@
    "Lawrence, Southern District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -45.9197,
+   169.68969,
    ""
   ],
   [
@@ -523092,9 +523092,9 @@
    "Papakura, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   -37.06426,
-   174.94467,
-   "a"
+   -37.05495,
+   174.93468,
+   ""
   ],
   [
    9,
@@ -523103,9 +523103,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.90472,
+   174.77062,
+   ""
   ],
   [
    9,
@@ -523114,9 +523114,9 @@
    "Auckland, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.9758,
+   174.85551,
+   ""
   ],
   [
    9,
@@ -523125,9 +523125,9 @@
    "Christchurch, Canterbury District Health Board",
    "48-month certification",
    "g6",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.52177,
+   172.63586,
+   ""
   ],
   [
    9,
@@ -523136,9 +523136,9 @@
    "Auckland, Auckland District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.89976,
+   174.76983,
+   ""
   ],
   [
    9,
@@ -523147,9 +523147,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.78253,
+   174.72001,
+   ""
   ],
   [
    9,
@@ -523158,9 +523158,9 @@
    "Auckland, Auckland District Health Board",
    "",
    "",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.87305,
+   174.76131,
+   ""
   ],
   [
    9,
@@ -523169,9 +523169,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.94038,
+   174.85649,
+   ""
   ],
   [
    9,
@@ -523180,8 +523180,8 @@
    "Tokoroa, Waikato District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -38.22922,
+   175.85747,
    ""
   ],
   [
@@ -523191,8 +523191,8 @@
    "Tauranga, Bay of Plenty District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -37.70411,
+   176.12795,
    ""
   ],
   [
@@ -523202,8 +523202,8 @@
    "Wellington, Capital and Coast District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -41.31651,
+   174.77787,
    ""
   ],
   [
@@ -523213,9 +523213,9 @@
    "Auckland, Counties Manukau District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.89992,
+   174.8977,
+   ""
   ],
   [
    9,
@@ -523224,8 +523224,8 @@
    "Lower Hutt, Hutt Valley District Health Board",
    "",
    "",
-   null,
-   null,
+   -41.1589,
+   174.97682,
    ""
   ],
   [
@@ -523235,8 +523235,8 @@
    "Waihi, Waikato District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -37.39305,
+   175.82949,
    ""
   ],
   [
@@ -523246,8 +523246,8 @@
    "Waihi, Waikato District Health Board",
    "24-month certification",
    "g3",
-   null,
-   null,
+   -37.39459,
+   175.83002,
    ""
   ],
   [
@@ -523257,8 +523257,8 @@
    "Waikanae, Capital and Coast District Health Board",
    "48-month certification",
    "g6",
-   null,
-   null,
+   -40.87992,
+   175.05255,
    ""
   ],
   [
@@ -523268,8 +523268,8 @@
    "Invercargill, Southern District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -46.3767,
+   168.34494,
    ""
   ],
   [
@@ -523279,8 +523279,8 @@
    "Masterton, Wairarapa District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -40.9536,
+   175.65189,
    ""
   ],
   [
@@ -523290,8 +523290,8 @@
    "Pahiatua, MidCentral District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -40.45831,
+   175.83346,
    ""
   ],
   [
@@ -523301,9 +523301,9 @@
    "Papakura, Counties Manukau District Health Board",
    "36-month certification",
    "g4",
-   -37.06426,
-   174.94467,
-   "a"
+   -37.05797,
+   174.93303,
+   ""
   ],
   [
    9,
@@ -523312,9 +523312,9 @@
    "Warkworth, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.39767,
-   174.66585,
-   "a"
+   -36.4068,
+   174.66464,
+   ""
   ],
   [
    9,
@@ -523323,8 +523323,8 @@
    "Napier, Hawke's Bay District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -39.52468,
+   176.86516,
    ""
   ],
   [
@@ -523334,9 +523334,9 @@
    "Auckland, Counties Manukau District Health Board",
    "48-month certification",
    "g6",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.90084,
+   174.93479,
+   ""
   ],
   [
    9,
@@ -523345,9 +523345,9 @@
    "Tapanui, Southern District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
-   ""
+   -45.94252,
+   169.26195,
+   "a"
   ],
   [
    9,
@@ -523356,8 +523356,8 @@
    "Feilding, MidCentral District Health Board",
    "24-month certification",
    "g3",
-   null,
-   null,
+   -40.25441,
+   175.58993,
    ""
   ],
   [
@@ -523367,9 +523367,9 @@
    "Kaeo, Northland District Health Board",
    "",
    "",
-   null,
-   null,
-   ""
+   -35.10031,
+   173.77976,
+   "a"
   ],
   [
    9,
@@ -523378,8 +523378,8 @@
    "Whitianga, Waikato District Health Board",
    "12-month certification",
    "g1",
-   null,
-   null,
+   -36.82654,
+   175.7022,
    ""
   ],
   [
@@ -523389,9 +523389,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.81721,
+   174.79123,
+   ""
   ],
   [
    9,
@@ -523400,8 +523400,8 @@
    "Te Awamutu, Waikato District Health Board",
    "36-month certification",
    "g4",
-   null,
-   null,
+   -38.0088,
+   175.31534,
    ""
   ],
   [
@@ -523411,9 +523411,9 @@
    "Christchurch, Canterbury District Health Board",
    "36-month certification",
    "g4",
-   -43.53095,
-   172.63643,
-   "a"
+   -43.50663,
+   172.66668,
+   ""
   ],
   [
    9,
@@ -523422,8 +523422,8 @@
    "Wyndham, Southern District Health Board",
    "",
    "",
-   null,
-   null,
+   -46.3306,
+   168.84532,
    ""
   ],
   [
@@ -523433,9 +523433,9 @@
    "Auckland, Waitemata District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.73014,
+   174.73186,
+   ""
   ],
   [
    9,
@@ -523444,9 +523444,9 @@
    "Auckland, Auckland District Health Board",
    "36-month certification",
    "g4",
-   -36.85209,
-   174.76318,
-   "a"
+   -36.89652,
+   174.74706,
+   ""
   ],
   [
    9,
@@ -523455,9 +523455,9 @@
    "Hamilton, Waikato District Health Board",
    "",
    "",
-   -37.78788,
-   175.28179,
-   "a"
+   -37.77675,
+   175.28336,
+   ""
   ],
   [
    9,
@@ -523466,8 +523466,8 @@
    "Dunedin, Southern District Health Board",
    "",
    "",
-   null,
-   null,
+   -45.86463,
+   170.49319,
    ""
   ],
   [

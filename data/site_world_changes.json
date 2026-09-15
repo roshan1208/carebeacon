@@ -3,6 +3,18 @@
   "date": "2026-09-15",
   "country": "Wales",
   "countryPath": "wales/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "The Oaks",
+  "place": "Powys",
+  "text": "Rated for the first time; lowest theme: Good",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00011494-XGPD/",
+  "since": "2026-09-15"
+ },
+ {
+  "date": "2026-09-15",
+  "country": "Wales",
+  "countryPath": "wales/",
   "kind": "other",
   "type": "ri_changed",
   "name": "Hengoed Court Care Home",
@@ -21,6 +33,18 @@
   "place": null,
   "text": "Newly registered",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00016239-QBNX/",
+  "since": "2026-09-15"
+ },
+ {
+  "date": "2026-09-15",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "CityView Guided stars",
+  "place": "Swansea",
+  "text": "Rated for the first time; lowest theme: Requires Improvement",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00014728-YGVY/",
   "since": "2026-09-15"
  },
  {

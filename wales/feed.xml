@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/feed</id>
-  <updated>2026-09-15T11:40:05Z</updated>
+  <updated>2026-09-15T13:10:17Z</updated>
   <subtitle>Welsh care homes whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register. CIW publishes a directory export; this is what changed between exports.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00011494-XGPD/2026-09-15/first_rated</id>
+    <title>The Oaks: Rated for the first time; lowest theme: Good (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00011494-XGPD/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Powys. Rated for the first time; lowest theme: Good (by 15 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00014728-YGVY/2026-09-15/first_rated</id>
+    <title>CityView Guided stars: Rated for the first time; lowest theme: Requires Improvement (by 15 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00014728-YGVY/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Swansea. Rated for the first time; lowest theme: Requires Improvement (by 15 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00016239-QBNX/2026-09-15/new</id>
     <title>Cotswold House: Newly registered (by 15 September 2026).</title>

@@ -5922,6 +5922,20 @@
   "longitude": -1.7866289
  },
  {
+  "locationId": "1-11823059229",
+  "name": "Alpha Supported Living Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Newcastle upon Tyne",
+  "numberOfBeds": 0,
+  "postalCode": "NE1 4PA",
+  "providerId": "1-10718520515",
+  "registeredManagerAbsentDate": "2026-04-21",
+  "latitude": 54.9732167,
+  "longitude": -1.6208091
+ },
+ {
   "locationId": "1-4255043709",
   "name": "Alphington Lodge Residential Home",
   "rating": "Good",
@@ -17624,6 +17638,20 @@
   "registeredManagerAbsentDate": "2026-07-17",
   "latitude": 51.552207,
   "longitude": -1.784365
+ },
+ {
+  "locationId": "1-12510817680",
+  "name": "Battersea Hospital",
+  "rating": "Good",
+  "ratingDate": "2023-03-24",
+  "region": "London",
+  "localAuthority": "Wandsworth",
+  "numberOfBeds": 0,
+  "postalCode": "SW8 4LR",
+  "providerId": "1-11469364331",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4763309,
+  "longitude": -0.1480172
  },
  {
   "locationId": "1-128237489",
@@ -34942,6 +34970,20 @@
   "registeredManagerAbsentDate": "2024-06-04",
   "latitude": 51.4382545,
   "longitude": -2.6021273
+ },
+ {
+  "locationId": "1-15520892465",
+  "name": "Care Assurance North London",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Enfield",
+  "numberOfBeds": 0,
+  "postalCode": "EN2 8JQ",
+  "providerId": "1-14450769898",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.6636261,
+  "longitude": -0.1048822
  },
  {
   "locationId": "1-119142905",
@@ -88788,6 +88830,20 @@
   "longitude": -2.271992
  },
  {
+  "locationId": "1-2781285055",
+  "name": "Home Instead Guildford and Woking",
+  "rating": "Outstanding",
+  "ratingDate": "2017-12-07",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "GU21 2EP",
+  "providerId": "1-116995022",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.313333,
+  "longitude": -0.611369
+ },
+ {
   "locationId": "1-23701210135",
   "name": "Home Instead Mid Norfolk",
   "rating": null,
@@ -108822,6 +108878,20 @@
   "longitude": -0.112322
  },
  {
+  "locationId": "1-26669644872",
+  "name": "Magnus Care Ltd (Gateshead)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Gateshead",
+  "numberOfBeds": 0,
+  "postalCode": "NE11 0JW",
+  "providerId": "1-10687244888",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.9302149,
+  "longitude": -1.6168742
+ },
+ {
   "locationId": "1-1974760307",
   "name": "Mahogany Care Home",
   "rating": "Good",
@@ -112236,6 +112306,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.5281477,
   "longitude": -2.0761577
+ },
+ {
+  "locationId": "1-15658824823",
+  "name": "Matti Care Office",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM19 4DH",
+  "providerId": "1-14581595362",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7647068,
+  "longitude": 0.0906764
  },
  {
   "locationId": "1-15199059355",
@@ -157792,6 +157876,20 @@
   "registeredManagerAbsentDate": "2026-06-24",
   "latitude": 53.1423192,
   "longitude": -0.760116
+ },
+ {
+  "locationId": "1-116790538",
+  "name": "South Essex Special Needs Housing Association Limited (SESNHA)",
+  "rating": "Good",
+  "ratingDate": "2023-05-11",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": null,
+  "postalCode": "SS11 8TR",
+  "providerId": "1-101672054",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.6224924,
+  "longitude": 0.5717866
  },
  {
   "locationId": "1-20394452315",
