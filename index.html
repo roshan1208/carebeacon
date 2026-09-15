@@ -1184,7 +1184,7 @@
       (hits.length > 60 ? " · showing " + (state.scopeGeo ? "the 60 nearest" : "60") + (q ? "" : ", type to narrow") : "");
     if (!hits.length) { resultsEl.innerHTML = '<p class="state">Nothing in ' + attr(state.scope) + ' matches that. Try a shorter word or a town.</p>'; return; }
     resultsEl.innerHTML = '<div class="cards">' + hits.slice(0, 60).map(function (h) {
-      var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies)</div>' : "";
+      var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies' + (h[8] === "a" ? ", approximate: placed at its town or district" : "") + ')</div>' : "";
       return '<div class="card-wrap"><a class="card" href="' + attr(country.path) + 'homes/' + attr(h[1]) + '/">' +
         '<h3>' + attr(h[2]) + '</h3>' + (h[3] ? '<div class="place">' + attr(h[3]) + '</div>' : "") +
         (h[4] ? '<span class="badge ' + attr(h[5] || "g0") + '">' + attr(h[4]) + '</span>' : "") + dist + '</a></div>';
@@ -1354,13 +1354,16 @@
       var icon = L.divIcon({ className: "care-home-marker", html: '<span style="background:' + gclassColor(h[5]) + '"></span>', iconSize: [16, 16] });
       var marker = L.marker([h[6], h[7]], { icon: icon });
       marker.bindPopup('<div class="map-popup"><h4>' + attr(h[2]) + '</h4>' + attr(h[3] || "") + (h[4] ? '<br>' + attr(h[4]) : "") +
+        (h[8] === "a" ? '<br><em>Approximate: placed at its town or district, not the building.</em>' : "") +
         '<br><a href="' + attr(path) + 'homes/' + attr(h[1]) + '/">Open this home\'s page</a></div>');
       return marker;
     });
     clusterGroup.addLayers(markers);
     if (markers.length) map.fitBounds(clusterGroup.getBounds(), { padding: [30, 30], maxZoom: 13 });
+    var approx = rows.filter(function (h) { return h[8] === "a"; }).length;
     document.getElementById("results-count").textContent = markers.length.toLocaleString() + " of " + (state.lastScoped || []).length.toLocaleString() +
-      " homes in " + state.scope + " shown on the map" + (markers.length < (state.lastScoped || []).length ? " (the rest have no published coordinates)" : "");
+      " homes in " + state.scope + " shown on the map" + (markers.length < (state.lastScoped || []).length ? " (the rest could not be located yet)" : "") +
+      (approx ? " · " + approx.toLocaleString() + " placed at their town or district, not the building" : "");
   }
 
   function renderMap() {
