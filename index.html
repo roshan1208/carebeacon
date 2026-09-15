@@ -140,6 +140,23 @@
   .nations-label { flex-basis: 100%; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
   .nations a[hidden] { display: none; }
   .nations a.nations-all { border-style: dashed; }
+  /* Scoped to a country other than England: the register loaded in the
+     browser is England's, so its filters (rating, region, specialism,
+     manager gap, postcode, CSV, map, trends) are hidden and the search
+     runs over the world index for that country instead. */
+  body.scoped .filterbar > :not(#q):not(label[for="q"]):not(.scoped-only) { display: none; }
+  body.scoped .view-toggle, body.scoped .shortlist-bar, body.scoped #world-results, body.scoped #map, body.scoped #trends { display: none !important; }
+  body.scoped .filterbar { position: static; }
+  #scope-near { font: inherit; padding: 10px 14px; border: 1px solid var(--border); border-radius: 8px; background: var(--card-bg); color: var(--ink); cursor: pointer; white-space: nowrap; }
+  #scope-near:hover { border-color: var(--accent); }
+  #scope-status { font-size: 0.85rem; color: var(--muted); }
+  .scope-browse { margin: -4px 0 14px; font-size: 0.95rem; }
+  .scope-browse[hidden] { display: none; }
+  .scope-browse a { font-weight: 600; }
+  a.card { text-decoration: none; }
+  a.card:hover h3 { text-decoration: underline; }
+  .card .grade { color: var(--muted); }
+  main.wrap > .scope-browse { order: 6; }
   .nations a {
     display: inline-block; border: 1px solid var(--border); border-radius: 999px; padding: 5px 13px;
     font-size: 0.9rem; color: inherit; text-decoration: underline; text-decoration-color: var(--border);
@@ -540,18 +557,18 @@
 
   <nav class="nations" aria-labelledby="nations-label">
     <span id="nations-label" class="nations-label">Where are you looking?</span>
-    <a href="./" aria-current="page">England <span class="n" data-nation="england"></span></a>
-    <a href="scotland/">Scotland <span class="n" data-nation="scotland"></span></a>
-    <a href="wales/">Wales <span class="n" data-nation="wales"></span></a>
-    <a href="northern-ireland/">Northern Ireland <span class="n" data-nation="ni"></span></a>
-    <a href="ireland/">Ireland <span class="n" data-nation="ireland"></span></a>
-    <a href="united-states/" data-needs="united-states">United States <span class="n" data-nation="united-states"></span></a>
-    <a href="france/" data-needs="france">France <span class="n" data-nation="france"></span></a>
-    <a href="japan/" data-needs="japan">Japan <span class="n" data-nation="japan"></span></a>
-    <a href="south-korea/" data-needs="south-korea">South Korea <span class="n" data-nation="south-korea"></span></a>
-    <a href="hong-kong/" data-needs="hong-kong">Hong Kong <span class="n" data-nation="hong-kong"></span></a>
-    <a href="new-zealand/" data-needs="new-zealand">New Zealand <span class="n" data-nation="new-zealand"></span></a>
-    <a href="flanders/" data-needs="flanders">Belgium (Flanders) <span class="n" data-nation="flanders"></span></a>
+    <a href="./" data-name="England" aria-current="page">England <span class="n" data-nation="england"></span></a>
+    <a href="scotland/" data-name="Scotland">Scotland <span class="n" data-nation="scotland"></span></a>
+    <a href="wales/" data-name="Wales">Wales <span class="n" data-nation="wales"></span></a>
+    <a href="northern-ireland/" data-name="Northern Ireland">Northern Ireland <span class="n" data-nation="ni"></span></a>
+    <a href="ireland/" data-name="Ireland">Ireland <span class="n" data-nation="ireland"></span></a>
+    <a href="united-states/" data-needs="united-states" data-name="United States">United States <span class="n" data-nation="united-states"></span></a>
+    <a href="france/" data-needs="france" data-name="France">France <span class="n" data-nation="france"></span></a>
+    <a href="japan/" data-needs="japan" data-name="Japan">Japan <span class="n" data-nation="japan"></span></a>
+    <a href="south-korea/" data-needs="south-korea" data-name="South Korea">South Korea <span class="n" data-nation="south-korea"></span></a>
+    <a href="hong-kong/" data-needs="hong-kong" data-name="Hong Kong">Hong Kong <span class="n" data-nation="hong-kong"></span></a>
+    <a href="new-zealand/" data-needs="new-zealand" data-name="New Zealand">New Zealand <span class="n" data-nation="new-zealand"></span></a>
+    <a href="flanders/" data-needs="flanders" data-name="Belgium (Flanders)">Belgium (Flanders) <span class="n" data-nation="flanders"></span></a>
     <a href="countries/" class="nations-all">All countries &amp; where we have no data</a>
   </nav>
 
@@ -569,6 +586,8 @@
   <form class="filterbar" role="search" aria-label="Search care homes" onsubmit="return false;">
     <label class="visually-hidden" for="q">Search by name, town or local authority</label>
     <input id="q" type="search" placeholder="Search by name, town or local authority" autocomplete="off">
+    <button type="button" id="scope-near" class="scoped-only" hidden>Use my location</button>
+    <span id="scope-status" class="scoped-only" role="status" aria-live="polite" hidden></span>
 
     <label class="visually-hidden" for="rating">Filter by rating</label>
     <select id="rating">
@@ -618,6 +637,7 @@
   </div>
 
   <p class="results-count" id="results-count" aria-live="polite"></p>
+  <p class="scope-browse" id="scope-browse" hidden></p>
   <div id="results"><p class="state">Loading care homes…</p></div>
   <section id="world-results" aria-live="polite" hidden></section>
   <div id="map" hidden></div>
@@ -1077,8 +1097,95 @@
     box.hidden = false;
   }
 
+  // --- Country scope ------------------------------------------------------
+  // The finder covers every country. England's full register is loaded in
+  // the browser (ratings, specialisms, coordinates); every other country is
+  // searched from the world index (name, place, grade, coordinates where
+  // published). Picking a chip scopes the search, results and "near me"
+  // to that country without leaving the page; the chip's href is the
+  // static country page, the no-JavaScript fallback.
+  function setScope(name) {
+    state.scope = name || "England";
+    state.scopeGeo = null;
+    var scoped = state.scope !== "England";
+    document.body.classList.toggle("scoped", scoped);
+    document.querySelectorAll(".nations a[data-name]").forEach(function (a) {
+      if (a.getAttribute("data-name") === state.scope) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
+    });
+    var q = document.getElementById("q");
+    q.placeholder = scoped ? "Search by name or town in " + state.scope : "Search by name, town or local authority";
+    document.querySelectorAll(".scoped-only").forEach(function (el) { el.hidden = !scoped; });
+    document.getElementById("scope-status").textContent = "";
+    if (scoped && state.view !== "list") switchView("list");
+    renderResults();
+    updateUrlFromFilters();
+  }
+
+  document.querySelectorAll(".nations a[data-name]").forEach(function (a) {
+    a.addEventListener("click", function (e) {
+      e.preventDefault();
+      setScope(a.getAttribute("data-name"));
+      document.getElementById("q").focus();
+    });
+  });
+
+  document.getElementById("scope-near").addEventListener("click", function () {
+    var status = document.getElementById("scope-status");
+    if (!navigator.geolocation) { status.textContent = "Location is not available in this browser."; return; }
+    status.textContent = "Finding your location…";
+    navigator.geolocation.getCurrentPosition(function (pos) {
+      state.scopeGeo = { latitude: pos.coords.latitude, longitude: pos.coords.longitude };
+      status.textContent = "Sorted by distance from you.";
+      renderResults();
+    }, function () { status.textContent = "Location not available. Type a town instead."; }, { timeout: 10000 });
+  });
+
+  function renderScopedResults(q) {
+    var countEl = document.getElementById("results-count"), resultsEl = document.getElementById("results"), browse = document.getElementById("scope-browse");
+    if (!state.worldIndex) {
+      countEl.textContent = ""; resultsEl.innerHTML = '<p class="state">Loading ' + attr(state.scope) + '…</p>'; browse.hidden = true;
+      fetchWorldIndexOnce().then(function (idx) {
+        if (!idx) { resultsEl.innerHTML = '<p class="state">Could not load the register for ' + attr(state.scope) + '. <a href="countries/">Open the country page instead.</a></p>'; return; }
+        if (state.scope !== "England") renderResults();
+      });
+      return;
+    }
+    var idx = state.worldIndex, ci = -1;
+    idx.countries.forEach(function (c, i) { if (c.name === state.scope) ci = i; });
+    var country = idx.countries[ci];
+    if (!country) { countEl.textContent = ""; resultsEl.innerHTML = '<p class="state">No data for ' + attr(state.scope) + ' yet.</p>'; browse.hidden = true; return; }
+    var all = idx.homes.filter(function (h) { return h[0] === ci; }), hits = [];
+    all.forEach(function (h) {
+      if (q) {
+        var n = h[2].toLowerCase(), pl = h[3].toLowerCase();
+        var s = n.indexOf(q) === 0 ? 0 : n.indexOf(q) !== -1 ? 1 : pl.indexOf(q) !== -1 ? 2 : -1;
+        if (s < 0) return;
+        h = h.slice(); h.score = s;
+      } else { h = h.slice(); h.score = 0; }
+      if (state.scopeGeo) h.km = (h.length >= 7) ? haversineMiles(state.scopeGeo.latitude, state.scopeGeo.longitude, h[5], h[6]) * 1.609344 : Infinity;
+      hits.push(h);
+    });
+    if (state.scopeGeo) hits.sort(function (a, b) { return a.km - b.km; });
+    else hits.sort(function (a, b) { return a.score - b.score || a[2].localeCompare(b[2]); });
+    var hasCoords = all.some(function (h) { return h.length >= 7; });
+    document.getElementById("scope-near").hidden = !hasCoords;
+    browse.innerHTML = '<a href="' + attr(country.path) + '">Browse every home in ' + attr(state.scope) + ' by area, with grades and what changed &rarr;</a>';
+    browse.hidden = false;
+    countEl.textContent = (q ? hits.length.toLocaleString() + " of " : "") + all.length.toLocaleString() + " homes in " + state.scope +
+      (hits.length > 60 ? " · showing " + (state.scopeGeo ? "the 60 nearest" : "60") + (q ? "" : ", type to narrow") : "");
+    if (!hits.length) { resultsEl.innerHTML = '<p class="state">Nothing in ' + attr(state.scope) + ' matches that. Try a shorter word or a town.</p>'; return; }
+    resultsEl.innerHTML = '<div class="cards">' + hits.slice(0, 60).map(function (h) {
+      var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies)</div>' : "";
+      return '<div class="card-wrap"><a class="card" href="' + attr(country.path) + 'homes/' + attr(h[1]) + '/">' +
+        '<h3>' + attr(h[2]) + '</h3>' + (h[3] ? '<div class="place">' + attr(h[3]) + '</div>' : "") +
+        (h[4] ? '<span class="badge unrated grade">' + attr(h[4]) + '</span>' : "") + dist + '</a></div>';
+    }).join("") + '</div>';
+  }
+
   function renderResults() {
     var q = document.getElementById("q").value.trim().toLowerCase();
+    if (state.scope && state.scope !== "England") { renderScopedResults(q); return; }
+    document.getElementById("scope-browse").hidden = true;
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
     var managerGapOnly = document.getElementById("manager-gap-only").checked;
@@ -1670,7 +1777,8 @@
       // select anything.
       restoreFiltersFromUrl();
       renderChanges();
-      renderResults();
+      var wanted = new URLSearchParams(location.search).get("country");
+      if (wanted && wanted !== "England") setScope(wanted); else renderResults();
       renderShortlistBar();
 
       // Deep link support: a shared "?home=<id>" URL opens straight to
@@ -1733,6 +1841,7 @@
     if (specialism) params.set("specialism", specialism);
     if (managerGapOnly) params.set("managerGap", "1");
     if (state.nearMe) params.set("near", state.nearMe.postcode);
+    if (state.scope && state.scope !== "England") params.set("country", state.scope);
     var query = params.toString();
     // replaceState, not pushState: every keystroke updating browser
     // history would make the back button useless for actual navigation.
