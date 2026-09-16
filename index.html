@@ -198,6 +198,16 @@
     flex: 0 1 200px; min-width: 0; max-width: 100%;
     text-overflow: ellipsis; overflow: hidden; white-space: nowrap;
   }
+  /* The scoped rating filter is a wrapper (label + select) so that both
+     hide together, which makes the wrapper the flex item and moves the
+     min-width: auto problem above onto it. Same guard, same reason:
+     "Requires Significant Improvement (128)" is wide enough to overflow a
+     phone on its own. And the explicit [hidden] rule is required because
+     any display value here would override the UA stylesheet's
+     [hidden] { display: none }. */
+  #scope-grade-wrap { display: inline-flex; flex: 0 1 220px; min-width: 0; max-width: 100%; }
+  #scope-grade-wrap[hidden] { display: none; }
+  #scope-grade-wrap select { width: 100%; flex: 1 1 auto; }
   label.visually-hidden {
     position: absolute; width: 1px; height: 1px; overflow: hidden;
     clip: rect(0,0,0,0); white-space: nowrap;
@@ -590,6 +600,10 @@
     <label class="visually-hidden" for="q">Search by name, town or local authority</label>
     <input id="q" type="search" placeholder="Search by name, town or local authority" autocomplete="off">
     <button type="button" id="scope-near" class="scoped-only" hidden>Use my location</button>
+    <span id="scope-grade-wrap" class="scoped-only" hidden>
+      <label class="visually-hidden" for="scope-grade">Filter by rating</label>
+      <select id="scope-grade"><option value="">Any rating</option></select>
+    </span>
     <span id="scope-status" class="scoped-only" role="status" aria-live="polite" hidden></span>
 
     <label class="visually-hidden" for="rating">Filter by rating</label>
@@ -1111,6 +1125,10 @@
     state.scope = name || "England";
     state.scopeGeo = null;
     state.lastScoped = null;
+    // One regulator's grades mean nothing on another's scale, so the
+    // rating filter is rebuilt from scratch for the country being opened.
+    state.scopeGradesFor = null;
+    document.getElementById("scope-grade").value = "";
     document.body.classList.remove("no-coords");
     var scoped = state.scope !== "England";
     document.body.classList.toggle("scoped", scoped);
@@ -1145,6 +1163,58 @@
     }, function () { status.textContent = "Location not available. Type a town instead."; }, { timeout: 10000 });
   });
 
+  var NO_GRADE = "__none";
+
+  function gclassNum(c) {
+    var m = /^g(\d)$/.exec(c || "");
+    return m ? +m[1] : -1;
+  }
+
+  // The rating filter for a scoped country, built from that country's own
+  // published values. Twelve regulators do not share a scale, so nothing
+  // here is translated into a common one: the options are the regulator's
+  // own words, ordered best-first by the badge class the index already
+  // carries, and the label names whose judgement it is. A register that
+  // publishes no grade (Ireland, Northern Ireland, Japan, France) gets no
+  // filter rather than an empty one.
+  function populateScopeGrades(country, all) {
+    var wrap = document.getElementById("scope-grade-wrap"), sel = document.getElementById("scope-grade");
+    if (state.scopeGradesFor === state.scope) return;
+    state.scopeGradesFor = state.scope;
+    var counts = {}, cls = {}, unrated = 0;
+    all.forEach(function (h) {
+      if (!h[4]) { unrated++; return; }
+      counts[h[4]] = (counts[h[4]] || 0) + 1;
+      cls[h[4]] = gclassNum(h[5]);
+    });
+    var grades = Object.keys(counts).sort(function (a, b) { return cls[b] - cls[a] || a.localeCompare(b); });
+    if (!grades.length) {
+      wrap.hidden = true;
+      sel.innerHTML = '<option value="">Any rating</option>';
+      state.wantGrade = null;
+      return;
+    }
+    var scale = country.scale || "rating", says = country.note || scale;
+    var label = "Filter by " + says;
+    document.querySelector('label[for="scope-grade"]').textContent = label;
+    sel.setAttribute("aria-label", label);
+    var html = '<option value="">Any ' + attr(scale.toLowerCase()) + '</option>';
+    grades.forEach(function (g) {
+      html += '<option value="' + attr(g) + '">' + attr(g) + ' (' + counts[g].toLocaleString() + ')</option>';
+    });
+    if (unrated) {
+      html += '<option value="' + NO_GRADE + '">' + attr(country.unrated || "No published rating") +
+        ' (' + unrated.toLocaleString() + ')</option>';
+    }
+    sel.innerHTML = html;
+    wrap.hidden = false;
+    if (state.wantGrade) {
+      sel.value = state.wantGrade;
+      if (sel.selectedIndex < 0) sel.value = "";
+      state.wantGrade = null;
+    }
+  }
+
   function renderScopedResults(q) {
     var countEl = document.getElementById("results-count"), resultsEl = document.getElementById("results"), browse = document.getElementById("scope-browse");
     if (!state.worldIndex) {
@@ -1160,7 +1230,10 @@
     var country = idx.countries[ci];
     if (!country) { countEl.textContent = ""; resultsEl.innerHTML = '<p class="state">No data for ' + attr(state.scope) + ' yet.</p>'; browse.hidden = true; return; }
     var all = idx.homes.filter(function (h) { return h[0] === ci; }), hits = [];
+    populateScopeGrades(country, all);
+    var wantGrade = document.getElementById("scope-grade-wrap").hidden ? "" : document.getElementById("scope-grade").value;
     all.forEach(function (h) {
+      if (wantGrade && (wantGrade === NO_GRADE ? !!h[4] : h[4] !== wantGrade)) return;
       if (q) {
         var n = h[2].toLowerCase(), pl = h[3].toLowerCase();
         var s = n.indexOf(q) === 0 ? 0 : n.indexOf(q) !== -1 ? 1 : pl.indexOf(q) !== -1 ? 2 : -1;
@@ -1180,9 +1253,13 @@
     if (state.view === "map") { renderMap(); return; }
     browse.innerHTML = '<a href="' + attr(country.path) + '">Browse every home in ' + attr(state.scope) + ' by area, with grades and what changed &rarr;</a>';
     browse.hidden = false;
-    countEl.textContent = (q ? hits.length.toLocaleString() + " of " : "") + all.length.toLocaleString() + " homes in " + state.scope +
-      (hits.length > 60 ? " · showing " + (state.scopeGeo ? "the 60 nearest" : "60") + (q ? "" : ", type to narrow") : "");
-    if (!hits.length) { resultsEl.innerHTML = '<p class="state">Nothing in ' + attr(state.scope) + ' matches that. Try a shorter word or a town.</p>'; return; }
+    var narrowed = q || wantGrade;
+    countEl.textContent = (narrowed ? hits.length.toLocaleString() + " of " : "") + all.length.toLocaleString() + " homes in " + state.scope +
+      (hits.length > 60 ? " · showing " + (state.scopeGeo ? "the 60 nearest" : "60") + (narrowed ? "" : ", type to narrow") : "");
+    if (!hits.length) {
+      resultsEl.innerHTML = '<p class="state">Nothing in ' + attr(state.scope) + ' matches that. Try a shorter word, a town, or any rating.</p>';
+      return;
+    }
     resultsEl.innerHTML = '<div class="cards">' + hits.slice(0, 60).map(function (h) {
       var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies' + (h[8] === "a" ? ", approximate: placed at its town or district" : "") + ')</div>' : "";
       return '<div class="card-wrap"><a class="card" href="' + attr(country.path) + 'homes/' + attr(h[1]) + '/">' +
@@ -1854,6 +1931,9 @@
     if (params.has("region")) document.getElementById("region").value = params.get("region");
     if (params.has("specialism")) document.getElementById("specialism").value = params.get("specialism");
     if (params.get("managerGap") === "1") document.getElementById("manager-gap-only").checked = true;
+    // The scoped rating options only exist once the world index has
+    // loaded, so the wanted value is held until that country is built.
+    if (params.has("rated")) state.wantGrade = params.get("rated");
     if (params.has("near")) {
       // Re-geocodes rather than trusting a lat/long baked into the URL —
       // a URL is copy-pasted and reused far longer than a geocode result
@@ -1880,7 +1960,11 @@
     if (specialism) params.set("specialism", specialism);
     if (managerGapOnly) params.set("managerGap", "1");
     if (state.nearMe) params.set("near", state.nearMe.postcode);
-    if (state.scope && state.scope !== "England") params.set("country", state.scope);
+    if (state.scope && state.scope !== "England") {
+      params.set("country", state.scope);
+      var scopeGrade = document.getElementById("scope-grade-wrap").hidden ? "" : document.getElementById("scope-grade").value;
+      if (scopeGrade) params.set("rated", scopeGrade);
+    }
     var query = params.toString();
     // replaceState, not pushState: every keystroke updating browser
     // history would make the back button useless for actual navigation.
@@ -1897,6 +1981,7 @@
   document.getElementById("region").addEventListener("change", onFilterChange);
   document.getElementById("specialism").addEventListener("change", onFilterChange);
   document.getElementById("manager-gap-only").addEventListener("change", onFilterChange);
+  document.getElementById("scope-grade").addEventListener("change", onFilterChange);
 
   document.getElementById("find-near-me").addEventListener("click", findNearMe);
   document.getElementById("clear-near-me").addEventListener("click", clearNearMe);
