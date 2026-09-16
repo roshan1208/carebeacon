@@ -35336,6 +35336,20 @@
   "longitude": -2.4937338
  },
  {
+  "locationId": "1-3523906808",
+  "name": "Carecircle Healthcare Ltd",
+  "rating": "Good",
+  "ratingDate": "2019-09-27",
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "WD25 8HR",
+  "providerId": "1-3486066318",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.6664099,
+  "longitude": -0.3651869
+ },
+ {
   "locationId": "1-13814648961",
   "name": "Caremark (Milton Keynes)",
   "rating": null,
@@ -66918,6 +66932,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.6745719,
   "longitude": -1.7727957
+ },
+ {
+  "locationId": "1-19900185428",
+  "name": "FKS Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hammersmith and Fulham",
+  "numberOfBeds": 0,
+  "postalCode": "SW6 4SJ",
+  "providerId": "1-15867342282",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.474983,
+  "longitude": -0.194428
  },
  {
   "locationId": "1-25823947933",
@@ -130060,6 +130088,20 @@
   "longitude": -1.0864464
  },
  {
+  "locationId": "1-10431586894",
+  "name": "Ornate Health Care Derby",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derby",
+  "numberOfBeds": 0,
+  "postalCode": "DE24 8AA",
+  "providerId": "1-3252506920",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.9086832,
+  "longitude": -1.4618441
+ },
+ {
   "locationId": "1-127657754",
   "name": "Orrell Grange",
   "rating": "Good",
@@ -191534,6 +191576,20 @@
   "longitude": -2.0104394
  },
  {
+  "locationId": "1-12753220976",
+  "name": "Thrive Homecare",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 0,
+  "postalCode": "CT1 2NP",
+  "providerId": "1-11272183887",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.278743,
+  "longitude": 1.0782214
+ },
+ {
   "locationId": "1-270358660",
   "name": "Thurlaston Meadows Care Home Ltd",
   "rating": null,
@@ -212490,6 +212546,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.594412,
   "longitude": -2.170915
+ },
+ {
+  "locationId": "1-10902124412",
+  "name": "Your Quality Care Services Limited (Gradwell)",
+  "rating": "Good",
+  "ratingDate": "2022-09-15",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 0,
+  "postalCode": "BN8 4FP",
+  "providerId": "1-174496497",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.9374795,
+  "longitude": -0.0282809
  },
  {
   "locationId": "1-22150466669",

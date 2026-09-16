@@ -1,6 +1,18 @@
 [
  {
   "date": "2026-09-16",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "other",
+  "type": "ri_changed",
+  "name": "Hengoed Park Care Home",
+  "place": "Swansea",
+  "text": "Responsible individual changed: none recorded to TIMOTHY  Williams",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010148-BSLK/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
   "country": "Ireland",
   "countryPath": "ireland/",
   "kind": "new",
