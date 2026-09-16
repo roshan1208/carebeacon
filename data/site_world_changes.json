@@ -97,6 +97,42 @@
  },
  {
   "date": "2026-09-16",
+  "country": "Hong Kong",
+  "countryPath": "hong-kong/",
+  "kind": "other",
+  "type": "name_changed",
+  "name": "SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]",
+  "place": "Yau Tsim Mong",
+  "text": "Name changed: SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE] / SENIOR CARE (TAI WAH) ELDERLY CARE HOME CUM ELDERLY DAY CARE CENTRE [CCSV RSP] to SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]",
+  "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0946/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
+  "country": "Hong Kong",
+  "countryPath": "hong-kong/",
+  "kind": "other",
+  "type": "name_changed",
+  "name": "OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY",
+  "place": "Tai Po",
+  "text": "Name changed: OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY",
+  "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0069/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
+  "country": "Hong Kong",
+  "countryPath": "hong-kong/",
+  "kind": "other",
+  "type": "name_changed",
+  "name": "OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1)",
+  "place": "Tai Po",
+  "text": "Name changed: OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1) [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1)",
+  "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0070/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
   "country": "France",
   "countryPath": "france/",
   "kind": "other",
