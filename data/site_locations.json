@@ -11468,8 +11468,8 @@
  {
   "locationId": "1-127051008",
   "name": "Ashingham House",
-  "rating": "Good",
-  "ratingDate": "2019-01-12",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Kent",
   "numberOfBeds": 10,
@@ -28504,6 +28504,20 @@
   "longitude": -1.5799704
  },
  {
+  "locationId": "1-18374478664",
+  "name": "Bridgecare Solutions Ltd 2",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Portsmouth",
+  "numberOfBeds": 0,
+  "postalCode": "PO1 1PJ",
+  "providerId": "1-11356597965",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.7978839,
+  "longitude": -1.0776275
+ },
+ {
   "locationId": "1-5408948402",
   "name": "Bridgedale House",
   "rating": "Good",
@@ -33742,8 +33756,8 @@
  {
   "locationId": "1-118299292",
   "name": "California House",
-  "rating": "Good",
-  "ratingDate": "2018-11-28",
+  "rating": null,
+  "ratingDate": null,
   "region": "North West",
   "localAuthority": "Cumberland",
   "numberOfBeds": 5,
@@ -37042,6 +37056,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.4368868,
   "longitude": -1.9618769
+ },
+ {
+  "locationId": "1-19884880836",
+  "name": "Castlefields Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 0,
+  "postalCode": "ST16 1BS",
+  "providerId": "1-19878999310",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.801013,
+  "longitude": -2.129518
  },
  {
   "locationId": "1-147345360",
@@ -43370,6 +43398,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4666338,
   "longitude": -2.6140029
+ },
+ {
+  "locationId": "1-19883695288",
+  "name": "City Clinics Group Limited",
+  "rating": "Good",
+  "ratingDate": "2021-08-03",
+  "region": "London",
+  "localAuthority": "Westminster",
+  "numberOfBeds": 0,
+  "postalCode": "W1G 7HN",
+  "providerId": "1-8285391348",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.520244,
+  "longitude": -0.147305
  },
  {
   "locationId": "1-16295574745",
@@ -61322,8 +61364,8 @@
  {
   "locationId": "1-4309669977",
   "name": "Elysium Care Partnerships Limited - 1a Upper Brighton Road",
-  "rating": "Outstanding",
-  "ratingDate": "2018-12-14",
+  "rating": null,
+  "ratingDate": null,
   "region": "London",
   "localAuthority": "Kingston upon Thames",
   "numberOfBeds": 9,
@@ -80516,8 +80558,8 @@
  {
   "locationId": "1-124583595",
   "name": "Hawthorn Bungalow",
-  "rating": "Good",
-  "ratingDate": "2019-07-05",
+  "rating": null,
+  "ratingDate": null,
   "region": "East",
   "localAuthority": "Essex",
   "numberOfBeds": 10,
@@ -82276,6 +82318,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4713793,
   "longitude": 0.1710163
+ },
+ {
+  "locationId": "1-188456602",
+  "name": "Heathfield Dental Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Croydon",
+  "numberOfBeds": 0,
+  "postalCode": "CR0 1EW",
+  "providerId": "1-153037548",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3635349,
+  "longitude": -0.097099
  },
  {
   "locationId": "1-2855221799",
@@ -90816,6 +90872,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.8013883,
   "longitude": -0.1971726
+ },
+ {
+  "locationId": "1-15522865350",
+  "name": "Hummingbird Homecare Yeovil",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "BA20 2EN",
+  "providerId": "1-15478751675",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.9437188,
+  "longitude": -2.6609027
  },
  {
   "locationId": "1-26777238105",
@@ -156716,6 +156786,20 @@
   "longitude": -0.1960144
  },
  {
+  "locationId": "1-194040730",
+  "name": "Sidney Urdang Dental Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "TW16 5DX",
+  "providerId": "1-153007023",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.417977,
+  "longitude": -0.411646
+ },
+ {
   "locationId": "1-4978191062",
   "name": "Siesta",
   "rating": "Good",
@@ -195118,6 +195202,20 @@
   "longitude": -1.338569
  },
  {
+  "locationId": "1-317366018",
+  "name": "Universal Care Agency Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Portsmouth",
+  "numberOfBeds": 0,
+  "postalCode": "PO6 3UD",
+  "providerId": "1-145817312",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8508416,
+  "longitude": -1.0672355
+ },
+ {
   "locationId": "1-1755256775",
   "name": "University Care",
   "rating": "Good",
@@ -204694,6 +204792,20 @@
   "longitude": -1.2049719
  },
  {
+  "locationId": "1-566459309",
+  "name": "Whiteparish Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "numberOfBeds": 0,
+  "postalCode": "SP5 2SU",
+  "providerId": "1-199751483",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.0103805,
+  "longitude": -1.6506448
+ },
+ {
   "locationId": "1-14628423765",
   "name": "Whites Community Care",
   "rating": null,
@@ -208014,8 +208126,8 @@
  {
   "locationId": "1-25046707359",
   "name": "Witnesham Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2018-08-03",
+  "rating": null,
+  "ratingDate": null,
   "region": "East",
   "localAuthority": "Suffolk",
   "numberOfBeds": 30,

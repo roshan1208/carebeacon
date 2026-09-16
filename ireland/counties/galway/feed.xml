@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/galway/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/galway/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/galway/feed</id>
-  <updated>2026-09-15T18:36:23Z</updated>
+  <updated>2026-09-16T06:39:55Z</updated>
   <subtitle>Nursing homes in County Galway whose HIQA registration just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/361/2026-09-16/places_changed</id>
+    <title>Ballinasloe Care Centre: Registered places changed: 21 to 60 (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/361/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Galway. Registered places changed: 21 to 60 (by 16 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/361/2026-09-16/conditions_changed</id>
+    <title>Ballinasloe Care Centre: Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/361/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Galway. Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 16 September 2026).</summary>
+  </entry>
 </feed>

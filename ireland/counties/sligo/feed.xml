@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/sligo/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/sligo/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/sligo/feed</id>
-  <updated>2026-09-15T18:36:23Z</updated>
+  <updated>2026-09-16T06:39:55Z</updated>
   <subtitle>Nursing homes in County Sligo whose HIQA registration just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/9276/2026-09-16/new</id>
+    <title>Ursuline Manor Nursing Home: Newly registered (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/9276/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Sligo. Newly registered (by 16 September 2026).</summary>
+  </entry>
 </feed>

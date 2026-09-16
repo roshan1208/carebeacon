@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>CareBeacon — changes at EHPAD (care homes for dependent older people) run by GPE HOSPITALIER LA ROCHELLE-RE-AUNIS</title>
+  <title>CareBeacon — changes at EHPAD (care homes for dependent older people) run by GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI</title>
   <link href="https://roshan1208.github.io/carebeacon/france/operators/170024194/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/operators/170024194/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/operators/170024194/feed</id>
-  <updated>2026-09-15T18:36:27Z</updated>
-  <subtitle>Ehpad (care homes for dependent older people) run by GPE HOSPITALIER LA ROCHELLE-RE-AUNIS whose record just changed.</subtitle>
-
+  <updated>2026-09-16T06:40:02Z</updated>
+  <subtitle>Ehpad (care homes for dependent older people) run by GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI whose record just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170022834/2026-09-16/provider_changed</id>
+    <title>EHPAD LA MAISON DE BAILLAC: Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/170022834/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Charente-Maritime. Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI (by 16 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170783625/2026-09-16/provider_changed</id>
+    <title>EHPAD DE SAINT-MARTIN de Rê: Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/170783625/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Charente-Maritime. Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI (by 16 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170783625/2026-09-16/name_changed</id>
+    <title>EHPAD DE SAINT-MARTIN de Rê: Name changed: EHPAD DE SAINT-MARTIN to EHPAD DE SAINT-MARTIN de Rê (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/170783625/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Charente-Maritime. Name changed: EHPAD DE SAINT-MARTIN to EHPAD DE SAINT-MARTIN de Rê (by 16 September 2026).</summary>
+  </entry>
 </feed>
