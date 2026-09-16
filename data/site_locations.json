@@ -20393,7 +20393,7 @@
   "numberOfBeds": 60,
   "postalCode": "DL7 8FH",
   "providerId": "1-126821508",
-  "registeredManagerAbsentDate": "2025-06-11",
+  "registeredManagerAbsentDate": null,
   "latitude": 54.3355294,
   "longitude": -1.4418184
  },
@@ -75250,6 +75250,20 @@
   "longitude": -0.1713379
  },
  {
+  "locationId": "1-28335464463",
+  "name": "Greenfield Care – Crawley Office",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 0,
+  "postalCode": "RH10 9LU",
+  "providerId": "1-4576503680",
+  "registeredManagerAbsentDate": "2026-09-15",
+  "latitude": 51.129768,
+  "longitude": -0.171164
+ },
+ {
   "locationId": "1-11989283631",
   "name": "Greenfield Healthcare Solutions Ltd",
   "rating": null,
@@ -120983,7 +120997,7 @@
   "numberOfBeds": 64,
   "postalCode": "YO30 5PD",
   "providerId": "1-102642955",
-  "registeredManagerAbsentDate": "2026-06-01",
+  "registeredManagerAbsentDate": null,
   "latitude": 53.9776601,
   "longitude": -1.1104817
  },
@@ -208514,6 +208528,20 @@
   "registeredManagerAbsentDate": "2025-12-31",
   "latitude": 52.7167601,
   "longitude": 0.4151296
+ },
+ {
+  "locationId": "1-7142463998",
+  "name": "Windebanks",
+  "rating": "Good",
+  "ratingDate": "2021-12-11",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "numberOfBeds": 0,
+  "postalCode": "PO19 8TF",
+  "providerId": "1-101664195",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8234694,
+  "longitude": -0.7880027
  },
  {
   "locationId": "1-798844616",
