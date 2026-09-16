@@ -42,5 +42,9 @@
  "united-states_parse_version": 2,
  "hong-kong_parse_version": 1,
  "new-zealand_parse_version": 1,
- "flanders_parse_version": 1
+ "flanders_parse_version": 1,
+ "australia_snapshot_label": "30 June 2025",
+ "australia_snapshot_date": "2026-09-16",
+ "australia_care_homes": 2794,
+ "australia_parse_version": 1
 }
