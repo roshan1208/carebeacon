@@ -6505,6 +6505,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://roshan1208.github.io/carebeacon/operators/1-102643500/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://roshan1208.github.io/carebeacon/operators/1-102643516/</loc>
     <lastmod>2026-09-16</lastmod>
     <changefreq>daily</changefreq>
@@ -29678,6 +29684,11 @@
   </url>
   <url>
     <loc>https://roshan1208.github.io/carebeacon/homes/chesterfield-house-1-24636191135/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://roshan1208.github.io/carebeacon/homes/chesterfield-royal-hospital-RFSDA/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -73228,6 +73239,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://roshan1208.github.io/carebeacon/homes/royal-albert-edward-infirmary-RRF02/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://roshan1208.github.io/carebeacon/homes/royal-avenue-1-108755195/</loc>
     <lastmod>2019-09-19</lastmod>
     <changefreq>daily</changefreq>
@@ -88379,6 +88395,11 @@
   <url>
     <loc>https://roshan1208.github.io/carebeacon/homes/the-riders-1-10592568274/</loc>
     <lastmod>2022-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://roshan1208.github.io/carebeacon/homes/the-ridgeway-hospital-1-128767148/</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

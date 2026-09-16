@@ -41412,6 +41412,20 @@
   "longitude": 1.1322446
  },
  {
+  "locationId": "RFSDA",
+  "name": "Chesterfield Royal Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "numberOfBeds": 0,
+  "postalCode": "S44 5BL",
+  "providerId": "RFS",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.2362328,
+  "longitude": -1.4000486
+ },
+ {
   "locationId": "1-10758359330",
   "name": "Chesterton Lodge",
   "rating": null,
@@ -149786,6 +149800,20 @@
   "longitude": -0.3363209
  },
  {
+  "locationId": "RRF02",
+  "name": "Royal Albert Edward Infirmary",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Wigan",
+  "numberOfBeds": 0,
+  "postalCode": "WN1 2NN",
+  "providerId": "RRF",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.5596284,
+  "longitude": -2.6299789
+ },
+ {
   "locationId": "1-108755195",
   "name": "Royal Avenue",
   "rating": "Good",
@@ -187444,6 +187472,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5149661,
   "longitude": -0.7923966
+ },
+ {
+  "locationId": "1-128767148",
+  "name": "The Ridgeway Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Swindon",
+  "numberOfBeds": 50,
+  "postalCode": "SN4 9DD",
+  "providerId": "1-102643500",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5253259,
+  "longitude": -1.7861508
  },
  {
   "locationId": "1-126242244",
