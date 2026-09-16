@@ -70084,6 +70084,20 @@
   "longitude": -3.0282525
  },
  {
+  "locationId": "1-112094672",
+  "name": "Fylde Community Care Limited",
+  "rating": "Good",
+  "ratingDate": "2023-01-05",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "FY8 3QY",
+  "providerId": "1-101692023",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7540476,
+  "longitude": -2.9987577
+ },
+ {
   "locationId": "1-6124552954",
   "name": "Gable Court Care Home",
   "rating": "Good",
