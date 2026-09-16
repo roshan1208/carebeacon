@@ -3,12 +3,48 @@
   "date": "2026-09-16",
   "country": "Wales",
   "countryPath": "wales/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "Y Garreg Lwyd Care Home",
+  "place": "Carmarthenshire",
+  "text": "Rated for the first time; lowest theme: Good",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008781-RJMP/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
+  "country": "Wales",
+  "countryPath": "wales/",
   "kind": "other",
   "type": "ri_changed",
   "name": "Hengoed Park Care Home",
   "place": "Swansea",
   "text": "Responsible individual changed: none recorded to TIMOTHY  Williams",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010148-BSLK/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "Glyn Ebbw House",
+  "place": "Blaenau Gwent",
+  "text": "Rated for the first time; lowest theme: Good",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00012216-YNQD/",
+  "since": "2026-09-16"
+ },
+ {
+  "date": "2026-09-16",
+  "country": "Wales",
+  "countryPath": "wales/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "Brompton Lodge limited",
+  "place": "Conwy",
+  "text": "Rated for the first time; lowest theme: Good",
+  "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009218-FYGH/",
   "since": "2026-09-16"
  },
  {

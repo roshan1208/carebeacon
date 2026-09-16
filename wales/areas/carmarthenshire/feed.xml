@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/carmarthenshire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/carmarthenshire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/carmarthenshire/feed</id>
-  <updated>2026-09-16T12:15:56Z</updated>
+  <updated>2026-09-16T16:57:08Z</updated>
   <subtitle>Care homes in Carmarthenshire whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008781-RJMP/2026-09-16/first_rated</id>
+    <title>Y Garreg Lwyd Care Home: Rated for the first time; lowest theme: Good (by 16 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008781-RJMP/"/>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <summary>Carmarthenshire. Rated for the first time; lowest theme: Good (by 16 September 2026).</summary>
+  </entry>
 </feed>
