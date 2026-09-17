@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Beds:</span> 48</div><div><span class="l">Registered with CQC since:</span> 2010-12-13</div><div><span class="l">Last inspected:</span> 2021-02-16</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-03-04</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-10-09</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2019-03-08</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-03-20</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-01-25</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-04-29</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-01-20</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2015-11-13</span> <span class="badge r-inadequate">Inadequate</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Beds:</span> 48</div><div><span class="l">Registered with CQC since:</span> 13 December 2010</div><div><span class="l">Last inspected:</span> 16 February 2021 (over 5 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">4 March 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">9 October 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">8 March 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">20 March 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">25 January 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">29 April 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">20 January 2016</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">13 November 2015</span> <span class="badge r-inadequate">Inadequate</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Essex</h2><div class="dist" aria-hidden="true"><span style="width:1.4%;background:var(--info)" title="Outstanding: 6"></span><span style="width:53.8%;background:var(--good)" title="Good: 228"></span><span style="width:6.6%;background:var(--warn)" title="Requires improvement: 28"></span><span style="width:38.2%;background:var(--border)" title="No published rating: 162"></span></div><p class="note">Of 424 care homes in Essex: 6 Outstanding, 228 Good, 28 Requires improvement. 162 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li><li>Mental health conditions</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-03-04</span> <a href="https://www.cqc.org.uk/reports/bde07850-84ec-45c7-931e-eb911b72781f?20210323130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-10-09</span> <a href="https://www.cqc.org.uk/reports/0dfebace-9b15-4d6f-88a8-d96ca9007bde?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-03-08</span> <a href="https://www.cqc.org.uk/reports/9a6c837a-313a-4cf9-aa5d-43353360a1b8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-03-20</span> <a href="https://www.cqc.org.uk/reports/8ce2ac91-c138-4d85-86da-16a5accb692a?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-01-25</span> <a href="https://www.cqc.org.uk/reports/90707ca7-d588-466b-a9eb-0126479b65f4?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-04-29</span> <a href="https://www.cqc.org.uk/reports/d7bdc3ee-f715-48ba-8d40-e092a753c038?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-01-20</span> <a href="https://www.cqc.org.uk/reports/7c209e28-e628-40b6-b051-f47d9386f74a?20210124141604" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-11-13</span> <a href="https://www.cqc.org.uk/reports/c570b158-fee4-403e-9a3a-91e054e91b36?20210125202022" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">4 March 2021</span> <a href="https://www.cqc.org.uk/reports/bde07850-84ec-45c7-931e-eb911b72781f?20210323130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">9 October 2019</span> <a href="https://www.cqc.org.uk/reports/0dfebace-9b15-4d6f-88a8-d96ca9007bde?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 March 2019</span> <a href="https://www.cqc.org.uk/reports/9a6c837a-313a-4cf9-aa5d-43353360a1b8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 March 2018</span> <a href="https://www.cqc.org.uk/reports/8ce2ac91-c138-4d85-86da-16a5accb692a?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 January 2017</span> <a href="https://www.cqc.org.uk/reports/90707ca7-d588-466b-a9eb-0126479b65f4?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">29 April 2016</span> <a href="https://www.cqc.org.uk/reports/d7bdc3ee-f715-48ba-8d40-e092a753c038?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 January 2016</span> <a href="https://www.cqc.org.uk/reports/7c209e28-e628-40b6-b051-f47d9386f74a?20210124141604" rel="noopener">Inspection report for this home</a></li><li><span class="d">13 November 2015</span> <a href="https://www.cqc.org.uk/reports/c570b158-fee4-403e-9a3a-91e054e91b36?20210125202022" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../frank-foster-house-1-131472098/">Frank Foster House</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">1.4 mi</span></li><li><a href="../ashlar-house-1-125862212/">Ashlar House</a> <span class="badge r-good">Good</span> <span class="miles">1.6 mi</span></li><li><a href="../loughton-hall-1-7811534447/">Loughton Hall</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">2.9 mi</span></li><li><a href="../woodland-grove-1-4000551766/">Woodland Grove</a> <span class="badge r-good">Good</span> <span class="miles">2.9 mi</span></li><li><a href="../honey-lane-care-home-1-126493008/">Honey Lane Care Home</a> <span class="badge r-good">Good</span> <span class="miles">3 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/bde07850-84ec-45c7-931e-eb911b72781f?20210323130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.6903051%2C0.0940021" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/wensley-house-residential-home-1-119496899/" data-name="Wensley House Residential Home" data-place="Essex"
+      data-country="England" data-id="1-119496899">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/essex/feed.xml">Subscribe to changes in Essex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-119496899,1-131472098,1-125862212,1-7811534447,1-4000551766,1-126493008">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

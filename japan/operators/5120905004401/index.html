@@ -92,6 +92,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }

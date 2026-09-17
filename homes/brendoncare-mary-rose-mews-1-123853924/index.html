@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">Mary Rose Mews, Alton, GU34 2UU</p>
   
   <span class="badge r-good">Good</span>
-  <p class="manager-flag">No registered manager since 2026-09-10</p>
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101655731/">Brendoncare Foundation(The)</a></div><div><span class="l">Registered with CQC since:</span> 2011-01-24</div><div><span class="l">Rating published:</span> 2018-09-08</div><div><span class="l">Last inspected:</span> 2018-08-21</div></div>
+  <p class="note rating-age">CQC published this rating on 8 September 2018, over 8 years ago, and has not published a newer one.</p>
+  <p class="manager-flag">No registered manager since 10 September 2026 (7 days ago)</p>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101655731/">Brendoncare Foundation(The)</a></div><div><span class="l">Registered with CQC since:</span> 24 January 2011</div><div><span class="l">Rating published:</span> 8 September 2018 (over 8 years ago)</div><div><span class="l">Last inspected:</span> 21 August 2018 (over 8 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2018-09-08</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-06-02</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">8 September 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">2 June 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Hampshire</h2><div class="dist" aria-hidden="true"><span style="width:4.2%;background:var(--info)" title="Outstanding: 21"></span><span style="width:51.3%;background:var(--good)" title="Good: 254"></span><span style="width:5.5%;background:var(--warn)" title="Requires improvement: 27"></span><span style="width:39.0%;background:var(--border)" title="No published rating: 193"></span></div><p class="note">Of 495 care homes in Hampshire: 21 Outstanding, 254 Good, 27 Requires improvement. 193 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Homecare agencies</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2018-09-08</span> <a href="https://www.cqc.org.uk/reports/2e2fdc67-03c3-45c6-8aeb-0f37c5081a2c?20180908120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-06-02</span> <a href="https://www.cqc.org.uk/reports/7b109f44-3cb2-4c69-9744-34396f585a94?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-06-07</span> <a href="https://www.cqc.org.uk/reports/5053e2cf-2984-41cd-bfd0-624ee313f847?20151016191357" rel="noopener">Report</a></li><li><span class="d">2013-04-09</span> <a href="https://www.cqc.org.uk/reports/6f5b59a8-3a2a-4e4b-a6f0-272d6db9d3c7?20151016191357" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">8 September 2018</span> <a href="https://www.cqc.org.uk/reports/2e2fdc67-03c3-45c6-8aeb-0f37c5081a2c?20180908120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 June 2016</span> <a href="https://www.cqc.org.uk/reports/7b109f44-3cb2-4c69-9744-34396f585a94?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">7 June 2013</span> <a href="https://www.cqc.org.uk/reports/5053e2cf-2984-41cd-bfd0-624ee313f847?20151016191357" rel="noopener">Report</a></li><li><span class="d">9 April 2013</span> <a href="https://www.cqc.org.uk/reports/6f5b59a8-3a2a-4e4b-a6f0-272d6db9d3c7?20151016191357" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../brendoncare-alton-1-123841747/">Brendoncare Alton</a> <span class="badge r-good">Good</span> <span class="miles">0 mi</span></li><li><a href="../jasmine-house-1-416500320/">Jasmine House</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">0.2 mi</span></li><li><a href="../marlfield-care-home-with-nursing-1-135073130/">Marlfield Care Home With Nursing</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../cloverdale-1-1492885366/">Cloverdale</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../treloar-college-1-120605358/">Treloar College</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">0.7 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../brendoncare-alton-1-123841747/">Brendoncare Alton</a> <span class="badge r-good">Good</span></li><li><a href="../brendoncare-froxfield-1-123853824/">Brendoncare Froxfield</a> <span class="badge r-good">Good</span></li><li><a href="../brendoncare-knightwood-1-123853882/">Brendoncare Knightwood</a> <span class="badge r-good">Good</span></li><li><a href="../brendoncare-knightwood-mews-1-123853938/">Brendoncare Knightwood Mews</a> <span class="badge r-good">Good</span></li><li><a href="../brendoncare-meadway-1-123853910/">Brendoncare Meadway</a> <span class="badge r-good">Good</span></li><li><a href="../brendoncare-otterbourne-hill-1-5563089061/">BrendonCare Otterbourne Hill</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../brendoncare-st-giles-view-1-16604434533/">Brendoncare St Giles View</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../brendoncare-stildon-1-123853868/">Brendoncare Stildon</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/2e2fdc67-03c3-45c6-8aeb-0f37c5081a2c?20180908120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.brendoncare.org.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.154338%2C-0.965602" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/brendoncare-mary-rose-mews-1-123853924/" data-name="Brendoncare Mary Rose Mews" data-place="Hampshire"
+      data-country="England" data-id="1-123853924">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/hampshire/feed.xml">Subscribe to changes in Hampshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-123853924,1-123841747,1-416500320,1-135073130,1-1492885366,1-120605358">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

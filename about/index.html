@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,7 +146,7 @@
   </header>
   <main>
   <h1>How CareBeacon works</h1>
-  <p class="count">Last data update 16 September 2026. Page generated 17 September 2026.</p>
+  <p class="count">Last data update 17 September 2026. Page generated 17 September 2026.</p>
 
   <section>
     <h2>What this site is</h2>
@@ -153,10 +161,10 @@
     <h2>Sources, by country</h2>
     <p class="note"><a href="https://roshan1208.github.io/carebeacon/countries/">Every country covered, and every country not yet covered with the reason</a>.</p>
     <ul class="plain">
-      <li><strong>England</strong><span class="what">15,587 registered care homes from the <a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a>&#39;s
+      <li><strong>England</strong><span class="what">15,590 registered care homes from the <a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a>&#39;s
       Syndication API, checked daily. CQC rates on a four-point scale &mdash; Outstanding, Good, Requires improvement, Inadequate &mdash;
       overall and for five key questions. Changes shown: rating up or down, first rating, registration lost, registration regained.
-      The public change window on this site is 90 days; 1,745 operator pages cover groups running two or more homes.</span></li>
+      The public change window on this site is 90 days; 1,746 operator pages cover groups running two or more homes.</span></li>
       <li><strong>Scotland</strong><span class="what">1,380 registered care homes from the <a href="https://www.careinspectorate.scot/" rel="noopener">Care Inspectorate</a>&#39;s
       monthly datastore (latest snapshot 31 August 2026). The Care Inspectorate grades 1 (Unsatisfactory) to 6 (Excellent)
       on up to five quality themes; the grade shown for a home is its lowest current theme grade, which is how the Care Inspectorate

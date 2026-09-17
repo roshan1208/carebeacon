@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-102642772/">FitzRoy Support</a></div><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 2012-10-26</div><div><span class="l">Last inspected:</span> 2017-02-17</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2017-03-22</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-02-15</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-102642772/">FitzRoy Support</a></div><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 26 October 2012</div><div><span class="l">Last inspected:</span> 17 February 2017 (over 9 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">22 March 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">15 February 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in East Sussex</h2><div class="dist" aria-hidden="true"><span style="width:1.3%;background:var(--info)" title="Outstanding: 4"></span><span style="width:50.8%;background:var(--good)" title="Good: 157"></span><span style="width:7.1%;background:var(--warn)" title="Requires improvement: 22"></span><span style="width:40.8%;background:var(--border)" title="No published rating: 126"></span></div><p class="note">Of 309 care homes in East Sussex: 4 Outstanding, 157 Good, 22 Requires improvement. 126 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Learning disabilities</li><li>Physical disabilities</li><li>Sensory impairment</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2017-03-22</span> <a href="https://www.cqc.org.uk/reports/7f79401c-270b-455e-8d3f-e8d9ad35ac97?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-02-15</span> <a href="https://www.cqc.org.uk/reports/6280248b-aa30-4dc1-b6ed-56be273f0d27?20210124073147" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-06-07</span> <a href="https://www.cqc.org.uk/reports/3fa3fd60-7c9f-44a7-8db2-70d440093eb0?20200129163919" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">22 March 2017</span> <a href="https://www.cqc.org.uk/reports/7f79401c-270b-455e-8d3f-e8d9ad35ac97?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">15 February 2016</span> <a href="https://www.cqc.org.uk/reports/6280248b-aa30-4dc1-b6ed-56be273f0d27?20210124073147" rel="noopener">Inspection report for this home</a></li><li><span class="d">7 June 2013</span> <a href="https://www.cqc.org.uk/reports/3fa3fd60-7c9f-44a7-8db2-70d440093eb0?20200129163919" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../southdown-housing-association-50a-avis-road-1-135596560/">Southdown Housing Association - 50a Avis Road</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../wynford-house-1-1759946306/">Wynford House</a> <span class="badge r-good">Good</span> <span class="miles">2 mi</span></li><li><a href="../threeways-nursing-home-1-109593937/">Threeways Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">2 mi</span></li><li><a href="../clifden-house-dementia-care-centre-1-22156135222/">Clifden House Dementia Care Centre</a> <span class="badge r-unrated">No published rating</span> <span class="miles">2.1 mi</span></li><li><a href="../beachlands-residential-care-home-1-132471942/">Beachlands Residential Care Home</a> <span class="badge r-good">Good</span> <span class="miles">2.1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../brookview-1-3528198060/">Brookview</a> <span class="badge r-good">Good</span></li><li><a href="../dalvington-the-oaks-1-120634754/">Dalvington/The Oaks</a> <span class="badge r-good">Good</span></li><li><a href="../donec-mews-1-305991784/">Donec Mews</a> <span class="badge r-good">Good</span></li><li><a href="../fitzroy-teddington-1-6387510152/">FitzRoy - Teddington</a> <span class="badge r-good">Good</span></li><li><a href="../hipswell-highway-1-3528364690/">Hipswell Highway</a> <span class="badge r-good">Good</span></li><li><a href="../huws-1-120634786/">Huws</a> <span class="badge r-good">Good</span></li><li><a href="../lee-gordon-house-1-3528481638/">Lee Gordon House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../linden-cottage-1-120634770/">Linden Cottage</a> <span class="badge r-good">Good</span></li><li><a href="../rowan-close-1-28628299466/">Rowan Close</a> <span class="badge r-good">Good</span></li><li><a href="../shirlett-close-1-7166667496/">Shirlett Close</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../the-pastures-1-193681025/">The Pastures</a> <span class="badge r-inadequate">Inadequate</span></li><li><a href="../timber-grove-1-120634738/">Timber Grove</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/7f79401c-270b-455e-8d3f-e8d9ad35ac97?20200129163919" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.801589%2C0.064721" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/webb-house-1-499216930/" data-name="Webb House" data-place="East Sussex"
+      data-country="England" data-id="1-499216930">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/east-sussex/feed.xml">Subscribe to changes in East Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-499216930,1-135596560,1-1759946306,1-109593937,1-22156135222,1-132471942">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

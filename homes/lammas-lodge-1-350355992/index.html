@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">Lugwardine, Hereford, HR1 4DS</p>
   
   <span class="badge r-good">Good</span>
+  <p class="note rating-age">CQC published this rating on 1 February 2024, over 2 years ago, and has not published a newer one.</p>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-118164217/">Parkcare Homes (No.2) Limited</a></div><div><span class="l">Beds:</span> 7</div><div><span class="l">Registered with CQC since:</span> 2012-02-05</div><div><span class="l">Rating published:</span> 2024-02-01</div><div><span class="l">Last inspected:</span> 2023-10-25</div></div>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-118164217/">Parkcare Homes (No.2) Limited</a></div><div><span class="l">Beds:</span> 7</div><div><span class="l">Registered with CQC since:</span> 5 February 2012</div><div><span class="l">Rating published:</span> 1 February 2024 (over 2 years ago)</div><div><span class="l">Last inspected:</span> 25 October 2023 (over 2 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2024-02-01</span> <span class="badge r-good">Good</span></li><li><span class="d">2020-01-01</span> <span class="badge r-good">Good</span></li><li><span class="d">2019-08-30</span> <span class="badge r-good">Good</span></li><li><span class="d">2017-02-15</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-08-13</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">1 February 2024</span> <span class="badge r-good">Good</span></li><li><span class="d">1 January 2020</span> <span class="badge r-good">Good</span></li><li><span class="d">30 August 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">15 February 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">13 August 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Herefordshire, County of</h2><div class="dist" aria-hidden="true"><span style="width:4.5%;background:var(--info)" title="Outstanding: 4"></span><span style="width:54.5%;background:var(--good)" title="Good: 48"></span><span style="width:11.4%;background:var(--warn)" title="Requires improvement: 10"></span><span style="width:29.5%;background:var(--border)" title="No published rating: 26"></span></div><p class="note">Of 88 care homes in Herefordshire, County of: 4 Outstanding, 48 Good, 10 Requires improvement. 26 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults under 65 yrs</li><li>Learning disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2024-02-01</span> <a href="https://www.cqc.org.uk/reports/754fee34-5e42-4234-aa2b-0f555a0b5027?20240201130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2020-01-01</span> <a href="https://www.cqc.org.uk/reports/39f351e9-f0bc-42a8-84c5-d7027b7b8802?20200101130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-08-30</span> <a href="https://www.cqc.org.uk/reports/16ad7472-5024-4fd3-8ec3-c546644321f7?20190830120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-02-15</span> <a href="https://www.cqc.org.uk/reports/dc30c295-7b33-447d-9cec-8f49535f034a?20170215130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-08-13</span> <a href="https://www.cqc.org.uk/reports/df4590fd-d48d-4c7a-9a36-7448d4256f88?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-08-07</span> <a href="https://www.cqc.org.uk/reports/03915924-6c27-431f-baf3-1a624c0d8161?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-05-22</span> <a href="https://www.cqc.org.uk/reports/035790d8-d76c-4b3a-86f9-46045ee3532a?20200129163919" rel="noopener">Report</a></li><li><span class="d">2012-05-18</span> <a href="https://www.cqc.org.uk/reports/52510e87-df20-4c28-8589-02d731d45dec?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">1 February 2024</span> <a href="https://www.cqc.org.uk/reports/754fee34-5e42-4234-aa2b-0f555a0b5027?20240201130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">1 January 2020</span> <a href="https://www.cqc.org.uk/reports/39f351e9-f0bc-42a8-84c5-d7027b7b8802?20200101130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">30 August 2019</span> <a href="https://www.cqc.org.uk/reports/16ad7472-5024-4fd3-8ec3-c546644321f7?20190830120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">15 February 2017</span> <a href="https://www.cqc.org.uk/reports/dc30c295-7b33-447d-9cec-8f49535f034a?20170215130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">13 August 2016</span> <a href="https://www.cqc.org.uk/reports/df4590fd-d48d-4c7a-9a36-7448d4256f88?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">7 August 2014</span> <a href="https://www.cqc.org.uk/reports/03915924-6c27-431f-baf3-1a624c0d8161?20200129163919" rel="noopener">Report</a></li><li><span class="d">22 May 2013</span> <a href="https://www.cqc.org.uk/reports/035790d8-d76c-4b3a-86f9-46045ee3532a?20200129163919" rel="noopener">Report</a></li><li><span class="d">18 May 2012</span> <a href="https://www.cqc.org.uk/reports/52510e87-df20-4c28-8589-02d731d45dec?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../old-court-barn-residential-care-home-1-114140620/">Old Court Barn Residential Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../orchard-house-1-134889418/">Orchard House</a> <span class="badge r-good">Good</span> <span class="miles">1.3 mi</span></li><li><a href="../sophie-house-1-473349271/">Sophie House</a> <span class="badge r-good">Good</span> <span class="miles">1.5 mi</span></li><li><a href="../field-farm-house-residential-home-1-119287799/">Field Farm House Residential Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.7 mi</span></li><li><a href="../martha-house-1-113958355/">Martha House</a> <span class="badge r-good">Good</span> <span class="miles">1.8 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../95-bromyard-road-1-304923242/">95 Bromyard Road</a> <span class="badge r-good">Good</span></li><li><a href="../aire-house-1-451488723/">Aire House</a> <span class="badge r-good">Good</span></li><li><a href="../alphonsus-house-1-376502344/">Alphonsus House</a> <span class="badge r-good">Good</span></li><li><a href="../arbour-street-1-13421912525/">Arbour Street</a> <span class="badge r-good">Good</span></li><li><a href="../ashridge-1-133287819/">Ashridge</a> <span class="badge r-good">Good</span></li><li><a href="../autumn-leaf-house-1-2774111126/">Autumn Leaf House</a> <span class="badge r-good">Good</span></li><li><a href="../bannister-farm-cottage-1-1511814938/">Bannister Farm Cottage</a> <span class="badge r-good">Good</span></li><li><a href="../bedborough-house-1-3257021734/">Bedborough House</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../birches-grove-1-350333178/">Birches Grove</a> <span class="badge r-good">Good</span></li><li><a href="../blair-house-1-339044286/">Blair House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../bowden-lodge-1-2476749311/">Bowden Lodge</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../brooke-house-1-133287865/">Brooke House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/754fee34-5e42-4234-aa2b-0f555a0b5027?20240201130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.prioryadultcare.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.0657516%2C-2.6520682" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/lammas-lodge-1-350355992/" data-name="Lammas Lodge" data-place="Herefordshire, County of"
+      data-country="England" data-id="1-350355992">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/herefordshire-county-of/feed.xml">Subscribe to changes in Herefordshire, County of</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-350355992,1-114140620,1-134889418,1-473349271,1-119287799,1-113958355">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

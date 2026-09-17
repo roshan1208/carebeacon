@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -144,6 +152,37 @@
   
   <section><h2>Nearby aged care homes</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/australia/homes/wheller-gardens-emmaus-village-chermside-qld-930-gympie-road-residential/">Wheller Gardens - Emmaus Village</a>  <span class="miles">0.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/australia/homes/wheller-gardens-st-marks-house-chermside-qld-930-gympie-road-residential/">Wheller Gardens - St Marks House</a>  <span class="miles">0.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/australia/homes/parkview-chermside-qld-930-gympie-road-residential/">Parkview</a>  <span class="miles">0.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/australia/homes/wheller-gardens-john-wesley-gardens-geebung-qld-19-halsmere-street-residential/">Wheller Gardens - John Wesley Gardens</a>  <span class="miles">1.3 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/australia/homes/tricare-stafford-lakes-aged-care-residence-chermside-west-qld-682-rode-road-residential/">TriCare Stafford Lakes Aged Care Residence</a>  <span class="miles">1.5 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>
   <p class="links"><a href="https://www.gen-agedcaredata.gov.au/resources/access-data" rel="noopener">The Australian Government&amp;#39;s aged care service list</a> &middot; <a href="https://roshan1208.github.io/carebeacon/australia/areas/brisbane/feed.xml">Subscribe to changes in Brisbane</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/australia/homes/wheller-gardens-cooper-house-chermside-qld-930-gympie-road-residential/" data-name="Wheller Gardens - Cooper House" data-place="Chermside, Brisbane"
+      data-country="Australia" data-id="wheller-gardens-cooper-house-chermside-qld-930-gympie-road-residential">Watch this aged care home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"aged care home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   
   </main>
   <footer>

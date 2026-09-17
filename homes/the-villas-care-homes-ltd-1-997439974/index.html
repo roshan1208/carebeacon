@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-933786803/">The Villas Care Homes Ltd</a></div><div><span class="l">Beds:</span> 16</div><div><span class="l">Registered with CQC since:</span> 2014-01-20</div><div><span class="l">Last inspected:</span> 2022-01-12</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2022-01-20</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2020-12-25</span> <span class="badge r-good">Good</span></li><li><span class="d">2018-07-27</span> <span class="badge r-good">Good</span></li><li><span class="d">2017-08-25</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-10-28</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-07-27</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2015-08-26</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-933786803/">The Villas Care Homes Ltd</a></div><div><span class="l">Beds:</span> 16</div><div><span class="l">Registered with CQC since:</span> 20 January 2014</div><div><span class="l">Last inspected:</span> 12 January 2022 (over 4 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">20 January 2022</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">25 December 2020</span> <span class="badge r-good">Good</span></li><li><span class="d">27 July 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">25 August 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">28 October 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">27 July 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">26 August 2015</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Derby</h2><div class="dist" aria-hidden="true"><span style="width:1.3%;background:var(--info)" title="Outstanding: 1"></span><span style="width:46.7%;background:var(--good)" title="Good: 35"></span><span style="width:5.3%;background:var(--warn)" title="Requires improvement: 4"></span><span style="width:46.7%;background:var(--border)" title="No published rating: 35"></span></div><p class="note">Of 75 care homes in Derby: 1 Outstanding, 35 Good, 4 Requires improvement. 35 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Learning disabilities</li><li>Mental health conditions</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2022-01-20</span> <a href="https://www.cqc.org.uk/reports/cc96c39d-0e0a-4bbe-91a1-b7a6d7b3bad9?20220120130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2020-12-25</span> <a href="https://www.cqc.org.uk/reports/059e19c7-3693-4efd-8136-2666642e6dbc?20201225130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-07-27</span> <a href="https://www.cqc.org.uk/reports/04819458-cec9-4869-bf4a-1aa3053a333e?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-08-25</span> <a href="https://www.cqc.org.uk/reports/5cab5f1d-e6e6-423e-9b56-beb5cb127fe8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-10-28</span> <a href="https://www.cqc.org.uk/reports/298d8b51-6478-4cde-bacd-9c57d7730e3b?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-07-27</span> <a href="https://www.cqc.org.uk/reports/f196f6bd-47ba-47ef-8534-bb7bab093df3?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-08-26</span> <a href="https://www.cqc.org.uk/reports/f2fdee96-43dd-4ca0-8dc2-dad60cb567c8?20210127060845" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-06-20</span> <a href="https://www.cqc.org.uk/reports/e62e8666-c965-443e-a6ab-eeeb855e831c?20201223130000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">20 January 2022</span> <a href="https://www.cqc.org.uk/reports/cc96c39d-0e0a-4bbe-91a1-b7a6d7b3bad9?20220120130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 December 2020</span> <a href="https://www.cqc.org.uk/reports/059e19c7-3693-4efd-8136-2666642e6dbc?20201225130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">27 July 2018</span> <a href="https://www.cqc.org.uk/reports/04819458-cec9-4869-bf4a-1aa3053a333e?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 August 2017</span> <a href="https://www.cqc.org.uk/reports/5cab5f1d-e6e6-423e-9b56-beb5cb127fe8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">28 October 2016</span> <a href="https://www.cqc.org.uk/reports/298d8b51-6478-4cde-bacd-9c57d7730e3b?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">27 July 2016</span> <a href="https://www.cqc.org.uk/reports/f196f6bd-47ba-47ef-8534-bb7bab093df3?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">26 August 2015</span> <a href="https://www.cqc.org.uk/reports/f2fdee96-43dd-4ca0-8dc2-dad60cb567c8?20210127060845" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 June 2014</span> <a href="https://www.cqc.org.uk/reports/e62e8666-c965-443e-a6ab-eeeb855e831c?20201223130000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../oaklands-1-133299122/">Oaklands</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../lavender-lodge-nursing-home-1-233554564/">Lavender Lodge Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../liversage-court-residential-home-1-112563142/">Liversage Court Residential Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.4 mi</span></li><li><a href="../nightingale-house-1-6615555029/">Nightingale House</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li><li><a href="../bonsall-view-1-13316142318/">Bonsall View</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../beechwood-residential-home-1-16484655716/">Beechwood Residential Home</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/cc96c39d-0e0a-4bbe-91a1-b7a6d7b3bad9?20220120130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.carehome.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.9188832%2C-1.479261" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/the-villas-care-homes-ltd-1-997439974/" data-name="The Villas Care Homes Ltd" data-place="Derby"
+      data-country="England" data-id="1-997439974">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/derby/feed.xml">Subscribe to changes in Derby</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-997439974,1-133299122,1-233554564,1-112563142,1-6615555029,1-13316142318">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

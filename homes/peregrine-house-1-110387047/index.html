@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">48-52 Upgang Lane, Whitby, YO21 3HZ</p>
   
   <span class="badge r-good">Good</span>
+  <p class="note rating-age">CQC published this rating on 17 December 2019, over 6 years ago, and has not published a newer one. It last inspected this home on 3 March 2021.</p>
   
-  <div class="facts"><div><span class="l">Beds:</span> 40</div><div><span class="l">Registered with CQC since:</span> 2010-11-08</div><div><span class="l">Rating published:</span> 2019-12-17</div><div><span class="l">Last inspected:</span> 2021-03-03</div></div>
+  <div class="facts"><div><span class="l">Beds:</span> 40</div><div><span class="l">Registered with CQC since:</span> 8 November 2010</div><div><span class="l">Rating published:</span> 17 December 2019 (over 6 years ago)</div><div><span class="l">Last inspected:</span> 3 March 2021 (over 5 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-03-16</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-12-17</span> <span class="badge r-good">Good</span></li><li><span class="d">2018-11-02</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-01-27</span> <span class="badge r-outstanding">Outstanding</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">16 March 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">17 December 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">2 November 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">27 January 2016</span> <span class="badge r-outstanding">Outstanding</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in North Yorkshire</h2><div class="dist" aria-hidden="true"><span style="width:3.3%;background:var(--info)" title="Outstanding: 7"></span><span style="width:59.4%;background:var(--good)" title="Good: 126"></span><span style="width:6.1%;background:var(--warn)" title="Requires improvement: 13"></span><span style="width:31.1%;background:var(--border)" title="No published rating: 66"></span></div><p class="note">Of 212 care homes in North Yorkshire: 7 Outstanding, 126 Good, 13 Requires improvement. 66 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-03-16</span> <a href="https://www.cqc.org.uk/reports/56eb9aa0-8a0b-43d1-88eb-eca22910284d?20210316130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-12-17</span> <a href="https://www.cqc.org.uk/reports/83195c8c-e82d-46ad-87d0-87925beddbb1?20191217130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-11-02</span> <a href="https://www.cqc.org.uk/reports/b142ef0d-e772-42a5-81f9-5d983ab65bdd?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-01-27</span> <a href="https://www.cqc.org.uk/reports/2d367cba-79e7-4c62-af36-c43b77566a7f?20210124123137" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-04-01</span> <a href="https://www.cqc.org.uk/reports/94cb2d62-7442-4cce-b1db-c4a1dbd88e02?20200129163919" rel="noopener">Report</a></li><li><span class="d">2012-09-25</span> <a href="https://www.cqc.org.uk/reports/805f6d0c-dee9-40cc-ac79-d1fb423f0890?20200430120000" rel="noopener">Report</a></li><li><span class="d">2011-11-03</span> <a href="https://www.cqc.org.uk/reports/ce8afc5b-ae15-4382-be10-ea04ba7e1f6d?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">16 March 2021</span> <a href="https://www.cqc.org.uk/reports/56eb9aa0-8a0b-43d1-88eb-eca22910284d?20210316130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">17 December 2019</span> <a href="https://www.cqc.org.uk/reports/83195c8c-e82d-46ad-87d0-87925beddbb1?20191217130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 November 2018</span> <a href="https://www.cqc.org.uk/reports/b142ef0d-e772-42a5-81f9-5d983ab65bdd?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">27 January 2016</span> <a href="https://www.cqc.org.uk/reports/2d367cba-79e7-4c62-af36-c43b77566a7f?20210124123137" rel="noopener">Inspection report for this home</a></li><li><span class="d">1 April 2014</span> <a href="https://www.cqc.org.uk/reports/94cb2d62-7442-4cce-b1db-c4a1dbd88e02?20200129163919" rel="noopener">Report</a></li><li><span class="d">25 September 2012</span> <a href="https://www.cqc.org.uk/reports/805f6d0c-dee9-40cc-ac79-d1fb423f0890?20200430120000" rel="noopener">Report</a></li><li><span class="d">3 November 2011</span> <a href="https://www.cqc.org.uk/reports/ce8afc5b-ae15-4382-be10-ea04ba7e1f6d?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../stakesby-road-1-278359684/">Stakesby Road</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">0.2 mi</span></li><li><a href="../jubilee-house-1-12810568935/">Jubilee House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../caedmon-house-1-236362637/">Caedmon House</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../the-whitby-scheme-1-130890674/">The Whitby Scheme</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../hudson-street-1-118619829/">Hudson Street</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/56eb9aa0-8a0b-43d1-88eb-eca22910284d?20210316130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.peregrinehouse.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=54.4892355%2C-0.6274137" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/peregrine-house-1-110387047/" data-name="Peregrine House" data-place="North Yorkshire"
+      data-country="England" data-id="1-110387047">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/north-yorkshire/feed.xml">Subscribe to changes in North Yorkshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-110387047,1-278359684,1-12810568935,1-236362637,1-130890674,1-118619829">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

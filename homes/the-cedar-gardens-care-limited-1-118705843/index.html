@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">12-18 Richmond Road, New Barnet, EN5 1SB</p>
   
   <span class="badge r-good">Good</span>
+  <p class="note rating-age">CQC published this rating on 26 June 2019, over 7 years ago, and has not published a newer one. It last inspected this home on 3 February 2022.</p>
   
-  <div class="facts"><div><span class="l">Run by:</span> Forest Healthcare</div><div><span class="l">Beds:</span> 45</div><div><span class="l">Registered with CQC since:</span> 2010-12-07</div><div><span class="l">Rating published:</span> 2019-06-26</div><div><span class="l">Last inspected:</span> 2022-02-03</div></div>
+  <div class="facts"><div><span class="l">Run by:</span> Forest Healthcare</div><div><span class="l">Beds:</span> 45</div><div><span class="l">Registered with CQC since:</span> 7 December 2010</div><div><span class="l">Rating published:</span> 26 June 2019 (over 7 years ago)</div><div><span class="l">Last inspected:</span> 3 February 2022 (over 4 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2022-02-17</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-06-26</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-10-28</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">17 February 2022</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">26 June 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">28 October 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Barnet</h2><div class="dist" aria-hidden="true"><span style="width:1.1%;background:var(--info)" title="Outstanding: 1"></span><span style="width:62.5%;background:var(--good)" title="Good: 55"></span><span style="width:4.5%;background:var(--warn)" title="Requires improvement: 4"></span><span style="width:1.1%;background:var(--bad)" title="Inadequate: 1"></span><span style="width:30.7%;background:var(--border)" title="No published rating: 27"></span></div><p class="note">Of 88 care homes in Barnet: 1 Outstanding, 55 Good, 4 Requires improvement, 1 Inadequate. 27 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li><li>Eating disorders</li><li>Learning disabilities</li><li>Mental health conditions</li><li>Physical disabilities</li><li>Sensory impairment</li><li>Substance misuse problems</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2022-02-17</span> <a href="https://www.cqc.org.uk/reports/a75eed42-f352-4535-bc1d-8df301123cf3?20220217130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-06-26</span> <a href="https://www.cqc.org.uk/reports/781be106-246f-4aa0-89a9-266b811dddc4?20190626161135" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-10-28</span> <a href="https://www.cqc.org.uk/reports/df10c1f7-1db1-4678-8af0-e1e8bfec7d32?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-10-05</span> <a href="https://www.cqc.org.uk/reports/c8b89b19-a169-4cf9-9396-53f434ba5826?20151016191357" rel="noopener">Report</a></li><li><span class="d">2013-05-22</span> <a href="https://www.cqc.org.uk/reports/0d0892f3-312b-4a27-b249-28e5e6abd239?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-02-08</span> <a href="https://www.cqc.org.uk/reports/b448b04a-25eb-4c3a-90ba-dc6aa79493ff?20200129163919" rel="noopener">Report</a></li><li><span class="d">2011-07-07</span> <a href="https://www.cqc.org.uk/reports/2f4ad3fd-1743-429e-b97d-9246da627e9c?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">17 February 2022</span> <a href="https://www.cqc.org.uk/reports/a75eed42-f352-4535-bc1d-8df301123cf3?20220217130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">26 June 2019</span> <a href="https://www.cqc.org.uk/reports/781be106-246f-4aa0-89a9-266b811dddc4?20190626161135" rel="noopener">Inspection report for this home</a></li><li><span class="d">28 October 2016</span> <a href="https://www.cqc.org.uk/reports/df10c1f7-1db1-4678-8af0-e1e8bfec7d32?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">5 October 2013</span> <a href="https://www.cqc.org.uk/reports/c8b89b19-a169-4cf9-9396-53f434ba5826?20151016191357" rel="noopener">Report</a></li><li><span class="d">22 May 2013</span> <a href="https://www.cqc.org.uk/reports/0d0892f3-312b-4a27-b249-28e5e6abd239?20200129163919" rel="noopener">Report</a></li><li><span class="d">8 February 2013</span> <a href="https://www.cqc.org.uk/reports/b448b04a-25eb-4c3a-90ba-dc6aa79493ff?20200129163919" rel="noopener">Report</a></li><li><span class="d">7 July 2011</span> <a href="https://www.cqc.org.uk/reports/2f4ad3fd-1743-429e-b97d-9246da627e9c?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../st-christopher-s-house-1-118891443/">St Christopher‘s House</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li><li><a href="../caretech-community-services-no-2-limited-88-park-road-1-124681935/">Caretech Community Services (No 2) Limited - 88 Park Road</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li><li><a href="../roseacres-1-380119422/">Roseacres</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.9 mi</span></li><li><a href="../oakleigh-park-care-home-1-7446124619/">Oakleigh Park Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.9 mi</span></li><li><a href="../valley-way-respite-service-1-367875157/">Valley Way Respite Service</a> <span class="badge r-good">Good</span> <span class="miles">1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/a75eed42-f352-4535-bc1d-8df301123cf3?20220217130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.foresthc.com" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.64661%2C-0.177887" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/the-cedar-gardens-care-limited-1-118705843/" data-name="The Cedar Gardens Care Limited" data-place="Barnet"
+      data-country="England" data-id="1-118705843">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/barnet/feed.xml">Subscribe to changes in Barnet</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-118705843,1-118891443,1-124681935,1-380119422,1-7446124619,1-367875157">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101678047/">Nicholas James Care Homes Ltd</a></div><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 2011-01-19</div><div><span class="l">Last inspected:</span> 2019-02-14</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2019-04-12</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-08-25</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101678047/">Nicholas James Care Homes Ltd</a></div><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 19 January 2011</div><div><span class="l">Last inspected:</span> 14 February 2019 (over 7 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">12 April 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">25 August 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Kent</h2><div class="dist" aria-hidden="true"><span style="width:2.7%;background:var(--info)" title="Outstanding: 14"></span><span style="width:50.7%;background:var(--good)" title="Good: 263"></span><span style="width:9.2%;background:var(--warn)" title="Requires improvement: 48"></span><span style="width:37.4%;background:var(--border)" title="No published rating: 194"></span></div><p class="note">Of 519 care homes in Kent: 14 Outstanding, 263 Good, 48 Requires improvement. 194 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2019-04-12</span> <a href="https://www.cqc.org.uk/reports/38f9dd6b-2477-4151-b354-282a5da4f46a?20190621120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-08-25</span> <a href="https://www.cqc.org.uk/reports/ae3ebe52-794f-47e3-9971-37853c3498fa?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-07-01</span> <a href="https://www.cqc.org.uk/reports/d10f768d-af64-4786-ba91-e34e7b129ea4?20200129163919" rel="noopener">Report</a></li><li><span class="d">2014-08-05</span> <a href="https://www.cqc.org.uk/reports/27138ab0-bfbd-4c99-943d-408a5acc1a38?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-11-28</span> <a href="https://www.cqc.org.uk/reports/10809ec8-fdcb-4d0d-a1f3-7c6a088cf3e8?20170517120000" rel="noopener">Report</a></li><li><span class="d">2013-08-09</span> <a href="https://www.cqc.org.uk/reports/b6e7e5fa-d4b3-42a7-94c8-aa9109520adb?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-04-25</span> <a href="https://www.cqc.org.uk/reports/6c57b6cb-7a81-47dc-83fe-d67491ec1cf2?20170517120000" rel="noopener">Report</a></li><li><span class="d">2011-10-31</span> <a href="https://www.cqc.org.uk/reports/f7de0af9-9e93-4c3c-a480-4d58f9aa4a49?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">12 April 2019</span> <a href="https://www.cqc.org.uk/reports/38f9dd6b-2477-4151-b354-282a5da4f46a?20190621120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 August 2016</span> <a href="https://www.cqc.org.uk/reports/ae3ebe52-794f-47e3-9971-37853c3498fa?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">1 July 2015</span> <a href="https://www.cqc.org.uk/reports/d10f768d-af64-4786-ba91-e34e7b129ea4?20200129163919" rel="noopener">Report</a></li><li><span class="d">5 August 2014</span> <a href="https://www.cqc.org.uk/reports/27138ab0-bfbd-4c99-943d-408a5acc1a38?20200129163919" rel="noopener">Report</a></li><li><span class="d">28 November 2013</span> <a href="https://www.cqc.org.uk/reports/10809ec8-fdcb-4d0d-a1f3-7c6a088cf3e8?20170517120000" rel="noopener">Report</a></li><li><span class="d">9 August 2013</span> <a href="https://www.cqc.org.uk/reports/b6e7e5fa-d4b3-42a7-94c8-aa9109520adb?20200129163919" rel="noopener">Report</a></li><li><span class="d">25 April 2013</span> <a href="https://www.cqc.org.uk/reports/6c57b6cb-7a81-47dc-83fe-d67491ec1cf2?20170517120000" rel="noopener">Report</a></li><li><span class="d">31 October 2011</span> <a href="https://www.cqc.org.uk/reports/f7de0af9-9e93-4c3c-a480-4d58f9aa4a49?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../dale-mount-1-137862205/">Dale Mount</a> <span class="badge r-good">Good</span> <span class="miles">0 mi</span></li><li><a href="../withens-nursing-home-1-118093600/">Withens Nursing Home</a> <span class="badge r-good">Good</span> <span class="miles">0.4 mi</span></li><li><a href="../wombwell-hall-1-13826275233/">Wombwell Hall</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.3 mi</span></li><li><a href="../rehoboth-care-uk-1-24218952740/">Rehoboth Care UK</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1.7 mi</span></li><li><a href="../bramblings-residential-home-1-142433590/">Bramblings Residential Home</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">1.8 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../alexander-house-dover-1-137862174/">Alexander House - Dover</a> <span class="badge r-good">Good</span></li><li><a href="../charles-lodge-1-137862159/">Charles Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../dale-mount-1-137862205/">Dale Mount</a> <span class="badge r-good">Good</span></li><li><a href="../edward-house-1-137862142/">Edward House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../walmer-care-centre-1-137862190/">Walmer Care Centre</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/38f9dd6b-2477-4151-b354-282a5da4f46a?20190621120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.njch.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.420609%2C0.31937" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/dale-lodge-1-137862220/" data-name="Dale Lodge" data-place="Kent"
+      data-country="England" data-id="1-137862220">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/kent/feed.xml">Subscribe to changes in Kent</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-137862220,1-137862205,1-118093600,1-13826275233,1-24218952740,1-142433590">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> Caram</div><div><span class="l">Beds:</span> 84</div><div><span class="l">Registered with CQC since:</span> 2010-12-29</div><div><span class="l">Last inspected:</span> 2022-12-20</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2023-04-19</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2022-02-26</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2021-04-08</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2021-03-26</span> <span class="badge r-good">Good</span></li><li><span class="d">2021-03-18</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2021-03-03</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2019-07-16</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-04-14</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-12-07</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> Caram</div><div><span class="l">Beds:</span> 84</div><div><span class="l">Registered with CQC since:</span> 29 December 2010</div><div><span class="l">Last inspected:</span> 20 December 2022 (over 3 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">19 April 2023</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">26 February 2022</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">8 April 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">26 March 2021</span> <span class="badge r-good">Good</span></li><li><span class="d">18 March 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">3 March 2021</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">16 July 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">14 April 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">7 December 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Wolverhampton</h2><div class="dist" aria-hidden="true"><span style="width:1.2%;background:var(--info)" title="Outstanding: 1"></span><span style="width:30.0%;background:var(--good)" title="Good: 24"></span><span style="width:15.0%;background:var(--warn)" title="Requires improvement: 12"></span><span style="width:53.8%;background:var(--border)" title="No published rating: 43"></span></div><p class="note">Of 80 care homes in Wolverhampton: 1 Outstanding, 24 Good, 12 Requires improvement. 43 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2023-04-19</span> <a href="https://www.cqc.org.uk/reports/bc287d23-ee82-4357-8a09-4ca30c89ee96?20230419120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2022-02-26</span> <a href="https://www.cqc.org.uk/reports/31cd5d36-6805-4d56-9e81-243db31b9dec?20221221130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-04-08</span> <a href="https://www.cqc.org.uk/reports/ef5a9c0d-3dd0-4da9-b37a-243afd19b059?20210715120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-03-26</span> <a href="https://www.cqc.org.uk/reports/f3e39877-9960-438f-92e9-b199f6face65?20230117130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-03-18</span> <a href="https://www.cqc.org.uk/reports/f98e8336-c779-4926-b6e1-357127b65cbd?20210318130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-03-03</span> <a href="https://www.cqc.org.uk/reports/15925c8a-e57c-4b9b-9550-7db444498324?20210303130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-07-16</span> <a href="https://www.cqc.org.uk/reports/a01a4c76-6236-4fa4-9b46-6bdd24170c42?20220630120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-04-14</span> <a href="https://www.cqc.org.uk/reports/5ec17eb1-107d-473f-9a7f-7672849f484e?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">19 April 2023</span> <a href="https://www.cqc.org.uk/reports/bc287d23-ee82-4357-8a09-4ca30c89ee96?20230419120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">26 February 2022</span> <a href="https://www.cqc.org.uk/reports/31cd5d36-6805-4d56-9e81-243db31b9dec?20221221130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 April 2021</span> <a href="https://www.cqc.org.uk/reports/ef5a9c0d-3dd0-4da9-b37a-243afd19b059?20210715120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">26 March 2021</span> <a href="https://www.cqc.org.uk/reports/f3e39877-9960-438f-92e9-b199f6face65?20230117130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">18 March 2021</span> <a href="https://www.cqc.org.uk/reports/f98e8336-c779-4926-b6e1-357127b65cbd?20210318130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">3 March 2021</span> <a href="https://www.cqc.org.uk/reports/15925c8a-e57c-4b9b-9550-7db444498324?20210303130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">16 July 2019</span> <a href="https://www.cqc.org.uk/reports/a01a4c76-6236-4fa4-9b46-6bdd24170c42?20220630120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">14 April 2018</span> <a href="https://www.cqc.org.uk/reports/5ec17eb1-107d-473f-9a7f-7672849f484e?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../arbour-lodge-1-140007719/">Arbour Lodge</a> <span class="badge r-good">Good</span> <span class="miles">0 mi</span></li><li><a href="../engelberg-care-home-1-18581728938/">Engelberg Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../charnwood-1-110543857/">Charnwood</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.4 mi</span></li><li><a href="../inspirations-1-737924032/">Inspirations</a> <span class="badge r-good">Good</span> <span class="miles">0.4 mi</span></li><li><a href="../apple-tree-1-12045246469/">Apple Tree</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/bc287d23-ee82-4357-8a09-4ca30c89ee96?20230419120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.athollhouse.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.5856287%2C-2.1579217" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/atholl-house-nursing-home-1-120084277/" data-name="Atholl House Nursing Home" data-place="Wolverhampton"
+      data-country="England" data-id="1-120084277">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/wolverhampton/feed.xml">Subscribe to changes in Wolverhampton</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-120084277,1-140007719,1-18581728938,1-110543857,1-737924032,1-12045246469">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

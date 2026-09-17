@@ -92,6 +92,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -145,7 +153,9 @@
   <script>(function(){
     var q=document.getElementById("find-q"),out=document.getElementById("find-results"),form=q.form,country=form.getAttribute("data-country"),idx=null,pending=null;
     function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
-    function load(){if(idx)return Promise.resolve(idx);if(!pending)pending=fetch("https://roshan1208.github.io/carebeacon/data/site_world_index.json").then(function(r){return r.ok?r.json():null;}).then(function(d){idx=d;return d;}).catch(function(){pending=null;return null;});return pending;}
+    var shard="https://roshan1208.github.io/carebeacon/data/index/japan.json";
+    function all(){return fetch("https://roshan1208.github.io/carebeacon/data/site_world_index.json").then(function(r){return r.ok?r.json():null;});}
+    function load(){if(idx)return Promise.resolve(idx);if(!pending)pending=(shard?fetch(shard).then(function(r){if(!r.ok)throw 0;return r.json();}).catch(all):all()).then(function(d){idx=d;return d;}).catch(function(){pending=null;return null;});return pending;}
     function run(){var v=q.value.trim().toLowerCase();if(v.length<2){out.innerHTML="";return;}out.innerHTML='<p class="note">Searching…</p>';load().then(function(d){
       if(!d){out.innerHTML='<p class="note">Search is unavailable right now. Use the areas below.</p>';return;}
       if(q.value.trim().toLowerCase()!==v)return;

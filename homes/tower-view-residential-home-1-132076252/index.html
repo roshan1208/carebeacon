@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101708569/">Mrs Eileen O&#39;Connor-Marsh</a></div><div><span class="l">Beds:</span> 3</div><div><span class="l">Registered with CQC since:</span> 2011-02-17</div><div><span class="l">Last inspected:</span> 2019-04-29</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2019-05-16</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-08-09</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101708569/">Mrs Eileen O&#39;Connor-Marsh</a></div><div><span class="l">Beds:</span> 3</div><div><span class="l">Registered with CQC since:</span> 17 February 2011</div><div><span class="l">Last inspected:</span> 29 April 2019 (over 7 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">16 May 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">9 August 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Wiltshire</h2><div class="dist" aria-hidden="true"><span style="width:1.8%;background:var(--info)" title="Outstanding: 3"></span><span style="width:51.2%;background:var(--good)" title="Good: 86"></span><span style="width:3.6%;background:var(--warn)" title="Requires improvement: 6"></span><span style="width:43.5%;background:var(--border)" title="No published rating: 73"></span></div><p class="note">Of 168 care homes in Wiltshire: 3 Outstanding, 86 Good, 6 Requires improvement. 73 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults under 65 yrs</li><li>Caring for people whose rights are restricted under the Mental Health Act</li><li>Dementia</li><li>Learning disabilities</li><li>Mental health conditions</li><li>Physical disabilities</li><li>Sensory impairment</li><li>Substance misuse problems</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li><li>Rehabilitation (illness/injury)</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2019-05-16</span> <a href="https://www.cqc.org.uk/reports/a0300e96-e38c-4936-849a-628434313204?20190516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-08-09</span> <a href="https://www.cqc.org.uk/reports/774b6a85-0237-415d-9c24-447400ad2d3a?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-11-15</span> <a href="https://www.cqc.org.uk/reports/a5a62fd7-da1e-42e6-ae89-14f1fe50a1ec?20240710120000" rel="noopener">Report</a></li><li><span class="d">2012-11-13</span> <a href="https://www.cqc.org.uk/reports/d976a84b-9878-4c0e-bc47-e1b898c637f1?20240710120000" rel="noopener">Report</a></li><li><span class="d">2011-11-09</span> <a href="https://www.cqc.org.uk/reports/62648750-80c3-4b18-96a2-8e72dd52b7ac?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">16 May 2019</span> <a href="https://www.cqc.org.uk/reports/a0300e96-e38c-4936-849a-628434313204?20190516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">9 August 2016</span> <a href="https://www.cqc.org.uk/reports/774b6a85-0237-415d-9c24-447400ad2d3a?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">15 November 2013</span> <a href="https://www.cqc.org.uk/reports/a5a62fd7-da1e-42e6-ae89-14f1fe50a1ec?20240710120000" rel="noopener">Report</a></li><li><span class="d">13 November 2012</span> <a href="https://www.cqc.org.uk/reports/d976a84b-9878-4c0e-bc47-e1b898c637f1?20240710120000" rel="noopener">Report</a></li><li><span class="d">9 November 2011</span> <a href="https://www.cqc.org.uk/reports/62648750-80c3-4b18-96a2-8e72dd52b7ac?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../tower-house-residential-home-1-132076275/">Tower House Residential Home</a> <span class="badge r-good">Good</span> <span class="miles">0 mi</span></li><li><a href="../maristow-nursing-home-1-248385589/">Maristow Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.1 mi</span></li><li><a href="../dunraven-house-and-lodge-1-124373408/">Dunraven House and Lodge</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.1 mi</span></li><li><a href="../no-68-specialist-care-1-8443859724/">No 68 Specialist Care</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../inwood-house-1-449593168/">Inwood House</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../tower-house-residential-home-1-132076275/">Tower House Residential Home</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/a0300e96-e38c-4936-849a-628434313204?20190516120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.0726644%2C-1.7864573" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/tower-view-residential-home-1-132076252/" data-name="Tower View Residential Home" data-place="Wiltshire"
+      data-country="England" data-id="1-132076252">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/wiltshire/feed.xml">Subscribe to changes in Wiltshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-132076252,1-132076275,1-248385589,1-124373408,1-8443859724,1-449593168">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

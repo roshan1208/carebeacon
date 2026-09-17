@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,7 +147,8 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-3127828222/">Next Steps Mental Healthcare LTD</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 2026-01-30</div></div>
+  
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-3127828222/">Next Steps Mental Healthcare LTD</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 30 January 2026</div></div>
   
   
   <section class="compare"><h2>How this compares in Manchester</h2><div class="dist" aria-hidden="true"><span style="width:3.1%;background:var(--info)" title="Outstanding: 3"></span><span style="width:50.0%;background:var(--good)" title="Good: 49"></span><span style="width:10.2%;background:var(--warn)" title="Requires improvement: 10"></span><span style="width:36.7%;background:var(--border)" title="No published rating: 36"></span></div><p class="note">Of 98 care homes in Manchester: 3 Outstanding, 49 Good, 10 Requires improvement. 36 with no published rating. This home has no published rating yet.</p></section>
@@ -151,6 +160,37 @@
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../next-steps-ashley-lane-1-15683901744/">Next Steps Ashley Lane</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0 mi</span></li><li><a href="../next-steps-1-3217283406/">Next Steps</a> <span class="badge r-good">Good</span> <span class="miles">0.1 mi</span></li><li><a href="../church-lane-1-20394029226/">Church Lane</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../norlands-nursing-home-1-124645192/">Norlands Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li><li><a href="../lightbowne-hall-1-10758997851/">Lightbowne Hall</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../abberton-road-1-27123586129/">Abberton Road</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../next-steps-1-3217283406/">Next Steps</a> <span class="badge r-good">Good</span></li><li><a href="../next-steps-the-elms-1-4162872248/">Next Steps - The Elms</a> <span class="badge r-good">Good</span></li><li><a href="../next-steps-ashley-lane-1-15683901744/">Next Steps Ashley Lane</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../next-steps-monton-1-6375710545/">Next Steps Monton</a> <span class="badge r-good">Good</span></li><li><a href="../ropers-barn-1-20397316145/">Ropers Barn</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.nextstepsmentalhealth.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.51134%2C-2.2028945" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/next-steps-mental-healthcare-ltd-1-26365117607/" data-name="Next Steps Mental Healthcare Ltd" data-place="Manchester"
+      data-country="England" data-id="1-26365117607">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/manchester/feed.xml">Subscribe to changes in Manchester</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-26365117607,1-15683901744,1-3217283406,1-20394029226,1-124645192,1-10758997851">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

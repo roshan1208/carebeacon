@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-481031092/">AmBience Healthcare Ltd</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 2012-12-21</div><div><span class="l">Last inspected:</span> 2022-02-04</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2022-03-02</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-11-19</span> <span class="badge r-good">Good</span></li><li><span class="d">2017-05-16</span> <span class="badge r-good">Good</span></li><li><span class="d">2015-03-20</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-481031092/">AmBience Healthcare Ltd</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 21 December 2012</div><div><span class="l">Last inspected:</span> 4 February 2022 (over 4 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2 March 2022</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">19 November 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">16 May 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">20 March 2015</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Rotherham</h2><div class="dist" aria-hidden="true"><span style="width:3.5%;background:var(--info)" title="Outstanding: 3"></span><span style="width:31.4%;background:var(--good)" title="Good: 27"></span><span style="width:4.7%;background:var(--warn)" title="Requires improvement: 4"></span><span style="width:60.5%;background:var(--border)" title="No published rating: 52"></span></div><p class="note">Of 86 care homes in Rotherham: 3 Outstanding, 27 Good, 4 Requires improvement. 52 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults under 65 yrs</li><li>Learning disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2022-03-02</span> <a href="https://www.cqc.org.uk/reports/075c3b28-1b7b-42b6-b463-5d7fa4207222?20220302130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-11-19</span> <a href="https://www.cqc.org.uk/reports/72c7bcb6-f090-48cb-9c70-8b72bcf3c09c?20191119130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-05-16</span> <a href="https://www.cqc.org.uk/reports/94abc6b4-f568-44f4-bf61-9d9b3398f84b?20170516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-03-20</span> <a href="https://www.cqc.org.uk/reports/ef2fff9d-e498-4d4d-a8f3-33c546c9a934?20210130121610" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-06-08</span> <a href="https://www.cqc.org.uk/reports/52b06f05-a4a7-4eeb-9df0-128e86fc2096?20200129163919" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2 March 2022</span> <a href="https://www.cqc.org.uk/reports/075c3b28-1b7b-42b6-b463-5d7fa4207222?20220302130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">19 November 2019</span> <a href="https://www.cqc.org.uk/reports/72c7bcb6-f090-48cb-9c70-8b72bcf3c09c?20191119130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">16 May 2017</span> <a href="https://www.cqc.org.uk/reports/94abc6b4-f568-44f4-bf61-9d9b3398f84b?20170516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 March 2015</span> <a href="https://www.cqc.org.uk/reports/ef2fff9d-e498-4d4d-a8f3-33c546c9a934?20210130121610" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 June 2013</span> <a href="https://www.cqc.org.uk/reports/52b06f05-a4a7-4eeb-9df0-128e86fc2096?20200129163919" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../sycamore-house-1-2650371316/">Sycamore House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0 mi</span></li><li><a href="../ackroyd-house-1-299098143/">Ackroyd House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../gerard-road-1-5755950700/">Gerard Road</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.7 mi</span></li><li><a href="../broom-lane-care-home-1-13509351519/">Broom Lane Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.7 mi</span></li><li><a href="../laureate-court-1-10279987808/">Laureate Court</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../stonecroft-1-16864499836/">Stonecroft</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../sycamore-house-1-2650371316/">Sycamore House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/075c3b28-1b7b-42b6-b463-5d7fa4207222?20220302130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.ambiencehealthcare.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.4166525%2C-1.3414562" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/holly-nook-1-487991720/" data-name="Holly Nook" data-place="Rotherham"
+      data-country="England" data-id="1-487991720">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/rotherham/feed.xml">Subscribe to changes in Rotherham</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-487991720,1-2650371316,1-299098143,1-5755950700,1-13509351519,1-10279987808">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101695924/">Heathcotes Care Limited</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 2014-11-28</div><div><span class="l">Last inspected:</span> 2020-12-09</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-01-27</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2020-10-27</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2019-08-24</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-07-05</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-06-29</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101695924/">Heathcotes Care Limited</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 28 November 2014</div><div><span class="l">Last inspected:</span> 9 December 2020 (over 5 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">27 January 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">27 October 2020</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">24 August 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">5 July 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">29 June 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Leicestershire</h2><div class="dist" aria-hidden="true"><span style="width:1.2%;background:var(--info)" title="Outstanding: 2"></span><span style="width:50.9%;background:var(--good)" title="Good: 86"></span><span style="width:7.7%;background:var(--warn)" title="Requires improvement: 13"></span><span style="width:40.2%;background:var(--border)" title="No published rating: 68"></span></div><p class="note">Of 169 care homes in Leicestershire: 2 Outstanding, 86 Good, 13 Requires improvement. 68 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults under 65 yrs</li><li>Learning disabilities</li><li>Mental health conditions</li><li>Physical disabilities</li><li>Sensory impairment</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-01-27</span> <a href="https://www.cqc.org.uk/reports/90a80f07-ee2f-4db6-9b01-3763a1f93f11?20210127130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2020-10-27</span> <a href="https://www.cqc.org.uk/reports/87cd0a64-49af-4f0c-9af9-d84c2bceb12e?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-08-24</span> <a href="https://www.cqc.org.uk/reports/fffdceb1-0d35-4c6f-9176-eeddeeb16a03?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-07-05</span> <a href="https://www.cqc.org.uk/reports/574f3c71-c62f-4855-b230-b2c25f850ef8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-06-29</span> <a href="https://www.cqc.org.uk/reports/2e6e8736-d257-4398-a5ee-0fdce3d8d7fc?20200129163919" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">27 January 2021</span> <a href="https://www.cqc.org.uk/reports/90a80f07-ee2f-4db6-9b01-3763a1f93f11?20210127130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">27 October 2020</span> <a href="https://www.cqc.org.uk/reports/87cd0a64-49af-4f0c-9af9-d84c2bceb12e?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">24 August 2019</span> <a href="https://www.cqc.org.uk/reports/fffdceb1-0d35-4c6f-9176-eeddeeb16a03?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">5 July 2017</span> <a href="https://www.cqc.org.uk/reports/574f3c71-c62f-4855-b230-b2c25f850ef8?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">29 June 2016</span> <a href="https://www.cqc.org.uk/reports/2e6e8736-d257-4398-a5ee-0fdce3d8d7fc?20200129163919" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../wigston-1-729359233/">Wigston</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0 mi</span></li><li><a href="../wigston-lodge-1-22164120196/">Wigston Lodge</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.1 mi</span></li><li><a href="../apple-house-1-3151234884/">Apple House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.1 mi</span></li><li><a href="../cedar-court-residential-and-nursing-home-1-27789307988/">Cedar Court Residential and Nursing Home</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.1 mi</span></li><li><a href="../magna-nursing-home-1-27789308301/">Magna Nursing Home</a> <span class="badge r-good">Good</span> <span class="miles">0.1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../agbrigg-and-sandal-1-430555264/">Agbrigg and Sandal</a> <span class="badge r-good">Good</span></li><li><a href="../alverthorpe-1-3824506169/">Alverthorpe</a> <span class="badge r-good">Good</span></li><li><a href="../arnold-1-118413382/">Arnold</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../aylestone-1-470557134/">Aylestone</a> <span class="badge r-good">Good</span></li><li><a href="../balby-1-118413367/">Balby</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../basford-1-879621502/">Basford</a> <span class="badge r-good">Good</span></li><li><a href="../blackburn-florence-house-1-168082594/">Blackburn (Florence House)</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../blenheim-mount-1-1759782188/">Blenheim Mount</a> <span class="badge r-good">Good</span></li><li><a href="../blythe-bridge-1-118413322/">Blythe Bridge</a> <span class="badge r-good">Good</span></li><li><a href="../bridlington-1-382875008/">Bridlington</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../carrington-park-1-1042689019/">Carrington Park</a> <span class="badge r-good">Good</span></li><li><a href="../cranbourne-house-1-5645167996/">Cranbourne House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/90a80f07-ee2f-4db6-9b01-3763a1f93f11?20210127130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.heathcotes.net" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.5824724%2C-1.1107851" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/magna-1-1759653180/" data-name="Magna" data-place="Leicestershire"
+      data-country="England" data-id="1-1759653180">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/leicestershire/feed.xml">Subscribe to changes in Leicestershire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-1759653180,1-729359233,1-22164120196,1-3151234884,1-27789307988,1-27789308301">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

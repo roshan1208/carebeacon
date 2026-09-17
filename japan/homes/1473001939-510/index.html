@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -144,6 +152,37 @@
   
   <section><h2>Nearby residential long-term care facilities</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1453480035-520/">医療法人社団善仁会　介護老人保健施設　ハートフル瀬谷</a>  <span class="miles">1.0 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1453080041-520/">介護老人保健施設　葵の園・大和</a>  <span class="miles">1.1 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1473400776-510/">特別養護老人ホーム　ファミリーイン瀬谷</a>  <span class="miles">1.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1473400974-510/">特別養護老人ホーム愛成苑</a>  <span class="miles">1.9 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/japan/homes/1473000188-510/">特別養護老人ホーム　晃風園</a>  <span class="miles">2.0 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>
   <p class="links"><a href="https://www.kaigokensaku.mhlw.go.jp/14/index.php?action_kouhyou_detail_022_kani=true&amp;JigyosyoCd=1473001939-00&amp;ServiceCd=510" rel="noopener">This facility on the MHLW care service information system</a> &middot; <a href="https://roshan1208.github.io/carebeacon/japan/areas/hfc916a7ae0/feed.xml">Subscribe to changes in 神奈川県</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/japan/homes/1473001939-510/" data-name="ル・リアンふかみ" data-place="大和市, 神奈川県"
+      data-country="Japan" data-id="1473001939-510">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <section class="guide"><h2>Choosing a care home in Japan: official sources</h2><ul class="guide-links"><li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index.html" rel="noopener">厚生労働省: 介護・高齢者福祉</a></li><li><a href="https://www.kaigokensaku.mhlw.go.jp/" rel="noopener">介護サービス情報公表システム</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
   </main>
   <footer>

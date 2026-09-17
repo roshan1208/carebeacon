@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Beds:</span> 35</div><div><span class="l">Registered with CQC since:</span> 2010-12-10</div><div><span class="l">Last inspected:</span> 2021-01-28</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-02-10</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2018-05-16</span> <span class="badge r-good">Good</span></li><li><span class="d">2015-12-25</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Beds:</span> 35</div><div><span class="l">Registered with CQC since:</span> 10 December 2010</div><div><span class="l">Last inspected:</span> 28 January 2021 (over 5 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">10 February 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">16 May 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">25 December 2015</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Solihull</h2><div class="dist" aria-hidden="true"><span style="width:1.5%;background:var(--info)" title="Outstanding: 1"></span><span style="width:69.7%;background:var(--good)" title="Good: 46"></span><span style="width:3.0%;background:var(--warn)" title="Requires improvement: 2"></span><span style="width:25.8%;background:var(--border)" title="No published rating: 17"></span></div><p class="note">Of 66 care homes in Solihull: 1 Outstanding, 46 Good, 2 Requires improvement. 17 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-02-10</span> <a href="https://www.cqc.org.uk/reports/b86409cd-3d30-4312-a8ca-b5c8308ed80f?20210210130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-05-16</span> <a href="https://www.cqc.org.uk/reports/b307f237-d925-4f81-853b-c59f26e1ba58?20180516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-12-25</span> <a href="https://www.cqc.org.uk/reports/797384ab-8775-471b-832b-c6fa37d2d8c4?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-08-02</span> <a href="https://www.cqc.org.uk/reports/3df26f79-9034-4137-82d9-7ed3717d134e?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-09-10</span> <a href="https://www.cqc.org.uk/reports/855bee2b-8417-4ee9-9d8f-ca13cc4d45eb?20200129163919" rel="noopener">Report</a></li><li><span class="d">2012-07-30</span> <a href="https://www.cqc.org.uk/reports/4fa95193-dd98-4b36-9f99-1f2fee8b2d71?20200430120000" rel="noopener">Report</a></li><li><span class="d">2011-07-15</span> <a href="https://www.cqc.org.uk/reports/ead2226e-687e-477b-98de-77f941a7f6d2?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">10 February 2021</span> <a href="https://www.cqc.org.uk/reports/b86409cd-3d30-4312-a8ca-b5c8308ed80f?20210210130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">16 May 2018</span> <a href="https://www.cqc.org.uk/reports/b307f237-d925-4f81-853b-c59f26e1ba58?20180516120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 December 2015</span> <a href="https://www.cqc.org.uk/reports/797384ab-8775-471b-832b-c6fa37d2d8c4?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 August 2014</span> <a href="https://www.cqc.org.uk/reports/3df26f79-9034-4137-82d9-7ed3717d134e?20200129163919" rel="noopener">Report</a></li><li><span class="d">10 September 2013</span> <a href="https://www.cqc.org.uk/reports/855bee2b-8417-4ee9-9d8f-ca13cc4d45eb?20200129163919" rel="noopener">Report</a></li><li><span class="d">30 July 2012</span> <a href="https://www.cqc.org.uk/reports/4fa95193-dd98-4b36-9f99-1f2fee8b2d71?20200430120000" rel="noopener">Report</a></li><li><span class="d">15 July 2011</span> <a href="https://www.cqc.org.uk/reports/ead2226e-687e-477b-98de-77f941a7f6d2?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../sunny-mount-knowle-limited-127-longdon-road-1-142003316/">Sunny Mount (Knowle) Limited - 127 Longdon Road</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../birchmere-house-1-3118965058/">Birchmere House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../birchmere-house-1-511412468/">Birchmere House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../birchmere-mews-1-4900501629/">Birchmere Mews</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../birchmere-mews-1-7412656947/">Birchmere Mews</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/b86409cd-3d30-4312-a8ca-b5c8308ed80f?20210210130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.jobsclose.org.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.3887586%2C-1.7402948" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/job-s-close-residential-home-for-the-elderly-limited-1-110397879/" data-name="Job's Close Residential Home for the Elderly Limited" data-place="Solihull"
+      data-country="England" data-id="1-110397879">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/solihull/feed.xml">Subscribe to changes in Solihull</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-110397879,1-142003316,1-3118965058,1-511412468,1-4900501629,1-7412656947">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

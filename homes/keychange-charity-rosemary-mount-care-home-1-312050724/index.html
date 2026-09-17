@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">147 Chesswood Rd, Worthing, BN11 2AE</p>
   
   <span class="badge r-good">Good</span>
+  <p class="note rating-age">CQC published this rating on 3 January 2019, over 7 years ago, and has not published a newer one. It last inspected this home on 7 April 2021.</p>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101640561/">Keychange Charity</a></div><div><span class="l">Beds:</span> 29</div><div><span class="l">Registered with CQC since:</span> 2011-09-26</div><div><span class="l">Rating published:</span> 2019-01-03</div><div><span class="l">Last inspected:</span> 2021-04-07</div></div>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101640561/">Keychange Charity</a></div><div><span class="l">Beds:</span> 29</div><div><span class="l">Registered with CQC since:</span> 26 September 2011</div><div><span class="l">Rating published:</span> 3 January 2019 (over 7 years ago)</div><div><span class="l">Last inspected:</span> 7 April 2021 (over 5 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-05-05</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-01-03</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-06-02</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">5 May 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">3 January 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">2 June 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in West Sussex</h2><div class="dist" aria-hidden="true"><span style="width:2.2%;background:var(--info)" title="Outstanding: 8"></span><span style="width:48.6%;background:var(--good)" title="Good: 173"></span><span style="width:8.7%;background:var(--warn)" title="Requires improvement: 31"></span><span style="width:40.4%;background:var(--border)" title="No published rating: 144"></span></div><p class="note">Of 356 care homes in West Sussex: 8 Outstanding, 173 Good, 31 Requires improvement. 144 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-05-05</span> <a href="https://www.cqc.org.uk/reports/e14c14c2-f9f0-42c6-bc3e-a2b0328238f8?20210518120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-01-03</span> <a href="https://www.cqc.org.uk/reports/12c85211-6367-468d-9c0a-30afb01105a2?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-06-02</span> <a href="https://www.cqc.org.uk/reports/35c024c4-16fe-4f8f-9636-7c212e5f1c8d?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-06-14</span> <a href="https://www.cqc.org.uk/reports/4bc9e061-87ae-403c-90d9-61875780a4a7?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-12-05</span> <a href="https://www.cqc.org.uk/reports/026fbf60-5906-4eb5-b36b-cf5c09c1f739?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-03-06</span> <a href="https://www.cqc.org.uk/reports/d1918c9b-b3f9-4d74-ab74-e57d6845c175?20151016191357" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">5 May 2021</span> <a href="https://www.cqc.org.uk/reports/e14c14c2-f9f0-42c6-bc3e-a2b0328238f8?20210518120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">3 January 2019</span> <a href="https://www.cqc.org.uk/reports/12c85211-6367-468d-9c0a-30afb01105a2?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 June 2016</span> <a href="https://www.cqc.org.uk/reports/35c024c4-16fe-4f8f-9636-7c212e5f1c8d?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">14 June 2014</span> <a href="https://www.cqc.org.uk/reports/4bc9e061-87ae-403c-90d9-61875780a4a7?20200129163919" rel="noopener">Report</a></li><li><span class="d">5 December 2013</span> <a href="https://www.cqc.org.uk/reports/026fbf60-5906-4eb5-b36b-cf5c09c1f739?20200129163919" rel="noopener">Report</a></li><li><span class="d">6 March 2013</span> <a href="https://www.cqc.org.uk/reports/d1918c9b-b3f9-4d74-ab74-e57d6845c175?20151016191357" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../st-georges-lodge-residential-care-home-1-109111178/">St Georges Lodge Residential Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.1 mi</span></li><li><a href="../baytree-house-1-136698145/">Baytree House</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.2 mi</span></li><li><a href="../sutton-court-1-115817721/">Sutton Court</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../the-new-grange-care-home-limited-1-131448689/">The New Grange Care Home Limited</a> <span class="badge r-good">Good</span> <span class="miles">0.4 mi</span></li><li><a href="../white-pearl-residential-care-1-4444535588/">White Pearl Residential Care</a> <span class="badge r-good">Good</span> <span class="miles">0.4 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../keychange-charity-alde-house-1-19238345239/">Keychange Charity Alde House</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../keychange-charity-alexander-house-care-home-1-119174737/">Keychange Charity Alexander House Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../keychange-charity-erith-house-care-home-1-119174754/">Keychange Charity Erith House Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../keychange-charity-fair-havens-care-home-1-119174769/">Keychange Charity Fair Havens Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../keychange-charity-romans-care-home-1-312050787/">Keychange Charity Romans Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../keychange-charity-rose-lawn-care-home-1-119174785/">Keychange Charity Rose Lawn Care Home</a> <span class="badge r-outstanding">Outstanding</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/e14c14c2-f9f0-42c6-bc3e-a2b0328238f8?20210518120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.keychangecare.org.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.8205722%2C-0.3556007" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/keychange-charity-rosemary-mount-care-home-1-312050724/" data-name="Keychange Charity Rosemary Mount Care Home" data-place="West Sussex"
+      data-country="England" data-id="1-312050724">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/west-sussex/feed.xml">Subscribe to changes in West Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-312050724,1-109111178,1-136698145,1-115817721,1-131448689,1-4444535588">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

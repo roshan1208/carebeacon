@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-102642938/">Greensleeves Homes Trust</a></div><div><span class="l">Beds:</span> 33</div><div><span class="l">Registered with CQC since:</span> 2010-12-07</div><div><span class="l">Last inspected:</span> 2017-09-05</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2017-10-04</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-09-17</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2015-06-18</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-102642938/">Greensleeves Homes Trust</a></div><div><span class="l">Beds:</span> 33</div><div><span class="l">Registered with CQC since:</span> 7 December 2010</div><div><span class="l">Last inspected:</span> 5 September 2017 (over 9 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">4 October 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">17 September 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">18 June 2015</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in East Sussex</h2><div class="dist" aria-hidden="true"><span style="width:1.3%;background:var(--info)" title="Outstanding: 4"></span><span style="width:50.8%;background:var(--good)" title="Good: 157"></span><span style="width:7.1%;background:var(--warn)" title="Requires improvement: 22"></span><span style="width:40.8%;background:var(--border)" title="No published rating: 126"></span></div><p class="note">Of 309 care homes in East Sussex: 4 Outstanding, 157 Good, 22 Requires improvement. 126 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2017-10-04</span> <a href="https://www.cqc.org.uk/reports/c99cb714-619e-43f7-9042-472b786b00d0?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-09-17</span> <a href="https://www.cqc.org.uk/reports/0d513d47-e132-4bdc-9b09-6c5c7c9ff0e8?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-06-18</span> <a href="https://www.cqc.org.uk/reports/560f52c8-7138-4446-98e9-5eee3262c08a?20210128224526" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-10-24</span> <a href="https://www.cqc.org.uk/reports/83501772-4d33-4b5c-8db4-08108864c35e?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-01-11</span> <a href="https://www.cqc.org.uk/reports/0841d547-7e86-4733-8269-3545f5440d56?20200129163919" rel="noopener">Report</a></li><li><span class="d">2012-04-19</span> <a href="https://www.cqc.org.uk/reports/7285f61d-6b80-4359-9aae-1bd6cbcfa95a?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">4 October 2017</span> <a href="https://www.cqc.org.uk/reports/c99cb714-619e-43f7-9042-472b786b00d0?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">17 September 2016</span> <a href="https://www.cqc.org.uk/reports/0d513d47-e132-4bdc-9b09-6c5c7c9ff0e8?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">18 June 2015</span> <a href="https://www.cqc.org.uk/reports/560f52c8-7138-4446-98e9-5eee3262c08a?20210128224526" rel="noopener">Inspection report for this home</a></li><li><span class="d">24 October 2013</span> <a href="https://www.cqc.org.uk/reports/83501772-4d33-4b5c-8db4-08108864c35e?20200129163919" rel="noopener">Report</a></li><li><span class="d">11 January 2013</span> <a href="https://www.cqc.org.uk/reports/0841d547-7e86-4733-8269-3545f5440d56?20200129163919" rel="noopener">Report</a></li><li><span class="d">19 April 2012</span> <a href="https://www.cqc.org.uk/reports/7285f61d-6b80-4359-9aae-1bd6cbcfa95a?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../st-saviours-road-1-3635721566/">St Saviours Road</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../the-moreton-centre-1-1077845612/">The Moreton Centre</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.4 mi</span></li><li><a href="../bethune-court-1-126240200/">Bethune Court</a> <span class="badge r-good">Good</span> <span class="miles">0.4 mi</span></li><li><a href="../bishops-corner-1-158714340/">Bishops Corner</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.4 mi</span></li><li><a href="../seaview-nursing-home-1-135296575/">Seaview Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../arden-house-1-121567342/">Arden House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../borovere-1-121567358/">Borovere</a> <span class="badge r-good">Good</span></li><li><a href="../broadacres-care-home-1-21725092991/">Broadacres Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../broadlands-1-121569406/">Broadlands</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../buckler-s-lodge-care-home-1-12648645222/">Buckler&#39;s Lodge Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../clarendon-lodge-1-10198885912/">Clarendon Lodge</a> <span class="badge r-good">Good</span></li><li><a href="../de-lucy-house-1-2089484545/">De Lucy House</a> <span class="badge r-good">Good</span></li><li><a href="../glebelands-house-1-3915272624/">Glebelands House</a> <span class="badge r-good">Good</span></li><li><a href="../harleston-house-1-121567182/">Harleston House</a> <span class="badge r-outstanding">Outstanding</span></li><li><a href="../henley-house-1-10000302982/">Henley House</a> <span class="badge r-good">Good</span></li><li><a href="../lavender-fields-1-5154676354/">Lavender Fields</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../mount-ephraim-house-1-15920202846/">Mount Ephraim House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/c99cb714-619e-43f7-9042-472b786b00d0?20200129163919" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.greensleeves.org.uk/care-homes/grosvenor-house-st-leonards-on-sea/" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.8510509%2C0.5391971" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/grosvenor-house-1-121567166/" data-name="Grosvenor House" data-place="East Sussex"
+      data-country="England" data-id="1-121567166">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/east-sussex/feed.xml">Subscribe to changes in East Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-121567166,1-3635721566,1-1077845612,1-126240200,1-158714340,1-135296575">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">Horsham Road, Cowfold, RH13 8AJ</p>
   
   <span class="badge r-unrated">No published rating</span>
-  <p class="manager-flag">No registered manager since 2025-07-15</p>
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101670914/">Medicrest Limited</a></div><div><span class="l">Beds:</span> 50</div><div><span class="l">Registered with CQC since:</span> 2010-12-15</div><div><span class="l">Last inspected:</span> 2022-07-13</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2022-08-26</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-12-29</span> <span class="badge r-good">Good</span></li><li><span class="d">2016-07-02</span> <span class="badge r-good">Good</span></li><li><span class="d">2015-08-14</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <p class="manager-flag">No registered manager since 15 July 2025 (14 months ago)</p>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101670914/">Medicrest Limited</a></div><div><span class="l">Beds:</span> 50</div><div><span class="l">Registered with CQC since:</span> 15 December 2010</div><div><span class="l">Last inspected:</span> 13 July 2022 (over 4 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">26 August 2022</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">29 December 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">2 July 2016</span> <span class="badge r-good">Good</span></li><li><span class="d">14 August 2015</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in West Sussex</h2><div class="dist" aria-hidden="true"><span style="width:2.2%;background:var(--info)" title="Outstanding: 8"></span><span style="width:48.6%;background:var(--good)" title="Good: 173"></span><span style="width:8.7%;background:var(--warn)" title="Requires improvement: 31"></span><span style="width:40.4%;background:var(--border)" title="No published rating: 144"></span></div><p class="note">Of 356 care homes in West Sussex: 8 Outstanding, 173 Good, 31 Requires improvement. 144 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li><li>Diagnostic and screening procedures</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2022-08-26</span> <a href="https://www.cqc.org.uk/reports/a1f9b4a8-8c6f-4704-bc05-dea2049d1d05?20220826120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-12-29</span> <a href="https://www.cqc.org.uk/reports/601cb375-bf97-446f-90c8-837220e9f1d2?20190620120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-07-02</span> <a href="https://www.cqc.org.uk/reports/9b482629-ff24-44cd-8bd6-63c4452d12ca?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-08-14</span> <a href="https://www.cqc.org.uk/reports/5867cb8d-7fd3-42fd-9c46-a69f72602adc?20210127071637" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-05-03</span> <a href="https://www.cqc.org.uk/reports/c9eafb62-7b17-4186-baf3-3d08349a9186?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-10-18</span> <a href="https://www.cqc.org.uk/reports/5e14cf07-43d6-40fd-b763-e301f4e17619?20151016191357" rel="noopener">Report</a></li><li><span class="d">2013-03-14</span> <a href="https://www.cqc.org.uk/reports/20bf9c88-3140-425e-94b3-88c62d84d3b2?20200129163919" rel="noopener">Report</a></li><li><span class="d">2011-12-09</span> <a href="https://www.cqc.org.uk/reports/4ae3c949-88e3-49fa-a331-0186cc566dfb?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">26 August 2022</span> <a href="https://www.cqc.org.uk/reports/a1f9b4a8-8c6f-4704-bc05-dea2049d1d05?20220826120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">29 December 2018</span> <a href="https://www.cqc.org.uk/reports/601cb375-bf97-446f-90c8-837220e9f1d2?20190620120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 July 2016</span> <a href="https://www.cqc.org.uk/reports/9b482629-ff24-44cd-8bd6-63c4452d12ca?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">14 August 2015</span> <a href="https://www.cqc.org.uk/reports/5867cb8d-7fd3-42fd-9c46-a69f72602adc?20210127071637" rel="noopener">Inspection report for this home</a></li><li><span class="d">3 May 2014</span> <a href="https://www.cqc.org.uk/reports/c9eafb62-7b17-4186-baf3-3d08349a9186?20200129163919" rel="noopener">Report</a></li><li><span class="d">18 October 2013</span> <a href="https://www.cqc.org.uk/reports/5e14cf07-43d6-40fd-b763-e301f4e17619?20151016191357" rel="noopener">Report</a></li><li><span class="d">14 March 2013</span> <a href="https://www.cqc.org.uk/reports/20bf9c88-3140-425e-94b3-88c62d84d3b2?20200129163919" rel="noopener">Report</a></li><li><span class="d">9 December 2011</span> <a href="https://www.cqc.org.uk/reports/4ae3c949-88e3-49fa-a331-0186cc566dfb?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../eastridge-manor-emi-nursing-and-residential-home-1-126677657/">Eastridge Manor EMI Nursing and Residential Home</a> <span class="badge r-good">Good</span> <span class="miles">1.9 mi</span></li><li><a href="../belle-vue-country-house-1-119524813/">Belle Vue Country House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">2.3 mi</span></li><li><a href="../aniska-lodge-1-124592956/">Aniska Lodge</a> <span class="badge r-unrated">No published rating</span> <span class="miles">3.5 mi</span></li><li><a href="../glen-arun-care-home-1-137451066/">Glen Arun Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">4.3 mi</span></li><li><a href="../oakhill-house-care-home-1-27748483473/">Oakhill House Care Home</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">4.6 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../acorn-house-croydon-1-122249359/">Acorn House - Croydon</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../acorn-lodge-croydon-1-122249345/">Acorn Lodge - Croydon</a> <span class="badge r-good">Good</span></li><li><a href="../morven-house-1-19886805529/">Morven House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/a1f9b4a8-8c6f-4704-bc05-dea2049d1d05?20220826120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.9998394%2C-0.2716413" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/homelands-nursing-home-1-122200168/" data-name="Homelands Nursing Home" data-place="West Sussex"
+      data-country="England" data-id="1-122200168">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/west-sussex/feed.xml">Subscribe to changes in West Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-122200168,1-126677657,1-119524813,1-124592956,1-137451066,1-27748483473">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

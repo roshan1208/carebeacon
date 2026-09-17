@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 2011-01-26</div><div><span class="l">Last inspected:</span> 2020-12-18</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2021-01-13</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-05-10</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-03-18</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Beds:</span> 20</div><div><span class="l">Registered with CQC since:</span> 26 January 2011</div><div><span class="l">Last inspected:</span> 18 December 2020 (over 5 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">13 January 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">10 May 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">18 March 2016</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Nottinghamshire</h2><div class="dist" aria-hidden="true"><span style="width:6.5%;background:var(--info)" title="Outstanding: 19"></span><span style="width:45.5%;background:var(--good)" title="Good: 133"></span><span style="width:5.8%;background:var(--warn)" title="Requires improvement: 17"></span><span style="width:42.1%;background:var(--border)" title="No published rating: 123"></span></div><p class="note">Of 292 care homes in Nottinghamshire: 19 Outstanding, 133 Good, 17 Requires improvement. 123 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2021-01-13</span> <a href="https://www.cqc.org.uk/reports/f6feffb9-eb4e-4321-bc36-ee1c9b5ead6a?20210113130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-05-10</span> <a href="https://www.cqc.org.uk/reports/8cb5b517-378d-4cbd-a9bb-fa880ae48953?20190620120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-03-18</span> <a href="https://www.cqc.org.uk/reports/4aa2cf8b-c111-449c-b983-c1e0df313dfe?20210123234616" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-10-25</span> <a href="https://www.cqc.org.uk/reports/b32b7d3f-56ad-41e0-bdbc-160423e17038?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-01-29</span> <a href="https://www.cqc.org.uk/reports/e5e146ee-355e-4666-9e04-345046b2f28d?20200129163919" rel="noopener">Report</a></li><li><span class="d">2012-03-02</span> <a href="https://www.cqc.org.uk/reports/058d54b6-ea6a-4136-a268-ca783dc36e7d?20200430120000" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">13 January 2021</span> <a href="https://www.cqc.org.uk/reports/f6feffb9-eb4e-4321-bc36-ee1c9b5ead6a?20210113130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">10 May 2019</span> <a href="https://www.cqc.org.uk/reports/8cb5b517-378d-4cbd-a9bb-fa880ae48953?20190620120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">18 March 2016</span> <a href="https://www.cqc.org.uk/reports/4aa2cf8b-c111-449c-b983-c1e0df313dfe?20210123234616" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 October 2013</span> <a href="https://www.cqc.org.uk/reports/b32b7d3f-56ad-41e0-bdbc-160423e17038?20200129163919" rel="noopener">Report</a></li><li><span class="d">29 January 2013</span> <a href="https://www.cqc.org.uk/reports/e5e146ee-355e-4666-9e04-345046b2f28d?20200129163919" rel="noopener">Report</a></li><li><span class="d">2 March 2012</span> <a href="https://www.cqc.org.uk/reports/058d54b6-ea6a-4136-a268-ca783dc36e7d?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../rose-farm-1-126234425/">Rose Farm</a> <span class="badge r-good">Good</span> <span class="miles">0.9 mi</span></li><li><a href="../rock-house-residential-home-1-115182688/">Rock House Residential Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1 mi</span></li><li><a href="../rivers-1-129460040/">Rivers</a> <span class="badge r-good">Good</span> <span class="miles">2.4 mi</span></li><li><a href="../meadow-view-1-118871535/">Meadow View</a> <span class="badge r-good">Good</span> <span class="miles">2.5 mi</span></li><li><a href="../langold-view-1-6849458763/">Langold View</a> <span class="badge r-good">Good</span> <span class="miles">3.1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/f6feffb9-eb4e-4321-bc36-ee1c9b5ead6a?20210113130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.4177251%2C-1.076667" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/brailsford-house-1-171337794/" data-name="Brailsford House" data-place="Nottinghamshire"
+      data-country="England" data-id="1-171337794">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/nottinghamshire/feed.xml">Subscribe to changes in Nottinghamshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-171337794,1-126234425,1-115182688,1-129460040,1-118871535,1-6849458763">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

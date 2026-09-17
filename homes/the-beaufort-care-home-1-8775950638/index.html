@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-8544062580/">Roseberry Care Centres (England) Ltd</a></div><div><span class="l">Beds:</span> 29</div><div><span class="l">Registered with CQC since:</span> 2020-05-13</div><div><span class="l">Last inspected:</span> 2023-06-19</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2023-08-18</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2023-01-20</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2022-03-11</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2021-01-15</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2020-01-09</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2018-11-28</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-12-06</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-04-05</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-10-28</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2016-06-24</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-01-06</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2015-01-26</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-8544062580/">Roseberry Care Centres (England) Ltd</a></div><div><span class="l">Beds:</span> 29</div><div><span class="l">Registered with CQC since:</span> 13 May 2020</div><div><span class="l">Last inspected:</span> 19 June 2023 (over 3 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">18 August 2023</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">20 January 2023</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">11 March 2022</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">15 January 2021</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">9 January 2020</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">28 November 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">6 December 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">5 April 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">28 October 2016</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">24 June 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">6 January 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">26 January 2015</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Coventry</h2><div class="dist" aria-hidden="true"><span style="width:2.4%;background:var(--info)" title="Outstanding: 2"></span><span style="width:47.6%;background:var(--good)" title="Good: 39"></span><span style="width:18.3%;background:var(--warn)" title="Requires improvement: 15"></span><span style="width:31.7%;background:var(--border)" title="No published rating: 26"></span></div><p class="note">Of 82 care homes in Coventry: 2 Outstanding, 39 Good, 15 Requires improvement. 26 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2023-08-18</span> <a href="https://www.cqc.org.uk/reports/42f5ce6a-5f53-420a-8423-309cbac91588?20240319130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2023-01-20</span> <a href="https://www.cqc.org.uk/reports/2e84afb4-5cd3-4b5d-823b-10571015e7eb?20230120130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2022-03-11</span> <a href="https://www.cqc.org.uk/reports/f96f9940-7a0f-40d7-b9a2-157b2d5ef67b?20220322130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-01-15</span> <a href="https://www.cqc.org.uk/reports/cf923935-01bd-4bb1-8523-1b1163bf8088?20210116130000" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">18 August 2023</span> <a href="https://www.cqc.org.uk/reports/42f5ce6a-5f53-420a-8423-309cbac91588?20240319130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 January 2023</span> <a href="https://www.cqc.org.uk/reports/2e84afb4-5cd3-4b5d-823b-10571015e7eb?20230120130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">11 March 2022</span> <a href="https://www.cqc.org.uk/reports/f96f9940-7a0f-40d7-b9a2-157b2d5ef67b?20220322130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">15 January 2021</span> <a href="https://www.cqc.org.uk/reports/cf923935-01bd-4bb1-8523-1b1163bf8088?20210116130000" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../maurice-edelman-house-1-119938065/">Maurice Edelman House</a> <span class="badge r-good">Good</span> <span class="miles">0.9 mi</span></li><li><a href="../earlsdon-lodge-care-home-1-14026365958/">Earlsdon Lodge Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.9 mi</span></li><li><a href="../st-andrews-house-1-131719832/">St Andrews House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.9 mi</span></li><li><a href="../herald-lodge-1-1495832201/">Herald Lodge</a> <span class="badge r-good">Good</span> <span class="miles">1 mi</span></li><li><a href="../warwick-house-1-4083306462/">Warwick House</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../cameron-house-care-home-1-8769737539/">Cameron House Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../chichester-court-care-home-1-8786354126/">Chichester Court Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../dolphin-view-care-home-1-8786354147/">Dolphin View Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../hamilton-house-care-home-1-8786354167/">Hamilton House Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../primrose-lodge-care-home-1-8787027330/">Primrose Lodge Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../rosemount-care-home-1-8786354187/">Rosemount Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../south-bebside-care-home-1-8786354208/">South Bebside Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../south-park-care-home-1-8787027309/">South Park Care Home</a> <span class="badge r-good">Good</span></li><li><a href="../south-quay-care-home-1-8786354269/">South Quay Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../springfield-house-nursing-home-1-8786354229/">Springfield House Nursing Home</a> <span class="badge r-good">Good</span></li><li><a href="../springfield-house-residential-home-1-8786354249/">Springfield House Residential Home</a> <span class="badge r-good">Good</span></li><li><a href="../the-ferns-care-home-1-8769737429/">The Ferns Care Home</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/42f5ce6a-5f53-420a-8423-309cbac91588?20240319130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=52.3853894%2C-1.5374361" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/the-beaufort-care-home-1-8775950638/" data-name="The Beaufort Care Home" data-place="Coventry"
+      data-country="England" data-id="1-8775950638">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/coventry/feed.xml">Subscribe to changes in Coventry</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-8775950638,1-119938065,1-14026365958,1-131719832,1-1495832201,1-4083306462">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

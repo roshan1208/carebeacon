@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-241882666/">Sovereign Care Limited</a></div><div><span class="l">Beds:</span> 56</div><div><span class="l">Registered with CQC since:</span> 2011-07-11</div><div><span class="l">Last inspected:</span> 2023-02-07</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2023-03-01</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2022-07-06</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2021-08-24</span> <span class="badge r-good">Good</span></li><li><span class="d">2021-04-02</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2019-09-03</span> <span class="badge r-good">Good</span></li><li><span class="d">2019-02-28</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-09-14</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-06-08</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-02-04</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">2015-10-06</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-241882666/">Sovereign Care Limited</a></div><div><span class="l">Beds:</span> 56</div><div><span class="l">Registered with CQC since:</span> 11 July 2011</div><div><span class="l">Last inspected:</span> 7 February 2023 (over 3 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">1 March 2023</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">6 July 2022</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">24 August 2021</span> <span class="badge r-good">Good</span></li><li><span class="d">2 April 2021</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">3 September 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">28 February 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">14 September 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">8 June 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">4 February 2017</span> <span class="badge r-unrated">Inspected but not rated</span></li><li><span class="d">6 October 2015</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in East Sussex</h2><div class="dist" aria-hidden="true"><span style="width:1.3%;background:var(--info)" title="Outstanding: 4"></span><span style="width:50.8%;background:var(--good)" title="Good: 157"></span><span style="width:7.1%;background:var(--warn)" title="Requires improvement: 22"></span><span style="width:40.8%;background:var(--border)" title="No published rating: 126"></span></div><p class="note">Of 309 care homes in East Sussex: 4 Outstanding, 157 Good, 22 Requires improvement. 126 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li><li>Mental health conditions</li><li>Physical disabilities</li><li>Sensory impairment</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2023-03-01</span> <a href="https://www.cqc.org.uk/reports/529f53cd-017e-4bd8-96ef-53315c876be7?20230301130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2022-07-06</span> <a href="https://www.cqc.org.uk/reports/41db7309-9a8d-4646-b8e6-2d1281877377?20220706120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-08-24</span> <a href="https://www.cqc.org.uk/reports/525b1bdf-7870-480b-a367-5bdcab22b727?20210824120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2021-04-02</span> <a href="https://www.cqc.org.uk/reports/b6911f9d-6132-4020-a015-3a66973ea6b2?20210402120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-09-03</span> <a href="https://www.cqc.org.uk/reports/543c7071-9404-4c9f-8e28-de6c8a863d05?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-02-28</span> <a href="https://www.cqc.org.uk/reports/9043f77d-4e2c-45aa-9ade-2f2e990a65aa?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-09-14</span> <a href="https://www.cqc.org.uk/reports/8f32e820-871f-42ed-bddd-f71ebc2473f1?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-06-08</span> <a href="https://www.cqc.org.uk/reports/6805a984-ff73-44ea-b873-b1d552d643bf?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">1 March 2023</span> <a href="https://www.cqc.org.uk/reports/529f53cd-017e-4bd8-96ef-53315c876be7?20230301130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">6 July 2022</span> <a href="https://www.cqc.org.uk/reports/41db7309-9a8d-4646-b8e6-2d1281877377?20220706120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">24 August 2021</span> <a href="https://www.cqc.org.uk/reports/525b1bdf-7870-480b-a367-5bdcab22b727?20210824120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2 April 2021</span> <a href="https://www.cqc.org.uk/reports/b6911f9d-6132-4020-a015-3a66973ea6b2?20210402120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">3 September 2019</span> <a href="https://www.cqc.org.uk/reports/543c7071-9404-4c9f-8e28-de6c8a863d05?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">28 February 2019</span> <a href="https://www.cqc.org.uk/reports/9043f77d-4e2c-45aa-9ade-2f2e990a65aa?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">14 September 2018</span> <a href="https://www.cqc.org.uk/reports/8f32e820-871f-42ed-bddd-f71ebc2473f1?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 June 2017</span> <a href="https://www.cqc.org.uk/reports/6805a984-ff73-44ea-b873-b1d552d643bf?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../caroline-house-1-291181163/">Caroline House</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.2 mi</span></li><li><a href="../ersham-house-nursing-home-1-8476926136/">Ersham House Nursing Home</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.5 mi</span></li><li><a href="../jemini-place-1-5163409715/">Jemini Place</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li><li><a href="../jemini-response-52-summerheath-road-1-1655151030/">Jemini Response 52 Summerheath Road</a> <span class="badge r-good">Good</span> <span class="miles">0.6 mi</span></li><li><a href="../woodside-hall-nursing-home-1-117578896/">Woodside Hall Nursing Home</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../ampersand-1-291181196/">Ampersand</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../caroline-house-1-291181163/">Caroline House</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/529f53cd-017e-4bd8-96ef-53315c876be7?20230301130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.856147%2C0.248976" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/filsham-lodge-1-290987084/" data-name="Filsham Lodge" data-place="East Sussex"
+      data-country="England" data-id="1-290987084">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/east-sussex/feed.xml">Subscribe to changes in East Sussex</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-290987084,1-291181163,1-8476926136,1-5163409715,1-1655151030,1-117578896">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

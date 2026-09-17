@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">200 Stonedale Crescent, Liverpool, L11 9DJ</p>
   
   <span class="badge r-unrated">No published rating</span>
-  <p class="manager-flag">No registered manager since 2025-06-23</p>
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-4328010968/">Advinia Care Homes Limited</a></div><div><span class="l">Beds:</span> 180</div><div><span class="l">Registered with CQC since:</span> 2017-11-30</div><div><span class="l">Last inspected:</span> 2023-12-12</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2024-06-29</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2023-06-01</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2022-09-24</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2020-10-10</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2019-12-05</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2019-06-25</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-12-19</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <p class="manager-flag">No registered manager since 23 June 2025 (15 months ago)</p>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-4328010968/">Advinia Care Homes Limited</a></div><div><span class="l">Beds:</span> 180</div><div><span class="l">Registered with CQC since:</span> 30 November 2017</div><div><span class="l">Last inspected:</span> 12 December 2023 (over 2 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">29 June 2024</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">1 June 2023</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">24 September 2022</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">10 October 2020</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">5 December 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">25 June 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">19 December 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Liverpool</h2><div class="dist" aria-hidden="true"><span style="width:1.1%;background:var(--info)" title="Outstanding: 1"></span><span style="width:35.1%;background:var(--good)" title="Good: 33"></span><span style="width:11.7%;background:var(--warn)" title="Requires improvement: 11"></span><span style="width:52.1%;background:var(--border)" title="No published rating: 49"></span></div><p class="note">Of 94 care homes in Liverpool: 1 Outstanding, 33 Good, 11 Requires improvement. 49 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Dementia</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2024-06-29</span> <a href="https://www.cqc.org.uk/reports/985b0858-4375-4bc8-9be7-1e2fcac64b92?20240629120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2023-06-01</span> <a href="https://www.cqc.org.uk/reports/cd5f4823-67fc-4968-b9ee-6bb319d9267a?20230602120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2022-09-24</span> <a href="https://www.cqc.org.uk/reports/c7eb75b3-437b-4d38-951e-bb8461c7a0a9?20220924120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2020-10-10</span> <a href="https://www.cqc.org.uk/reports/80da875f-3592-40e5-83f3-fa278a79b445?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-12-05</span> <a href="https://www.cqc.org.uk/reports/434f9170-a14d-4413-8459-05afbf31bc63?20191205130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-06-25</span> <a href="https://www.cqc.org.uk/reports/078aec2b-bd2e-4d00-94e8-d59e4e1f1fe7?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-12-19</span> <a href="https://www.cqc.org.uk/reports/c8168dc0-5fae-4dea-bf61-b52ec3b94857?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">29 June 2024</span> <a href="https://www.cqc.org.uk/reports/985b0858-4375-4bc8-9be7-1e2fcac64b92?20240629120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">1 June 2023</span> <a href="https://www.cqc.org.uk/reports/cd5f4823-67fc-4968-b9ee-6bb319d9267a?20230602120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">24 September 2022</span> <a href="https://www.cqc.org.uk/reports/c7eb75b3-437b-4d38-951e-bb8461c7a0a9?20220924120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">10 October 2020</span> <a href="https://www.cqc.org.uk/reports/80da875f-3592-40e5-83f3-fa278a79b445?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">5 December 2019</span> <a href="https://www.cqc.org.uk/reports/434f9170-a14d-4413-8459-05afbf31bc63?20191205130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">25 June 2019</span> <a href="https://www.cqc.org.uk/reports/078aec2b-bd2e-4d00-94e8-d59e4e1f1fe7?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">19 December 2018</span> <a href="https://www.cqc.org.uk/reports/c8168dc0-5fae-4dea-bf61-b52ec3b94857?20211030120000" rel="noopener">Inspection report for this home</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../alt-park-nursing-home-1-118357748/">Alt Park Nursing Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.4 mi</span></li><li><a href="../croxteth-park-care-home-1-18890666238/">Croxteth Park Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.6 mi</span></li><li><a href="../sedgemoor-care-home-1-136464214/">Sedgemoor Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li><li><a href="../larkhill-hall-1-2277765023/">Larkhill Hall</a> <span class="badge r-unrated">No published rating</span> <span class="miles">1 mi</span></li><li><a href="../lorenzo-drive-1-4630196842/">Lorenzo Drive</a> <span class="badge r-good">Good</span> <span class="miles">1.1 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../arncliffe-court-care-home-1-4565795468/">Arncliffe Court Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../bedford-care-home-1-4413220392/">Bedford Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../burrswood-care-home-1-4413340817/">Burrswood Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../hammerwich-hall-care-home-1-4413340878/">Hammerwich Hall Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../mill-view-care-home-1-4565545397/">Mill View Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../netherton-green-care-home-1-4413341380/">Netherton Green Care Home</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../parklands-court-care-home-1-4413482581/">Parklands Court Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../ryland-view-care-home-1-4413482662/">Ryland View Care Home</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../west-ridings-care-home-1-4413482926/">West Ridings Care Home</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/985b0858-4375-4bc8-9be7-1e2fcac64b92?20240629120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.4542427%2C-2.9108848" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/stonedale-lodge-care-home-1-4413482844/" data-name="Stonedale Lodge Care Home" data-place="Liverpool"
+      data-country="England" data-id="1-4413482844">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/liverpool/feed.xml">Subscribe to changes in Liverpool</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-4413482844,1-118357748,1-18890666238,1-136464214,1-2277765023,1-4630196842">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

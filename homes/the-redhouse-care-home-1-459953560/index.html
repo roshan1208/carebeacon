@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">2 Southampton Road, Fareham, PO16 7DY</p>
   
   <span class="badge r-unrated">No published rating</span>
-  <p class="manager-flag">No registered manager since 2025-09-09</p>
-  <div class="facts"><div><span class="l">Run by:</span> RCB Healthcare</div><div><span class="l">Beds:</span> 36</div><div><span class="l">Registered with CQC since:</span> 2012-09-19</div><div><span class="l">Last inspected:</span> 2020-09-09</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2020-09-30</span> <span class="badge r-good">Good</span></li><li><span class="d">2019-08-20</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-09-20</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-10-13</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-03-28</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-07-26</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <p class="manager-flag">No registered manager since 9 September 2025 (12 months ago)</p>
+  <div class="facts"><div><span class="l">Run by:</span> RCB Healthcare</div><div><span class="l">Beds:</span> 36</div><div><span class="l">Registered with CQC since:</span> 19 September 2012</div><div><span class="l">Last inspected:</span> 9 September 2020 (over 6 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">30 September 2020</span> <span class="badge r-good">Good</span></li><li><span class="d">20 August 2019</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">20 September 2018</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">13 October 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">28 March 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">26 July 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Hampshire</h2><div class="dist" aria-hidden="true"><span style="width:4.2%;background:var(--info)" title="Outstanding: 21"></span><span style="width:51.3%;background:var(--good)" title="Good: 254"></span><span style="width:5.5%;background:var(--warn)" title="Requires improvement: 27"></span><span style="width:39.0%;background:var(--border)" title="No published rating: 193"></span></div><p class="note">Of 495 care homes in Hampshire: 21 Outstanding, 254 Good, 27 Requires improvement. 193 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Dementia</li><li>Mental health conditions</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2020-09-30</span> <a href="https://www.cqc.org.uk/reports/21b26a95-b56b-4327-a0f7-91b99985379f?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2019-08-20</span> <a href="https://www.cqc.org.uk/reports/61605543-8b17-4111-8bd9-439b636ab16b?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-09-20</span> <a href="https://www.cqc.org.uk/reports/49cb40e6-8f1a-4fe7-8e6e-4eaa9dcd2885?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-10-13</span> <a href="https://www.cqc.org.uk/reports/a8a32a77-52f6-41a8-aea9-f116c02e41a2?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-03-28</span> <a href="https://www.cqc.org.uk/reports/dc8c6f83-a8c8-44ed-8500-0394e522baf6?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-07-26</span> <a href="https://www.cqc.org.uk/reports/3388132a-4489-4694-b0f7-65b886829f4f?20160805120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-05-16</span> <a href="https://www.cqc.org.uk/reports/3ad8401f-2847-43c8-b33a-41fa54329bdf?20200129163919" rel="noopener">Report</a></li><li><span class="d">2013-07-06</span> <a href="https://www.cqc.org.uk/reports/1cc565b1-d6d8-4ea7-8df7-4ba0010689a3?20151016191357" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">30 September 2020</span> <a href="https://www.cqc.org.uk/reports/21b26a95-b56b-4327-a0f7-91b99985379f?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 August 2019</span> <a href="https://www.cqc.org.uk/reports/61605543-8b17-4111-8bd9-439b636ab16b?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 September 2018</span> <a href="https://www.cqc.org.uk/reports/49cb40e6-8f1a-4fe7-8e6e-4eaa9dcd2885?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">13 October 2017</span> <a href="https://www.cqc.org.uk/reports/a8a32a77-52f6-41a8-aea9-f116c02e41a2?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">28 March 2017</span> <a href="https://www.cqc.org.uk/reports/dc8c6f83-a8c8-44ed-8500-0394e522baf6?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">26 July 2016</span> <a href="https://www.cqc.org.uk/reports/3388132a-4489-4694-b0f7-65b886829f4f?20160805120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">16 May 2014</span> <a href="https://www.cqc.org.uk/reports/3ad8401f-2847-43c8-b33a-41fa54329bdf?20200129163919" rel="noopener">Report</a></li><li><span class="d">6 July 2013</span> <a href="https://www.cqc.org.uk/reports/1cc565b1-d6d8-4ea7-8df7-4ba0010689a3?20151016191357" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../croft-manor-residential-home-1-4757910141/">Croft Manor Residential Home</a> <span class="badge r-good">Good</span> <span class="miles">0.2 mi</span></li><li><a href="../66-park-lane-1-376585101/">66 Park Lane</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li><li><a href="../uplands-house-care-home-1-116702092/">Uplands House Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li><li><a href="../cams-ridge-care-home-1-17594329661/">Cams Ridge Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.5 mi</span></li><li><a href="../broadview-1-129460538/">Broadview</a> <span class="badge r-outstanding">Outstanding</span> <span class="miles">0.6 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   
   <p class="links"><a href="https://www.cqc.org.uk/reports/21b26a95-b56b-4327-a0f7-91b99985379f?20211030120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.redhousecarehome.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=50.8570045%2C-1.1762418" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/the-redhouse-care-home-1-459953560/" data-name="The RedHouse Care Home" data-place="Hampshire"
+      data-country="England" data-id="1-459953560">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/hampshire/feed.xml">Subscribe to changes in Hampshire</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-459953560,1-4757910141,1-376585101,1-116702092,1-17594329661,1-129460538">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

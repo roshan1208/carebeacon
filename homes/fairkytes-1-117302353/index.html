@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -138,19 +146,51 @@
   <p class="address">42 Fairkytes Avenue, Hornchurch, RM11 1XS</p>
   
   <span class="badge r-good">Good</span>
+  <p class="note rating-age">CQC published this rating on 11 February 2023, over 3 years ago, and has not published a newer one.</p>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101679621/">Clearwater Care (Hackney) Limited</a></div><div><span class="l">Beds:</span> 8</div><div><span class="l">Registered with CQC since:</span> 2010-11-19</div><div><span class="l">Rating published:</span> 2023-02-11</div><div><span class="l">Last inspected:</span> 2022-12-09</div></div>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-101679621/">Clearwater Care (Hackney) Limited</a></div><div><span class="l">Beds:</span> 8</div><div><span class="l">Registered with CQC since:</span> 19 November 2010</div><div><span class="l">Rating published:</span> 11 February 2023 (over 3 years ago)</div><div><span class="l">Last inspected:</span> 9 December 2022 (over 3 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2023-02-11</span> <span class="badge r-good">Good</span></li><li><span class="d">2020-11-07</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2018-02-20</span> <span class="badge r-good">Good</span></li><li><span class="d">2015-12-17</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">11 February 2023</span> <span class="badge r-good">Good</span></li><li><span class="d">7 November 2020</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">20 February 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">17 December 2015</span> <span class="badge r-good">Good</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Havering</h2><div class="dist" aria-hidden="true"><span style="width:1.5%;background:var(--info)" title="Outstanding: 1"></span><span style="width:59.1%;background:var(--good)" title="Good: 39"></span><span style="width:1.5%;background:var(--warn)" title="Requires improvement: 1"></span><span style="width:37.9%;background:var(--border)" title="No published rating: 25"></span></div><p class="note">Of 66 care homes in Havering: 1 Outstanding, 39 Good, 1 Requires improvement. 25 with no published rating. This home: Good.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Learning disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2023-02-11</span> <a href="https://www.cqc.org.uk/reports/d9227175-1b80-43fa-9fdf-bb8142606a35?20240221130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2020-11-07</span> <a href="https://www.cqc.org.uk/reports/292ab75a-af31-4b34-afa5-45246f7a5cf6?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-02-20</span> <a href="https://www.cqc.org.uk/reports/d27859da-145b-4634-a606-baaf77232584?20180220130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2015-12-17</span> <a href="https://www.cqc.org.uk/reports/712f5d19-79bf-46df-ba4f-347b4a4d4f65?20210124224740" rel="noopener">Inspection report for this home</a></li><li><span class="d">2014-02-05</span> <a href="https://www.cqc.org.uk/reports/58572e8a-403d-430a-aeae-47b3e5d4f1c4?20151016191357" rel="noopener">Report</a></li><li><span class="d">2013-04-27</span> <a href="https://www.cqc.org.uk/reports/085f24c9-c1b5-4e16-a9d8-fb38c8b42c2c?20200129163919" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">11 February 2023</span> <a href="https://www.cqc.org.uk/reports/d9227175-1b80-43fa-9fdf-bb8142606a35?20240221130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">7 November 2020</span> <a href="https://www.cqc.org.uk/reports/292ab75a-af31-4b34-afa5-45246f7a5cf6?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">20 February 2018</span> <a href="https://www.cqc.org.uk/reports/d27859da-145b-4634-a606-baaf77232584?20180220130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">17 December 2015</span> <a href="https://www.cqc.org.uk/reports/712f5d19-79bf-46df-ba4f-347b4a4d4f65?20210124224740" rel="noopener">Inspection report for this home</a></li><li><span class="d">5 February 2014</span> <a href="https://www.cqc.org.uk/reports/58572e8a-403d-430a-aeae-47b3e5d4f1c4?20151016191357" rel="noopener">Report</a></li><li><span class="d">27 April 2013</span> <a href="https://www.cqc.org.uk/reports/085f24c9-c1b5-4e16-a9d8-fb38c8b42c2c?20200129163919" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../ashgrove-residential-care-home-1-9760144576/">Ashgrove Residential Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0.3 mi</span></li><li><a href="../inhealth-community-diagnostic-centre-hornchurch-1-1309559705/">InHealth Community Diagnostic Centre -  Hornchurch</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.3 mi</span></li><li><a href="../ravenscourt-nursing-home-1-125520928/">Ravenscourt Nursing Home</a> <span class="badge r-good">Good</span> <span class="miles">0.5 mi</span></li><li><a href="../ashling-house-1-12503033471/">Ashling House</a> <span class="badge r-good">Good</span> <span class="miles">0.6 mi</span></li><li><a href="../candover-house-1-117394375/">Candover House</a> <span class="badge r-good">Good</span> <span class="miles">0.7 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../ash-lea-house-1-117302290/">Ash Lea House</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../florfield-home-1-117302339/">Florfield Home</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../forest-haven-1-785194640/">Forest Haven</a> <span class="badge r-good">Good</span></li><li><a href="../kacee-lodge-1-117302395/">Kacee Lodge</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/d9227175-1b80-43fa-9fdf-bb8142606a35?20240221130000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.salutemcareandeducation.co.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.5638729%2C0.2169684" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/fairkytes-1-117302353/" data-name="Fairkytes" data-place="Havering"
+      data-country="England" data-id="1-117302353">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/havering/feed.xml">Subscribe to changes in Havering</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-117302353,1-9760144576,1-1309559705,1-125520928,1-12503033471,1-117394375">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>

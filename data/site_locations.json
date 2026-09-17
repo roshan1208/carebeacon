@@ -99442,6 +99442,48 @@
   "longitude": -2.9785166
  },
  {
+  "locationId": "1-26366007915",
+  "name": "Kisumen Care Services Limited - Dorset",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Dorset",
+  "numberOfBeds": 0,
+  "postalCode": "DT1 3WE",
+  "providerId": "1-18487934374",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.7149811,
+  "longitude": -2.4640797
+ },
+ {
+  "locationId": "1-26366007942",
+  "name": "Kisumen Care Services Limited - Hampshire",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Portsmouth",
+  "numberOfBeds": 0,
+  "postalCode": "PO2 8FA",
+  "providerId": "1-18487934374",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8125706,
+  "longitude": -1.0846342
+ },
+ {
+  "locationId": "1-18969997467",
+  "name": "Kisumen Care Services Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 0,
+  "postalCode": "ME4 4NP",
+  "providerId": "1-18487934374",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3789748,
+  "longitude": 0.5336053
+ },
+ {
   "locationId": "1-122269838",
   "name": "Kite Hill Care Home",
   "rating": null,

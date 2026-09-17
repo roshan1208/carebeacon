@@ -91,6 +91,14 @@
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
   .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
+  .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
+               border: 1px solid var(--border-strong); background: var(--card-bg); color: var(--ink); }
+  .watch-btn:hover { border-color: var(--accent); }
+  .watch-btn.on { border-color: transparent; background: color-mix(in srgb, var(--accent-bg) 22%, transparent); }
+  .watch-btn.on::before { content: "\2713\00a0"; }
+  .watch-note { flex: 1 1 260px; min-width: 0; }
+  .watch-note[hidden] { display: none; }
   .links { font-size: 0.95rem; margin: 0 0 24px; color: var(--muted); line-height: 2; }
   .links a { font-weight: 600; }
   ul.nearby .miles { color: var(--muted); font-size: 0.8rem; margin-left: 4px; }
@@ -139,18 +147,50 @@
   
   <span class="badge r-unrated">No published rating</span>
   
-  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-141784548/">Greenacres Nursing Home Limited</a></div><div><span class="l">Beds:</span> 50</div><div><span class="l">Registered with CQC since:</span> 2011-09-05</div><div><span class="l">Last inspected:</span> 2023-03-29</div></div>
   
-  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">2023-05-13</span> <span class="badge r-good">Good</span></li><li><span class="d">2018-12-22</span> <span class="badge r-good">Good</span></li><li><span class="d">2017-12-08</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2017-08-04</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">2016-08-04</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">2016-03-15</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
+  <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-141784548/">Greenacres Nursing Home Limited</a></div><div><span class="l">Beds:</span> 50</div><div><span class="l">Registered with CQC since:</span> 5 September 2011</div><div><span class="l">Last inspected:</span> 29 March 2023 (over 3 years ago)</div></div>
+  
+  <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">13 May 2023</span> <span class="badge r-good">Good</span></li><li><span class="d">22 December 2018</span> <span class="badge r-good">Good</span></li><li><span class="d">8 December 2017</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">4 August 2017</span> <span class="badge r-inadequate">Inadequate</span></li><li><span class="d">4 August 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">15 March 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
   <section class="compare"><h2>How this compares in Liverpool</h2><div class="dist" aria-hidden="true"><span style="width:1.1%;background:var(--info)" title="Outstanding: 1"></span><span style="width:35.1%;background:var(--good)" title="Good: 33"></span><span style="width:11.7%;background:var(--warn)" title="Requires improvement: 11"></span><span style="width:52.1%;background:var(--border)" title="No published rating: 49"></span></div><p class="note">Of 94 care homes in Liverpool: 1 Outstanding, 33 Good, 11 Requires improvement. 49 with no published rating. This home has no published rating yet.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Nursing homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li><li>Treatment of disease, disorder or injury</li></ul></section>
   
-  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">2023-05-13</span> <a href="https://www.cqc.org.uk/reports/940a9541-a083-4d6e-9905-e04279a79137?20230513120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2018-12-22</span> <a href="https://www.cqc.org.uk/reports/d751512e-2dc0-4eff-8b84-9d5068ce9344?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-12-08</span> <a href="https://www.cqc.org.uk/reports/993f3763-716c-4f1e-82af-941dce3d9425?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2017-08-04</span> <a href="https://www.cqc.org.uk/reports/459701a4-d655-4922-a607-6ecbdbf9f026?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-08-04</span> <a href="https://www.cqc.org.uk/reports/3ba2196e-ade0-482d-be11-675d05f69bea?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">2016-03-15</span> <a href="https://www.cqc.org.uk/reports/e1deeb0d-c37a-422d-b4c8-ae9edbbaf246?20160315130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">2013-12-17</span> <a href="https://www.cqc.org.uk/reports/c22adbd7-f8c3-4aea-ba6a-eb995f2e0fa0?20151016191357" rel="noopener">Report</a></li><li><span class="d">2013-09-28</span> <a href="https://www.cqc.org.uk/reports/652309b8-871e-427e-b815-c63c4f3a94c0?20151016191357" rel="noopener">Report</a></li></ul></section>
+  <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">13 May 2023</span> <a href="https://www.cqc.org.uk/reports/940a9541-a083-4d6e-9905-e04279a79137?20230513120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">22 December 2018</span> <a href="https://www.cqc.org.uk/reports/d751512e-2dc0-4eff-8b84-9d5068ce9344?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 December 2017</span> <a href="https://www.cqc.org.uk/reports/993f3763-716c-4f1e-82af-941dce3d9425?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">4 August 2017</span> <a href="https://www.cqc.org.uk/reports/459701a4-d655-4922-a607-6ecbdbf9f026?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">4 August 2016</span> <a href="https://www.cqc.org.uk/reports/3ba2196e-ade0-482d-be11-675d05f69bea?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">15 March 2016</span> <a href="https://www.cqc.org.uk/reports/e1deeb0d-c37a-422d-b4c8-ae9edbbaf246?20160315130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">17 December 2013</span> <a href="https://www.cqc.org.uk/reports/c22adbd7-f8c3-4aea-ba6a-eb995f2e0fa0?20151016191357" rel="noopener">Report</a></li><li><span class="d">28 September 2013</span> <a href="https://www.cqc.org.uk/reports/652309b8-871e-427e-b815-c63c4f3a94c0?20151016191357" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../greenacres-care-home-1-302829097/">Greenacres Care Home</a> <span class="badge r-good">Good</span> <span class="miles">0 mi</span></li><li><a href="../wavertree-bungalow-RW453/">Wavertree Bungalow</a> <span class="badge r-requires-improvement">Requires improvement</span> <span class="miles">0.4 mi</span></li><li><a href="../prince-alfred-residential-care-home-1-9193984328/">Prince Alfred Residential Care Home</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li><li><a href="../oak-vale-gardens-1-991265975/">Oak Vale Gardens</a> <span class="badge r-good">Good</span> <span class="miles">0.6 mi</span></li><li><a href="../mydentist-picton-road-liverpool-1-1184315066/">Mydentist - Picton Road - Liverpool</a> <span class="badge r-unrated">No published rating</span> <span class="miles">0.6 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
   <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../greenacres-care-home-1-302829097/">Greenacres Care Home</a> <span class="badge r-good">Good</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/940a9541-a083-4d6e-9905-e04279a79137?20230513120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=53.406328%2C-2.917518" rel="noopener">View on a map</a></p>
+  <p class="watch">
+    <button type="button" class="watch-btn" hidden aria-pressed="false"
+      data-url="https://roshan1208.github.io/carebeacon/homes/wavertree-nursing-and-care-home-1-302842801/" data-name="Wavertree Nursing and Care Home" data-place="Liverpool"
+      data-country="England" data-id="1-302842801">Watch this home</button>
+    <span class="watch-note note" hidden>Saved in this browser only, with no account and no email.
+      Anything we record here is at the top of the CareBeacon home page next time you open it.</span>
+  </p>
+  <script>(function(){
+    var b=document.querySelector(".watch-btn"),note=document.querySelector(".watch-note");
+    if(!b||!note)return;
+    var KEY="carebeacon:watch:v1";
+    function read(){try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return {};}}
+    function write(s){try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){}}
+    try{localStorage.getItem(KEY);}catch(e){return;}
+    var key=b.getAttribute("data-url");
+    function paint(){
+      var s=read(),on=!!(s.homes&&s.homes[key]);
+      b.textContent=(on?"Watching this ":"Watch this ")+"home";
+      b.setAttribute("aria-pressed",on?"true":"false");
+      b.className=on?"watch-btn on":"watch-btn";
+      note.hidden=!on;
+      b.hidden=false;
+    }
+    b.addEventListener("click",function(){
+      var s=read();s.homes=s.homes||{};
+      if(s.homes[key])delete s.homes[key];
+      else s.homes[key]={name:b.getAttribute("data-name"),place:b.getAttribute("data-place"),country:b.getAttribute("data-country"),id:b.getAttribute("data-id"),added:new Date().toISOString().slice(0,10)};
+      write(s);paint();
+    });
+    paint();
+  })();</script>
   <p class="alerts">Want to know if anything changes here? <a href="https://roshan1208.github.io/carebeacon/areas/liverpool/feed.xml">Subscribe to changes in Liverpool</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   <p><a class="cta" href="https://roshan1208.github.io/carebeacon/?compare=1-302842801,1-302829097,RW453,1-9193984328,1-991265975,1-1184315066">Compare this home with its 5 nearest on CareBeacon</a></p>
   <section class="guide"><h2>Choosing a care home in England: official sources</h2><ul class="guide-links"><li><a href="https://www.nhs.uk/conditions/social-care-and-support-guide/care-services-equipment-and-care-homes/care-homes/" rel="noopener">NHS: care homes — what they are, how to choose, how to pay</a></li><li><a href="https://www.ageuk.org.uk/information-advice/care/arranging-care/care-homes/" rel="noopener">Age UK: arranging care in a care home</a></li><li><a href="https://www.cqc.org.uk/" rel="noopener">Care Quality Commission</a></li></ul><p class="note">CareBeacon shows the regulator&#39;s published record and what changed in it. It does not inspect, rate or recommend homes. The regulator&#39;s own latest report, a visit in person, and the home&#39;s answers on fees and availability are the rest of the picture.</p></section>
