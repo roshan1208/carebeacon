@@ -3696,6 +3696,20 @@
   "longitude": -1.4817879
  },
  {
+  "locationId": "1-119104830",
+  "name": "Age UK Redbridge, Barking & Havering Home Support Services",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 0,
+  "postalCode": "IG1 4PU",
+  "providerId": "1-101672229",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.561592,
+  "longitude": 0.068592
+ },
+ {
   "locationId": "1-6682659490",
   "name": "Agility Care",
   "rating": "Good",
@@ -4006,8 +4020,8 @@
  {
   "locationId": "1-107300355",
   "name": "Alandale Residential Home",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-02-09",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Kent",
   "numberOfBeds": 35,
@@ -17234,6 +17248,20 @@
   "longitude": -3.1135539
  },
  {
+  "locationId": "1-569182762",
+  "name": "Barnt Green Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 0,
+  "postalCode": "B45 8NF",
+  "providerId": "1-199766918",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.3593122,
+  "longitude": -1.9912402
+ },
+ {
   "locationId": "1-129079938",
   "name": "Baroda Care",
   "rating": "Good",
@@ -20662,6 +20690,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.831715,
   "longitude": -0.8243677
+ },
+ {
+  "locationId": "1-4625499825",
+  "name": "Beige Healthcare Services",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Luton",
+  "numberOfBeds": 0,
+  "postalCode": "LU1 3DQ",
+  "providerId": "1-4503564950",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.875777,
+  "longitude": -0.414183
  },
  {
   "locationId": "1-118973223",
@@ -24738,6 +24780,20 @@
   "longitude": 0.9758121
  },
  {
+  "locationId": "1-15066065535",
+  "name": "Blu Haven Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Ealing",
+  "numberOfBeds": 0,
+  "postalCode": "UB1 1NW",
+  "providerId": "1-12117696828",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5129385,
+  "longitude": -0.3835008
+ },
+ {
   "locationId": "1-134755398",
   "name": "Blue Cedars",
   "rating": "Good",
@@ -25324,6 +25380,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.3275738,
   "longitude": -0.2084086
+ },
+ {
+  "locationId": "1-2373681010",
+  "name": "Bolton Medical Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Bolton",
+  "numberOfBeds": 0,
+  "postalCode": "BL3 6PY",
+  "providerId": "1-2244021771",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.5659758,
+  "longitude": -2.431478
  },
  {
   "locationId": "1-12332189092",
@@ -35490,6 +35560,20 @@
   "longitude": -0.3651869
  },
  {
+  "locationId": "1-19410734278",
+  "name": "Carefree Respite Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Bolton",
+  "numberOfBeds": 0,
+  "postalCode": "BL3 2NZ",
+  "providerId": "1-18075145143",
+  "registeredManagerAbsentDate": "2025-06-20",
+  "latitude": 53.5635304,
+  "longitude": -2.4105419
+ },
+ {
   "locationId": "1-13814648961",
   "name": "Caremark (Milton Keynes)",
   "rating": null,
@@ -35558,6 +35642,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.5095363,
   "longitude": -2.2965245
+ },
+ {
+  "locationId": "1-2185732024",
+  "name": "Carerose Cares Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM19 5AN",
+  "providerId": "1-2086169513",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.766929,
+  "longitude": 0.066867
  },
  {
   "locationId": "1-457240876",
@@ -43234,8 +43332,8 @@
  {
   "locationId": "1-344628084",
   "name": "Church View",
-  "rating": "Good",
-  "ratingDate": "2020-02-04",
+  "rating": null,
+  "ratingDate": null,
   "region": "Yorkshire & Humberside",
   "localAuthority": "Rotherham",
   "numberOfBeds": 25,
@@ -57566,6 +57664,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.5745682,
   "longitude": -2.0984323
+ },
+ {
+  "locationId": "1-553136680",
+  "name": "East Park Medical Centre - R P Pandya",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicester",
+  "numberOfBeds": 0,
+  "postalCode": "LE5 5FD",
+  "providerId": "1-199706569",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.6325431,
+  "longitude": -1.1054016
  },
  {
   "locationId": "1-596197004",
@@ -77448,20 +77560,6 @@
   "longitude": 0.263503
  },
  {
-  "locationId": "1-29650375125",
-  "name": "Hakamon Ltd t/a Radfield Home Care Oxford & Abingdon",
-  "rating": null,
-  "ratingDate": null,
-  "region": "South East",
-  "localAuthority": "Oxfordshire",
-  "numberOfBeds": 0,
-  "postalCode": "OX44 7RW",
-  "providerId": "1-29000356040",
-  "registeredManagerAbsentDate": null,
-  "latitude": 51.6704327,
-  "longitude": -1.0640757
- },
- {
   "locationId": "1-115738910",
   "name": "Halas Homes",
   "rating": "Good",
@@ -79744,6 +79842,20 @@
   "longitude": -0.3747789
  },
  {
+  "locationId": "RCD01",
+  "name": "Harrogate District Hospital",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "numberOfBeds": 0,
+  "postalCode": "HG2 7SX",
+  "providerId": "RCD",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.9938218,
+  "longitude": -1.5175792
+ },
+ {
   "locationId": "1-24034057041",
   "name": "Harrogate Lodge",
   "rating": null,
@@ -80288,6 +80400,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.3594064,
   "longitude": -1.4624522
+ },
+ {
+  "locationId": "1-495687551",
+  "name": "Haslemere Homecare Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "GU27 2PE",
+  "providerId": "1-340615896",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.0896324,
+  "longitude": -0.7160164
  },
  {
   "locationId": "1-126464943",
@@ -123186,6 +123312,20 @@
   "longitude": -2.0975942
  },
  {
+  "locationId": "1-19887833512",
+  "name": "Newday Healthcare Professionals Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Southend-on-Sea",
+  "numberOfBeds": 0,
+  "postalCode": "SS9 3EB",
+  "providerId": "1-958820338",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5481057,
+  "longitude": 0.658174
+ },
+ {
   "locationId": "1-127013427",
   "name": "Newday Nursing Home",
   "rating": "Good",
@@ -137266,8 +137406,8 @@
   "postalCode": "BA14 6RD",
   "providerId": "1-102643122",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.356098,
-  "longitude": -2.195849
+  "latitude": 51.3551767,
+  "longitude": -2.1953217
  },
  {
   "locationId": "1-22161125365",
@@ -138196,8 +138336,8 @@
  {
   "locationId": "1-151175788",
   "name": "Platinum Care Services",
-  "rating": "Good",
-  "ratingDate": "2018-10-11",
+  "rating": null,
+  "ratingDate": null,
   "region": "West Midlands",
   "localAuthority": "Birmingham",
   "numberOfBeds": 8,
@@ -142226,6 +142366,20 @@
   "longitude": -0.6154031
  },
  {
+  "locationId": "1-29650375125",
+  "name": "Radfield Home Care Oxford & Abingdon",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "OX44 7RW",
+  "providerId": "1-29000356040",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.6704327,
+  "longitude": -1.0640757
+ },
+ {
   "locationId": "1-27605776382",
   "name": "Radfield Home Care Slough Maidenhead and Windsor",
   "rating": null,
@@ -145948,6 +146102,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.7895078,
   "longitude": -2.2262785
+ },
+ {
+  "locationId": "1-4100362956",
+  "name": "Right Choice Home Care",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Greenwich",
+  "numberOfBeds": 0,
+  "postalCode": "SE9 3TL",
+  "providerId": "1-3955935937",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4361545,
+  "longitude": 0.0620017
  },
  {
   "locationId": "1-27950864168",
@@ -158902,8 +159070,8 @@
  {
   "locationId": "1-1438812851",
   "name": "Sir Evelyn Road",
-  "rating": "Good",
-  "ratingDate": "2018-03-14",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Medway",
   "numberOfBeds": 6,
@@ -173164,6 +173332,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.2551845,
   "longitude": -0.9002565
+ },
+ {
+  "locationId": "1-18978506861",
+  "name": "Synchronised Care (Birmingham)",
+  "rating": "Good",
+  "ratingDate": "2019-03-13",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Calderdale",
+  "numberOfBeds": 0,
+  "postalCode": "HX3 6AE",
+  "providerId": "1-2883772716",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7280324,
+  "longitude": -1.8559319
  },
  {
   "locationId": "1-309482038",
@@ -198254,6 +198436,20 @@
   "longitude": -1.5278659
  },
  {
+  "locationId": "RBT21",
+  "name": "Victoria Infirmary",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Cheshire West and Chester",
+  "numberOfBeds": 0,
+  "postalCode": "CW8 1AW",
+  "providerId": "RBT",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.261907,
+  "longitude": -2.5197978
+ },
+ {
   "locationId": "1-253608078",
   "name": "Victoria Lodge",
   "rating": "Good",
@@ -212592,8 +212788,8 @@
  {
   "locationId": "1-459391070",
   "name": "Worplesdon View",
-  "rating": "Good",
-  "ratingDate": "2018-04-26",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Surrey",
   "numberOfBeds": 78,
@@ -213848,6 +214044,20 @@
   "registeredManagerAbsentDate": "2026-06-11",
   "latitude": 53.6338993,
   "longitude": -3.016878
+ },
+ {
+  "locationId": "1-581625308",
+  "name": "York Road Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "numberOfBeds": 0,
+  "postalCode": "IG1 3AF",
+  "providerId": "1-199735723",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5589875,
+  "longitude": 0.0668436
  },
  {
   "locationId": "1-126286676",

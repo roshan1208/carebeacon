@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/antwerp/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/antwerp/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/areas/antwerp/feed</id>
-  <updated>2026-09-16T20:55:33Z</updated>
+  <updated>2026-09-17T11:50:16Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in Antwerp whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/105945/2026-09-17/new</id>
+    <title>Alice: Newly registered (by 17 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/105945/"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <summary>Antwerp. Newly registered (by 17 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/25774/2026-09-15/provider_changed</id>
     <title>Aan de Schelde: Governing body changed: Anima to Anima Cura (by 15 September 2026).</title>

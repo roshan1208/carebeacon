@@ -4,8 +4,36 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/feed</id>
-  <updated>2026-09-16T20:55:33Z</updated>
+  <updated>2026-09-17T11:50:16Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in Flanders whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-17/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day (by 17 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.79 per day to €65.80 per day (by 17 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-17/price_changed</id>
+    <title>De Bron: Average daily price changed: €77.68 per day to €77.67 per day (by 17 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <summary>East Flanders. Average daily price changed: €77.68 per day to €77.67 per day (by 17 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-17/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 3 to 87 (by 17 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 3 to 87 (by 17 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/105945/2026-09-17/new</id>
+    <title>Alice: Newly registered (by 17 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/105945/"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <summary>Antwerp. Newly registered (by 17 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-16/price_changed</id>
     <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.80 per day to €65.79 per day (by 16 September 2026).</title>
