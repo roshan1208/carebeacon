@@ -1,0 +1,65 @@
+[
+ {
+  "name": "Scotland",
+  "path": "scotland/",
+  "scale": "Grade",
+  "note": "the Care Inspectorate's lowest of five theme grades",
+  "unrated": "No published grades"
+ },
+ {
+  "name": "Wales",
+  "path": "wales/",
+  "scale": "Theme rating",
+  "note": "the lowest of CIW's four theme ratings, which is our summary and not CIW's",
+  "unrated": "No published ratings"
+ },
+ {
+  "name": "Northern Ireland",
+  "path": "northern-ireland/"
+ },
+ {
+  "name": "Ireland",
+  "path": "ireland/"
+ },
+ {
+  "name": "United States",
+  "path": "united-states/",
+  "scale": "Overall rating",
+  "note": "CMS's overall star rating",
+  "unrated": "Not rated"
+ },
+ {
+  "name": "France",
+  "path": "france/"
+ },
+ {
+  "name": "Japan",
+  "path": "japan/"
+ },
+ {
+  "name": "South Korea",
+  "path": "south-korea/",
+  "scale": "Evaluation grade",
+  "note": "NHIS's most recent published grade",
+  "unrated": "Not graded"
+ },
+ {
+  "name": "Australia",
+  "path": "australia/"
+ },
+ {
+  "name": "Hong Kong",
+  "path": "hong-kong/"
+ },
+ {
+  "name": "New Zealand",
+  "path": "new-zealand/",
+  "scale": "Certification period",
+  "note": "the Ministry's published certification period",
+  "unrated": "Period not stated"
+ },
+ {
+  "name": "Belgium (Flanders)",
+  "path": "flanders/"
+ }
+]

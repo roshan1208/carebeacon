@@ -124,12 +124,15 @@
      drops below the results (order), so the search box comes first. */
   main.wrap { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 28px; }
   main.wrap > * { grid-column: 1; min-width: 0; }
-  main.wrap > .hero { order: 1; } main.wrap > .nations { order: 2; } main.wrap > .filterbar { order: 3; }
-  main.wrap > .shortlist-bar { order: 4; } main.wrap > .view-toggle { order: 5; } main.wrap > .results-count { order: 6; }
-  main.wrap > #results { order: 7; } main.wrap > #world-results { order: 7; } main.wrap > #map { order: 8; } main.wrap > #trends { order: 9; } main.wrap > section.changes { order: 10; margin-top: 28px; }
+  /* The watching panel sits directly under the hero: a visitor who saved
+     homes last week came back to see those, not to search again. */
+  main.wrap > .hero { order: 1; } main.wrap > section.watching { order: 2; } main.wrap > .nations { order: 3; }
+  main.wrap > .filterbar { order: 4; }
+  main.wrap > .shortlist-bar { order: 5; } main.wrap > .view-toggle { order: 6; } main.wrap > .results-count { order: 7; }
+  main.wrap > #results { order: 8; } main.wrap > #world-results { order: 8; } main.wrap > #map { order: 9; } main.wrap > #trends { order: 10; } main.wrap > section.changes { order: 11; margin-top: 28px; }
   @media (min-width: 1000px) {
     main.wrap { grid-template-columns: minmax(0, 1fr) 340px; }
-    main.wrap > section.changes { grid-column: 2; grid-row: 1 / span 10; order: 0; align-self: start; position: sticky; top: 16px; margin-top: 0; max-height: calc(100vh - 32px); overflow: auto; }
+    main.wrap > section.changes { grid-column: 2; grid-row: 1 / span 11; order: 0; align-self: start; position: sticky; top: 16px; margin-top: 0; max-height: calc(100vh - 32px); overflow: auto; }
     main.wrap > .hero, main.wrap > .nations { grid-column: 1; }
   }
   /* Nations strip: the app below is England (CQC) only; the other three
@@ -157,7 +160,21 @@
   a.card { text-decoration: none; }
   a.card:hover h3 { text-decoration: underline; }
   .card .grade { color: var(--muted); }
-  main.wrap > .scope-browse { order: 6; }
+  main.wrap > .scope-browse { order: 7; }
+  /* Homes a visitor saved from any country's page (see theme.watch_button). */
+  section.watching { border: 1px solid var(--border); border-radius: 14px; background: var(--card-bg); padding: 14px 16px; margin: 0 0 22px; }
+  section.watching[hidden] { display: none; }
+  .watching-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  .watching-head h2 { margin: 0; font-size: 1.05rem; }
+  ul.watch-list { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 8px; }
+  ul.watch-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; padding: 8px 10px; border-left: 3px solid var(--border); border-radius: 0 8px 8px 0; background: color-mix(in srgb, var(--ink) 3%, transparent); }
+  ul.watch-list li.changed { border-left-color: var(--accent-bg); }
+  ul.watch-list .what { flex: 1 1 100%; font-size: 0.9rem; color: var(--muted); }
+  ul.watch-list li.changed .what { color: var(--ink); }
+  ul.watch-list .flag { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); }
+  .watch-drop, .watch-seen, .watch-clear { font: inherit; font-size: 0.85rem; background: none; border: 0; padding: 2px 4px; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+  .watch-drop:hover, .watch-seen:hover, .watch-clear:hover { color: var(--ink); }
+  .watch-drop { margin-left: auto; }
   .nations a {
     display: inline-block; border: 1px solid var(--border); border-radius: 999px; padding: 5px 13px;
     font-size: 0.9rem; color: inherit; text-decoration: underline; text-decoration-color: var(--border);
@@ -504,36 +521,27 @@
     display: block; width: 14px; height: 14px; border-radius: 50%;
     border: 2px solid rgba(255,255,255,0.9); box-shadow: 0 0 2px rgba(0,0,0,0.4);
   }
-  /* Cluster bubble colour override lives in a second <style> block below,
-     placed after MarkerCluster.Default.css on purpose — this block's
-     rules load before that stylesheet in source order, so at equal CSS
-     specificity the plugin's own yellow/orange defaults would win and
-     silently ignore an override placed up here. Confirmed by testing,
-     not assumed: the first attempt at this override, placed in this
-     block, visibly had no effect against real cluster markers. */
-</style>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<!-- Clustering, not an optional extra: without it, any real city has
-     enough care homes that their markers stack directly on top of each
-     other into an unreadable, unclickable blob at any normal zoom level
-     — confirmed on the live site with real data, not a hypothetical.
-     SRI hashes computed directly from the served files (openssl dgst
-     -sha256), not copied from an unverified source — markercluster's own
-     README doesn't publish them. -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
-  integrity="sha256-+bdWuWOXMFkX0v9Cvr3OWClPiYefDQz9GGZP/7xZxdc=" crossorigin="">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
-  integrity="sha256-LWhzWaQGZRsWFrrJxg+6Zn8TT84k0/trtiHBc6qcGpY=" crossorigin="">
-<style>
-  /* Neutral, legible in both themes, since a cluster represents a mix of
-     ratings anyway — colouring it as if it had one rating would be
-     misleading. Loaded after the plugin's own CSS specifically so this
-     wins at equal specificity. */
-  .marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
+  /* Cluster bubble colours: neutral and legible in both themes, since a
+     cluster represents a mix of ratings anyway and colouring it as if it
+     had one would be misleading.
+
+     Every class is doubled deliberately. The plugin's own yellow/orange
+     defaults arrive in MarkerCluster.Default.css, which used to be a
+     <link> below this block and is now injected by loadLeaflet() when
+     the map is first opened — so it lands *after* this block either way,
+     and at equal specificity the plugin would win. Doubling the class
+     makes this rule strictly more specific, so source order stops
+     mattering. The first version of this override lost the cascade for
+     exactly that reason, found against real cluster markers rather than
+     reasoned about. */
+  .marker-cluster-small.marker-cluster-small,
+  .marker-cluster-medium.marker-cluster-medium,
+  .marker-cluster-large.marker-cluster-large {
     background-color: color-mix(in srgb, var(--ink) 15%, transparent);
   }
-  .marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
+  .marker-cluster-small.marker-cluster-small div,
+  .marker-cluster-medium.marker-cluster-medium div,
+  .marker-cluster-large.marker-cluster-large div {
     background-color: var(--card-bg); color: var(--ink); font-weight: 700;
   }
 </style>
@@ -585,6 +593,18 @@
     <a href="flanders/" data-needs="flanders" data-name="Belgium (Flanders)">Belgium (Flanders) <span class="n" data-nation="flanders"></span></a>
     <a href="countries/" class="nations-all">All countries &amp; where we have no data</a>
   </nav>
+
+  <!-- Homes saved from any country's own page (theme.watch_button writes
+       them to localStorage; nothing leaves the browser). Hidden until
+       there is at least one. -->
+  <section class="watching" id="watching" hidden aria-labelledby="watching-heading">
+    <div class="watching-head">
+      <h2 id="watching-heading">Homes you are watching</h2>
+      <button type="button" class="watch-clear" id="watching-clear">Stop watching all</button>
+    </div>
+    <p class="lede" id="watching-lede"></p>
+    <ul class="watch-list" id="watching-list"></ul>
+  </section>
 
   <section class="changes" aria-labelledby="changes-heading">
     <div class="changes-head">
@@ -710,10 +730,13 @@
   </div>
 </footer>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
-  integrity="sha256-WL6HHfYfbFEkZOFdsJQeY7lJG/E5airjvqbznghUzRw=" crossorigin=""></script>
+<!-- Leaflet and its clustering plugin used to load here and in <head>, on
+     every visit, for a view most visits never open. They are fetched by
+     loadLeaflet() below on the first click of "Map" instead. Two reasons,
+     both measured rather than assumed: a render-blocking stylesheet on a
+     third-party CDN delayed first paint of the whole page for everyone,
+     and it put unpkg.com in the critical path of a site whose primary
+     view is a list of care homes. SRI hashes move with the URLs. -->
 <script>
 (function () {
   "use strict";
@@ -726,6 +749,63 @@
 
   var RATING_RANK = { "Inadequate": 0, "Requires improvement": 1, "Good": 2, "Outstanding": 3 };
 
+  // These four mirror theme.fmt_date, theme.age_phrase and
+  // home_pages._rating_age_note in the pipeline (a comment there says so
+  // too). A home's own static page and this app show the same dates in
+  // the same words, so the two implementations have to agree.
+  var MONTH_NAMES = ["January", "February", "March", "April", "May", "June",
+                     "July", "August", "September", "October", "November", "December"];
+
+  function _ymd(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(iso == null ? "" : iso));
+    if (!m) return null;
+    var mo = +m[2], d = +m[3];
+    if (mo < 1 || mo > 12 || d < 1 || d > 31) return null;
+    return [+m[1], mo, d];
+  }
+
+  function fmtDate(iso) {
+    var p = _ymd(iso);
+    return p ? p[2] + " " + MONTH_NAMES[p[1] - 1] + " " + p[0] : String(iso == null ? "" : iso);
+  }
+
+  function agePhrase(iso, nowMs) {
+    var p = _ymd(iso);
+    if (!p) return "";
+    var days = Math.floor(((nowMs == null ? Date.now() : nowMs) - Date.UTC(p[0], p[1] - 1, p[2])) / 86400000);
+    if (days < 0) return "";
+    if (days === 0) return "today";
+    if (days === 1) return "yesterday";
+    if (days < 30) return days + " days ago";
+    if (days < 545) {
+      var months = Math.max(1, Math.round(days / 30.44));
+      return months + " month" + (months === 1 ? "" : "s") + " ago";
+    }
+    var years = Math.floor(days / 365);
+    return years < 2 ? "over a year ago" : "over " + years + " years ago";
+  }
+
+  function dateWithAge(iso) {
+    var age = agePhrase(iso);
+    return fmtDate(iso) + (age ? " (" + age + ")" : "");
+  }
+
+  var STALE_RATING_DAYS = 730;
+
+  function ratingAgeNote(ratingIso, inspectionIso) {
+    var rated = _ymd(ratingIso);
+    if (!rated) return "";
+    var ratedMs = Date.UTC(rated[0], rated[1] - 1, rated[2]);
+    if (Math.floor((Date.now() - ratedMs) / 86400000) < STALE_RATING_DAYS) return "";
+    var note = "CQC published this rating on " + fmtDate(ratingIso) + ", " + agePhrase(ratingIso) +
+      ", and has not published a newer one.";
+    var inspected = _ymd(inspectionIso);
+    if (inspected && Date.UTC(inspected[0], inspected[1] - 1, inspected[2]) > ratedMs) {
+      note += " It last inspected this home on " + fmtDate(inspectionIso) + ".";
+    }
+    return '<p class="detail-caveat rating-age">' + attr(note) + "</p>";
+  }
+
   function badgeClass(rating) {
     // Only Outstanding/Good/Inadequate are single words that work as CSS
     // classes directly. "Requires improvement" has a space, so it's styled
@@ -735,7 +815,14 @@
   }
 
   var state = {
-    locations: [], changes: [], region: "", nearMe: null, view: "list",
+    locations: [], englandLoaded: false, changes: [], region: "", nearMe: null, view: "list", meta: null,
+    // England's export is 807 KB gzipped and only England's app can use
+    // it, so it is fetched when England is the country being searched
+    // rather than on every visit from every country (see ensureEngland).
+    englandPromise: null,
+    // One country's slice of the search index, keyed by country name, and
+    // the list of countries the index covers (see fetchScopeIndex).
+    scopeIndex: {}, scopePromise: {}, countries: null, countriesPromise: null,
     // detailsCache: null until the specialism filter is actually used —
     // it needs site_details.json (heavy, lazy) to know which homes match
     // a specialism, unlike every other filter which only needs the
@@ -808,7 +895,7 @@
       return;
     }
     body.innerHTML = '<ul class="change-list world">' + rows.map(function (c) {
-      var when = c.since ? "by " + attr(c.date) : attr(c.date);
+      var when = attr((c.since ? "by " : "") + fmtDate(c.date));
       return '<li class="k-' + attr(c.kind) + '">' +
         '<div class="change-top"><span class="change-date">' + when + '</span>' +
           '<a class="change-country" href="' + attr(c.countryPath) + 'changes/">' + attr(c.country) + '</a>' +
@@ -819,6 +906,124 @@
       '</li>';
     }).join("") + '</ul>';
   }
+
+  // --- Homes you are watching ---------------------------------------------
+  //
+  // A home's own page, in any of the thirteen countries, can save it here
+  // (theme.watch_button). This is the return half of the promise the
+  // masthead makes: nothing is sent anywhere and nothing can be pushed to
+  // a visitor without a backend, so what CareBeacon can honestly offer is
+  // that the moment they come back, anything recorded against a home they
+  // saved is the first thing on the page.
+  //
+  // WATCH_KEY must match theme.WATCH_KEY. A comment there says so too.
+  var WATCH_KEY = "carebeacon:watch:v1";
+
+  function readWatch() {
+    try { return JSON.parse(localStorage.getItem(WATCH_KEY)) || {}; } catch (e) { return {}; }
+  }
+  function writeWatch(store) {
+    try { localStorage.setItem(WATCH_KEY, JSON.stringify(store)); } catch (e) {}
+  }
+
+  // The newest change we hold for a watched home, or null. Two sources,
+  // both matched exactly rather than by name: the cross-country window
+  // carries each home's own page URL, which is the key these records are
+  // stored under, and England's own 90-day window carries the CQC
+  // location id. Two homes can share a name; neither of these can be
+  // confused with another home.
+  function changeForWatched(key, rec) {
+    var best = null;
+    (state.world || []).forEach(function (c) {
+      if (c.url === key && (!best || (c.date || "") > (best.date || ""))) best = c;
+    });
+    if ((rec.country || "") === "England" && rec.id) {
+      (state.changes || []).forEach(function (c) {
+        if (c.locationId !== rec.id) return;
+        if (best && (best.date || "") >= (c.date || "")) return;
+        best = { date: c.date, text: englandChangeText(c), url: key, kind: englandKind(c.type) };
+      });
+    }
+    return best;
+  }
+
+  function englandChangeText(c) {
+    if (c.type === "downgrade") return "Rating declined: " + c.from + " to " + c.to;
+    if (c.type === "upgrade") return "Rating improved: " + c.from + " to " + c.to;
+    if (c.type === "closed") return "Lost its CQC registration";
+    if (c.type === "reopened") return "Registered with CQC again";
+    if (c.type === "rated") return "Rated for the first time: " + c.to;
+    return "Changed";
+  }
+  function englandKind(type) {
+    if (type === "downgrade") return "down";
+    if (type === "upgrade") return "up";
+    if (type === "closed") return "closed";
+    if (type === "reopened" || type === "rated") return "new";
+    return "other";
+  }
+
+  function renderWatching() {
+    var sec = document.getElementById("watching");
+    if (!sec) return;
+    var store = readWatch(), homes = store.homes || {}, keys = Object.keys(homes);
+    if (!keys.length) { sec.hidden = true; return; }
+    var seen = store.seen || "";
+    var rows = keys.map(function (k) {
+      var rec = homes[k] || {}, hit = changeForWatched(k, rec);
+      return { key: k, rec: rec, hit: hit, isNew: !!(hit && (!seen || (hit.date || "") > seen)) };
+    });
+    // Anything new first, then the most recently changed, then by name.
+    rows.sort(function (a, b) {
+      return (b.isNew - a.isNew) || ((b.hit ? b.hit.date : "") > (a.hit ? a.hit.date : "") ? 1 : -1) ||
+        String(a.rec.name || "").localeCompare(String(b.rec.name || ""));
+    });
+    var fresh = rows.filter(function (r) { return r.isNew; }).length;
+    document.getElementById("watching-lede").innerHTML =
+      (fresh ? "<strong>" + fresh + " " + (fresh === 1 ? "has" : "have") + " changed since you last looked.</strong> " : "") +
+      keys.length + (keys.length === 1 ? " home" : " homes") + " saved in this browser. " +
+      "We check every change we have published in the last 30 days" +
+      (fresh ? ' &middot; <button type="button" class="watch-seen" id="watching-seen">Mark as seen</button>' : "") + ".";
+    document.getElementById("watching-list").innerHTML = rows.map(function (r) {
+      var what = r.hit
+        ? (r.isNew ? '<span class="flag">New</span> ' : "") + attr(r.hit.text || "Changed") +
+          ' <span class="change-date">' + attr(fmtDate(r.hit.date)) + '</span>'
+        : "Nothing recorded in the last 30 days.";
+      return '<li class="' + (r.hit ? "changed k-" + attr(r.hit.kind || "other") : "") + '">' +
+        '<a href="' + attr(r.key) + '"><strong>' + attr(r.rec.name || "This home") + '</strong></a>' +
+        (r.rec.place ? '<span class="place">' + attr(r.rec.place) + '</span>' : "") +
+        '<span class="world-country">' + attr(r.rec.country || "") + '</span>' +
+        '<button type="button" class="watch-drop" data-key="' + attr(r.key) + '">Stop watching</button>' +
+        '<span class="what">' + what + '</span></li>';
+    }).join("");
+    sec.hidden = false;
+  }
+
+  // "Mark as seen" is explicit, never automatic: a flag that cleared
+  // itself on render would vanish on a reload and leave the visitor
+  // wondering what it said.
+  document.getElementById("watching").addEventListener("click", function (e) {
+    var drop = e.target.closest(".watch-drop");
+    if (drop) {
+      var store = readWatch();
+      if (store.homes) delete store.homes[drop.getAttribute("data-key")];
+      writeWatch(store);
+      renderWatching();
+      return;
+    }
+    if (e.target.id === "watching-seen") {
+      var s = readWatch();
+      s.seen = new Date().toISOString().slice(0, 10);
+      writeWatch(s);
+      renderWatching();
+    }
+  });
+  document.getElementById("watching-clear").addEventListener("click", function () {
+    var store = readWatch();
+    store.homes = {};
+    writeWatch(store);
+    renderWatching();
+  });
 
   function renderChanges() {
     if (state.world && state.world.length) { renderWorldChanges(); return; }
@@ -837,7 +1042,7 @@
       else label = "";
       return (
         '<li>' +
-          '<span class="change-date">' + attr(c.date) + '</span>' +
+          '<span class="change-date">' + attr(fmtDate(c.date)) + '</span>' +
           '<span class="change-type ' + attr(c.type) + '">' + attr(c.type) + '</span>' +
           '<strong>' + attr(c.name) + '</strong>' +
           '<span class="place">' + attr(c.region || "") + '</span>' +
@@ -888,7 +1093,7 @@
     var closures = changes.filter(function (c) { return c.type === "closed"; })
       .slice(-15).reverse()
       .map(function (c) {
-        return '<li><span class="change-date">' + attr(c.date) + '</span> &nbsp;<strong>' + attr(c.name) +
+        return '<li><span class="change-date">' + attr(fmtDate(c.date)) + '</span> &nbsp;<strong>' + attr(c.name) +
           '</strong> &nbsp;<span class="place">' + attr(c.region || "") + '</span></li>';
       }).join("");
 
@@ -916,7 +1121,10 @@
   // Missing values leave the label bare rather than showing "undefined".
   function fillNationCounts(meta) {
     var counts = {
-      england: state.locations.length,
+      // England's own count comes from the export once it has loaded, and
+      // from meta before that: the chip has to carry a number on a visit
+      // that never downloads England at all.
+      england: state.locations.length || (meta && meta.england_care_homes) || 0,
       scotland: meta && meta.scotland_care_homes,
       wales: meta && meta.wales_care_homes,
       ni: meta && meta.ni_care_homes,
@@ -933,16 +1141,36 @@
       var n = counts[el.getAttribute("data-nation")];
       el.textContent = (typeof n === "number" && n > 0) ? "(" + n.toLocaleString() + ")" : "";
     });
-    // Hero total: England from the loaded export plus every *_care_homes count meta records.
-    var total = state.locations.length, countries = 1;
+    // Hero total: every *_care_homes count meta records, England included
+    // once it records one. England falls back to the loaded export, so the
+    // total is right on an older meta.json that has no england_care_homes
+    // and right on a visit that never loads England.
+    var total = 0, countries = 0, hasEngland = false;
     if (meta) {
       Object.keys(meta).forEach(function (k) {
-        if (/_care_homes$/.test(k) && typeof meta[k] === "number" && meta[k] > 0) { total += meta[k]; countries += 1; }
+        if (/_care_homes$/.test(k) && typeof meta[k] === "number" && meta[k] > 0) {
+          total += meta[k];
+          countries += 1;
+          if (k === "england_care_homes") hasEngland = true;
+        }
       });
     }
+    if (!hasEngland && state.locations.length) { total += state.locations.length; countries += 1; }
     var heroTotal = document.getElementById("hero-total"), heroCountries = document.getElementById("hero-countries");
-    if (heroTotal && total > state.locations.length) heroTotal.textContent = total.toLocaleString();
+    if (heroTotal && total > 0) heroTotal.textContent = total.toLocaleString();
     if (heroCountries && countries > 1) heroCountries.textContent = String(countries);
+  }
+
+  // "Last checked" plus how many homes are behind it. Runs on load from
+  // meta alone, and again once England's export lands with its own count.
+  function setFreshness(meta) {
+    var el = document.getElementById("freshness");
+    if (!el) return;
+    var homes = state.locations.length || (meta && meta.england_care_homes) || 0;
+    var homesText = homes ? homes.toLocaleString() + " registered care homes in England." : "";
+    el.textContent = (meta && meta.last_run_utc)
+      ? ("Last checked: " + meta.last_run_utc + (homesText ? " · " + homesText : ""))
+      : homesText;
   }
 
   function populateRegions() {
@@ -1062,6 +1290,91 @@
     return state.worldIndexPromise;
   }
 
+  // The index's own list of countries: name, the path its pages live
+  // under, and the scale its regulator publishes. A kilobyte, and it is
+  // what turns "Japan" into the one file worth fetching.
+  function fetchCountriesOnce() {
+    if (state.countries) return Promise.resolve(state.countries);
+    if (!state.countriesPromise) {
+      state.countriesPromise = fetch("data/index/countries.json")
+        .then(function (r) { if (!r.ok) throw new Error("countries " + r.status); return r.json(); })
+        .then(function (list) { state.countries = list; return list; })
+        .catch(function () { state.countriesPromise = null; return null; });
+    }
+    return state.countriesPromise;
+  }
+
+  // One country's homes, in the same shape as the combined index so the
+  // scoped search reads either with the same code. Scotland is 36 KB
+  // gzipped and Ireland 11 KB, against 1.35 MB for the combined file that
+  // used to be fetched to search any one of them.
+  function fetchScopeIndex(name) {
+    if (state.scopeIndex[name]) return Promise.resolve(state.scopeIndex[name]);
+    if (!state.scopePromise[name]) {
+      state.scopePromise[name] = fetchCountriesOnce().then(function (list) {
+        var found = (list || []).filter(function (c) { return c.name === name; })[0];
+        if (!found) throw new Error("no shard for " + name);
+        return fetch("data/index/" + found.path.replace(/\/+$/, "") + ".json")
+          .then(function (r) { if (!r.ok) throw new Error("shard " + r.status); return r.json(); });
+      }).then(function (idx) {
+        state.scopeIndex[name] = idx;
+        return idx;
+      }).catch(function () {
+        // Fall back to the combined index. A deploy where the shards have
+        // not been generated yet still has to answer for every country —
+        // slower, but a visitor never sees an empty register because of
+        // our file layout.
+        state.scopePromise[name] = null;
+        return fetchWorldIndexOnce().then(function (all) {
+          if (!all) return null;
+          var ci = -1;
+          all.countries.forEach(function (c, i) { if (c.name === name) ci = i; });
+          if (ci < 0) return null;
+          var idx = {
+            countries: [all.countries[ci]],
+            homes: all.homes.filter(function (h) { return h[0] === ci; })
+              .map(function (h) { return [0].concat(h.slice(1)); })
+          };
+          state.scopeIndex[name] = idx;
+          return idx;
+        });
+      });
+    }
+    return state.scopePromise[name];
+  }
+
+  // England's own export, fetched the first time England is the country
+  // being searched. Every other country's finder needs a fraction of it,
+  // and most visits to a site covering thirteen countries are not looking
+  // for a home in England.
+  function ensureEngland() {
+    // Flag, not state.locations.length: an export that is legitimately
+    // empty would otherwise look unloaded forever, and renderResults would
+    // ask for it again every time it finished arriving.
+    if (state.englandLoaded) return Promise.resolve(state.locations);
+    if (!state.englandPromise) {
+      state.englandPromise = fetch("data/site_locations.json")
+        .then(function (r) { if (!r.ok) throw new Error("locations " + r.status); return r.json(); })
+        .then(function (rows) {
+          state.locations = rows || [];
+          state.englandLoaded = true;
+          populateRegions();
+          // The region filter's options only exist now, and setting a
+          // <select> before its <option>s exist silently selects nothing —
+          // so a shared ?region= link is restored here, not on page load.
+          restoreRegionFromUrl();
+          setFreshness(state.meta);
+          fillNationCounts(state.meta);
+          return state.locations;
+        })
+        .catch(function (err) {
+          state.englandPromise = null;
+          throw err;
+        });
+    }
+    return state.englandPromise;
+  }
+
   function renderWorldResults(q, englandCount) {
     var box = document.getElementById("world-results");
     if (!box) return;
@@ -1122,7 +1435,7 @@
   // published). Picking a chip scopes the search, results and "near me"
   // to that country without leaving the page; the chip's href is the
   // static country page, the no-JavaScript fallback.
-  function setScope(name) {
+  function setScope(name, why) {
     state.scope = name || "England";
     state.scopeGeo = null;
     state.lastScoped = null;
@@ -1139,7 +1452,11 @@
     var q = document.getElementById("q");
     q.placeholder = scoped ? "Search by name or town in " + state.scope : "Search by name, town or local authority";
     document.querySelectorAll(".scoped-only").forEach(function (el) { el.hidden = !scoped; });
-    document.getElementById("scope-status").textContent = "";
+    // Say so when nobody asked for this country: a visitor who did not
+    // pick it should be able to see why they are looking at it, and the
+    // chips to change it are directly above.
+    document.getElementById("scope-status").textContent =
+      (why === "zone" && scoped) ? "Showing " + state.scope + ", from your device's time zone. Pick any country above." : "";
     if (scoped && state.view !== "list") switchView("list");
     renderResults();
     updateUrlFromFilters();
@@ -1218,19 +1535,20 @@
 
   function renderScopedResults(q) {
     var countEl = document.getElementById("results-count"), resultsEl = document.getElementById("results"), browse = document.getElementById("scope-browse");
-    if (!state.worldIndex) {
+    var idx = state.scopeIndex[state.scope];
+    if (!idx) {
       countEl.textContent = ""; resultsEl.innerHTML = '<p class="state">Loading ' + attr(state.scope) + '…</p>'; browse.hidden = true;
-      fetchWorldIndexOnce().then(function (idx) {
-        if (!idx) { resultsEl.innerHTML = '<p class="state">Could not load the register for ' + attr(state.scope) + '. <a href="countries/">Open the country page instead.</a></p>'; return; }
-        if (state.scope !== "England") renderResults();
+      var asked = state.scope;
+      fetchScopeIndex(asked).then(function (got) {
+        if (state.scope !== asked) return;  // the visitor picked another country meanwhile
+        if (!got) { resultsEl.innerHTML = '<p class="state">Could not load the register for ' + attr(asked) + '. <a href="countries/">Open the country page instead.</a></p>'; return; }
+        renderResults();
       });
       return;
     }
-    var idx = state.worldIndex, ci = -1;
-    idx.countries.forEach(function (c, i) { if (c.name === state.scope) ci = i; });
-    var country = idx.countries[ci];
+    var country = idx.countries[0];
     if (!country) { countEl.textContent = ""; resultsEl.innerHTML = '<p class="state">No data for ' + attr(state.scope) + ' yet.</p>'; browse.hidden = true; return; }
-    var all = idx.homes.filter(function (h) { return h[0] === ci; }), hits = [];
+    var all = idx.homes, hits = [];
     populateScopeGrades(country, all);
     var wantGrade = document.getElementById("scope-grade-wrap").hidden ? "" : document.getElementById("scope-grade").value;
     all.forEach(function (h) {
@@ -1273,6 +1591,20 @@
     var q = document.getElementById("q").value.trim().toLowerCase();
     if (state.scope && state.scope !== "England") { renderScopedResults(q); return; }
     document.getElementById("scope-browse").hidden = true;
+    // England's export is fetched on demand, so this is the one place
+    // every England path waits for it: first load, the England chip, and
+    // any filter change that happens before it has arrived.
+    if (!state.englandLoaded) {
+      document.getElementById("results").innerHTML = '<p class="state">Loading England&#39;s register…</p>';
+      document.getElementById("results-count").textContent = "";
+      ensureEngland().then(function () {
+        if (!state.scope || state.scope === "England") renderResults();
+      }, function (err) {
+        document.getElementById("results").innerHTML =
+          '<p class="state">Could not load care home data (' + attr(err.message) + '). If this is a local preview, check the data files exist.</p>';
+      });
+      return;
+    }
     var rating = document.getElementById("rating").value;
     var region = document.getElementById("region").value;
     var managerGapOnly = document.getElementById("manager-gap-only").checked;
@@ -1346,7 +1678,7 @@
       // is a home currently operating.
       var beds = loc.numberOfBeds ? loc.numberOfBeds + ' beds' : '';
       var managerGap = loc.registeredManagerAbsentDate
-        ? '<div class="manager-flag">No registered manager since ' + attr(loc.registeredManagerAbsentDate) + '</div>'
+        ? '<div class="manager-flag">No registered manager since ' + attr(fmtDate(loc.registeredManagerAbsentDate)) + '</div>'
         : '';
       var distance = (state.nearMe && isFinite(loc._distanceMiles))
         ? '<div class="distance">' + loc._distanceMiles.toFixed(1) + ' miles away (as the crow flies)</div>'
@@ -1381,6 +1713,63 @@
 
   var leafletMap = null;
   var clusterGroup = null;
+
+  // Clustering is not an optional extra: without it, any real city has
+  // enough care homes that their markers stack into an unreadable,
+  // unclickable blob at any normal zoom — confirmed on the live site with
+  // real data. SRI hashes were computed from the served files (openssl
+  // dgst -sha256) because markercluster's README publishes none, and a
+  // wrong hash fails closed, which is the behaviour we want.
+  var LEAFLET_CSS = [
+    ["https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="],
+    ["https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css", "sha256-+bdWuWOXMFkX0v9Cvr3OWClPiYefDQz9GGZP/7xZxdc="],
+    ["https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css", "sha256-LWhzWaQGZRsWFrrJxg+6Zn8TT84k0/trtiHBc6qcGpY="]
+  ];
+  var LEAFLET_JS = [
+    ["https://unpkg.com/leaflet@1.9.4/dist/leaflet.js", "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="],
+    ["https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js", "sha256-WL6HHfYfbFEkZOFdsJQeY7lJG/E5airjvqbznghUzRw="]
+  ];
+  var leafletPromise = null;
+
+  function loadAsset(kind, url, integrity) {
+    return new Promise(function (resolve, reject) {
+      var el = document.createElement(kind === "css" ? "link" : "script");
+      if (kind === "css") { el.rel = "stylesheet"; el.href = url; }
+      else { el.src = url; el.async = false; }
+      el.integrity = integrity;
+      el.crossOrigin = "";
+      el.onload = function () { resolve(url); };
+      el.onerror = function () { reject(new Error("could not load " + url)); };
+      document.head.appendChild(el);
+    });
+  }
+
+  // The plugin extends L, so leaflet.js has to finish first. The
+  // stylesheets load alongside, and are waited for too: Leaflet measures
+  // its own container, and a container styled a moment later comes out
+  // the wrong size.
+  function loadLeaflet() {
+    if (window.L && window.L.markerClusterGroup) return Promise.resolve();
+    if (!leafletPromise) {
+      leafletPromise = Promise.all(LEAFLET_CSS.map(function (a) { return loadAsset("css", a[0], a[1]); }))
+        .then(function () { return loadAsset("js", LEAFLET_JS[0][0], LEAFLET_JS[0][1]); })
+        .then(function () { return loadAsset("js", LEAFLET_JS[1][0], LEAFLET_JS[1][1]); })
+        .catch(function (err) {
+          // Let the next click try again: the usual cause is a flaky
+          // network, not a permanently missing file.
+          leafletPromise = null;
+          throw err;
+        });
+    }
+    return leafletPromise;
+  }
+
+  // The list is the primary view and still works, so say what happened
+  // and leave the visitor where they can carry on.
+  function mapFailed() {
+    document.getElementById("results-count").textContent =
+      "The map could not load just now. The list view has every home in these results.";
+  }
 
   function cssVar(name) {
     return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
@@ -1445,6 +1834,13 @@
   }
 
   function renderMap() {
+    // Every path into the map goes through here, including a filter
+    // change while the map is already open, so this is the one place
+    // that has to cope with Leaflet not being loaded yet.
+    if (!window.L || !window.L.markerClusterGroup) {
+      loadLeaflet().then(renderMap, mapFailed);
+      return;
+    }
     var map = ensureMap();
     clusterGroup.clearLayers();
     if (state.scope && state.scope !== "England") { renderScopedMap(map); return; }
@@ -1501,14 +1897,23 @@
       renderTrends();
     } else {
       renderShortlistBar();
+      // Coming back from the map left its own count line in place ("15,564
+      // shown on the map") above a list of every result. The same render
+      // that runs on any filter change puts the list's own count back.
+      if (view === "list" && (state.englandLoaded || state.scope !== "England")) renderResults();
     }
     if (view === "map") {
-      if (state.scope && state.scope !== "England" && !state.lastScoped) renderResults(); else renderMap();
-      // Leaflet miscalculates its own size if it was ever initialised
-      // while hidden, even though the container has real dimensions by
-      // the time this runs — an explicit nudge after the browser has
-      // actually laid out the now-visible container fixes it.
-      setTimeout(function () { if (leafletMap) leafletMap.invalidateSize(); }, 0);
+      var count = document.getElementById("results-count");
+      if (!window.L) count.textContent = "Loading the map…";
+      loadLeaflet().then(function () {
+        if (state.view !== "map") return;  // switched away while it loaded
+        if (state.scope && state.scope !== "England" && !state.lastScoped) renderResults(); else renderMap();
+        // Leaflet miscalculates its own size if it was ever initialised
+        // while hidden, even though the container has real dimensions by
+        // the time this runs — an explicit nudge after the browser has
+        // actually laid out the now-visible container fixes it.
+        setTimeout(function () { if (leafletMap) leafletMap.invalidateSize(); }, 0);
+      }, mapFailed);
     }
   }
 
@@ -1636,9 +2041,9 @@
       facts.push(['Run by', detail.brandName]);
     }
     if (loc.numberOfBeds) facts.push(['Beds', loc.numberOfBeds]);
-    if (detail.registrationDate) facts.push(['Registered with CQC since', detail.registrationDate]);
-    if (loc.ratingDate) facts.push(['Rating published', loc.ratingDate]);
-    if (detail.lastInspectionDate) facts.push(['Last inspected', detail.lastInspectionDate]);
+    if (detail.registrationDate) facts.push(['Registered with CQC since', fmtDate(detail.registrationDate)]);
+    if (loc.ratingDate) facts.push(['Rating published', dateWithAge(loc.ratingDate)]);
+    if (detail.lastInspectionDate) facts.push(['Last inspected', dateWithAge(detail.lastInspectionDate)]);
     var factsHtml = facts.length
       ? '<div class="detail-facts">' + facts.map(function (f) {
           return '<div><span class="fact-label">' + attr(f[0]) + ':</span> ' + (f[2] ? f[1] : attr(f[1])) + '</div>';
@@ -1646,8 +2051,11 @@
       : '';
 
     var managerGapHtml = loc.registeredManagerAbsentDate
-      ? '<p class="manager-flag" style="margin:8px 0 0;">No registered manager since ' + attr(loc.registeredManagerAbsentDate) + '</p>'
+      ? '<p class="manager-flag" style="margin:8px 0 0;">No registered manager since ' + attr(dateWithAge(loc.registeredManagerAbsentDate)) + '</p>'
       : '';
+    // The same sentence this home's own page carries when its rating has
+    // been standing for over two years (see home_pages._rating_age_note).
+    var ratingAgeHtml = ratingAgeNote(loc.ratingDate, detail.lastInspectionDate);
 
     var siblings = findSiblings(loc);
     var siblingsHtml = siblings.length
@@ -1682,6 +2090,7 @@
     return (
       (address ? '<p class="detail-address">' + address + '</p>' : '') +
       badge +
+      ratingAgeHtml +
       managerGapHtml +
       factsHtml +
       '<div class="detail-section"><h3>CQC\'s rating, question by question</h3>' + kqHtml + '</div>' +
@@ -1747,7 +2156,7 @@
           : '<span class="badge unrated">No published rating</span>';
       } },
     { label: "No registered manager", get: function (h) {
-        return h.registeredManagerAbsentDate ? 'Since ' + attr(h.registeredManagerAbsentDate) : '—';
+        return h.registeredManagerAbsentDate ? 'Since ' + attr(fmtDate(h.registeredManagerAbsentDate)) : '—';
       } },
     { label: "Beds", get: function (h) { return h.numberOfBeds != null ? String(h.numberOfBeds) : '—'; } },
     { label: "Local authority", get: function (h) { return attr(h.localAuthority || '—'); } },
@@ -1756,7 +2165,7 @@
     { label: "Specialisms", get: function (h, d) {
         return (d && d.specialisms && d.specialisms.length) ? d.specialisms.map(attr).join(', ') : '—';
       } },
-    { label: "Registered with CQC since", get: function (h, d) { return attr((d && d.registrationDate) || '—'); } },
+    { label: "Registered with CQC since", get: function (h, d) { return attr((d && d.registrationDate) ? fmtDate(d.registrationDate) : '—'); } },
     { label: "Distance", get: function (h) {
         return (state.nearMe && isFinite(h._distanceMiles)) ? h._distanceMiles.toFixed(1) + ' miles' : '—';
       } },
@@ -1856,16 +2265,54 @@
     }
   });
 
+  // A visitor in Seoul should land on Korea's register, not England's.
+  // Read from the browser's own time zone: no permission prompt, no
+  // network call, no IP lookup, nothing about the visitor stored or sent.
+  // Only the registers this site holds are listed, so a country we do not
+  // cover falls through to England, which is where the site has always
+  // started. A ?country= link always wins over this.
+  var ZONE_COUNTRY = [
+    [/^Europe\/Dublin$/, "Ireland"],
+    [/^Europe\/Paris$/, "France"],
+    [/^Europe\/Brussels$/, "Belgium (Flanders)"],
+    [/^Asia\/Tokyo$/, "Japan"],
+    [/^Asia\/Seoul$/, "South Korea"],
+    [/^Asia\/(Hong_Kong|Macau)$/, "Hong Kong"],
+    [/^Pacific\/(Auckland|Chatham)$/, "New Zealand"],
+    [/^(Australia\/|Antarctica\/Macquarie$)/, "Australia"],
+    // US zones only, named one by one: America/Toronto and America/Mexico_City
+    // are not the United States, and a prefix match would claim them.
+    [/^(America\/(New_York|Detroit|Chicago|Denver|Phoenix|Los_Angeles|Anchorage|Juneau|Sitka|Nome|Adak|Yakutat|Metlakatla|Boise|Menominee|Indiana\/[A-Za-z_]+|Kentucky\/[A-Za-z_]+|North_Dakota\/[A-Za-z_]+)|Pacific\/Honolulu)$/, "United States"]
+  ];
+
+  function countryFromZone(zone) {
+    for (var i = 0; i < ZONE_COUNTRY.length; i++) {
+      if (ZONE_COUNTRY[i][0].test(zone || "")) return ZONE_COUNTRY[i][1];
+    }
+    return "";
+  }
+
+  function homeCountry() {
+    var zone = "";
+    try { zone = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) { zone = ""; }
+    var name = countryFromZone(zone);
+    if (!name) return "";
+    // Only offer a register that has actually landed: fillNationCounts
+    // hides the chip of a country with no data yet, and scoping to it
+    // would show a visitor an empty page in their own country.
+    var chip = document.querySelector('.nations a[data-name="' + name + '"]');
+    return (chip && !chip.hidden) ? name : "";
+  }
+
   function loadAll() {
     Promise.all([
-      // site_locations.json / site_changes.json, not the pipeline's own
-      // locations.json / changes.json — those hold the full history
-      // (every location CQC has ever registered, and the complete change
-      // log) and stay in the private repo. See pipeline/site_export.py.
-      // The site export is already Registered-only and already a plain
-      // array, so no client-side filtering or dict-to-array conversion is
-      // needed here any more.
-      fetch("data/site_locations.json").then(function (r) { if (!r.ok) throw new Error("locations " + r.status); return r.json(); }),
+      // site_changes.json, not the pipeline's own changes.json — that holds
+      // the full change history and stays in the private repo. See
+      // pipeline/site_export.py. England's own export
+      // (site_locations.json, 807 KB gzipped) is deliberately *not* here:
+      // it is fetched by ensureEngland() when England is the country being
+      // searched, so a visitor looking for a home in Japan no longer
+      // downloads England's register to do it.
       fetch("data/site_changes.json").then(function (r) { if (!r.ok) throw new Error("changes " + r.status); return r.json(); }),
       fetch("data/meta.json").then(function (r) { if (!r.ok) throw new Error("meta " + r.status); return r.json(); }).catch(function () { return null; }),
       // Tiny (a few dozen strings) — fetched eagerly so the specialism
@@ -1876,42 +2323,41 @@
       // if it is missing the panel falls back to England's own changes.
       fetch("data/site_world_changes.json").then(function (r) { if (!r.ok) throw new Error("world " + r.status); return r.json(); }).catch(function () { return null; })
     ]).then(function (results) {
-      state.locations = results[0] || [];
-      state.changes = results[1] || [];
-      state.world = results[4] || null;
-      var meta = results[2];
-      var freshness = document.getElementById("freshness");
-      if (meta && meta.last_run_utc) {
-        freshness.textContent = "Last checked: " + meta.last_run_utc + " · " + state.locations.length.toLocaleString() + " registered care homes.";
-      } else {
-        freshness.textContent = state.locations.length.toLocaleString() + " registered care homes.";
-      }
+      state.changes = results[0] || [];
+      state.world = results[3] || null;
+      var meta = results[1];
+      state.meta = meta;
+      setFreshness(meta);
       fillNationCounts(meta);
-      populateRegions();
-      populateSpecialisms(results[3] || []);
-      // Must come after populateRegions()/populateSpecialisms(): setting
-      // a <select>'s value before its <option>s exist silently fails to
-      // select anything.
+      populateSpecialisms(results[2] || []);
+      // Must come after populateSpecialisms(): setting a <select>'s value
+      // before its <option>s exist silently fails to select anything. The
+      // region filter is England's, and is restored when England's export
+      // lands (see ensureEngland).
       restoreFiltersFromUrl();
       renderChanges();
-      var wanted = new URLSearchParams(location.search).get("country");
-      if (wanted && wanted !== "England") setScope(wanted); else renderResults();
+      renderWatching();
+      var params = new URLSearchParams(location.search);
+      // A shared link wins; otherwise start in the visitor's own country
+      // if this site holds its register.
+      var wanted = params.get("country") || homeCountry();
+      if (wanted && wanted !== "England") setScope(wanted, params.has("country") ? "" : "zone");
+      else renderResults();
       renderShortlistBar();
 
-      // Deep link support: a shared "?home=<id>" URL opens straight to
-      // that care home's detail view once the data it needs has loaded.
-      var params = new URLSearchParams(location.search);
+      // Deep links into England's own app: "?home=<id>" opens that care
+      // home's detail view, "?compare=<id>,<id>,…" opens the comparison
+      // table (the static home pages link here with a home and its
+      // nearest neighbours). Both need England's export, which is no
+      // longer loaded by default, so both wait for it. Unknown ids are
+      // dropped; fewer than two valid ones and nothing opens.
       var homeId = params.get("home");
-      if (homeId && findLocation(homeId)) {
-        openDetail(homeId, false);
-      }
-      // "?compare=<id>,<id>,..." opens the comparison table directly —
-      // the static home pages link here with a home and its nearest
-      // neighbours. Unknown ids are dropped; fewer than two valid ones
-      // and nothing opens.
       var compareIds = params.get("compare");
-      if (compareIds) {
-        openCompare(compareIds.split(",").filter(Boolean).slice(0, 8));
+      if (homeId || compareIds) {
+        ensureEngland().then(function () {
+          if (homeId && findLocation(homeId)) openDetail(homeId, false);
+          if (compareIds) openCompare(compareIds.split(",").filter(Boolean).slice(0, 8));
+        }, function () {});
       }
     }).catch(function (err) {
       document.getElementById("results").innerHTML =
@@ -1925,11 +2371,21 @@
   // interaction — and so the JSON-LD SearchAction declared in <head>
   // describes something the site actually does, rather than a capability
   // claimed for search engines that doesn't exist.
+  // The region options are built from England's export, so ?region= can
+  // only be restored once that has arrived (see ensureEngland). Setting a
+  // <select>'s value before its <option>s exist silently selects nothing.
+  function restoreRegionFromUrl() {
+    var wanted = new URLSearchParams(location.search).get("region");
+    if (!wanted) return;
+    var sel = document.getElementById("region");
+    sel.value = wanted;
+    if (sel.selectedIndex < 0) sel.value = "";
+  }
+
   function restoreFiltersFromUrl() {
     var params = new URLSearchParams(location.search);
     if (params.has("q")) document.getElementById("q").value = params.get("q");
     if (params.has("rating")) document.getElementById("rating").value = params.get("rating");
-    if (params.has("region")) document.getElementById("region").value = params.get("region");
     if (params.has("specialism")) document.getElementById("specialism").value = params.get("specialism");
     if (params.get("managerGap") === "1") document.getElementById("manager-gap-only").checked = true;
     // The scoped rating options only exist once the world index has
@@ -2036,7 +2492,11 @@
     URL.revokeObjectURL(url);
   }
 
-  document.getElementById("export-csv").addEventListener("click", exportCsv);
+  // England's export may still be arriving on a fast click, and this
+  // exports the whole filtered set rather than what is drawn.
+  document.getElementById("export-csv").addEventListener("click", function () {
+    ensureEngland().then(function () { renderResults(); exportCsv(); }, function () {});
+  });
 
   document.getElementById("theme-toggle").addEventListener("click", function () {
     var root = document.documentElement;
