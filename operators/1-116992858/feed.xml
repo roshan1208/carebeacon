@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/operators/1-116992858/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/operators/1-116992858/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/operators/1-116992858/feed</id>
-  <updated>2026-09-17T11:59:03Z</updated>
+  <updated>2026-09-18T11:15:02Z</updated>
   <subtitle>Care homes run by Achieve Together Limited that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-9654806673/2026-09-18/closed</id>
+    <title>44 Albion Road: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-9654806673"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2670543973/2026-09-18/closed</id>
+    <title>Homeleigh: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-2670543973"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>North West. Lost its CQC registration.</summary>
+  </entry>
 </feed>

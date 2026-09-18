@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/france/areas/dr-me/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/areas/dr-me/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/areas/dr-me/feed</id>
-  <updated>2026-09-17T11:59:13Z</updated>
+  <updated>2026-09-18T11:15:09Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in Drôme whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/260024492/2026-09-18/new</id>
+    <title>EHPAD Le Fil de Soi: Newly registered (by 18 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/260024492/"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>Drôme. Newly registered (by 18 September 2026).</summary>
+  </entry>
 </feed>

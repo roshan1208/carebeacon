@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/west-flanders/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/west-flanders/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/areas/west-flanders/feed</id>
-  <updated>2026-09-17T11:59:39Z</updated>
+  <updated>2026-09-18T11:15:32Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in West Flanders whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-18/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.80 per day to €65.79 per day (by 18 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.80 per day to €65.79 per day (by 18 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-17/price_changed</id>
     <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day (by 17 September 2026).</title>

@@ -4,8 +4,50 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-17T11:58:43Z</updated>
+  <updated>2026-09-18T11:14:43Z</updated>
   <subtitle>Care homes in England that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-9654806673/2026-09-18/closed</id>
+    <title>44 Albion Road: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-9654806673"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-5902193838/2026-09-18/closed</id>
+    <title>Benfield Hall Nursing Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-5902193838"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>North East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-544421663/2026-09-18/closed</id>
+    <title>The Coppice Surgery Partnership: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-544421663"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27153531747/2026-09-18/rated</id>
+    <title>The Coppice Surgery: Rated for the first time: Good.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27153531747"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>South East. Rated for the first time: Good.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2670543973/2026-09-18/closed</id>
+    <title>Homeleigh: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-2670543973"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>North West. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-126240814/2026-09-18/closed</id>
+    <title>Manor Court: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-126240814"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3214503986/2026-09-15/closed</id>
     <title>Northwick House: Lost its CQC registration.</title>

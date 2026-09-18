@@ -103,5 +103,71 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-126240814",
+  "name": "Manor Court",
+  "region": "South West",
+  "localAuthority": "Plymouth",
+  "providerId": "1-102642895",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-2670543973",
+  "name": "Homeleigh",
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "providerId": "1-116992858",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-27153531747",
+  "name": "The Coppice Surgery",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "providerId": "1-199745553",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-544421663",
+  "name": "The Coppice Surgery Partnership",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "providerId": "1-199745078",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-5902193838",
+  "name": "Benfield Hall Nursing Home",
+  "region": "North East",
+  "localAuthority": "County Durham",
+  "providerId": "1-5349339816",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-18",
+  "locationId": "1-9654806673",
+  "name": "44 Albion Road",
+  "region": "London",
+  "localAuthority": "Sutton",
+  "providerId": "1-116992858",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

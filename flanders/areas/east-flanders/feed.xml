@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/east-flanders/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/east-flanders/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/areas/east-flanders/feed</id>
-  <updated>2026-09-17T11:59:39Z</updated>
+  <updated>2026-09-18T11:15:32Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in East Flanders whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-18/price_changed</id>
+    <title>De Bron: Average daily price changed: €77.67 per day to €77.68 per day (by 18 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <summary>East Flanders. Average daily price changed: €77.67 per day to €77.68 per day (by 18 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-17/price_changed</id>
     <title>De Bron: Average daily price changed: €77.68 per day to €77.67 per day (by 17 September 2026).</title>
