@@ -169,5 +169,49 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-19",
+  "locationId": "1-121773828",
+  "name": "St Annes' Community Services - Thornhill Road",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Calderdale",
+  "providerId": "1-101641233",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-19",
+  "locationId": "1-121963720",
+  "name": "18 Wolverton Gardens, Horley (Active Prospects)",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "providerId": "1-101650500",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-19",
+  "locationId": "1-217297586",
+  "name": "Alma Court Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "providerId": "1-122683706",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-19",
+  "locationId": "1-28724696377",
+  "name": "Manor Court",
+  "region": "South West",
+  "localAuthority": "Plymouth",
+  "providerId": "1-101667957",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
  }
 ]

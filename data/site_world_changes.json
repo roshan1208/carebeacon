@@ -1,5 +1,97 @@
 [
  {
+  "date": "2026-09-19",
+  "country": "Hong Kong",
+  "countryPath": "hong-kong/",
+  "kind": "up",
+  "type": "accreditation_changed",
+  "name": "TOUCH HOME FOR THE ELDERLY LIMITED",
+  "place": "Yau Tsim Mong",
+  "text": "Accreditation changed: yes to no",
+  "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0977/",
+  "since": "2026-09-18"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "St Annes' Community Services - Thornhill Road",
+  "place": "Calderdale",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "England",
+  "countryPath": "",
+  "kind": "other",
+  "type": "rated",
+  "name": "Manor Court",
+  "place": "Plymouth",
+  "text": "Rated for the first time: Good",
+  "url": "https://roshan1208.github.io/carebeacon/homes/manor-court-1-28724696377/"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Alma Court Care Home",
+  "place": "Staffordshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "18 Wolverton Gardens, Horley (Active Prospects)",
+  "place": "Surrey",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "Belgium (Flanders)",
+  "countryPath": "flanders/",
+  "kind": "other",
+  "type": "places_changed",
+  "name": "Westervier",
+  "place": "West Flanders",
+  "text": "Recognised places changed: 115 to 113",
+  "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3862/",
+  "since": "2026-09-18"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "Belgium (Flanders)",
+  "countryPath": "flanders/",
+  "kind": "other",
+  "type": "places_changed",
+  "name": "Sint Felix",
+  "place": "Flemish Brabant",
+  "text": "Recognised places changed: 60 to 65",
+  "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3658/",
+  "since": "2026-09-18"
+ },
+ {
+  "date": "2026-09-19",
+  "country": "Belgium (Flanders)",
+  "countryPath": "flanders/",
+  "kind": "other",
+  "type": "places_changed",
+  "name": "Herdershove",
+  "place": "West Flanders",
+  "text": "Recognised places changed: 185 to 192",
+  "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3396/",
+  "since": "2026-09-18"
+ },
+ {
   "date": "2026-09-18",
   "country": "Wales",
   "countryPath": "wales/",

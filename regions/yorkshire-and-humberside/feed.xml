@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/yorkshire-and-humberside/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/yorkshire-and-humberside/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/yorkshire-and-humberside/feed</id>
-  <updated>2026-09-18T11:14:44Z</updated>
+  <updated>2026-09-19T11:00:47Z</updated>
   <subtitle>Care homes in Yorkshire &amp; Humberside that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-121773828/2026-09-19/closed</id>
+    <title>St Annes' Community Services - Thornhill Road: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-121773828"/>
+    <updated>2026-09-19T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2110989496/2026-09-13/closed</id>
     <title>Rose House: Lost its CQC registration.</title>
