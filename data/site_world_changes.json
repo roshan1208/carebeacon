@@ -1,5 +1,160 @@
 [
  {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Vine Living",
+  "place": "Oxfordshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Upperton Gardens",
+  "place": "East Sussex",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Trewidden Care Home",
+  "place": "Cornwall",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Quinton House",
+  "place": "Nottinghamshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT The Poplars",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT Southfield House",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT Skirbeck Court",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT Patchett Lodge",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT Foxby Court",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "OSJCT Eresby Hall",
+  "place": "Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Mayfield House",
+  "place": "Cheshire East",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Kensington Residential Care",
+  "place": "North East Lincolnshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Clitheroe Care Home",
+  "place": "Lancashire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/"
+ },
+ {
+  "date": "2026-09-20",
+  "country": "Belgium (Flanders)",
+  "countryPath": "flanders/",
+  "kind": "other",
+  "type": "places_changed",
+  "name": "Regina Coeli",
+  "place": "West Flanders",
+  "text": "Recognised places changed: 87 to 3",
+  "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3579/",
+  "since": "2026-09-19"
+ },
+ {
   "date": "2026-09-19",
   "country": "Hong Kong",
   "countryPath": "hong-kong/",
@@ -781,17 +936,6 @@
  },
  {
   "date": "2026-09-15",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Barnes Court Care Home",
-  "place": "Sunderland",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-15",
   "country": "Belgium (Flanders)",
   "countryPath": "flanders/",
   "kind": "other",
@@ -957,94 +1101,6 @@
   "text": "No longer on the register",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
   "since": "2026-09-14"
- },
- {
-  "date": "2026-09-13",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Tower House",
-  "place": "South East",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-13",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Rose House",
-  "place": "Yorkshire & Humberside",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-13",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Franklyn Crescent",
-  "place": "East",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-13",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Bramcote Hills Care Home",
-  "place": "East Midlands",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-13",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "77 Gloucester Road North",
-  "place": "South West",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-11",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Ferndale Residential Home",
-  "place": "East",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-10",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Wrekin Villa",
-  "place": "West Midlands",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
- },
- {
-  "date": "2026-09-10",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "Orchard Hill",
-  "place": "East Midlands",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
  },
  {
   "date": "2026-08-31",

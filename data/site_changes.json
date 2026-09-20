@@ -213,5 +213,148 @@
   "type": "rated",
   "from": null,
   "to": "Good"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-108982665",
+  "name": "Upperton Gardens",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-101617933",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122144800",
+  "name": "OSJCT Patchett Lodge",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122145113",
+  "name": "OSJCT Eresby Hall",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122145155",
+  "name": "OSJCT Foxby Court",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122145213",
+  "name": "OSJCT The Poplars",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122145228",
+  "name": "OSJCT Skirbeck Court",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122145242",
+  "name": "OSJCT Southfield House",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-102642912",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-122611036",
+  "name": "Quinton House",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "providerId": "1-101692629",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-12414489356",
+  "name": "Vine Living",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "providerId": "1-11804268095",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-124342544",
+  "name": "Trewidden Care Home",
+  "region": "South West",
+  "localAuthority": "Cornwall",
+  "providerId": "1-101663145",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-124941515",
+  "name": "Mayfield House",
+  "region": "North West",
+  "localAuthority": "Cheshire East",
+  "providerId": "1-101643800",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-18276226130",
+  "name": "Kensington Residential Care",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North East Lincolnshire",
+  "providerId": "1-1972912071",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-20",
+  "locationId": "1-6477957902",
+  "name": "Clitheroe Care Home",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "providerId": "1-1972912071",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

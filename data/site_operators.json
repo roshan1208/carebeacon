@@ -961,7 +961,7 @@
  },
  "1-101640000": {
   "name": "Devon County Council",
-  "homes": 5
+  "homes": 6
  },
  "1-101640079": {
   "name": "Eastbourne & District Mencap Limited",
@@ -2077,7 +2077,7 @@
  },
  "1-101663145": {
   "name": "Cornwallis Care Services Ltd",
-  "homes": 10
+  "homes": 9
  },
  "1-101663424": {
   "name": "Norwood Ravenswood",
@@ -2593,7 +2593,7 @@
  },
  "1-101671690": {
   "name": "Midshires Care Limited",
-  "homes": 9
+  "homes": 10
  },
  "1-101672001": {
   "name": "Buckland Care Limited",
@@ -3439,6 +3439,10 @@
   "name": "Modus Care Limited",
   "homes": 18
  },
+ "1-101726680": {
+  "name": "Cygnet Surrey Limited",
+  "homes": 2
+ },
  "1-101726746": {
   "name": "Bramley Health Limited",
   "homes": 6
@@ -3573,7 +3577,7 @@
  },
  "1-102642859": {
   "name": "Abbeyfield Society (The)",
-  "homes": 13
+  "homes": 14
  },
  "1-102642886": {
   "name": "Cygnet Care Services Limited",
@@ -3589,7 +3593,7 @@
  },
  "1-102642912": {
   "name": "The Orders Of St. John Care Trust",
-  "homes": 54
+  "homes": 48
  },
  "1-102642921": {
   "name": "Prime Life Limited",
@@ -3707,9 +3711,13 @@
   "name": "Cygnet Health Care Limited",
   "homes": 3
  },
+ "1-102643442": {
+  "name": "Priory Healthcare Limited",
+  "homes": 2
+ },
  "1-102643500": {
   "name": "Circle Health Group Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-102643516": {
   "name": "Nuffield Health",
@@ -4271,6 +4279,10 @@
   "name": "Forest Residential Care Homes Limited",
   "homes": 2
  },
+ "1-125892604": {
+  "name": "Change, Grow, Live",
+  "homes": 2
+ },
  "1-125892745": {
   "name": "Camphill Milton Keynes Communities Limited",
   "homes": 4
@@ -4290,6 +4302,10 @@
  "1-126775024": {
   "name": "Waythrough",
   "homes": 10
+ },
+ "1-126775137": {
+  "name": "Synnovis Group LLP",
+  "homes": 5
  },
  "1-126819335": {
   "name": "Aaroncare Limited",
@@ -4805,7 +4821,7 @@
  },
  "1-152986753": {
   "name": "Rodericks Dental Partners Limited",
-  "homes": 4
+  "homes": 7
  },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
@@ -4869,7 +4885,7 @@
  },
  "1-161851228": {
   "name": "Whitecross Dental Care Limited",
-  "homes": 6
+  "homes": 8
  },
  "1-16435814558": {
   "name": "Resident Care at Signature Opco LLP",
@@ -4921,7 +4937,7 @@
  },
  "1-171553721": {
   "name": "IDH Limited",
-  "homes": 3
+  "homes": 5
  },
  "1-171564599": {
   "name": "Spalding Dental Surgery",
@@ -4929,7 +4945,7 @@
  },
  "1-172521302": {
   "name": "Yourlife Management Services Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-173121845": {
   "name": "Moorville Developments Limited",
@@ -4937,7 +4953,7 @@
  },
  "1-17362529133": {
   "name": "Dentex Clinical Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-17397747565": {
   "name": "Morar Care Home Stratford Ltd",
@@ -5189,7 +5205,7 @@
  },
  "1-1972912071": {
   "name": "365 Care Homes Limited",
-  "homes": 6
+  "homes": 4
  },
  "1-1977387493": {
   "name": "Winners Trophy Limited",
@@ -5221,6 +5237,10 @@
  },
  "1-199738570": {
   "name": "Faversham Medical Group",
+  "homes": 2
+ },
+ "1-199808572": {
+  "name": "Modality Partnership",
   "homes": 2
  },
  "1-200367080": {
@@ -5945,7 +5965,7 @@
  },
  "1-3508042374": {
   "name": "Aspens Charities",
-  "homes": 6
+  "homes": 7
  },
  "1-352049593": {
   "name": "Your Choice (Barnet) Limited",
@@ -6217,6 +6237,10 @@
  },
  "1-4436050011": {
   "name": "Dean House Care Limited",
+  "homes": 2
+ },
+ "1-443753979": {
+  "name": "Community Health and Eyecare Limited",
   "homes": 2
  },
  "1-448719770": {
@@ -6833,7 +6857,7 @@
  },
  "1-8483070416": {
   "name": "Sugarman Health and Wellbeing Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-8544062580": {
   "name": "Roseberry Care Centres (England) Ltd",
@@ -6901,6 +6925,10 @@
  },
  "1-9038140144": {
   "name": "JN Healthcare Group Limited",
+  "homes": 3
+ },
+ "1-9125987105": {
+  "name": "RVB Transcendence Limited",
   "homes": 3
  },
  "1-916638920": {

@@ -1317,17 +1317,6 @@
   ],
   [
    0,
-   "413",
-   "Catherine McAuley House",
-   "Limerick",
-   "",
-   "",
-   52.51883,
-   -8.79583,
-   "a"
-  ],
-  [
-   0,
    "125",
    "Catherine McAuley House",
    "Dublin",
@@ -1336,6 +1325,17 @@
    53.39145,
    -6.22696,
    ""
+  ],
+  [
+   0,
+   "413",
+   "Catherine McAuley House",
+   "Limerick",
+   "",
+   "",
+   52.51883,
+   -8.79583,
+   "a"
   ],
   [
    0,
@@ -3715,17 +3715,6 @@
   ],
   [
    0,
-   "372",
-   "Oakwood Private Nursing Home",
-   "Roscommon",
-   "",
-   "",
-   53.63124,
-   -8.19068,
-   "a"
-  ],
-  [
-   0,
    "373",
    "Oakwood Private Nursing Home",
    "Roscommon",
@@ -3734,6 +3723,17 @@
    53.27699,
    -6.21621,
    ""
+  ],
+  [
+   0,
+   "372",
+   "Oakwood Private Nursing Home",
+   "Roscommon",
+   "",
+   "",
+   53.63124,
+   -8.19068,
+   "a"
   ],
   [
    0,
@@ -3847,17 +3847,6 @@
   ],
   [
    0,
-   "5314",
-   "Padre Pio Nursing Home",
-   "Cork",
-   "",
-   "",
-   51.8728,
-   -8.50792,
-   ""
-  ],
-  [
-   0,
    "267",
    "Padre Pio Nursing Home",
    "Tipperary",
@@ -3866,6 +3855,17 @@
    52.67669,
    -7.82191,
    "a"
+  ],
+  [
+   0,
+   "5314",
+   "Padre Pio Nursing Home",
+   "Cork",
+   "",
+   "",
+   51.8728,
+   -8.50792,
+   ""
   ],
   [
    0,
@@ -4969,17 +4969,6 @@
   ],
   [
    0,
-   "245",
-   "St Joseph's Home",
-   "Waterford",
-   "",
-   "",
-   52.26422,
-   -7.10247,
-   ""
-  ],
-  [
-   0,
    "287",
    "St Joseph's Home",
    "Kerry",
@@ -4987,6 +4976,17 @@
    "",
    52.12166,
    -9.77249,
+   ""
+  ],
+  [
+   0,
+   "245",
+   "St Joseph's Home",
+   "Waterford",
+   "",
+   "",
+   52.26422,
+   -7.10247,
    ""
   ],
   [
