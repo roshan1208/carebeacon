@@ -3404,18 +3404,6 @@
   ],
   [
    0,
-   "359",
-   "Maryfield Nursing Home",
-   "Galway",
-   "",
-   "",
-   53.3015,
-   -8.74856,
-   "a",
-   null
-  ],
-  [
-   0,
    "64",
    "Maryfield Nursing Home",
    "Dublin",
@@ -3424,6 +3412,18 @@
    53.35755,
    -6.37546,
    "",
+   null
+  ],
+  [
+   0,
+   "359",
+   "Maryfield Nursing Home",
+   "Galway",
+   "",
+   "",
+   53.3015,
+   -8.74856,
+   "a",
    null
   ],
   [
@@ -4196,18 +4196,6 @@
   ],
   [
    0,
-   "267",
-   "Padre Pio Nursing Home",
-   "Tipperary",
-   "",
-   "",
-   52.67669,
-   -7.82191,
-   "a",
-   null
-  ],
-  [
-   0,
    "5314",
    "Padre Pio Nursing Home",
    "Cork",
@@ -4216,6 +4204,18 @@
    51.8728,
    -8.50792,
    "",
+   null
+  ],
+  [
+   0,
+   "267",
+   "Padre Pio Nursing Home",
+   "Tipperary",
+   "",
+   "",
+   52.67669,
+   -7.82191,
+   "a",
    null
   ],
   [
@@ -5420,18 +5420,6 @@
   ],
   [
    0,
-   "287",
-   "St Joseph's Home",
-   "Kerry",
-   "",
-   "",
-   52.12166,
-   -9.77249,
-   "",
-   null
-  ],
-  [
-   0,
    "245",
    "St Joseph's Home",
    "Waterford",
@@ -5439,6 +5427,18 @@
    "",
    52.26422,
    -7.10247,
+   "",
+   null
+  ],
+  [
+   0,
+   "287",
+   "St Joseph's Home",
+   "Kerry",
+   "",
+   "",
+   52.12166,
+   -9.77249,
    "",
    null
   ],
@@ -5528,18 +5528,6 @@
   ],
   [
    0,
-   "5284",
-   "St Martha's Nursing Home",
-   "Tipperary",
-   "",
-   "",
-   52.37795,
-   -7.92258,
-   "a",
-   null
-  ],
-  [
-   0,
    "291",
    "St Martha's Nursing Home",
    "Cork",
@@ -5547,6 +5535,18 @@
    "",
    52.35464,
    -8.68288,
+   "a",
+   null
+  ],
+  [
+   0,
+   "5284",
+   "St Martha's Nursing Home",
+   "Tipperary",
+   "",
+   "",
+   52.37795,
+   -7.92258,
    "a",
    null
   ],
