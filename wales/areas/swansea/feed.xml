@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/swansea/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/swansea/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/swansea/feed</id>
-  <updated>2026-09-20T11:23:56Z</updated>
+  <updated>2026-09-21T12:48:13Z</updated>
   <subtitle>Care homes in Swansea whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009916-JNGL/2026-09-21/first_rated</id>
+    <title>Hengoed Court Care Home: Rated for the first time; lowest theme: Good (by 21 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Swansea. Rated for the first time; lowest theme: Good (by 21 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010148-BSLK/2026-09-16/ri_changed</id>
     <title>Hengoed Park Care Home: Responsible individual changed: none recorded to TIMOTHY  Williams (by 16 September 2026).</title>

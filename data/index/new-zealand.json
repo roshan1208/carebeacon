@@ -399,8 +399,8 @@
    "cairnfield-house-whangarei",
    "Cairnfield House",
    "Whangarei, Northland District Health Board",
-   "",
-   "",
+   "48-month certification",
+   "g6",
    -35.69629,
    174.3155,
    ""
@@ -949,8 +949,8 @@
    "parkstone-care-home-christchurch",
    "Parkstone Care Home",
    "Christchurch, Canterbury District Health Board",
-   "",
-   "",
+   "48-month certification",
+   "g6",
    -43.5252,
    172.56901,
    ""
@@ -3259,8 +3259,8 @@
    "kingswood-rest-home-morrinsville",
    "Kingswood Rest Home",
    "Morrinsville, Waikato District Health Board",
-   "36-month certification",
-   "g4",
+   "",
+   "",
    -37.65299,
    175.53898,
    ""
@@ -5404,8 +5404,8 @@
    "radius-hawthorne-christchurch",
    "Radius Hawthorne",
    "Christchurch, Canterbury District Health Board",
-   "48-month certification",
-   "g6",
+   "",
+   "",
    -43.50876,
    172.59584,
    ""
@@ -5573,17 +5573,6 @@
    "",
    -36.90791,
    174.85341,
-   ""
-  ],
-  [
-   0,
-   "radius-windsor-court-rest-home-ohaupo",
-   "Radius Windsor Court Rest Home",
-   "Ohaupo, Waikato District Health Board",
-   "36-month certification",
-   "g4",
-   -37.91776,
-   175.30535,
    ""
   ],
   [
@@ -6123,17 +6112,6 @@
    "g6",
    -36.87259,
    174.83856,
-   ""
-  ],
-  [
-   0,
-   "summerset-waikanae-waikanae",
-   "Summerset Waikanae",
-   "Waikanae, Capital and Coast District Health Board",
-   "12-month certification",
-   "g1",
-   -40.8716,
-   175.04061,
    ""
   ],
   [

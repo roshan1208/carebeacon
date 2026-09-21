@@ -1136,8 +1136,8 @@
    "SIN-00009388-FXLJ",
    "Beatrice Webb",
    "Blackwood, Caerphilly",
-   "",
-   "",
+   "Requires Significant Improvement",
+   "g1",
    51.6696,
    -3.19957,
    ""
@@ -2148,8 +2148,8 @@
    "SIN-00015469-LKQN",
    "Bryn y Wawr",
    "Llandeilo, Carmarthenshire",
-   "",
-   "",
+   "Good",
+   "g4",
    51.88455,
    -3.99228,
    ""
@@ -2599,8 +2599,8 @@
    "SIN-00010333-CFHH",
    "Cae Glas",
    "Denbigh, Denbighshire",
-   "",
-   "",
+   "Requires Improvement",
+   "g3",
    53.18529,
    -3.41493,
    ""
@@ -6493,8 +6493,8 @@
    "SIN-00009916-JNGL",
    "Hengoed Court Care Home",
    "Swansea",
-   "",
-   "",
+   "Good",
+   "g4",
    51.64912,
    -3.89373,
    ""
@@ -10758,17 +10758,6 @@
   ],
   [
    0,
-   "SIN-00013636-RGGY",
-   "Pum Copa",
-   "Welshpool, Powys",
-   "Good",
-   "g4",
-   52.66007,
-   -3.14742,
-   "a"
-  ],
-  [
-   0,
    "SIN-00008697-HBKF",
    "Quality Care (Wales) Limited",
    "Llanfairpwllgwyngyll, Isle of Anglesey",
@@ -13401,8 +13390,8 @@
    "SIN-00008976-YLQG",
    "Trevelyan",
    "Carmarthen, Carmarthenshire",
-   "",
-   "",
+   "Excellent",
+   "g6",
    51.89029,
    -4.30237,
    ""
@@ -14085,9 +14074,9 @@
    "Porth, Rhondda Cynon Taf",
    "",
    "",
-   51.61259,
-   -3.40859,
-   "a"
+   51.61262,
+   -3.39465,
+   ""
   ],
   [
    0,
@@ -14173,9 +14162,9 @@
    "Porth, Rhondda Cynon Taf",
    "Good",
    "g4",
-   51.61259,
-   -3.40859,
-   "a"
+   51.61262,
+   -3.39465,
+   ""
   ],
   [
    0,

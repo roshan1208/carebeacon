@@ -4,7 +4,34 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/canterbury-district-health-board/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/canterbury-district-health-board/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/areas/canterbury-district-health-board/feed</id>
-  <updated>2026-09-20T11:24:30Z</updated>
+  <updated>2026-09-21T12:48:38Z</updated>
   <subtitle>Aged residential care premises in Canterbury District Health Board whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/radius-hawthorne-christchurch/2026-09-21/services_changed</id>
+    <title>Radius Hawthorne: Services changed: Medical, Rest home care, Physical, Psychogeriatric, Geriatric to Psychogeriatric, Geriatric, Medical, Rest home care, Physical (by 21 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/radius-hawthorne-christchurch/"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Services changed: Medical, Rest home care, Physical, Psychogeriatric, Geriatric to Psychogeriatric, Geriatric, Medical, Rest home care, Physical (by 21 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/services_changed</id>
+    <title>Parkstone Care Home: Services changed: Geriatric, Medical, Dementia care, Physical, Rest home care to Physical, Dementia care, Rest home care, Geriatric, Medical (by 21 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Services changed: Geriatric, Medical, Dementia care, Physical, Rest home care to Physical, Dementia care, Rest home care, Geriatric, Medical (by 21 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/recertified</id>
+    <title>Parkstone Care Home: Certificate end date changed: 7 October 2026 to 7 October 2030 (by 21 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Certificate end date changed: 7 October 2026 to 7 October 2030 (by 21 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/first_rated</id>
+    <title>Parkstone Care Home: Certification period published for the first time: 48-month certification (by 21 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Certification period published for the first time: 48-month certification (by 21 September 2026).</summary>
+  </entry>
 </feed>

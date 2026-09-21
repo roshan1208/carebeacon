@@ -356,5 +356,15 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-21",
+  "locationId": "1-19287567344",
+  "name": "Ivy Care Services Ltd",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "providerId": "1-17933650671",
+  "type": "reopened",
+  "to_status": "Registered"
  }
 ]
