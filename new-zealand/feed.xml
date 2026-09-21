@@ -4,29 +4,8 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/feed</id>
-  <updated>2026-09-21T12:48:38Z</updated>
+  <updated>2026-09-21T15:16:34Z</updated>
   <subtitle>Aged residential care premises in New Zealand whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/radius-hawthorne-christchurch/2026-09-21/services_changed</id>
-    <title>Radius Hawthorne: Services changed: Medical, Rest home care, Physical, Psychogeriatric, Geriatric to Psychogeriatric, Geriatric, Medical, Rest home care, Physical (by 21 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/radius-hawthorne-christchurch/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Canterbury District Health Board. Services changed: Medical, Rest home care, Physical, Psychogeriatric, Geriatric to Psychogeriatric, Geriatric, Medical, Rest home care, Physical (by 21 September 2026).</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/services_changed</id>
-    <title>Parkstone Care Home: Services changed: Geriatric, Medical, Dementia care, Physical, Rest home care to Physical, Dementia care, Rest home care, Geriatric, Medical (by 21 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Canterbury District Health Board. Services changed: Geriatric, Medical, Dementia care, Physical, Rest home care to Physical, Dementia care, Rest home care, Geriatric, Medical (by 21 September 2026).</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/kingswood-rest-home-morrinsville/2026-09-21/services_changed</id>
-    <title>Kingswood Rest Home: Services changed: Dementia care, Rest home care, Psychogeriatric, Geriatric, Medical to Rest home care, Psychogeriatric, Geriatric, Medical, Dementia care (by 21 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/kingswood-rest-home-morrinsville/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Services changed: Dementia care, Rest home care, Psychogeriatric, Geriatric, Medical to Rest home care, Psychogeriatric, Geriatric, Medical, Dementia care (by 21 September 2026).</summary>
-  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/recertified</id>
     <title>Parkstone Care Home: Certificate end date changed: 7 October 2026 to 7 October 2030 (by 21 September 2026).</title>
@@ -70,13 +49,6 @@
     <summary>Waikato District Health Board. No longer on the register (by 21 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/kumeu-village-kumeu/2026-09-18/services_changed</id>
-    <title>Kumeu Village: Services changed: Dementia care, Rest home care, Geriatric, Medical to Rest home care, Geriatric, Medical, Dementia care (by 18 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/kumeu-village-kumeu/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Waitemata District Health Board. Services changed: Dementia care, Rest home care, Geriatric, Medical to Rest home care, Geriatric, Medical, Dementia care (by 18 September 2026).</summary>
-  </entry>
-  <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/cashmere-hospital-wellington/2026-09-15/services_changed</id>
     <title>Cashmere Hospital: Services changed: Rest home care to Geriatric, Rest home care, Medical (by 15 September 2026).</title>
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/cashmere-hospital-wellington/"/>
@@ -84,45 +56,122 @@
     <summary>Capital and Coast District Health Board. Services changed: Rest home care to Geriatric, Rest home care, Medical (by 15 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/new</id>
-    <title>The Point Mission Bay Care Centre: Newly registered (by 14 September 2026).</title>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/renamed</id>
+    <title>The Point Mission Bay Care Centre: Listed under a new name at the same address: Eastcliffe on Orakei is now The Point Mission Bay Care Centre (by 14 September 2026).</title>
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. Newly registered (by 14 September 2026).</summary>
+    <summary>Auckland District Health Board. Listed under a new name at the same address: Eastcliffe on Orakei is now The Point Mission Bay Care Centre (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/new</id>
-    <title>The Booms Lifecare: Newly registered (by 14 September 2026).</title>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/renamed</id>
+    <title>The Booms Lifecare: Listed under a new name at the same address: The Booms Home &amp; Hospital is now The Booms Lifecare (by 14 September 2026).</title>
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Newly registered (by 14 September 2026).</summary>
+    <summary>Waikato District Health Board. Listed under a new name at the same address: The Booms Home &amp; Hospital is now The Booms Lifecare (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/new</id>
-    <title>Te Whanau Lifecare: Newly registered (by 14 September 2026).</title>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/renamed</id>
+    <title>Te Whanau Lifecare: Listed under a new name at the same address: Te Whanau Rest Home &amp; Hospital is now Te Whanau Lifecare (by 14 September 2026).</title>
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. Newly registered (by 14 September 2026).</summary>
+    <summary>MidCentral District Health Board. Listed under a new name at the same address: Te Whanau Rest Home &amp; Hospital is now Te Whanau Lifecare (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-home-hospital-thames/2026-09-14/cancelled</id>
-    <title>The Booms Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-home-hospital-thames/"/>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/recertified</id>
+    <title>The Point Mission Bay Care Centre: Certificate end date changed: 21 September 2026 to 31 August 2027 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. No longer on the register (by 14 September 2026).</summary>
+    <summary>Auckland District Health Board. Certificate end date changed: 21 September 2026 to 31 August 2027 (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-rest-home-hospital-levin/2026-09-14/cancelled</id>
-    <title>Te Whanau Rest Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-rest-home-hospital-levin/"/>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/recertified</id>
+    <title>The Booms Lifecare: Certificate end date changed: 12 November 2028 to 31 August 2027 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. No longer on the register (by 14 September 2026).</summary>
+    <summary>Waikato District Health Board. Certificate end date changed: 12 November 2028 to 31 August 2027 (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/eastcliffe-on-orakei-auckland/2026-09-14/cancelled</id>
-    <title>Eastcliffe on Orakei: No longer on the register (by 14 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/eastcliffe-on-orakei-auckland/"/>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/recertified</id>
+    <title>Te Whanau Lifecare: Certificate end date changed: 5 September 2028 to 31 August 2027 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. No longer on the register (by 14 September 2026).</summary>
+    <summary>MidCentral District Health Board. Certificate end date changed: 5 September 2028 to 31 August 2027 (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/provider_changed</id>
+    <title>The Point Mission Bay Care Centre: Legal entity changed: Eastcliffe Orakei Management Services LP to The Point Mission Bay Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Legal entity changed: Eastcliffe Orakei Management Services LP to The Point Mission Bay Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/provider_changed</id>
+    <title>The Booms Lifecare: Legal entity changed: Bupa Care Services NZ Limited to The Booms Lifecare Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. Legal entity changed: Bupa Care Services NZ Limited to The Booms Lifecare Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/provider_changed</id>
+    <title>Te Whanau Lifecare: Legal entity changed: Bupa Care Services NZ Limited to Te Whanau Lifecare Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Legal entity changed: Bupa Care Services NZ Limited to Te Whanau Lifecare Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/first_rated</id>
+    <title>The Point Mission Bay Care Centre: Certification period published for the first time: 12-month certification (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certification period published for the first time: 12-month certification (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/decline</id>
+    <title>The Booms Lifecare: Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/decline</id>
+    <title>Te Whanau Lifecare: Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/beds_changed</id>
+    <title>The Point Mission Bay Care Centre: Bed numbers changed: 27 to 42 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Bed numbers changed: 27 to 42 (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/beds_changed</id>
+    <title>Te Whanau Lifecare: Bed numbers changed: 64 to 65 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Bed numbers changed: 64 to 65 (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/auditor_changed</id>
+    <title>The Point Mission Bay Care Centre: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/auditor_changed</id>
+    <title>The Booms Lifecare: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>Waikato District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/auditor_changed</id>
+    <title>Te Whanau Lifecare: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</summary>
   </entry>
 </feed>

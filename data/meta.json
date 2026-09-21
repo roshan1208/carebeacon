@@ -126,5 +126,9 @@
    "failures": 0
   }
  },
- "england_care_homes": 15828
+ "england_care_homes": 15828,
+ "switzerland_snapshot_label": "2026-04-08",
+ "switzerland_snapshot_date": "2026-09-21",
+ "switzerland_care_homes": 1457,
+ "switzerland_parse_version": 1
 }

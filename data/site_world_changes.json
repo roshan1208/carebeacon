@@ -9,6 +9,8 @@
   "place": "Carmarthenshire",
   "text": "Rated for the first time; lowest theme: Excellent",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008976-YLQG/",
+  "id": "SIN-00008976-YLQG",
+  "placePath": "wales/areas/carmarthenshire/",
   "since": "2026-09-20"
  },
  {
@@ -21,6 +23,8 @@
   "place": "Powys",
   "text": "No longer on the register",
   "url": "https://roshan1208.github.io/carebeacon/wales/changes/",
+  "id": "SIN-00013636-RGGY",
+  "placePath": "wales/areas/powys/",
   "since": "2026-09-20"
  },
  {
@@ -33,6 +37,8 @@
   "place": "Swansea",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/",
+  "id": "SIN-00009916-JNGL",
+  "placePath": "wales/areas/swansea/",
   "since": "2026-09-20"
  },
  {
@@ -45,6 +51,8 @@
   "place": "Denbighshire",
   "text": "Rated for the first time; lowest theme: Requires Improvement",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010333-CFHH/",
+  "id": "SIN-00010333-CFHH",
+  "placePath": "wales/areas/denbighshire/",
   "since": "2026-09-20"
  },
  {
@@ -57,6 +65,8 @@
   "place": "Carmarthenshire",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015469-LKQN/",
+  "id": "SIN-00015469-LKQN",
+  "placePath": "wales/areas/carmarthenshire/",
   "since": "2026-09-20"
  },
  {
@@ -69,6 +79,8 @@
   "place": "Caerphilly",
   "text": "Rated for the first time; lowest theme: Requires Significant Improvement",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009388-FXLJ/",
+  "id": "SIN-00009388-FXLJ",
+  "placePath": "wales/areas/caerphilly/",
   "since": "2026-09-20"
  },
  {
@@ -81,7 +93,9 @@
   "place": "Capital and Coast District Health Board",
   "text": "No longer on the register",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
-  "since": "2026-09-18"
+  "id": "summerset-waikanae-waikanae",
+  "placePath": "new-zealand/areas/capital-and-coast-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -93,19 +107,9 @@
   "place": "Waikato District Health Board",
   "text": "No longer on the register",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
-  "since": "2026-09-18"
- },
- {
-  "date": "2026-09-21",
-  "country": "New Zealand",
-  "countryPath": "new-zealand/",
-  "kind": "other",
-  "type": "services_changed",
-  "name": "Radius Hawthorne",
-  "place": "Canterbury District Health Board",
-  "text": "Services changed: Medical, Rest home care, Physical, Psychogeriatric, Geriatric to Psychogeriatric, Geriatric, Medical, Rest home care, Physical",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/radius-hawthorne-christchurch/",
-  "since": "2026-09-18"
+  "id": "radius-windsor-court-rest-home-ohaupo",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -117,7 +121,9 @@
   "place": "Canterbury District Health Board",
   "text": "Certification period published for the first time: 48-month certification",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/",
-  "since": "2026-09-18"
+  "id": "parkstone-care-home-christchurch",
+  "placePath": "new-zealand/areas/canterbury-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -129,31 +135,9 @@
   "place": "Canterbury District Health Board",
   "text": "Certificate end date changed: 7 October 2026 to 7 October 2030",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/",
-  "since": "2026-09-18"
- },
- {
-  "date": "2026-09-21",
-  "country": "New Zealand",
-  "countryPath": "new-zealand/",
-  "kind": "other",
-  "type": "services_changed",
-  "name": "Parkstone Care Home",
-  "place": "Canterbury District Health Board",
-  "text": "Services changed: Geriatric, Medical, Dementia care, Physical, Rest home care to Physical, Dementia care, Rest home care, Geriatric, Medical",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/",
-  "since": "2026-09-18"
- },
- {
-  "date": "2026-09-21",
-  "country": "New Zealand",
-  "countryPath": "new-zealand/",
-  "kind": "other",
-  "type": "services_changed",
-  "name": "Kingswood Rest Home",
-  "place": "Waikato District Health Board",
-  "text": "Services changed: Dementia care, Rest home care, Psychogeriatric, Geriatric, Medical to Rest home care, Psychogeriatric, Geriatric, Medical, Dementia care",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/kingswood-rest-home-morrinsville/",
-  "since": "2026-09-18"
+  "id": "parkstone-care-home-christchurch",
+  "placePath": "new-zealand/areas/canterbury-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -165,7 +149,9 @@
   "place": "Northland District Health Board",
   "text": "Certification period published for the first time: 48-month certification",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/cairnfield-house-whangarei/",
-  "since": "2026-09-18"
+  "id": "cairnfield-house-whangarei",
+  "placePath": "new-zealand/areas/northland-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -177,7 +163,9 @@
   "place": "Northland District Health Board",
   "text": "Certificate end date changed: 4 October 2026 to 4 October 2030",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/cairnfield-house-whangarei/",
-  "since": "2026-09-18"
+  "id": "cairnfield-house-whangarei",
+  "placePath": "new-zealand/areas/northland-district-health-board/",
+  "since": "2026-09-20"
  },
  {
   "date": "2026-09-21",
@@ -189,6 +177,8 @@
   "place": "Tai Po",
   "text": "Accreditation changed: no to yes",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0855/",
+  "id": "L0855",
+  "placePath": "hong-kong/areas/tai-po/",
   "since": "2026-09-20"
  },
  {
@@ -201,6 +191,8 @@
   "place": "North",
   "text": "Accreditation changed: no to yes",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L1465/",
+  "id": "L1465",
+  "placePath": "hong-kong/areas/north/",
   "since": "2026-09-20"
  },
  {
@@ -212,7 +204,9 @@
   "name": "Ivy Care Services Ltd",
   "place": "Wakefield",
   "text": "Registered with CQC again",
-  "url": "https://roshan1208.github.io/carebeacon/homes/ivy-care-services-ltd-1-19287567344/"
+  "url": "https://roshan1208.github.io/carebeacon/homes/ivy-care-services-ltd-1-19287567344/",
+  "id": "1-19287567344",
+  "placePath": "areas/wakefield/"
  },
  {
   "date": "2026-09-21",
@@ -224,6 +218,8 @@
   "place": "West Flanders",
   "text": "Average daily price changed: €65.79 per day to €65.80 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3540/",
+  "id": "3540",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-20"
  },
  {
@@ -235,7 +231,9 @@
   "name": "Vine Living",
   "place": "Oxfordshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-12414489356",
+  "placePath": "areas/oxfordshire/"
  },
  {
   "date": "2026-09-20",
@@ -246,7 +244,9 @@
   "name": "Upperton Gardens",
   "place": "East Sussex",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-108982665",
+  "placePath": "areas/east-sussex/"
  },
  {
   "date": "2026-09-20",
@@ -257,7 +257,9 @@
   "name": "Trewidden Care Home",
   "place": "Cornwall",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-124342544",
+  "placePath": "areas/cornwall/"
  },
  {
   "date": "2026-09-20",
@@ -268,7 +270,9 @@
   "name": "Quinton House",
   "place": "Nottinghamshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122611036",
+  "placePath": "areas/nottinghamshire/"
  },
  {
   "date": "2026-09-20",
@@ -279,7 +283,9 @@
   "name": "OSJCT The Poplars",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122145213",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -290,7 +296,9 @@
   "name": "OSJCT Southfield House",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122145242",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -301,7 +309,9 @@
   "name": "OSJCT Skirbeck Court",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122145228",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -312,7 +322,9 @@
   "name": "OSJCT Patchett Lodge",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122144800",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -323,7 +335,9 @@
   "name": "OSJCT Foxby Court",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122145155",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -334,7 +348,9 @@
   "name": "OSJCT Eresby Hall",
   "place": "Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-122145113",
+  "placePath": "areas/lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -345,7 +361,9 @@
   "name": "Mayfield House",
   "place": "Cheshire East",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-124941515",
+  "placePath": "areas/cheshire-east/"
  },
  {
   "date": "2026-09-20",
@@ -356,7 +374,9 @@
   "name": "Kensington Residential Care",
   "place": "North East Lincolnshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-18276226130",
+  "placePath": "areas/north-east-lincolnshire/"
  },
  {
   "date": "2026-09-20",
@@ -367,7 +387,9 @@
   "name": "Clitheroe Care Home",
   "place": "Lancashire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-6477957902",
+  "placePath": "areas/lancashire/"
  },
  {
   "date": "2026-09-20",
@@ -379,6 +401,8 @@
   "place": "West Flanders",
   "text": "Recognised places changed: 87 to 3",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3579/",
+  "id": "3579",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-19"
  },
  {
@@ -391,6 +415,8 @@
   "place": "Yau Tsim Mong",
   "text": "Accreditation changed: yes to no",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0977/",
+  "id": "L0977",
+  "placePath": "hong-kong/areas/yau-tsim-mong/",
   "since": "2026-09-18"
  },
  {
@@ -402,7 +428,9 @@
   "name": "St Annes' Community Services - Thornhill Road",
   "place": "Calderdale",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-121773828",
+  "placePath": "areas/calderdale/"
  },
  {
   "date": "2026-09-19",
@@ -413,7 +441,9 @@
   "name": "Manor Court",
   "place": "Plymouth",
   "text": "Rated for the first time: Good",
-  "url": "https://roshan1208.github.io/carebeacon/homes/manor-court-1-28724696377/"
+  "url": "https://roshan1208.github.io/carebeacon/homes/manor-court-1-28724696377/",
+  "id": "1-28724696377",
+  "placePath": "areas/plymouth/"
  },
  {
   "date": "2026-09-19",
@@ -424,7 +454,9 @@
   "name": "Alma Court Care Home",
   "place": "Staffordshire",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-217297586",
+  "placePath": "areas/staffordshire/"
  },
  {
   "date": "2026-09-19",
@@ -435,7 +467,9 @@
   "name": "18 Wolverton Gardens, Horley (Active Prospects)",
   "place": "Surrey",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-121963720",
+  "placePath": "areas/surrey/"
  },
  {
   "date": "2026-09-19",
@@ -447,6 +481,8 @@
   "place": "West Flanders",
   "text": "Recognised places changed: 115 to 113",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3862/",
+  "id": "3862",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-18"
  },
  {
@@ -459,6 +495,8 @@
   "place": "Flemish Brabant",
   "text": "Recognised places changed: 60 to 65",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3658/",
+  "id": "3658",
+  "placePath": "flanders/areas/flemish-brabant/",
   "since": "2026-09-18"
  },
  {
@@ -471,6 +509,8 @@
   "place": "West Flanders",
   "text": "Recognised places changed: 185 to 192",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3396/",
+  "id": "3396",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-18"
  },
  {
@@ -483,6 +523,8 @@
   "place": "Neath Port Talbot",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009868-VYFC/",
+  "id": "SIN-00009868-VYFC",
+  "placePath": "wales/areas/neath-port-talbot/",
   "since": "2026-09-17"
  },
  {
@@ -495,19 +537,9 @@
   "place": "Merthyr Tydfil",
   "text": "Rated for the first time; lowest theme: Excellent",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00014776-GKRG/",
+  "id": "SIN-00014776-GKRG",
+  "placePath": "wales/areas/merthyr-tydfil/",
   "since": "2026-09-17"
- },
- {
-  "date": "2026-09-18",
-  "country": "New Zealand",
-  "countryPath": "new-zealand/",
-  "kind": "other",
-  "type": "services_changed",
-  "name": "Kumeu Village",
-  "place": "Waitemata District Health Board",
-  "text": "Services changed: Dementia care, Rest home care, Geriatric, Medical to Rest home care, Geriatric, Medical, Dementia care",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/kumeu-village-kumeu/",
-  "since": "2026-09-16"
  },
  {
   "date": "2026-09-18",
@@ -519,6 +551,8 @@
   "place": "Monaghan",
   "text": "Person in charge changed: none recorded to Christeena Thomas",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/5312/",
+  "id": "5312",
+  "placePath": "ireland/counties/monaghan/",
   "since": "2026-09-17"
  },
  {
@@ -531,6 +565,8 @@
   "place": "Sha Tin",
   "text": "Name changed: JOCKEY CLUB CENTRE FOR POSITIVE AGEING to JOCKEY CLUB CENTRE FOR POSITIVE AGEING[RCHE]/JOCKEY CLUB CENTRE FOR POSITIVE AGEING [CCSV RSP]",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0909/",
+  "id": "L0909",
+  "placePath": "hong-kong/areas/sha-tin/",
   "since": "2026-09-17"
  },
  {
@@ -543,6 +579,8 @@
   "place": "Rhône",
   "text": "Name changed: EHPAD SAINTE-ANNE / BRIGNAIS to EHPAD SAINTE-ANNE - BRIGNAIS",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/690785605/",
+  "id": "690785605",
+  "placePath": "france/areas/rh-ne/",
   "since": "2026-09-17"
  },
  {
@@ -555,6 +593,8 @@
   "place": "Rhône",
   "text": "Name changed: EHPAD SAINT-ANNE / LYON 9EME to EHPAD SAINT-ANNE - LYON 9EME",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/690790340/",
+  "id": "690790340",
+  "placePath": "france/areas/rh-ne/",
   "since": "2026-09-17"
  },
  {
@@ -567,6 +607,8 @@
   "place": "Drôme",
   "text": "Newly registered",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/260024492/",
+  "id": "260024492",
+  "placePath": "france/areas/dr-me/",
   "since": "2026-09-17"
  },
  {
@@ -579,6 +621,8 @@
   "place": "Haute-Savoie",
   "text": "Name changed: EHPAD DU HAUT CHABLAIS / VACHERESSE to EHPAD DU HAUT CHABLAIS VACHERESSE",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/740009311/",
+  "id": "740009311",
+  "placePath": "france/areas/haute-savoie/",
   "since": "2026-09-17"
  },
  {
@@ -591,6 +635,8 @@
   "place": "Haute-Savoie",
   "text": "Name changed: EHPAD DU HAUT CHABLAIS/ST JEAN D'AULPS to EHPAD DU HAUT CHABLAIS - ST JEAN D'AULPS",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/740009121/",
+  "id": "740009121",
+  "placePath": "france/areas/haute-savoie/",
   "since": "2026-09-17"
  },
  {
@@ -602,7 +648,9 @@
   "name": "The Coppice Surgery Partnership",
   "place": "West Sussex",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-544421663",
+  "placePath": "areas/west-sussex/"
  },
  {
   "date": "2026-09-18",
@@ -613,7 +661,9 @@
   "name": "The Coppice Surgery",
   "place": "West Sussex",
   "text": "Rated for the first time: Good",
-  "url": "https://roshan1208.github.io/carebeacon/homes/the-coppice-surgery-1-27153531747/"
+  "url": "https://roshan1208.github.io/carebeacon/homes/the-coppice-surgery-1-27153531747/",
+  "id": "1-27153531747",
+  "placePath": "areas/west-sussex/"
  },
  {
   "date": "2026-09-18",
@@ -624,7 +674,9 @@
   "name": "Manor Court",
   "place": "Plymouth",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-126240814",
+  "placePath": "areas/plymouth/"
  },
  {
   "date": "2026-09-18",
@@ -635,7 +687,9 @@
   "name": "Homeleigh",
   "place": "Manchester",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-2670543973",
+  "placePath": "areas/manchester/"
  },
  {
   "date": "2026-09-18",
@@ -646,7 +700,9 @@
   "name": "Benfield Hall Nursing Home",
   "place": "County Durham",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-5902193838",
+  "placePath": "areas/county-durham/"
  },
  {
   "date": "2026-09-18",
@@ -657,7 +713,9 @@
   "name": "44 Albion Road",
   "place": "Sutton",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-9654806673",
+  "placePath": "areas/sutton/"
  },
  {
   "date": "2026-09-18",
@@ -669,6 +727,8 @@
   "place": "West Flanders",
   "text": "Average daily price changed: €65.80 per day to €65.79 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3540/",
+  "id": "3540",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-17"
  },
  {
@@ -681,6 +741,8 @@
   "place": "East Flanders",
   "text": "Average daily price changed: €77.67 per day to €77.68 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3291/",
+  "id": "3291",
+  "placePath": "flanders/areas/east-flanders/",
   "since": "2026-09-17"
  },
  {
@@ -693,6 +755,8 @@
   "place": "Wrexham",
   "text": "Responsible individual changed: none recorded to Justine Richardson",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015042-FPXM/",
+  "id": "SIN-00015042-FPXM",
+  "placePath": "wales/areas/wrexham/",
   "since": "2026-09-17"
  },
  {
@@ -705,6 +769,8 @@
   "place": "Newport",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015340-NJWD/",
+  "id": "SIN-00015340-NJWD",
+  "placePath": "wales/areas/newport/",
   "since": "2026-09-16"
  },
  {
@@ -717,6 +783,8 @@
   "place": "Caerphilly",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009174-LPHM/",
+  "id": "SIN-00009174-LPHM",
+  "placePath": "wales/areas/caerphilly/",
   "since": "2026-09-16"
  },
  {
@@ -729,6 +797,8 @@
   "place": "Sligo",
   "text": "Person in charge changed: none recorded to Anne Quinn",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/9276/",
+  "id": "9276",
+  "placePath": "ireland/counties/sligo/",
   "since": "2026-09-16"
  },
  {
@@ -741,6 +811,8 @@
   "place": "Dublin",
   "text": "Person in charge changed: none recorded to Celine Gicale",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/7785/",
+  "id": "7785",
+  "placePath": "ireland/counties/dublin/",
   "since": "2026-09-16"
  },
  {
@@ -753,6 +825,8 @@
   "place": "West Flanders",
   "text": "Recognised places changed: 3 to 87",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3579/",
+  "id": "3579",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-16"
  },
  {
@@ -765,6 +839,8 @@
   "place": "West Flanders",
   "text": "Average daily price changed: €65.79 per day to €65.80 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3540/",
+  "id": "3540",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-16"
  },
  {
@@ -777,6 +853,8 @@
   "place": "East Flanders",
   "text": "Average daily price changed: €77.68 per day to €77.67 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3291/",
+  "id": "3291",
+  "placePath": "flanders/areas/east-flanders/",
   "since": "2026-09-16"
  },
  {
@@ -789,6 +867,8 @@
   "place": "Antwerp",
   "text": "Newly registered",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/105945/",
+  "id": "105945",
+  "placePath": "flanders/areas/antwerp/",
   "since": "2026-09-16"
  },
  {
@@ -801,6 +881,8 @@
   "place": "Carmarthenshire",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008781-RJMP/",
+  "id": "SIN-00008781-RJMP",
+  "placePath": "wales/areas/carmarthenshire/",
   "since": "2026-09-16"
  },
  {
@@ -813,6 +895,8 @@
   "place": "Swansea",
   "text": "Responsible individual changed: none recorded to TIMOTHY  Williams",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010148-BSLK/",
+  "id": "SIN-00010148-BSLK",
+  "placePath": "wales/areas/swansea/",
   "since": "2026-09-16"
  },
  {
@@ -825,6 +909,8 @@
   "place": "Blaenau Gwent",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00012216-YNQD/",
+  "id": "SIN-00012216-YNQD",
+  "placePath": "wales/areas/blaenau-gwent/",
   "since": "2026-09-16"
  },
  {
@@ -837,6 +923,8 @@
   "place": "Conwy",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009218-FYGH/",
+  "id": "SIN-00009218-FYGH",
+  "placePath": "wales/areas/conwy/",
   "since": "2026-09-16"
  },
  {
@@ -849,6 +937,8 @@
   "place": "Sligo",
   "text": "Newly registered",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/9276/",
+  "id": "9276",
+  "placePath": "ireland/counties/sligo/",
   "since": "2026-09-15"
  },
  {
@@ -861,6 +951,8 @@
   "place": "Wexford",
   "text": "Person in charge changed: Sonia Samson  (Deputising) for Margaret Nowlan O'Neill (Absent) to Margaret Nowlan O'Neill",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/603/",
+  "id": "603",
+  "placePath": "ireland/counties/wexford/",
   "since": "2026-09-15"
  },
  {
@@ -873,6 +965,8 @@
   "place": "Galway",
   "text": "Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/361/",
+  "id": "361",
+  "placePath": "ireland/counties/galway/",
   "since": "2026-09-15"
  },
  {
@@ -885,6 +979,8 @@
   "place": "Galway",
   "text": "Registered places changed: 21 to 60",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/361/",
+  "id": "361",
+  "placePath": "ireland/counties/galway/",
   "since": "2026-09-15"
  },
  {
@@ -897,6 +993,8 @@
   "place": "Yau Tsim Mong",
   "text": "Name changed: SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE] / SENIOR CARE (TAI WAH) ELDERLY CARE HOME CUM ELDERLY DAY CARE CENTRE [CCSV RSP] to SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0946/",
+  "id": "L0946",
+  "placePath": "hong-kong/areas/yau-tsim-mong/",
   "since": "2026-09-16"
  },
  {
@@ -909,6 +1007,8 @@
   "place": "Tai Po",
   "text": "Name changed: OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0069/",
+  "id": "L0069",
+  "placePath": "hong-kong/areas/tai-po/",
   "since": "2026-09-16"
  },
  {
@@ -921,6 +1021,8 @@
   "place": "Tai Po",
   "text": "Name changed: OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1) [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1)",
   "url": "https://roshan1208.github.io/carebeacon/hong-kong/homes/L0070/",
+  "id": "L0070",
+  "placePath": "hong-kong/areas/tai-po/",
   "since": "2026-09-16"
  },
  {
@@ -933,6 +1035,8 @@
   "place": "Somme",
   "text": "Name changed: EHPAD PSP AMIENS to EHPAD MA MAISON",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/800009052/",
+  "id": "800009052",
+  "placePath": "france/areas/somme/",
   "since": "2026-09-15"
  },
  {
@@ -945,6 +1049,8 @@
   "place": "Charente-Maritime",
   "text": "Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/170022834/",
+  "id": "170022834",
+  "placePath": "france/areas/charente-maritime/",
   "since": "2026-09-15"
  },
  {
@@ -957,6 +1063,8 @@
   "place": "Charente-Maritime",
   "text": "Name changed: EHPAD DE SAINT-MARTIN to EHPAD DE SAINT-MARTIN de Rê",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/170783625/",
+  "id": "170783625",
+  "placePath": "france/areas/charente-maritime/",
   "since": "2026-09-15"
  },
  {
@@ -969,6 +1077,8 @@
   "place": "Charente-Maritime",
   "text": "Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/170783625/",
+  "id": "170783625",
+  "placePath": "france/areas/charente-maritime/",
   "since": "2026-09-15"
  },
  {
@@ -981,6 +1091,8 @@
   "place": "West Flanders",
   "text": "Average daily price changed: €65.80 per day to €65.79 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3540/",
+  "id": "3540",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-15"
  },
  {
@@ -993,6 +1105,8 @@
   "place": "Flemish Brabant",
   "text": "Recognised places changed: 30 to 73",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/17491/",
+  "id": "17491",
+  "placePath": "flanders/areas/flemish-brabant/",
   "since": "2026-09-15"
  },
  {
@@ -1005,6 +1119,8 @@
   "place": "Powys",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00011494-XGPD/",
+  "id": "SIN-00011494-XGPD",
+  "placePath": "wales/areas/powys/",
   "since": "2026-09-15"
  },
  {
@@ -1017,6 +1133,8 @@
   "place": "Swansea",
   "text": "Responsible individual changed: Desmond Davies to TIMOTHY  Williams",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/",
+  "id": "SIN-00009916-JNGL",
+  "placePath": "wales/areas/swansea/",
   "since": "2026-09-15"
  },
  {
@@ -1029,6 +1147,7 @@
   "place": null,
   "text": "Newly registered",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00016239-QBNX/",
+  "id": "SIN-00016239-QBNX",
   "since": "2026-09-15"
  },
  {
@@ -1041,6 +1160,8 @@
   "place": "Newport",
   "text": "Responsible individual changed: Cerion Thomas,Janet Eagles to Cerion Thomas",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009008-DHJS/",
+  "id": "SIN-00009008-DHJS",
+  "placePath": "wales/areas/newport/",
   "since": "2026-09-15"
  },
  {
@@ -1053,6 +1174,8 @@
   "place": "Swansea",
   "text": "Rated for the first time; lowest theme: Requires Improvement",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00014728-YGVY/",
+  "id": "SIN-00014728-YGVY",
+  "placePath": "wales/areas/swansea/",
   "since": "2026-09-15"
  },
  {
@@ -1065,6 +1188,8 @@
   "place": "Capital and Coast District Health Board",
   "text": "Services changed: Rest home care to Geriatric, Rest home care, Medical",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/cashmere-hospital-wellington/",
+  "id": "cashmere-hospital-wellington",
+  "placePath": "new-zealand/areas/capital-and-coast-district-health-board/",
   "since": "2026-09-14"
  },
  {
@@ -1077,6 +1202,8 @@
   "place": "Kerry",
   "text": "A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/287/",
+  "id": "287",
+  "placePath": "ireland/counties/kerry/",
   "since": "2026-09-14"
  },
  {
@@ -1089,6 +1216,8 @@
   "place": "Kerry",
   "text": "Registration renewed from 15 September 2026, expiring 14 September 2029",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/287/",
+  "id": "287",
+  "placePath": "ireland/counties/kerry/",
   "since": "2026-09-14"
  },
  {
@@ -1101,6 +1230,8 @@
   "place": "Offaly",
   "text": "A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/5665/",
+  "id": "5665",
+  "placePath": "ireland/counties/offaly/",
   "since": "2026-09-14"
  },
  {
@@ -1113,6 +1244,8 @@
   "place": "Offaly",
   "text": "Registration renewed from 15 September 2023, expiring 14 September 2026",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/5665/",
+  "id": "5665",
+  "placePath": "ireland/counties/offaly/",
   "since": "2026-09-14"
  },
  {
@@ -1125,6 +1258,8 @@
   "place": "Kildare",
   "text": "Person in charge changed: none recorded to Nisanth James",
   "url": "https://roshan1208.github.io/carebeacon/ireland/homes/27/",
+  "id": "27",
+  "placePath": "ireland/counties/kildare/",
   "since": "2026-09-14"
  },
  {
@@ -1137,6 +1272,8 @@
   "place": "Somme",
   "text": "Name changed: EHPAD PSP AMIENS to EHPAD MA MAISON",
   "url": "https://roshan1208.github.io/carebeacon/france/homes/800009052/",
+  "id": "800009052",
+  "placePath": "france/areas/somme/",
   "since": "2026-09-14"
  },
  {
@@ -1148,7 +1285,9 @@
   "name": "Northwick House",
   "place": "Harrow",
   "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/"
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-3214503986",
+  "placePath": "areas/harrow/"
  },
  {
   "date": "2026-09-15",
@@ -1160,6 +1299,8 @@
   "place": "West Flanders",
   "text": "Recognised places changed: 87 to 3",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3579/",
+  "id": "3579",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-14"
  },
  {
@@ -1172,6 +1313,8 @@
   "place": "West Flanders",
   "text": "Average daily price changed: €65.79 per day to €65.80 per day",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3540/",
+  "id": "3540",
+  "placePath": "flanders/areas/west-flanders/",
   "since": "2026-09-14"
  },
  {
@@ -1184,6 +1327,8 @@
   "place": "Antwerp",
   "text": "Legal form changed: Public limited company (nv) to Non-profit association (vzw)",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/25774/",
+  "id": "25774",
+  "placePath": "flanders/areas/antwerp/",
   "since": "2026-09-14"
  },
  {
@@ -1196,6 +1341,8 @@
   "place": "Antwerp",
   "text": "Governing body changed: Anima to Anima Cura",
   "url": "https://roshan1208.github.io/carebeacon/flanders/homes/25774/",
+  "id": "25774",
+  "placePath": "flanders/areas/antwerp/",
   "since": "2026-09-14"
  },
  {
@@ -1208,6 +1355,8 @@
   "place": "Swansea",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00012820-WWYC/",
+  "id": "SIN-00012820-WWYC",
+  "placePath": "wales/areas/swansea/",
   "since": "2026-09-14"
  },
  {
@@ -1220,6 +1369,8 @@
   "place": "Conwy",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009776-QSXJ/",
+  "id": "SIN-00009776-QSXJ",
+  "placePath": "wales/areas/conwy/",
   "since": "2026-09-14"
  },
  {
@@ -1232,6 +1383,8 @@
   "place": "Ceredigion",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008566-FFDG/",
+  "id": "SIN-00008566-FFDG",
+  "placePath": "wales/areas/ceredigion/",
   "since": "2026-09-14"
  },
  {
@@ -1244,78 +1397,246 @@
   "place": "Flintshire",
   "text": "Rated for the first time; lowest theme: Good",
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009779-SKLD/",
+  "id": "SIN-00009779-SKLD",
+  "placePath": "wales/areas/flintshire/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "new",
-  "type": "new",
+  "kind": "other",
+  "type": "auditor_changed",
   "name": "The Point Mission Bay Care Centre",
   "place": "Auckland District Health Board",
-  "text": "Newly registered",
+  "text": "Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "new",
-  "type": "new",
+  "kind": "other",
+  "type": "beds_changed",
+  "name": "The Point Mission Bay Care Centre",
+  "place": "Auckland District Health Board",
+  "text": "Bed numbers changed: 27 to 42",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "up",
+  "type": "first_rated",
+  "name": "The Point Mission Bay Care Centre",
+  "place": "Auckland District Health Board",
+  "text": "Certification period published for the first time: 12-month certification",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "provider_changed",
+  "name": "The Point Mission Bay Care Centre",
+  "place": "Auckland District Health Board",
+  "text": "Legal entity changed: Eastcliffe Orakei Management Services LP to The Point Mission Bay Limited",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "recertified",
+  "name": "The Point Mission Bay Care Centre",
+  "place": "Auckland District Health Board",
+  "text": "Certificate end date changed: 21 September 2026 to 31 August 2027",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "renamed",
+  "name": "The Point Mission Bay Care Centre",
+  "place": "Auckland District Health Board",
+  "text": "Listed under a new name at the same address: Eastcliffe on Orakei is now The Point Mission Bay Care Centre",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/",
+  "id": "the-point-mission-bay-care-centre-auckland",
+  "placePath": "new-zealand/areas/auckland-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "auditor_changed",
   "name": "The Booms Lifecare",
   "place": "Waikato District Health Board",
-  "text": "Newly registered",
+  "text": "Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/",
+  "id": "the-booms-lifecare-thames",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "closed",
-  "type": "cancelled",
-  "name": "The Booms Home & Hospital",
+  "kind": "down",
+  "type": "decline",
+  "name": "The Booms Lifecare",
   "place": "Waikato District Health Board",
-  "text": "No longer on the register",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
+  "text": "Certification period declined: 36-month certification to 12-month certification",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/",
+  "id": "the-booms-lifecare-thames",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "closed",
-  "type": "cancelled",
-  "name": "Te Whanau Rest Home & Hospital",
-  "place": "MidCentral District Health Board",
-  "text": "No longer on the register",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
+  "kind": "other",
+  "type": "provider_changed",
+  "name": "The Booms Lifecare",
+  "place": "Waikato District Health Board",
+  "text": "Legal entity changed: Bupa Care Services NZ Limited to The Booms Lifecare Limited",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/",
+  "id": "the-booms-lifecare-thames",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "new",
-  "type": "new",
+  "kind": "other",
+  "type": "recertified",
+  "name": "The Booms Lifecare",
+  "place": "Waikato District Health Board",
+  "text": "Certificate end date changed: 12 November 2028 to 31 August 2027",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/",
+  "id": "the-booms-lifecare-thames",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "renamed",
+  "name": "The Booms Lifecare",
+  "place": "Waikato District Health Board",
+  "text": "Listed under a new name at the same address: The Booms Home & Hospital is now The Booms Lifecare",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/",
+  "id": "the-booms-lifecare-thames",
+  "placePath": "new-zealand/areas/waikato-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "auditor_changed",
   "name": "Te Whanau Lifecare",
   "place": "MidCentral District Health Board",
-  "text": "Newly registered",
+  "text": "Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited",
   "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
   "since": "2026-09-14"
  },
  {
   "date": "2026-09-14",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
-  "kind": "closed",
-  "type": "cancelled",
-  "name": "Eastcliffe on Orakei",
-  "place": "Auckland District Health Board",
-  "text": "No longer on the register",
-  "url": "https://roshan1208.github.io/carebeacon/new-zealand/changes/",
+  "kind": "other",
+  "type": "beds_changed",
+  "name": "Te Whanau Lifecare",
+  "place": "MidCentral District Health Board",
+  "text": "Bed numbers changed: 64 to 65",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "down",
+  "type": "decline",
+  "name": "Te Whanau Lifecare",
+  "place": "MidCentral District Health Board",
+  "text": "Certification period declined: 36-month certification to 12-month certification",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "provider_changed",
+  "name": "Te Whanau Lifecare",
+  "place": "MidCentral District Health Board",
+  "text": "Legal entity changed: Bupa Care Services NZ Limited to Te Whanau Lifecare Limited",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "recertified",
+  "name": "Te Whanau Lifecare",
+  "place": "MidCentral District Health Board",
+  "text": "Certificate end date changed: 5 September 2028 to 31 August 2027",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
+  "since": "2026-09-14"
+ },
+ {
+  "date": "2026-09-14",
+  "country": "New Zealand",
+  "countryPath": "new-zealand/",
+  "kind": "other",
+  "type": "renamed",
+  "name": "Te Whanau Lifecare",
+  "place": "MidCentral District Health Board",
+  "text": "Listed under a new name at the same address: Te Whanau Rest Home & Hospital is now Te Whanau Lifecare",
+  "url": "https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/",
+  "id": "te-whanau-lifecare-levin",
+  "placePath": "new-zealand/areas/midcentral-district-health-board/",
   "since": "2026-09-14"
  },
  {
@@ -1328,90 +1649,8 @@
   "place": "Aberdeenshire",
   "text": "Grade improved: Adequate (3) to Good (4)",
   "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2015338664/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "up",
-  "type": "improve",
-  "name": "Woodside Court Nursing Home",
-  "place": "Fife",
-  "text": "Grade improved: Adequate (3) to Good (4)",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300791/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "new",
-  "type": "new",
-  "name": "Woodend",
-  "place": "South Ayrshire",
-  "text": "Newly registered",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000399/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "up",
-  "type": "first_graded",
-  "name": "Willow Cottage",
-  "place": "Inverclyde",
-  "text": "Graded for the first time: Very good (5)",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000143/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "new",
-  "type": "new",
-  "name": "Waterside",
-  "place": "North Ayrshire",
-  "text": "Newly registered",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000396/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "up",
-  "type": "improve",
-  "name": "Wallside Grange Care Home",
-  "place": "Falkirk",
-  "text": "Grade improved: Adequate (3) to Good (4)",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371342/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "up",
-  "type": "improve",
-  "name": "Wallace Court",
-  "place": "Renfrewshire",
-  "text": "Grade improved: Weak (2) to Adequate (3)",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001270/",
-  "since": "2026-07-31"
- },
- {
-  "date": "2026-08-31",
-  "country": "Scotland",
-  "countryPath": "scotland/",
-  "kind": "up",
-  "type": "first_graded",
-  "name": "Thorburn Manor Care Home",
-  "place": "City of Edinburgh",
-  "text": "Graded for the first time: Very good (5)",
-  "url": "https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000506/",
+  "id": "CS2015338664",
+  "placePath": "scotland/councils/aberdeenshire/",
   "since": "2026-07-31"
  }
 ]

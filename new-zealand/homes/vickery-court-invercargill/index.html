@@ -35,7 +35,7 @@
   h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 1.25rem + 1.5vw, 2.3rem); line-height: 1.15; letter-spacing: -0.015em; overflow-wrap: anywhere; }
   .count, .address { color: var(--muted); font-size: 1.02rem; margin: 0 0 14px; }
   .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 22px; padding: 10px 14px 10px 16px; border-left: 3px solid var(--accent-bg);
-           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 10px 10px 0; }
+           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 8px 8px 0; }
   .scale strong { color: var(--ink); }
   .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); gap: 10px; margin: 0 0 22px; }
   .stat { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px 10px; background: var(--card-bg); box-shadow: var(--shadow); }
@@ -44,7 +44,7 @@
   .dist { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--border); grid-column: 1 / -1; margin: 2px 0 0; }
   .dist span { display: block; height: 100%; }
   .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 0 0 24px; }
-  .facts > div { border: 1px solid var(--border); border-radius: 10px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
+  .facts > div { border: 1px solid var(--border); border-radius: 8px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
   .facts .l { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 2px; }
   section { margin: 0 0 30px; }
   h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
@@ -89,7 +89,7 @@
   .subscribe > a, .alerts > a { display: inline-block; padding: 6px 13px; border: 1px solid var(--border-strong); border-radius: 999px; text-decoration: none; font-weight: 600; color: var(--ink); background: var(--card-bg); }
   .subscribe > a:hover, .alerts > a:hover { border-color: var(--accent); color: var(--accent); }
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
-  .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
+  .cta { display: inline-block; padding: 12px 20px; border-radius: 8px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
   .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
   .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
@@ -148,6 +148,9 @@
   
   <p class="scale">HealthCERT (New Zealand&#39;s Ministry of Health) certifies aged residential care providers for 12, 24, 36 or 48 months after each audit; a longer period reflects a better audit outcome, and 48 months is the maximum. The period shown is the Ministry&#39;s own published figure. Where the file records no period for the current certificate, nothing is shown. Audit summaries are published per provider on the Ministry&#39;s site.</p>
   <div class="facts"><div><span class="l">District health board area:</span> <a href="https://roshan1208.github.io/carebeacon/new-zealand/areas/southern-district-health-board/">Southern District Health Board</a></div><div><span class="l">Services:</span> Medical, Physical, Rest home care, Geriatric</div><div><span class="l">Legal entity:</span> <a href="https://roshan1208.github.io/carebeacon/new-zealand/operators/presbyterian-support-southland/">Presbyterian Support Southland</a></div><div><span class="l">Beds:</span> 88</div><div><span class="l">Certificate ends:</span> 15 October 2027</div><div><span class="l">Current auditor:</span> BSI Group New Zealand Ltd</div></div>
+  
+  
+  
   <section class="compare"><h2>How this compares in Southern District Health Board</h2><div class="dist" aria-hidden="true"><span style="width:18.5%;background:var(--info)" title="48-month certification: 12"></span><span style="width:33.8%;background:var(--good)" title="36-month certification: 22"></span><span style="width:7.7%;background:var(--bad)" title="12-month certification: 5"></span><span style="width:40.0%;background:var(--border)" title="Period not stated: 26"></span></div><p class="note">Of 65 aged residential care premises in Southern District Health Board: 12 48-month certification, 22 36-month certification, 5 12-month certification. 26 period not stated. This one: Period not stated.</p></section>
   
   <section><h2>Nearby aged residential care premises</h2><ul class="tags nearby"><li><a href="https://roshan1208.github.io/carebeacon/new-zealand/homes/waikiwi-gardens-invercargill/">Waikiwi Gardens</a> <span class="badge g1">12-month certification</span> <span class="miles">0.3 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/new-zealand/homes/clare-house-invercargill/">Clare House</a> <span class="badge g6">48-month certification</span> <span class="miles">0.4 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/new-zealand/homes/cargill-care-home-village-invercargill/">Cargill Care Home &amp; Village</a> <span class="badge g0">Period not stated</span> <span class="miles">0.5 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/new-zealand/homes/rowena-jackson-retirement-village-invercargill/">Rowena Jackson Retirement Village</a> <span class="badge g4">36-month certification</span> <span class="miles">0.6 km</span></li><li><a href="https://roshan1208.github.io/carebeacon/new-zealand/homes/bainfield-park-residential-home-invercargill/">Bainfield Park Residential Home</a> <span class="badge g0">Period not stated</span> <span class="miles">3.3 km</span></li></ul><p class="note">Straight-line distances, not by road.</p></section>

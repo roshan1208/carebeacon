@@ -4,20 +4,48 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/midcentral-district-health-board/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/midcentral-district-health-board/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/areas/midcentral-district-health-board/feed</id>
-  <updated>2026-09-21T12:48:38Z</updated>
+  <updated>2026-09-21T15:16:34Z</updated>
   <subtitle>Aged residential care premises in MidCentral District Health Board whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/new</id>
-    <title>Te Whanau Lifecare: Newly registered (by 14 September 2026).</title>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/renamed</id>
+    <title>Te Whanau Lifecare: Listed under a new name at the same address: Te Whanau Rest Home &amp; Hospital is now Te Whanau Lifecare (by 14 September 2026).</title>
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. Newly registered (by 14 September 2026).</summary>
+    <summary>MidCentral District Health Board. Listed under a new name at the same address: Te Whanau Rest Home &amp; Hospital is now Te Whanau Lifecare (by 14 September 2026).</summary>
   </entry>
   <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-rest-home-hospital-levin/2026-09-14/cancelled</id>
-    <title>Te Whanau Rest Home &amp; Hospital: No longer on the register (by 14 September 2026).</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-rest-home-hospital-levin/"/>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/recertified</id>
+    <title>Te Whanau Lifecare: Certificate end date changed: 5 September 2028 to 31 August 2027 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
     <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. No longer on the register (by 14 September 2026).</summary>
+    <summary>MidCentral District Health Board. Certificate end date changed: 5 September 2028 to 31 August 2027 (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/provider_changed</id>
+    <title>Te Whanau Lifecare: Legal entity changed: Bupa Care Services NZ Limited to Te Whanau Lifecare Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Legal entity changed: Bupa Care Services NZ Limited to Te Whanau Lifecare Limited (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/decline</id>
+    <title>Te Whanau Lifecare: Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Certification period declined: 36-month certification to 12-month certification (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/beds_changed</id>
+    <title>Te Whanau Lifecare: Bed numbers changed: 64 to 65 (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Bed numbers changed: 64 to 65 (by 14 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/auditor_changed</id>
+    <title>Te Whanau Lifecare: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <summary>MidCentral District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited (by 14 September 2026).</summary>
   </entry>
 </feed>

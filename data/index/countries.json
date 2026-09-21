@@ -30,7 +30,9 @@
  },
  {
   "name": "France",
-  "path": "france/"
+  "path": "france/",
+  "currency": "€",
+  "price_note": "accommodation, per day, as the home declared it (the dependency tariff is extra)"
  },
  {
   "name": "Japan",
@@ -46,6 +48,10 @@
  {
   "name": "Australia",
   "path": "australia/"
+ },
+ {
+  "name": "Switzerland",
+  "path": "switzerland/"
  },
  {
   "name": "Hong Kong",

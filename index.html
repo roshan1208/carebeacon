@@ -162,7 +162,7 @@
   .card .grade { color: var(--muted); }
   main.wrap > .scope-browse { order: 7; }
   /* Homes a visitor saved from any country's page (see theme.watch_button). */
-  section.watching { border: 1px solid var(--border); border-radius: 14px; background: var(--card-bg); padding: 14px 16px; margin: 0 0 22px; }
+  section.watching { border: 1px solid var(--border); border-radius: 12px; background: var(--card-bg); padding: 14px 16px; margin: 0 0 22px; }
   section.watching[hidden] { display: none; }
   .watching-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
   .watching-head h2 { margin: 0; font-size: 1.05rem; }
@@ -215,6 +215,28 @@
     flex: 0 1 200px; min-width: 0; max-width: 100%;
     text-overflow: ellipsis; overflow: hidden; white-space: nowrap;
   }
+  /* A <select> left at appearance:auto renders as whatever the operating
+     system feels like, next to controls that are styled — the loudest
+     "assembled from a template" tell on the page. The chevron is an
+     inline SVG, so there is still no asset to fetch, and it is declared
+     twice because a data URI cannot read a CSS variable.
+
+     The selectors are this specific on purpose. A plain `select` rule
+     applied appearance:none and nothing else: `.filterbar select` sets
+     `background` as a shorthand, which resets background-image, and a
+     class beats a bare element. The result was a box with no arrow at
+     all, which is worse than the native control it replaced. Measured,
+     not assumed — getComputedStyle said backgroundImage: none. */
+  .filterbar select, .changes-head #changes-country {
+    -webkit-appearance: none; appearance: none; padding-right: 30px;
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%234b564f' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 11px center; background-size: 10px 6px;
+  }
+  @media (prefers-color-scheme: dark) {
+    .filterbar select, .changes-head #changes-country {
+      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23a9b6b1' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    }
+  }
   /* The scoped rating filter is a wrapper (label + select) so that both
      hide together, which makes the wrapper the flex item and moves the
      min-width: auto problem above onto it. Same guard, same reason:
@@ -260,7 +282,7 @@
   .card .distance { font-size: 0.85rem; color: var(--accent); font-weight: 600; }
 
   section.changes {
-    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
+    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
     margin-bottom: 28px; background: var(--card-bg);
     box-shadow: 0 1px 2px rgba(20,35,31,.05), 0 8px 24px -16px rgba(20,35,31,.35);
   }
@@ -319,7 +341,7 @@
   #world-results[hidden] { display: none; }
   #world-results h2 { margin: 0 0 4px; font-size: 1.05rem; }
   #world-results .lede { margin: 0 0 12px; color: var(--muted); font-size: 0.92rem; }
-  ul.world-list { list-style: none; margin: 0; padding: 0; border: 1px solid var(--border); border-radius: 14px; background: var(--card-bg); overflow: hidden; }
+  ul.world-list { list-style: none; margin: 0; padding: 0; border: 1px solid var(--border); border-radius: 12px; background: var(--card-bg); overflow: hidden; }
   ul.world-list li { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 10px 14px; border-top: 1px solid var(--border); }
   ul.world-list li:first-child { border-top: none; }
   ul.world-list li:hover { background: color-mix(in srgb, var(--accent-bg) 6%, transparent); }
@@ -329,6 +351,10 @@
   .world-grade { margin-left: auto; align-self: center; }
   .world-more { color: var(--muted); font-size: 0.88rem; margin: 8px 0 0; }
   .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+  .prompt { border: 1px solid var(--border); border-radius: 12px; background: var(--card-bg); padding: 18px 20px; }
+  .prompt-lead { margin: 0 0 10px; font-size: 1.05rem; font-weight: 650; }
+  ul.prompt-ways { margin: 0; padding-left: 1.1rem; color: var(--muted); line-height: 1.9; }
+  .card-price { margin-top: 6px; font-weight: 700; font-variant-numeric: tabular-nums; }
   /* The save (shortlist) button has to be a sibling of .card, not a
      descendant — .card is itself a <button>, and a <button> nested
      inside another <button> is invalid HTML with unpredictable click
@@ -337,7 +363,7 @@
      absolutely positioned over the top-right corner of the card body. */
   .card-wrap { position: relative; }
   .card {
-    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
+    border: 1px solid var(--border); border-radius: 12px; padding: 16px;
     background: var(--card-bg); display: flex; flex-direction: column; gap: 8px;
     height: 100%; transition: transform .12s ease, border-color .12s ease;
     /* .card is a <button> now, not an <article> — every card is clickable
@@ -357,7 +383,7 @@
   .save-toggle[aria-pressed="true"] { color: var(--accent-bg); }
   .shortlist-bar {
     display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
-    border: 1px solid var(--border); border-radius: 10px; padding: 10px 14px;
+    border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px;
     margin-bottom: 14px; background: var(--card-bg); font-size: 0.9rem;
   }
   .shortlist-bar[hidden] { display: none; }
@@ -400,7 +426,7 @@
   }
   .detail-overlay[hidden] { display: none; }
   .detail-modal {
-    background: var(--card-bg); border-radius: 14px; max-width: 640px;
+    background: var(--card-bg); border-radius: 12px; max-width: 640px;
     width: 100%; padding: 24px; box-shadow: 0 12px 40px rgba(0,0,0,0.3);
     margin: auto 0;
   }
@@ -425,7 +451,7 @@
     gap: 8px;
   }
   .kq-item {
-    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px;
+    border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px;
   }
   .kq-item .kq-name { font-size: 0.8rem; color: var(--muted); margin-bottom: 4px; }
   .tag-list { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; margin: 0; padding: 0; }
@@ -515,7 +541,7 @@
   .map-popup h4 { margin: 0 0 4px; font-size: 0.95rem; }
   .map-popup button {
     font: inherit; margin-top: 6px; padding: 4px 10px; border: 1px solid var(--border);
-    border-radius: 6px; background: var(--paper); cursor: pointer; font-size: 0.85rem;
+    border-radius: 8px; background: var(--paper); cursor: pointer; font-size: 0.85rem;
   }
   .care-home-marker span {
     display: block; width: 14px; height: 14px; border-radius: 50%;
@@ -619,7 +645,7 @@
 
   <form class="filterbar" role="search" aria-label="Search care homes" onsubmit="return false;">
     <label class="visually-hidden" for="q">Search by name, town or local authority</label>
-    <input id="q" type="search" placeholder="Search by name, town or local authority" autocomplete="off">
+    <input id="q" type="search" placeholder="Name, town or local authority" autocomplete="off">
     <button type="button" id="scope-near" class="scoped-only" hidden>Use my location</button>
     <span id="scope-grade-wrap" class="scoped-only" hidden>
       <label class="visually-hidden" for="scope-grade">Filter by rating</label>
@@ -655,7 +681,7 @@
 
     <div class="nearme-row">
       <label class="visually-hidden" for="postcode">Find care homes near a postcode</label>
-      <input id="postcode" type="text" placeholder="Postcode, e.g. SW1A 1AA" autocomplete="off">
+      <input id="postcode" type="text" placeholder="e.g. SW1A 1AA" autocomplete="off">
       <button type="button" id="find-near-me">Sort by distance</button>
       <button type="button" id="clear-near-me" hidden>Clear</button>
       <span id="nearme-status" role="status" aria-live="polite"></span>
@@ -1579,12 +1605,21 @@
       resultsEl.innerHTML = '<p class="state">Nothing in ' + attr(state.scope) + ' matches that. Try a shorter word, a town, or any rating.</p>';
       return;
     }
+    // Where a government publishes prices (France today), the figure goes
+    // on the card: comparing twenty homes in one town should not mean
+    // opening twenty pages. The country entry says what it means.
+    var cur = country.currency || "";
     resultsEl.innerHTML = '<div class="cards">' + hits.slice(0, 60).map(function (h) {
       var dist = (state.scopeGeo && isFinite(h.km)) ? '<div class="distance">' + (h.km < 10 ? h.km.toFixed(1) : Math.round(h.km)) + ' km away (as the crow flies' + (h[8] === "a" ? ", approximate: placed at its town or district" : "") + ')</div>' : "";
+      var price = (h[9] != null && cur) ? '<div class="card-price">' + attr(cur + h[9].toFixed(2)) + ' a day</div>' : "";
       return '<div class="card-wrap"><a class="card" href="' + attr(country.path) + 'homes/' + attr(h[1]) + '/">' +
         '<h3>' + attr(h[2]) + '</h3>' + (h[3] ? '<div class="place">' + attr(h[3]) + '</div>' : "") +
-        (h[4] ? '<span class="badge ' + attr(h[5] || "g0") + '">' + attr(h[4]) + '</span>' : "") + dist + '</a></div>';
+        (h[4] ? '<span class="badge ' + attr(h[5] || "g0") + '">' + attr(h[4]) + '</span>' : "") + price + dist + '</a></div>';
     }).join("") + '</div>';
+    if (cur && hits.some(function (h) { return h[9] != null; })) {
+      resultsEl.insertAdjacentHTML("afterbegin",
+        '<p class="note">Prices shown are ' + attr(country.price_note || "as published") + '.</p>');
+    }
   }
 
   function renderResults() {
@@ -1664,6 +1699,26 @@
 
     if (!shown.length) {
       resultsEl.innerHTML = '<p class="state">Nothing matches that search. Try a different name, town or local authority.</p>';
+      return;
+    }
+
+    // Nothing asked for yet. Sixty cards in alphabetical order is not an
+    // answer to a question nobody put: it opened the site on "A B Medical
+    // Services (UK) Limited", which tells a visitor nothing and is an order
+    // nobody chose. There is no honest ranking to fall back on either —
+    // sorting 15,000 homes by rating would be us recommending, which this
+    // site does not do. So ask, and name the ways to narrow.
+    if (!q && !rating && !region && !managerGapOnly && !specialism && !state.nearMe) {
+      resultsEl.innerHTML =
+        '<div class="prompt">' +
+          '<p class="prompt-lead">' + state.locations.length.toLocaleString() +
+            ' care homes in England, from CQC&#39;s register. Which one are you looking for?</p>' +
+          '<ul class="prompt-ways">' +
+            '<li>Type a <strong>name, town or local authority</strong> in the box above.</li>' +
+            '<li>Put a <strong>postcode</strong> in and sort by distance.</li>' +
+            '<li>Or <a href="areas/">browse every area</a>, or pick another country above.</li>' +
+          '</ul>' +
+        '</div>';
       return;
     }
 
