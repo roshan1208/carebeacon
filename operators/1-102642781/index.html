@@ -36,7 +36,7 @@
   h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 1.25rem + 1.5vw, 2.3rem); line-height: 1.15; letter-spacing: -0.015em; overflow-wrap: anywhere; }
   .count, .address { color: var(--muted); font-size: 1.02rem; margin: 0 0 14px; }
   .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 22px; padding: 10px 14px 10px 16px; border-left: 3px solid var(--accent-bg);
-           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 10px 10px 0; }
+           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 8px 8px 0; }
   .scale strong { color: var(--ink); }
   .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); gap: 10px; margin: 0 0 22px; }
   .stat { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px 10px; background: var(--card-bg); box-shadow: var(--shadow); }
@@ -45,7 +45,7 @@
   .dist { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--border); grid-column: 1 / -1; margin: 2px 0 0; }
   .dist span { display: block; height: 100%; }
   .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 0 0 24px; }
-  .facts > div { border: 1px solid var(--border); border-radius: 10px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
+  .facts > div { border: 1px solid var(--border); border-radius: 8px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
   .facts .l { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 2px; }
   section { margin: 0 0 30px; }
   h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
@@ -90,7 +90,7 @@
   .subscribe > a, .alerts > a { display: inline-block; padding: 6px 13px; border: 1px solid var(--border-strong); border-radius: 999px; text-decoration: none; font-weight: 600; color: var(--ink); background: var(--card-bg); }
   .subscribe > a:hover, .alerts > a:hover { border-color: var(--accent); color: var(--accent); }
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
-  .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
+  .cta { display: inline-block; padding: 12px 20px; border-radius: 8px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
   .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
   .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
@@ -146,13 +146,13 @@
   <h1>Real Life Options</h1>
   <p class="count">7 registered care homes, last checked 2026-09-21.</p>
   <div class="facts"><div><span class="l">Also known as:</span> BRAND Real Life Options</div><div><span class="l">Ownership:</span> Organisation</div><div><span class="l">Registered with CQC since:</span> 2010-10-01</div><div><span class="l">Companies House number:</span> 02699638</div><div><span class="l">Registered care homes:</span> 7</div></div>
-  <div class="stats"><div class="stat"><div class="n">6</div><div class="l">Good</div></div><div class="stat"><div class="n">1</div><div class="l">No published rating</div></div><div class="stat warn"><div class="n">2</div><div class="l">Without a registered manager</div></div></div>
+  <div class="stats"><div class="stat"><div class="n">5</div><div class="l">Good</div></div><div class="stat"><div class="n">2</div><div class="l">No published rating</div></div><div class="stat warn"><div class="n">2</div><div class="l">Without a registered manager</div></div></div>
   <p class="links"><a href="https://www.cqc.org.uk/provider/1-102642781" rel="noopener">This operator on CQC&#39;s website</a> &middot; <a href="https://www.reallifeoptions.org" rel="noopener">Operator&#39;s own website</a></p>
   <p class="subscribe"><a href="feed.xml">Subscribe to changes at Real Life Options&#39;s homes</a> <span class="how">(Atom feed — works with any feed reader)</span></p>
   
   <section>
     <h2>Every registered care home run by Real Life Options</h2>
-    <ul class="homes"><li><a href="../../homes/real-life-options-18-bisley-drive-1-126668430/"><strong>Real Life Options - 18 Bisley Drive</strong></a> <a class="place" href="../../areas/south-tyneside/">South Tyneside</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-2-frederick-street-1-126668346/"><strong>Real Life Options - 2 Frederick Street</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-90-capel-gardens-1-126668388/"><strong>Real Life Options - 90 Capel Gardens</strong></a> <a class="place" href="../../areas/harrow/">Harrow</a> <span class="since">no registered manager since 2026-05-01</span> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/real-life-options-96-bishopton-road-1-126668409/"><strong>Real Life Options - 96 Bishopton Road</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-96-harrowdene-road-1-126668028/"><strong>Real Life Options - 96 Harrowdene Road</strong></a> <a class="place" href="../../areas/brent/">Brent</a> <span class="since">no registered manager since 2024-12-02</span> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-darlington-road-1-314708833/"><strong>Real Life Options - Darlington Road</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-springfield-road-1-378764733/"><strong>Real Life Options - Springfield Road</strong></a> <a class="place" href="../../areas/birmingham/">Birmingham</a> <span class="badge r-good">Good</span></li></ul>
+    <ul class="homes"><li><a href="../../homes/real-life-options-18-bisley-drive-1-126668430/"><strong>Real Life Options - 18 Bisley Drive</strong></a> <a class="place" href="../../areas/south-tyneside/">South Tyneside</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-2-frederick-street-1-126668346/"><strong>Real Life Options - 2 Frederick Street</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-90-capel-gardens-1-126668388/"><strong>Real Life Options - 90 Capel Gardens</strong></a> <a class="place" href="../../areas/harrow/">Harrow</a> <span class="since">no registered manager since 2026-05-01</span> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/real-life-options-96-bishopton-road-1-126668409/"><strong>Real Life Options - 96 Bishopton Road</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../../homes/real-life-options-96-harrowdene-road-1-126668028/"><strong>Real Life Options - 96 Harrowdene Road</strong></a> <a class="place" href="../../areas/brent/">Brent</a> <span class="since">no registered manager since 2024-12-02</span> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-darlington-road-1-314708833/"><strong>Real Life Options - Darlington Road</strong></a> <a class="place" href="../../areas/stockton-on-tees/">Stockton-on-Tees</a> <span class="badge r-good">Good</span></li><li><a href="../../homes/real-life-options-springfield-road-1-378764733/"><strong>Real Life Options - Springfield Road</strong></a> <a class="place" href="../../areas/birmingham/">Birmingham</a> <span class="badge r-good">Good</span></li></ul>
   </section>
   </main>
   <footer>

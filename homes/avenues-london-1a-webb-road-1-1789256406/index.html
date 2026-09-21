@@ -35,7 +35,7 @@
   h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 1.25rem + 1.5vw, 2.3rem); line-height: 1.15; letter-spacing: -0.015em; overflow-wrap: anywhere; }
   .count, .address { color: var(--muted); font-size: 1.02rem; margin: 0 0 14px; }
   .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 22px; padding: 10px 14px 10px 16px; border-left: 3px solid var(--accent-bg);
-           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 10px 10px 0; }
+           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 8px 8px 0; }
   .scale strong { color: var(--ink); }
   .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); gap: 10px; margin: 0 0 22px; }
   .stat { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px 10px; background: var(--card-bg); box-shadow: var(--shadow); }
@@ -44,7 +44,7 @@
   .dist { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--border); grid-column: 1 / -1; margin: 2px 0 0; }
   .dist span { display: block; height: 100%; }
   .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 0 0 24px; }
-  .facts > div { border: 1px solid var(--border); border-radius: 10px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
+  .facts > div { border: 1px solid var(--border); border-radius: 8px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
   .facts .l { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 2px; }
   section { margin: 0 0 30px; }
   h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
@@ -89,7 +89,7 @@
   .subscribe > a, .alerts > a { display: inline-block; padding: 6px 13px; border: 1px solid var(--border-strong); border-radius: 999px; text-decoration: none; font-weight: 600; color: var(--ink); background: var(--card-bg); }
   .subscribe > a:hover, .alerts > a:hover { border-color: var(--accent); color: var(--accent); }
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
-  .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
+  .cta { display: inline-block; padding: 12px 20px; border-radius: 8px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
   .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
   .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
@@ -151,7 +151,7 @@
   <div class="facts"><div><span class="l">Run by:</span> <a href="https://roshan1208.github.io/carebeacon/operators/1-119235881/">Avenues London</a></div><div><span class="l">Beds:</span> 6</div><div><span class="l">Registered with CQC since:</span> 2 December 2014</div><div><span class="l">Rating published:</span> 12 April 2023 (over 3 years ago)</div><div><span class="l">Last inspected:</span> 17 January 2023 (over 3 years ago)</div></div>
   <section><h2>CQC's rating, question by question</h2><div class="kq-grid"><div class="kq"><div class="n">Safe</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Well-led</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Caring</div><span class="badge r-good">Good</span></div><div class="kq"><div class="n">Responsive</div><span class="badge r-requires-improvement">Requires improvement</span></div><div class="kq"><div class="n">Effective</div><span class="badge r-good">Good</span></div></div></section>
   <section><h2>Rating history (CQC)</h2><ul class="timeline"><li><span class="d">12 April 2023</span> <span class="badge r-requires-improvement">Requires improvement</span></li><li><span class="d">28 August 2019</span> <span class="badge r-good">Good</span></li><li><span class="d">18 January 2017</span> <span class="badge r-good">Good</span></li><li><span class="d">16 April 2016</span> <span class="badge r-requires-improvement">Requires improvement</span></li></ul><p class="note">Every overall rating CQC has published for this location, newest first, from CQC&#39;s own record.</p></section>
-  <section class="compare"><h2>How this compares in Greenwich</h2><div class="dist" aria-hidden="true"><span style="width:60.0%;background:var(--good)" title="Good: 30"></span><span style="width:14.0%;background:var(--warn)" title="Requires improvement: 7"></span><span style="width:26.0%;background:var(--border)" title="No published rating: 13"></span></div><p class="note">Of 50 care homes in Greenwich: 30 Good, 7 Requires improvement. 13 with no published rating. This home: Requires improvement.</p></section>
+  <section class="compare"><h2>How this compares in Greenwich</h2><div class="dist" aria-hidden="true"><span style="width:58.8%;background:var(--good)" title="Good: 30"></span><span style="width:13.7%;background:var(--warn)" title="Requires improvement: 7"></span><span style="width:27.5%;background:var(--border)" title="No published rating: 14"></span></div><p class="note">Of 51 care homes in Greenwich: 30 Good, 7 Requires improvement. 14 with no published rating. This home: Requires improvement.</p></section>
   <section><h2>Specialisms</h2><ul class="tags"><li>Caring for adults over 65 yrs</li><li>Caring for adults under 65 yrs</li><li>Learning disabilities</li><li>Physical disabilities</li></ul></section>
   <section><h2>Service types</h2><ul class="tags"><li>Residential homes</li></ul></section>
   <section><h2>Registered to provide</h2><ul class="tags"><li>Accommodation for persons who require nursing or personal care</li></ul></section>

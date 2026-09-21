@@ -35,7 +35,7 @@
   h1 { margin: 0 0 8px; font-size: clamp(1.7rem, 1.25rem + 1.5vw, 2.3rem); line-height: 1.15; letter-spacing: -0.015em; overflow-wrap: anywhere; }
   .count, .address { color: var(--muted); font-size: 1.02rem; margin: 0 0 14px; }
   .scale { font-size: 0.9rem; color: var(--muted); margin: 0 0 22px; padding: 10px 14px 10px 16px; border-left: 3px solid var(--accent-bg);
-           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 10px 10px 0; }
+           background: color-mix(in srgb, var(--accent-bg) 8%, transparent); border-radius: 0 8px 8px 0; }
   .scale strong { color: var(--ink); }
   .stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); gap: 10px; margin: 0 0 22px; }
   .stat { border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px 10px; background: var(--card-bg); box-shadow: var(--shadow); }
@@ -44,7 +44,7 @@
   .dist { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--border); grid-column: 1 / -1; margin: 2px 0 0; }
   .dist span { display: block; height: 100%; }
   .facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin: 0 0 24px; }
-  .facts > div { border: 1px solid var(--border); border-radius: 10px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
+  .facts > div { border: 1px solid var(--border); border-radius: 8px; padding: 9px 12px; background: var(--card-bg); font-size: 0.95rem; overflow-wrap: anywhere; }
   .facts .l { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 2px; }
   section { margin: 0 0 30px; }
   h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
@@ -89,7 +89,7 @@
   .subscribe > a, .alerts > a { display: inline-block; padding: 6px 13px; border: 1px solid var(--border-strong); border-radius: 999px; text-decoration: none; font-weight: 600; color: var(--ink); background: var(--card-bg); }
   .subscribe > a:hover, .alerts > a:hover { border-color: var(--accent); color: var(--accent); }
   .subscribe .how, .alerts .how, .note { color: var(--muted); font-size: 0.85rem; }
-  .cta { display: inline-block; padding: 12px 20px; border-radius: 10px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
+  .cta { display: inline-block; padding: 12px 20px; border-radius: 8px; background: var(--accent-bg); color: var(--accent-fill-text); font-weight: 700; text-decoration: none; box-shadow: var(--shadow); }
   .cta:hover { filter: brightness(1.04); }
   .watch { margin: 0 0 22px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
   .watch-btn { font: inherit; font-weight: 650; padding: 9px 16px; border-radius: 999px; cursor: pointer;
@@ -158,7 +158,7 @@
   
   <section><h2>Inspection reports (CQC)</h2><ul class="changes reports"><li><span class="d">15 April 2021</span> <a href="https://www.cqc.org.uk/reports/5feaa0b4-69d5-4e15-a745-edc3ee74d147?20210419120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">28 February 2018</span> <a href="https://www.cqc.org.uk/reports/cabbd19b-929b-47d8-8a43-cc4ba2e42d12?20180228130000" rel="noopener">Inspection report for this home</a></li><li><span class="d">9 February 2017</span> <a href="https://www.cqc.org.uk/reports/0f521056-1893-44d3-af43-8bc5cfb1495e?20200129163919" rel="noopener">Inspection report for this home</a></li><li><span class="d">13 July 2016</span> <a href="https://www.cqc.org.uk/reports/11bc50de-64b4-479d-95f6-ed68b3ea3a4f?20211030120000" rel="noopener">Inspection report for this home</a></li><li><span class="d">8 August 2013</span> <a href="https://www.cqc.org.uk/reports/31fffa65-9d91-4b84-a42a-e7ee8f74b18e?20200129163919" rel="noopener">Report</a></li><li><span class="d">27 September 2012</span> <a href="https://www.cqc.org.uk/reports/f5fb7142-c9dc-4416-9b8c-b136d34af26b?20200430120000" rel="noopener">Report</a></li><li><span class="d">23 August 2011</span> <a href="https://www.cqc.org.uk/reports/fcf70dca-d9c1-468a-802d-b3db48cfd282?20200430120000" rel="noopener">Report</a></li></ul></section>
   <section><h2>Nearby care homes</h2><ul class="tags nearby"><li><a href="../doctors-of-the-world-uk-1-8851793235/">Doctors of the World UK</a> <span class="badge r-good">Good</span> <span class="miles">1.1 mi</span></li><li><a href="../leyton-house-1-118115794/">Leyton House</a> <span class="badge r-good">Good</span> <span class="miles">1.2 mi</span></li><li><a href="../inhealth-community-diagnostic-centre-stratford-1-682264740/">InHealth Community Diagnostic Centre - Stratford</a> <span class="badge r-good">Good</span> <span class="miles">1.2 mi</span></li><li><a href="../hotel-in-the-park-1-19889535138/">Hotel In The Park</a> <span class="badge r-good">Good</span> <span class="miles">1.2 mi</span></li><li><a href="../coxley-house-1-21548151146/">Coxley House</a> <span class="badge r-good">Good</span> <span class="miles">1.2 mi</span></li></ul><p class="note">Distances are straight-line, not by road.</p></section>
-  <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../clarence-road-1-137389724/">Clarence Road</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../common-road-1-1826599802/">Common Road</a> <span class="badge r-good">Good</span></li><li><a href="../stratford-road-1-4065663967/">Stratford Road</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
+  <section><h2>Other homes run by the same operator</h2><ul class="tags"><li><a href="../clarence-road-1-137389724/">Clarence Road</a> <span class="badge r-requires-improvement">Requires improvement</span></li><li><a href="../common-road-1-1826599802/">Common Road</a> <span class="badge r-good">Good</span></li><li><a href="../nimrod-house-supported-living-1-2702323158/">Nimrod House Supported Living</a> <span class="badge r-unrated">No published rating</span></li><li><a href="../stratford-road-1-4065663967/">Stratford Road</a> <span class="badge r-unrated">No published rating</span></li></ul></section>
   <p class="links"><a href="https://www.cqc.org.uk/reports/5feaa0b4-69d5-4e15-a745-edc3ee74d147?20210419120000" rel="noopener">Read CQC's full report</a> &middot; <a href="https://www.lookahead.org.uk" rel="noopener">Visit their website</a> &middot; <a href="https://www.google.com/maps/search/?api=1&amp;query=51.5445483%2C-0.0278573" rel="noopener">View on a map</a></p>
   <p class="watch">
     <button type="button" class="watch-btn" hidden aria-pressed="false"

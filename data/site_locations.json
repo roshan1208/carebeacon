@@ -29078,6 +29078,20 @@
   "longitude": -2.2012884
  },
  {
+  "locationId": "1-8446401114",
+  "name": "Bridge Street Dental Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "numberOfBeds": 0,
+  "postalCode": "LS21 1BQ",
+  "providerId": "1-609867647",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.9065466,
+  "longitude": -1.6936439
+ },
+ {
   "locationId": "1-327518742",
   "name": "Bridge View",
   "rating": "Good",
@@ -29496,6 +29510,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4376642,
   "longitude": -0.8824714
+ },
+ {
+  "locationId": "1-28963564483",
+  "name": "Brighter Stays Limited - Newcastle",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "North Tyneside",
+  "numberOfBeds": 0,
+  "postalCode": "NE27 0QQ",
+  "providerId": "1-20710364695",
+  "registeredManagerAbsentDate": null,
+  "latitude": 55.0236552,
+  "longitude": -1.5116569
  },
  {
   "locationId": "1-129560082",
@@ -34694,8 +34722,8 @@
  {
   "locationId": "1-132803822",
   "name": "Cambian Asperger Syndrome Services Limited - 18 Kings Park Road",
-  "rating": "Good",
-  "ratingDate": "2019-06-08",
+  "rating": null,
+  "ratingDate": null,
   "region": "South West",
   "localAuthority": "Bournemouth, Christchurch and Poole",
   "numberOfBeds": 9,
@@ -36076,6 +36104,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4443139,
   "longitude": -2.4937338
+ },
+ {
+  "locationId": "1-14026214997",
+  "name": "Care Supreme Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Lewisham",
+  "numberOfBeds": 0,
+  "postalCode": "SE13 5PJ",
+  "providerId": "1-11188255009",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4585459,
+  "longitude": 0.005254
  },
  {
   "locationId": "1-3523906808",
@@ -61390,6 +61432,20 @@
   "longitude": -1.1460174
  },
  {
+  "locationId": "1-28973242720",
+  "name": "Elkin Court (Care Outlook)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Trafford",
+  "numberOfBeds": 0,
+  "postalCode": "M31 4DT",
+  "providerId": "1-101679773",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.418946,
+  "longitude": -2.420796
+ },
+ {
   "locationId": "1-18246461033",
   "name": "Ella McCambridge",
   "rating": "Requires improvement",
@@ -64284,8 +64340,8 @@
   "postalCode": "GL17 9BW",
   "providerId": "1-28056797807",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.863258,
-  "longitude": -2.521363
+  "latitude": 51.8644541,
+  "longitude": -2.5210153
  },
  {
   "locationId": "1-18383496785",
@@ -76710,14 +76766,14 @@
   "name": "Greenfield Healthcare Solutions Ltd",
   "rating": null,
   "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "Derbyshire",
+  "region": "London",
+  "localAuthority": "Greenwich",
   "numberOfBeds": 0,
-  "postalCode": "NG10 1HH",
+  "postalCode": "SE28 8RW",
   "providerId": "1-11223111607",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.8981426,
-  "longitude": -1.2703383
+  "latitude": 51.5011448,
+  "longitude": 0.104297
  },
  {
   "locationId": "1-135551782",
@@ -106274,6 +106330,20 @@
   "longitude": -1.4282605
  },
  {
+  "locationId": "1-29171472554",
+  "name": "Lifeways Community Care Limited (Southampton)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Southampton",
+  "numberOfBeds": 0,
+  "postalCode": "SO15 2BG",
+  "providerId": "1-101675727",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.9102631,
+  "longitude": -1.4068808
+ },
+ {
   "locationId": "1-1089148656",
   "name": "Lifstan Way Care Home",
   "rating": null,
@@ -106846,6 +106916,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.2630606,
   "longitude": -0.4329433
+ },
+ {
+  "locationId": "1-28974422170",
+  "name": "Limelight (Care Outlook)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Trafford",
+  "numberOfBeds": 0,
+  "postalCode": "M16 9BB",
+  "providerId": "1-101679773",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4613593,
+  "longitude": -2.2624777
  },
  {
   "locationId": "1-2490881532",
@@ -123132,8 +123216,8 @@
  {
   "locationId": "1-1089363732",
   "name": "Mulberry Court",
-  "rating": "Requires improvement",
-  "ratingDate": "2019-07-23",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Buckinghamshire",
   "numberOfBeds": 23,
@@ -124010,6 +124094,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5900836,
   "longitude": -0.0731246
+ },
+ {
+  "locationId": "1-28226630406",
+  "name": "Nature and Nurture Psychology Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "numberOfBeds": 0,
+  "postalCode": "ST17 4LW",
+  "providerId": "1-26966286040",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.7994627,
+  "longitude": -2.1038506
  },
  {
   "locationId": "1-135824164",
@@ -126502,6 +126600,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.9751079,
   "longitude": 0.0111097
+ },
+ {
+  "locationId": "1-2702323158",
+  "name": "Nimrod House Supported Living",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Newham",
+  "numberOfBeds": 0,
+  "postalCode": "E16 1PN",
+  "providerId": "1-101663496",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.515193,
+  "longitude": 0.023973
  },
  {
   "locationId": "1-114109425",
@@ -141036,6 +141148,20 @@
   "longitude": -1.744599
  },
  {
+  "locationId": "1-5654128057",
+  "name": "Poole Home Care Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Bournemouth, Christchurch and Poole",
+  "numberOfBeds": 0,
+  "postalCode": "BH15 1QG",
+  "providerId": "1-5553606483",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.715272,
+  "longitude": -1.983801
+ },
+ {
   "locationId": "1-1338836366",
   "name": "Poplar Lodge",
   "rating": "Good",
@@ -145840,8 +145966,8 @@
  {
   "locationId": "1-126668409",
   "name": "Real Life Options - 96 Bishopton Road",
-  "rating": "Good",
-  "ratingDate": "2019-11-13",
+  "rating": null,
+  "ratingDate": null,
   "region": "North East",
   "localAuthority": "Stockton-on-Tees",
   "numberOfBeds": 6,
@@ -171360,6 +171486,20 @@
   "longitude": -5.4191204
  },
  {
+  "locationId": "1-29148307415",
+  "name": "Status Care Services Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Cambridgeshire",
+  "numberOfBeds": 0,
+  "postalCode": "PE29 6XU",
+  "providerId": "1-20710912955",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.3452859,
+  "longitude": -0.1984749
+ },
+ {
   "locationId": "1-117541937",
   "name": "Staveley Birkleas Nursing Home",
   "rating": "Good",
@@ -190846,6 +190986,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.9162669,
   "longitude": -0.1645182
+ },
+ {
+  "locationId": "1-192897984",
+  "name": "The Park Row Dental Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "numberOfBeds": 0,
+  "postalCode": "LS1 5JA",
+  "providerId": "1-153025246",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.798863,
+  "longitude": -1.546796
  },
  {
   "locationId": "1-2026179939",

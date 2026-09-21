@@ -1,7 +1,7 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-21T12:45:56Z",
- "total_locations": 32980,
+ "last_run_utc": "2026-09-21T15:21:56Z",
+ "total_locations": 32991,
  "total_changes_recorded": 35,
  "scotland_snapshot_label": "31 August 2026",
  "scotland_snapshot_date": "2026-08-31",
@@ -10,10 +10,10 @@
  "ni_snapshot_label": "2026-08-03",
  "ni_snapshot_date": "2026-08-03",
  "ni_care_homes": 468,
- "wales_snapshot_label": "2026-09-21 13:42",
+ "wales_snapshot_label": "2026-09-21 16:22",
  "wales_snapshot_date": "2026-09-21",
  "wales_care_homes": 1480,
- "ireland_snapshot_label": "2026-09-21 12:36",
+ "ireland_snapshot_label": "2026-09-21 15:22",
  "ireland_snapshot_date": "2026-09-21",
  "ireland_care_homes": 547,
  "france_snapshot_label": "2026-09-21",
@@ -50,85 +50,96 @@
  "health": {
   "details": {
    "label": "CQC detail refetch",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "providers": {
    "label": "Operator names from CQC",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "scotland": {
    "label": "Scotland (Care Inspectorate)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "northern-ireland": {
    "label": "Northern Ireland (RQIA)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "wales": {
    "label": "Wales (CIW)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "ireland": {
    "label": "Ireland (HIQA)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "united-states": {
    "label": "United States (CMS (Centers for Medicare & Medicaid Services))",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "france": {
    "label": "France (FINESS (ANS, Ministry of Health))",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "japan": {
    "label": "Japan (Ministry of Health, Labour and Welfare (MHLW))",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "south-korea": {
    "label": "South Korea (National Health Insurance Service (NHIS))",
-   "failures": 1,
-   "ok_utc": "2026-09-20T11:21:11Z",
-   "error": "<urlopen error timed out>",
-   "failed_utc": "2026-09-21T12:45:56Z"
+   "failures": 0,
+   "ok_utc": "2026-09-21T15:21:56Z"
   },
   "australia": {
    "label": "Australia (the Australian Government)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "hong-kong": {
    "label": "Hong Kong (Social Welfare Department)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "new-zealand": {
    "label": "New Zealand (HealthCERT (Ministry of Health))",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "flanders": {
    "label": "Belgium (Flanders) (Departement Zorg (Flemish Department of Care))",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   },
   "geocode": {
    "label": "Geocoding (postcodes.io / Nominatim)",
-   "ok_utc": "2026-09-21T12:45:56Z",
+   "ok_utc": "2026-09-21T15:21:56Z",
+   "failures": 0
+  },
+  "france-prices": {
+   "label": "France, declared prices (CNSA)",
+   "ok_utc": "2026-09-21T15:21:56Z",
+   "failures": 0
+  },
+  "switzerland": {
+   "label": "Switzerland (Federal Office of Public Health)",
+   "ok_utc": "2026-09-21T15:21:56Z",
    "failures": 0
   }
  },
- "england_care_homes": 15828,
+ "england_care_homes": 15839,
  "switzerland_snapshot_label": "2026-04-08",
  "switzerland_snapshot_date": "2026-09-21",
  "switzerland_care_homes": 1457,
- "switzerland_parse_version": 1
+ "switzerland_parse_version": 1,
+ "france_prices_label": "202601",
+ "france_prices_declared": 6121,
+ "france_prices_history_from": 2018
 }
