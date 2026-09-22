@@ -4,8 +4,57 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-21T16:12:55Z</updated>
+  <updated>2026-09-22T11:41:20Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010088-DHKP/2026-09-22/first_rated</id>
+    <title>Gardens Care Home: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010088-DHKP/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Neath Port Talbot. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010077-SSQK/2026-09-22/decline</id>
+    <title>Cartref Care Home Ltd: Lowest theme rating declined: Good to Requires Significant Improvement (Well-being: Good to Requires Improvement; Care and support: Good to Requires Significant Improvement; Environment: Good to Requires Significant Improvement; Leadership and management: Good to Requires Significant Improvement)</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010077-SSQK/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Ceredigion. Lowest theme rating declined: Good to Requires Significant Improvement (Well-being: Good to Requires Improvement; Care and support: Good to Requires Significant Improvement; Environment: Good to Requires Significant Improvement; Leadership and management: Good to Requires Significant Improvement)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/633/2026-09-22/conditions_changed</id>
+    <title>St Brendan's Community Nursing Unit: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/633/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Galway. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/633/2026-09-22/reregistered</id>
+    <title>St Brendan's Community Nursing Unit: Registration renewed from 3 August 2026, expiring 2 August 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/633/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Galway. Registration renewed from 3 August 2026, expiring 2 August 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8637/2026-09-22/conditions_changed</id>
+    <title>Kilbarry Care Centre: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8637/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Waterford. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8637/2026-09-22/reregistered</id>
+    <title>Kilbarry Care Centre: Registration renewed from 22 September 2026, expiring 21 September 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8637/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Waterford. Registration renewed from 22 September 2026, expiring 21 September 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/562/2026-09-22/pic_changed</id>
+    <title>Caherciveen Community Hospital: Person in charge changed: Noreen Donnelly to Noreen Donnelly Cournane</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/562/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Kerry. Person in charge changed: Noreen Donnelly to Noreen Donnelly Cournane</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008976-YLQG/2026-09-21/first_rated</id>
     <title>Trevelyan: Rated for the first time; lowest theme: Excellent</title>
@@ -1356,54 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2013318490/"/>
     <updated>2026-07-31T00:00:00Z</updated>
     <summary>Glasgow City. Grade declined: Good (4) to Weak (2)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000359/2026-07-31/first_graded</id>
-    <title>Rose Cottage: Graded for the first time: Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000359/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>North Ayrshire. Graded for the first time: Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008185641/2026-07-31/decline</id>
-    <title>Queensberry Care Home: Grade declined: Adequate (3) to Weak (2)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008185641/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>Dumfries &amp; Galloway. Grade declined: Adequate (3) to Weak (2)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000344/2026-07-31/new</id>
-    <title>QF Care Cochno Town Farm: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000344/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>East Dunbartonshire. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2024000022/2026-07-31/improve</id>
-    <title>Pleasantfield Cottage: Grade improved: Good (4) to Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2024000022/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>South Ayrshire. Grade improved: Good (4) to Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2021000267/2026-07-31/decline</id>
-    <title>Parklands Care Home: Grade declined: Good (4) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2021000267/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>Clackmannanshire. Grade declined: Good (4) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000419/2026-07-31/first_graded</id>
-    <title>Osprey Court Care Home: Graded for the first time: Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000419/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>Perth &amp; Kinross. Graded for the first time: Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003014530/2026-07-31/improve</id>
-    <title>Oakview Manor Care Home: Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003014530/"/>
-    <updated>2026-07-31T00:00:00Z</updated>
-    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4)</summary>
   </entry>
 </feed>

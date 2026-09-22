@@ -5586,6 +5586,20 @@
   "longitude": -0.4517806
  },
  {
+  "locationId": "1-4292412264",
+  "name": "Alina Homecare Chobham & Woking",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "GU21 5SB",
+  "providerId": "1-1156577315",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3303127,
+  "longitude": -0.5297545
+ },
+ {
   "locationId": "1-10931352436",
   "name": "Alison House",
   "rating": null,
@@ -6284,6 +6298,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.9702886,
   "longitude": -1.3571023
+ },
+ {
+  "locationId": "1-12837006811",
+  "name": "Alston Medical Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Westmorland and Furness",
+  "numberOfBeds": 0,
+  "postalCode": "CA9 3QX",
+  "providerId": "1-199791946",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.8102134,
+  "longitude": -2.4398411
  },
  {
   "locationId": "1-26622103789",
@@ -22442,6 +22470,20 @@
   "longitude": -2.664222
  },
  {
+  "locationId": "1-187543001",
+  "name": "Berkshire Dental Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Bracknell Forest",
+  "numberOfBeds": 0,
+  "postalCode": "GU47 0TF",
+  "providerId": "1-156967783",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3526289,
+  "longitude": -0.7791511
+ },
+ {
   "locationId": "1-29556714444",
   "name": "Berkshire Imaging LLP",
   "rating": "Requires improvement",
@@ -23114,6 +23156,20 @@
   "longitude": -2.1801558
  },
  {
+  "locationId": "1-2727328022",
+  "name": "Beyond Limits (Plymouth)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Plymouth",
+  "numberOfBeds": 0,
+  "postalCode": "PL3 4DT",
+  "providerId": "1-425219588",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.380196,
+  "longitude": -4.16537
+ },
+ {
   "locationId": "1-14388147015",
   "name": "BH Residential Care Home",
   "rating": null,
@@ -23140,6 +23196,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4470251,
   "longitude": -0.148394
+ },
+ {
+  "locationId": "1-245508915",
+  "name": "Bhandal Dental Practice - 32 John Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Sandwell",
+  "numberOfBeds": 0,
+  "postalCode": "B65 0EP",
+  "providerId": "1-152966682",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4733343,
+  "longitude": -2.0447638
  },
  {
   "locationId": "1-130525255",
@@ -29664,6 +29734,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.577856,
   "longitude": -2.1158753
+ },
+ {
+  "locationId": "1-196046659",
+  "name": "Brightsmile Dental Care Limited - Kingston",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Kingston upon Thames",
+  "numberOfBeds": 0,
+  "postalCode": "KT1 2BZ",
+  "providerId": "1-152974777",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4048726,
+  "longitude": -0.3038402
  },
  {
   "locationId": "1-116944740",
@@ -48608,6 +48692,20 @@
   "longitude": -2.1500057
  },
  {
+  "locationId": "1-548076050",
+  "name": "Corbett Medical Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 0,
+  "postalCode": "WR9 7BE",
+  "providerId": "1-199767017",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.2634673,
+  "longitude": -2.149684
+ },
+ {
   "locationId": "1-6027379981",
   "name": "Corbiere",
   "rating": "Good",
@@ -61080,6 +61178,20 @@
   "registeredManagerAbsentDate": "2023-10-27",
   "latitude": 53.4463038,
   "longitude": -2.9690797
+ },
+ {
+  "locationId": "1-2598387969",
+  "name": "Elite Careplus Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Sutton",
+  "numberOfBeds": 0,
+  "postalCode": "SM6 9BT",
+  "providerId": "1-2113233983",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3592961,
+  "longitude": -0.1394613
  },
  {
   "locationId": "1-124197041",
@@ -87950,8 +88062,8 @@
  {
   "locationId": "1-121568260",
   "name": "Highwell House Care Home with Nursing",
-  "rating": "Outstanding",
-  "ratingDate": "2017-12-06",
+  "rating": null,
+  "ratingDate": null,
   "region": "West Midlands",
   "localAuthority": "Herefordshire, County of",
   "numberOfBeds": 34,
@@ -89598,6 +89710,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.109646,
   "longitude": -1.854988
+ },
+ {
+  "locationId": "1-8566841446",
+  "name": "HMP YOI Deerbolt",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "County Durham",
+  "numberOfBeds": 0,
+  "postalCode": "DL12 9BG",
+  "providerId": "1-183173152",
+  "registeredManagerAbsentDate": "2025-10-08",
+  "latitude": 54.54404,
+  "longitude": -1.936708
  },
  {
   "locationId": "1-19885632675",
@@ -95030,6 +95156,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.2819821,
   "longitude": -0.6357384
+ },
+ {
+  "locationId": "1-11182248905",
+  "name": "Iridium Medical Practice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B33 8TA",
+  "providerId": "1-10711389935",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4776731,
+  "longitude": -1.8156817
  },
  {
   "locationId": "1-19059641735",
@@ -119112,6 +119252,20 @@
   "longitude": -0.6854561
  },
  {
+  "locationId": "1-2257875795",
+  "name": "Midland Care Support & Enablement Ltd",
+  "rating": "Good",
+  "ratingDate": "2019-09-20",
+  "region": "West Midlands",
+  "localAuthority": "Dudley",
+  "numberOfBeds": 0,
+  "postalCode": "DY5 1XN",
+  "providerId": "1-2197935584",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4871399,
+  "longitude": -2.1147875
+ },
+ {
   "locationId": "1-29713150425",
   "name": "Midland Health",
   "rating": null,
@@ -140730,8 +140884,8 @@
  {
   "locationId": "1-749551368",
   "name": "Plean Dene",
-  "rating": "Good",
-  "ratingDate": "2018-08-21",
+  "rating": null,
+  "ratingDate": null,
   "region": "South East",
   "localAuthority": "Isle of Wight",
   "numberOfBeds": 13,
@@ -144982,6 +145136,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.6516654,
   "longitude": -2.8911677
+ },
+ {
+  "locationId": "1-19679365360",
+  "name": "Rainbow Baby Scans",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "numberOfBeds": 0,
+  "postalCode": "TN39 3EP",
+  "providerId": "1-16861784994",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8398063,
+  "longitude": 0.4692966
  },
  {
   "locationId": "1-28996895977",
@@ -182238,6 +182406,20 @@
   "longitude": -2.7662057
  },
  {
+  "locationId": "1-436853801",
+  "name": "The Fetal Medicine Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Westminster",
+  "numberOfBeds": 0,
+  "postalCode": "W1G 6BG",
+  "providerId": "1-340590038",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5224556,
+  "longitude": -0.1488195
+ },
+ {
   "locationId": "1-1788696402",
   "name": "The Fieldings",
   "rating": null,
@@ -194546,8 +194728,8 @@
  {
   "locationId": "1-2454492051",
   "name": "The Willows",
-  "rating": "Good",
-  "ratingDate": "2019-11-02",
+  "rating": null,
+  "ratingDate": null,
   "region": "East Midlands",
   "localAuthority": "Leicestershire",
   "numberOfBeds": 60,
@@ -199708,6 +199890,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.3619738,
   "longitude": -0.0846375
+ },
+ {
+  "locationId": "1-10617152345",
+  "name": "Unique Domiciliary Care Ltd Head Office",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Croydon",
+  "numberOfBeds": 0,
+  "postalCode": "CR0 6EJ",
+  "providerId": "1-9876896931",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3843625,
+  "longitude": -0.0811165
  },
  {
   "locationId": "1-10970804321",
@@ -213428,6 +213624,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4302446,
   "longitude": 0.3446985
+ },
+ {
+  "locationId": "1-12376788675",
+  "name": "Women's Scan Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Windsor and Maidenhead",
+  "numberOfBeds": 0,
+  "postalCode": "SL4 6HN",
+  "providerId": "1-500716762",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.494429,
+  "longitude": -0.5961946
  },
  {
   "locationId": "1-122514016",

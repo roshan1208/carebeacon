@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/neath-port-talbot/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/neath-port-talbot/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/neath-port-talbot/feed</id>
-  <updated>2026-09-21T16:12:57Z</updated>
+  <updated>2026-09-22T11:41:21Z</updated>
   <subtitle>Care homes in Neath Port Talbot whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010088-DHKP/2026-09-22/first_rated</id>
+    <title>Gardens Care Home: Rated for the first time; lowest theme: Good (by 22 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010088-DHKP/"/>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <summary>Neath Port Talbot. Rated for the first time; lowest theme: Good (by 22 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009868-VYFC/2026-09-18/first_rated</id>
     <title>Rhyd Hir: Rated for the first time; lowest theme: Good (by 18 September 2026).</title>
