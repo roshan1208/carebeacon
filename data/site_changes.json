@@ -366,5 +366,27 @@
   "providerId": "1-17933650671",
   "type": "reopened",
   "to_status": "Registered"
+ },
+ {
+  "date": "2026-09-23",
+  "locationId": "1-10786345195",
+  "name": "Gwenlyn Care Home",
+  "region": "North West",
+  "localAuthority": "Blackpool",
+  "providerId": "1-10604232524",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-23",
+  "locationId": "1-112580950",
+  "name": "Merle Boddy House",
+  "region": "East",
+  "localAuthority": "Norfolk",
+  "providerId": "1-101615156",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

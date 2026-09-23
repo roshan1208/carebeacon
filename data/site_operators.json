@@ -419,10 +419,6 @@
   "name": "Janith Homes Limited",
   "homes": 3
  },
- "1-101615156": {
-  "name": "Mid-Norfolk Mencap",
-  "homes": 2
- },
  "1-101615183": {
   "name": "1st Care Limited",
   "homes": 2
@@ -919,6 +915,10 @@
   "name": "In Chorus Limited",
   "homes": 3
  },
+ "1-101639237": {
+  "name": "Independent Lifestyles Support Services LLP",
+  "homes": 2
+ },
  "1-101639345": {
   "name": "Community Places Limited",
   "homes": 3
@@ -1245,7 +1245,7 @@
  },
  "1-101645396": {
   "name": "L'Arche",
-  "homes": 7
+  "homes": 8
  },
  "1-101645441": {
   "name": "Standwalk Ltd",
@@ -1375,6 +1375,10 @@
   "name": "Waters Park House Limited",
   "homes": 2
  },
+ "1-101648291": {
+  "name": "Solihull Care",
+  "homes": 2
+ },
  "1-101648399": {
   "name": "Shelton Care Limited",
   "homes": 5
@@ -1401,7 +1405,7 @@
  },
  "1-101648755": {
   "name": "Creative Support Limited",
-  "homes": 14
+  "homes": 15
  },
  "1-101648817": {
   "name": "The Sandwell Community Caring Trust",
@@ -2363,6 +2367,10 @@
   "name": "The Paddocks Care Home Ltd",
   "homes": 2
  },
+ "1-101667217": {
+  "name": "Orwell Housing Association Limited",
+  "homes": 2
+ },
  "1-101667262": {
   "name": "Imperial Care Homes Limited",
   "homes": 3
@@ -2505,7 +2513,7 @@
  },
  "1-101668998": {
   "name": "North Yorkshire Council",
-  "homes": 11
+  "homes": 12
  },
  "1-101669006": {
   "name": "Halton Borough Council",
@@ -2593,7 +2601,7 @@
  },
  "1-101671690": {
   "name": "Midshires Care Limited",
-  "homes": 10
+  "homes": 11
  },
  "1-101672001": {
   "name": "Buckland Care Limited",
@@ -3141,7 +3149,7 @@
  },
  "1-101694224": {
   "name": "G P Homecare Limited",
-  "homes": 3
+  "homes": 5
  },
  "1-101694241": {
   "name": "DRS Care Homes Limited",
@@ -3521,7 +3529,7 @@
  },
  "1-102642564": {
   "name": "Turning Point",
-  "homes": 18
+  "homes": 19
  },
  "1-102642589": {
   "name": "The Royal British Legion",
@@ -3661,7 +3669,7 @@
  },
  "1-102643122": {
   "name": "Voyage 1 Limited",
-  "homes": 244
+  "homes": 245
  },
  "1-102643131": {
   "name": "Affinity Trust",
@@ -3673,7 +3681,7 @@
  },
  "1-102643148": {
   "name": "Housing 21",
-  "homes": 4
+  "homes": 5
  },
  "1-102643165": {
   "name": "Pathways Care Group Limited",
@@ -3703,6 +3711,10 @@
   "name": "Saint John of God Hospitaller Services",
   "homes": 10
  },
+ "1-102643305": {
+  "name": "Spire Healthcare Limited",
+  "homes": 2
+ },
  "1-102643346": {
   "name": "Partnerships in Care Limited",
   "homes": 3
@@ -3725,7 +3737,7 @@
  },
  "1-102643516": {
   "name": "Nuffield Health",
-  "homes": 4
+  "homes": 5
  },
  "1-1051964904": {
   "name": "Nestlings Care Ltd",
@@ -4783,6 +4795,10 @@
   "name": "EQ Care Group Limited",
   "homes": 4
  },
+ "1-15067931060": {
+  "name": "Vita Healthcare - Grove Road Surgery",
+  "homes": 2
+ },
  "1-15126086868": {
   "name": "Choice Support",
   "homes": 21
@@ -4829,7 +4845,7 @@
  },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-153033131": {
   "name": "The Smile Studios Limited",
@@ -4875,6 +4891,10 @@
   "name": "Cocklebury Farmhouse Homes Limited",
   "homes": 3
  },
+ "1-15840632835": {
+  "name": "My Voyage Care Solutions Limited",
+  "homes": 2
+ },
  "1-15936961944": {
   "name": "Ambitious about Autism",
   "homes": 5
@@ -4889,7 +4909,7 @@
  },
  "1-161851228": {
   "name": "Whitecross Dental Care Limited",
-  "homes": 8
+  "homes": 9
  },
  "1-16435814558": {
   "name": "Resident Care at Signature Opco LLP",
@@ -4941,7 +4961,7 @@
  },
  "1-171553721": {
   "name": "IDH Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-171564599": {
   "name": "Spalding Dental Surgery",
@@ -4949,7 +4969,7 @@
  },
  "1-172521302": {
   "name": "Yourlife Management Services Limited",
-  "homes": 6
+  "homes": 7
  },
  "1-173121845": {
   "name": "Moorville Developments Limited",
@@ -5515,6 +5535,10 @@
   "name": "The Manor Collection Limited",
   "homes": 2
  },
+ "1-2378989124": {
+  "name": "Trust Quality Care Ltd",
+  "homes": 2
+ },
  "1-23796498664": {
   "name": "Harbour Healthcare (North) Ltd",
   "homes": 19
@@ -5910,6 +5934,10 @@
  "1-3241092145": {
   "name": "Dimensions Somerset Sev Limited",
   "homes": 12
+ },
+ "1-3253667031": {
+  "name": "Colosseum Dental",
+  "homes": 2
  },
  "1-3256783656": {
   "name": "GCH (Hertfordshire) Ltd",
@@ -6627,6 +6655,10 @@
   "name": "Longmoor Care Limited",
   "homes": 3
  },
+ "1-6455105516": {
+  "name": "Alina Homecare Services Limited",
+  "homes": 3
+ },
  "1-6482294280": {
   "name": "Khaya Project Ltd",
   "homes": 3
@@ -6874,6 +6906,10 @@
  "1-8547505967": {
   "name": "La Rosa Homes Ltd",
   "homes": 2
+ },
+ "1-8600488579": {
+  "name": "MOS Solutions Ltd",
+  "homes": 3
  },
  "1-8659634856": {
   "name": "Visionary Care Ltd",

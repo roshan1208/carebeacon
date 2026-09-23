@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/east/feed</id>
-  <updated>2026-09-22T11:41:03Z</updated>
+  <updated>2026-09-23T11:35:55Z</updated>
   <subtitle>Care homes in East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-112580950/2026-09-23/closed</id>
+    <title>Merle Boddy House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-112580950"/>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-8417499676/2026-09-13/closed</id>
     <title>Franklyn Crescent: Lost its CQC registration.</title>

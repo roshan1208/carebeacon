@@ -1436,18 +1436,6 @@
   ],
   [
    0,
-   "413",
-   "Catherine McAuley House",
-   "Limerick",
-   "",
-   "",
-   52.51883,
-   -8.79583,
-   "a",
-   null
-  ],
-  [
-   0,
    "125",
    "Catherine McAuley House",
    "Dublin",
@@ -1456,6 +1444,18 @@
    53.39145,
    -6.22696,
    "",
+   null
+  ],
+  [
+   0,
+   "413",
+   "Catherine McAuley House",
+   "Limerick",
+   "",
+   "",
+   52.51883,
+   -8.79583,
+   "a",
    null
   ],
   [
@@ -3404,18 +3404,6 @@
   ],
   [
    0,
-   "64",
-   "Maryfield Nursing Home",
-   "Dublin",
-   "",
-   "",
-   53.35755,
-   -6.37546,
-   "",
-   null
-  ],
-  [
-   0,
    "359",
    "Maryfield Nursing Home",
    "Galway",
@@ -3424,6 +3412,18 @@
    53.3015,
    -8.74856,
    "a",
+   null
+  ],
+  [
+   0,
+   "64",
+   "Maryfield Nursing Home",
+   "Dublin",
+   "",
+   "",
+   53.35755,
+   -6.37546,
+   "",
    null
   ],
   [
@@ -4052,18 +4052,6 @@
   ],
   [
    0,
-   "372",
-   "Oakwood Private Nursing Home",
-   "Roscommon",
-   "",
-   "",
-   53.63124,
-   -8.19068,
-   "a",
-   null
-  ],
-  [
-   0,
    "373",
    "Oakwood Private Nursing Home",
    "Roscommon",
@@ -4072,6 +4060,18 @@
    53.27699,
    -6.21621,
    "",
+   null
+  ],
+  [
+   0,
+   "372",
+   "Oakwood Private Nursing Home",
+   "Roscommon",
+   "",
+   "",
+   53.63124,
+   -8.19068,
+   "a",
    null
   ],
   [
@@ -5528,18 +5528,6 @@
   ],
   [
    0,
-   "5284",
-   "St Martha's Nursing Home",
-   "Tipperary",
-   "",
-   "",
-   52.37795,
-   -7.92258,
-   "a",
-   null
-  ],
-  [
-   0,
    "291",
    "St Martha's Nursing Home",
    "Cork",
@@ -5547,6 +5535,18 @@
    "",
    52.35464,
    -8.68288,
+   "a",
+   null
+  ],
+  [
+   0,
+   "5284",
+   "St Martha's Nursing Home",
+   "Tipperary",
+   "",
+   "",
+   52.37795,
+   -7.92258,
    "a",
    null
   ],

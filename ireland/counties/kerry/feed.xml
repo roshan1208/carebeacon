@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/kerry/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/kerry/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/kerry/feed</id>
-  <updated>2026-09-22T11:41:22Z</updated>
+  <updated>2026-09-23T11:36:19Z</updated>
   <subtitle>Nursing homes in County Kerry whose HIQA registration just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/274/2026-09-23/reregistered</id>
+    <title>Riverside Nursing Home: Registration renewed from 23 September 2026, expiring 22 September 2029 (by 23 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/274/"/>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>Kerry. Registration renewed from 23 September 2026, expiring 22 September 2029 (by 23 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/274/2026-09-23/conditions_changed</id>
+    <title>Riverside Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 23 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/274/"/>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <summary>Kerry. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 23 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/562/2026-09-22/pic_changed</id>
     <title>Caherciveen Community Hospital: Person in charge changed: Noreen Donnelly to Noreen Donnelly Cournane (by 22 September 2026).</title>
