@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/france/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/feed</id>
-  <updated>2026-09-23T11:36:26Z</updated>
+  <updated>2026-09-24T11:46:42Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in France whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/560011876/2026-09-24/cancelled</id>
+    <title>RESIDENCE DE L'OUST: No longer on the register (by 24 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/560011876/"/>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <summary>Morbihan. No longer on the register (by 24 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/france/change/260024492/2026-09-18/new</id>
     <title>EHPAD Le Fil de Soi: Newly registered (by 18 September 2026).</title>
