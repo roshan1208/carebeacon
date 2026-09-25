@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/lancashire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/lancashire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/lancashire/feed</id>
-  <updated>2026-09-24T11:46:20Z</updated>
+  <updated>2026-09-25T11:51:43Z</updated>
   <subtitle>Care homes in Lancashire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2279756089/2026-09-25/closed</id>
+    <title>Royal Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-2279756089"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>North West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-6477957902/2026-09-20/closed</id>
     <title>Clitheroe Care Home: Lost its CQC registration.</title>

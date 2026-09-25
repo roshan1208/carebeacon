@@ -1,8 +1,8 @@
 {
  "full_sync_complete": true,
- "last_run_utc": "2026-09-24T11:43:30Z",
- "total_locations": 33214,
- "total_changes_recorded": 37,
+ "last_run_utc": "2026-09-25T11:49:11Z",
+ "total_locations": 33296,
+ "total_changes_recorded": 38,
  "scotland_snapshot_label": "31 August 2026",
  "scotland_snapshot_date": "2026-08-31",
  "scotland_care_homes": 1380,
@@ -10,29 +10,29 @@
  "ni_snapshot_label": "2026-08-03",
  "ni_snapshot_date": "2026-08-03",
  "ni_care_homes": 468,
- "wales_snapshot_label": "2026-09-24 12:41",
- "wales_snapshot_date": "2026-09-24",
+ "wales_snapshot_label": "2026-09-25 12:41",
+ "wales_snapshot_date": "2026-09-25",
  "wales_care_homes": 1481,
- "ireland_snapshot_label": "2026-09-24 11:38",
- "ireland_snapshot_date": "2026-09-24",
+ "ireland_snapshot_label": "2026-09-25 11:50",
+ "ireland_snapshot_date": "2026-09-25",
  "ireland_care_homes": 547,
- "france_snapshot_label": "2026-09-24",
- "france_snapshot_date": "2026-09-24",
- "france_care_homes": 7417,
+ "france_snapshot_label": "2026-09-25",
+ "france_snapshot_date": "2026-09-25",
+ "france_care_homes": 7416,
  "japan_snapshot_label": "2026-07-09",
  "japan_snapshot_date": "2026-09-14",
  "japan_care_homes": 13556,
  "south-korea_snapshot_label": "2026-06-25",
  "south-korea_snapshot_date": "2026-09-14",
  "south-korea_care_homes": 6263,
- "hong-kong_snapshot_label": "2026-09-24 12:47:53",
- "hong-kong_snapshot_date": "2026-09-24",
+ "hong-kong_snapshot_label": "2026-09-25 13:01:44",
+ "hong-kong_snapshot_date": "2026-09-25",
  "hong-kong_care_homes": 1103,
- "new-zealand_snapshot_label": "2026-09-23 18:13",
- "new-zealand_snapshot_date": "2026-09-24",
+ "new-zealand_snapshot_label": "2026-09-24 18:14",
+ "new-zealand_snapshot_date": "2026-09-25",
  "new-zealand_care_homes": 683,
- "flanders_snapshot_label": "2026-09-23 14:04",
- "flanders_snapshot_date": "2026-09-24",
+ "flanders_snapshot_label": "2026-09-24 06:14",
+ "flanders_snapshot_date": "2026-09-25",
  "flanders_care_homes": 813,
  "united-states_snapshot_label": "2026-08-01",
  "united-states_snapshot_date": "2026-09-14",
@@ -50,91 +50,91 @@
  "health": {
   "details": {
    "label": "CQC detail refetch",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "providers": {
    "label": "Operator names from CQC",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "scotland": {
    "label": "Scotland (Care Inspectorate)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "northern-ireland": {
    "label": "Northern Ireland (RQIA)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "wales": {
    "label": "Wales (CIW)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "ireland": {
    "label": "Ireland (HIQA)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "united-states": {
    "label": "United States (CMS (Centers for Medicare & Medicaid Services))",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "france": {
    "label": "France (FINESS (ANS, Ministry of Health))",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "japan": {
    "label": "Japan (Ministry of Health, Labour and Welfare (MHLW))",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "south-korea": {
    "label": "South Korea (National Health Insurance Service (NHIS))",
    "failures": 0,
-   "ok_utc": "2026-09-24T11:43:30Z"
+   "ok_utc": "2026-09-25T11:49:11Z"
   },
   "australia": {
    "label": "Australia (the Australian Government)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "hong-kong": {
    "label": "Hong Kong (Social Welfare Department)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "new-zealand": {
    "label": "New Zealand (HealthCERT (Ministry of Health))",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "flanders": {
    "label": "Belgium (Flanders) (Departement Zorg (Flemish Department of Care))",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "geocode": {
    "label": "Geocoding (postcodes.io / Nominatim)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "france-prices": {
    "label": "France, declared prices (CNSA)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   },
   "switzerland": {
    "label": "Switzerland (Federal Office of Public Health)",
-   "ok_utc": "2026-09-24T11:43:30Z",
+   "ok_utc": "2026-09-25T11:49:11Z",
    "failures": 0
   }
  },
- "england_care_homes": 16040,
+ "england_care_homes": 16110,
  "switzerland_snapshot_label": "2026-04-08",
  "switzerland_snapshot_date": "2026-09-21",
  "switzerland_care_homes": 1457,

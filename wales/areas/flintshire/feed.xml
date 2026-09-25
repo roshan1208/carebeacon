@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/flintshire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/flintshire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/flintshire/feed</id>
-  <updated>2026-09-24T11:46:36Z</updated>
+  <updated>2026-09-25T11:52:11Z</updated>
   <subtitle>Care homes in Flintshire whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009434-LKDF/2026-09-25/first_rated</id>
+    <title>Woodlands Ty Coed: Rated for the first time; lowest theme: Excellent (by 25 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009434-LKDF/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Flintshire. Rated for the first time; lowest theme: Excellent (by 25 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009779-SKLD/2026-09-14/first_rated</id>
     <title>Maes Y Vaynor: Rated for the first time; lowest theme: Good (by 14 September 2026).</title>

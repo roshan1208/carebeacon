@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/west-flanders/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/flanders/areas/west-flanders/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/flanders/areas/west-flanders/feed</id>
-  <updated>2026-09-24T11:47:02Z</updated>
+  <updated>2026-09-25T11:52:53Z</updated>
   <subtitle>Woonzorgcentra (residential care homes) in West Flanders whose record on Departement Zorg (Flemish Department of Care)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-25/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 87 to 3 (by 25 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 87 to 3 (by 25 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-24/places_changed</id>
     <title>Regina Coeli: Recognised places changed: 3 to 87 (by 24 September 2026).</title>

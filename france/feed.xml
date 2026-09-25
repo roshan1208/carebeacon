@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/france/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/feed</id>
-  <updated>2026-09-24T11:46:42Z</updated>
+  <updated>2026-09-25T11:52:21Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in France whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/750823965/2026-09-25/cancelled</id>
+    <title>EHPAD RESIDENCE SANTE LE JARDIN DES PLANTES: No longer on the register (by 25 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/750823965/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Paris. No longer on the register (by 25 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/france/change/560011876/2026-09-24/cancelled</id>
     <title>RESIDENCE DE L'OUST: No longer on the register (by 24 September 2026).</title>

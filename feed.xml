@@ -4,8 +4,120 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-24T11:46:35Z</updated>
+  <updated>2026-09-25T11:52:09Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009434-LKDF/2026-09-25/first_rated</id>
+    <title>Woodlands Ty Coed: Rated for the first time; lowest theme: Excellent</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009434-LKDF/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Flintshire. Rated for the first time; lowest theme: Excellent</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009151-THTG/2026-09-25/improve</id>
+    <title>Swansea Living Solutions Ltd: Lowest theme rating improved: Requires Improvement to Good (Care and support: Requires Improvement to Good; Environment: Requires Improvement to Good)</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009151-THTG/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Swansea. Lowest theme rating improved: Requires Improvement to Good (Care and support: Requires Improvement to Good; Environment: Requires Improvement to Good)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009798-SKJB/2026-09-25/decline</id>
+    <title>Magnolia House Residential Home LTD: Lowest theme rating declined: Good to Requires Significant Improvement (Leadership and management: Good to Requires Significant Improvement)</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009798-SKJB/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Wrexham. Lowest theme rating declined: Good to Requires Significant Improvement (Leadership and management: Good to Requires Significant Improvement)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009907-BRXG/2026-09-25/first_rated</id>
+    <title>Daniel House: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009907-BRXG/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Conwy. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010572-VJRF/2026-09-25/first_rated</id>
+    <title>Dan-y-Bryn Care Home: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010572-VJRF/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Vale of Glamorgan. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010121-CJNH/2026-09-25/improve</id>
+    <title>Brookside Care Home: Lowest theme rating improved: Requires Significant Improvement to Requires Improvement (Well-being: Requires Improvement to Good; Care and support: Requires Significant Improvement to Requires Improvement; Environment: Requires Significant Improvement to Requires Improvement; Leadership and management: Requires Improvement to Good)</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010121-CJNH/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Powys. Lowest theme rating improved: Requires Significant Improvement to Requires Improvement (Well-being: Requires Improvement to Good; Care and support: Requires Significant Improvement to Requires Improvement; Environment: Requires Significant Improvement to Requires Improvement; Leadership and management: Requires Improvement to Good)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00014258-HFFQ/2026-09-25/improve</id>
+    <title>Bevan College: Lowest theme rating improved: Requires Improvement to Good (Leadership and management: Requires Improvement to Good)</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00014258-HFFQ/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Bridgend. Lowest theme rating improved: Requires Improvement to Good (Leadership and management: Requires Improvement to Good)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009209-FGXQ/2026-09-25/first_rated</id>
+    <title>Ael-y-Bryn: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009209-FGXQ/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Swansea. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/478/2026-09-25/conditions_changed</id>
+    <title>The Royal Hospital Donnybrook: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/478/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Dublin. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/478/2026-09-25/reregistered</id>
+    <title>The Royal Hospital Donnybrook: Registration renewed from 25 September 2026, expiring 24 September 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/478/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Dublin. Registration renewed from 25 September 2026, expiring 24 September 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/244/2026-09-25/conditions_changed</id>
+    <title>Lawson House Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/244/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Wexford. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/244/2026-09-25/reregistered</id>
+    <title>Lawson House Nursing Home: Registration renewed from 2 September 2026, expiring 1 September 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/244/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Wexford. Registration renewed from 2 September 2026, expiring 1 September 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/750823965/2026-09-25/cancelled</id>
+    <title>EHPAD RESIDENCE SANTE LE JARDIN DES PLANTES: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/changes/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Paris. No longer on the register</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2279756089/2026-09-25/closed</id>
+    <title>Royal Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>Lancashire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-25/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 87 to 3</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 87 to 3</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-25/price_changed</id>
+    <title>De Bron: Average daily price changed: €77.67 per day to €77.68 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <summary>East Flanders. Average daily price changed: €77.67 per day to €77.68 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015042-FPXM/2026-09-24/improve</id>
     <title>Dolywern: Lowest theme rating improved: Requires Significant Improvement to Good (Well-being: Requires Improvement to Good; Care and support: Requires Improvement to Good; Leadership and management: Requires Significant Improvement to Good)</title>
@@ -1293,117 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010322/"/>
     <updated>2026-08-31T00:00:00Z</updated>
     <summary>Fife. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001077/2026-08-31/improve</id>
-    <title>Oxton House Residential Home For Older People: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001077/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Glasgow City. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000362/2026-08-31/first_graded</id>
-    <title>Orchardhead Care Home: Graded for the first time: Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000362/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Fife. Graded for the first time: Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2009195687/2026-08-31/improve</id>
-    <title>Northern Lights: Grade improved: Weak (2) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2009195687/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Highland. Grade improved: Weak (2) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000492/2026-08-31/first_graded</id>
-    <title>Moss Park Care Home: Graded for the first time: Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000492/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Highland. Graded for the first time: Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2010272058/2026-08-31/improve</id>
-    <title>Monkbarns: Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2010272058/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Angus. Grade improved: Adequate (3) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000365/2026-08-31/first_graded</id>
-    <title>Millholm: Graded for the first time: Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000365/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>North Ayrshire. Graded for the first time: Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2012311539/2026-08-31/improve</id>
-    <title>Millburn Homes: Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2012311539/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>South Lanarkshire. Grade improved: Adequate (3) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011301463/2026-08-31/improve</id>
-    <title>Lornebank Care Centre: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011301463/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>South Lanarkshire. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003008482/2026-08-31/improve</id>
-    <title>Kintyre House (Care Home): Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003008482/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Highland. Grade improved: Adequate (3) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2011300741/2026-08-31/improve</id>
-    <title>Kinnaird Manor Care Home: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2011300741/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Falkirk. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008185283/2026-08-31/decline</id>
-    <title>Hutton Park Care Home: Grade declined: Very good (5) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008185283/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>North Ayrshire. Grade declined: Very good (5) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2015341181/2026-08-31/new</id>
-    <title>Horizons Residential Care - Glendale House: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2015341181/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Midlothian. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2017361011/2026-08-31/improve</id>
-    <title>Golfhill Care Home: Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2017361011/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Glasgow City. Grade improved: Adequate (3) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008184419/2026-08-31/decline</id>
-    <title>Glenlivet Gardens Care Home: Grade declined: Good (4) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008184419/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Glasgow City. Grade declined: Good (4) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2026000397/2026-08-31/new</id>
-    <title>Gatehouse: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000397/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>East Ayrshire. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2008189964/2026-08-31/improve</id>
-    <title>Forrest Street Residential Children's House: Grade improved: Good (4) to Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2008189964/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>North Lanarkshire. Grade improved: Good (4) to Very good (5)</summary>
   </entry>
 </feed>

@@ -388,5 +388,16 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-25",
+  "locationId": "1-2279756089",
+  "name": "Royal Care Home",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "providerId": "1-2215734457",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
