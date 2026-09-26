@@ -4,8 +4,78 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-25T11:52:09Z</updated>
+  <updated>2026-09-26T11:24:42Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010042-LYTG/2026-09-26/first_rated</id>
+    <title>Fairfield House: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010042-LYTG/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Cardiff. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009258-MWVF/2026-09-26/first_rated</id>
+    <title>Coed Duon: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009258-MWVF/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Caerphilly. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/707/2026-09-26/pic_changed</id>
+    <title>Tinnypark Nursing Home: Person in charge changed: none recorded to Shinomerin Mathew</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/707/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Kilkenny. Person in charge changed: none recorded to Shinomerin Mathew</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/726/2026-09-26/pic_changed</id>
+    <title>St Mary's Residential Care Centre: Person in charge changed: none recorded to Agnes Febina</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/726/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Galway. Person in charge changed: none recorded to Agnes Febina</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/687/2026-09-26/pic_changed</id>
+    <title>St Carthage's House: Person in charge changed: none recorded to Roisin Dennis</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/687/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Waterford. Person in charge changed: none recorded to Roisin Dennis</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/278/2026-09-26/conditions_changed</id>
+    <title>Sacré Coeur Nursing Home: Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/278/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Tipperary. Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/278/2026-09-26/places_changed</id>
+    <title>Sacré Coeur Nursing Home: Registered places changed: 26 to 29</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/278/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Tipperary. Registered places changed: 26 to 29</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/569/2026-09-26/conditions_changed</id>
+    <title>Ospideal Pobal Chorca Dhuibhne (West Kerry Community Hospital): Conditions of registration changed: 3 to 4; new condition: The registered provider shall ensure that no new residents may be admitted to the designated centre until the registered provider has ensure…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/569/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Kerry. Conditions of registration changed: 3 to 4; new condition: The registered provider shall ensure that no new residents may be admitted to the designated centre until the registered provider has ensure…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/310784723/2026-09-26/cancelled</id>
+    <title>EHPAD RESIDENCE  LE MAS ST PIERRE: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/changes/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Haute-Garonne. No longer on the register</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-26/price_changed</id>
+    <title>De Bron: Average daily price changed: €77.68 per day to €77.67 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>East Flanders. Average daily price changed: €77.68 per day to €77.67 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009434-LKDF/2026-09-25/first_rated</id>
     <title>Woodlands Ty Coed: Rated for the first time; lowest theme: Excellent</title>
@@ -1335,75 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2026000396/"/>
     <updated>2026-08-31T00:00:00Z</updated>
     <summary>North Ayrshire. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2018371342/2026-08-31/improve</id>
-    <title>Wallside Grange Care Home: Grade improved: Adequate (3) to Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2018371342/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Falkirk. Grade improved: Adequate (3) to Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001270/2026-08-31/improve</id>
-    <title>Wallace Court: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001270/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Renfrewshire. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000506/2026-08-31/first_graded</id>
-    <title>Thorburn Manor Care Home: Graded for the first time: Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000506/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>City of Edinburgh. Graded for the first time: Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003011547/2026-08-31/decline</id>
-    <title>Summerdale: Grade declined: Good (4) to Weak (2)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003011547/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Falkirk. Grade declined: Good (4) to Weak (2)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2006131208/2026-08-31/decline</id>
-    <title>St. Andrew's Care Home: Grade declined: Adequate (3) to Weak (2)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2006131208/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Scottish Borders. Grade declined: Adequate (3) to Weak (2)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2007162838/2026-08-31/decline</id>
-    <title>Spring Gardens: Grade declined: Good (4) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2007162838/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>City of Edinburgh. Grade declined: Good (4) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003001139/2026-08-31/improve</id>
-    <title>South Beach House: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003001139/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>North Ayrshire. Grade improved: Weak (2) to Adequate (3)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2025000471/2026-08-31/first_graded</id>
-    <title>Senwick House: Graded for the first time: Good (4)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2025000471/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Dumfries &amp; Galloway. Graded for the first time: Good (4)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2020381834/2026-08-31/improve</id>
-    <title>Quarrybrae Gardens: Grade improved: Good (4) to Very good (5)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2020381834/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>North Lanarkshire. Grade improved: Good (4) to Very good (5)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/scotland/change/CS2003010322/2026-08-31/improve</id>
-    <title>Pitlair House Nursing Home: Grade improved: Weak (2) to Adequate (3)</title>
-    <link href="https://roshan1208.github.io/carebeacon/scotland/homes/CS2003010322/"/>
-    <updated>2026-08-31T00:00:00Z</updated>
-    <summary>Fife. Grade improved: Weak (2) to Adequate (3)</summary>
   </entry>
 </feed>

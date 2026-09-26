@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/france/areas/haute-garonne/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/areas/haute-garonne/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/areas/haute-garonne/feed</id>
-  <updated>2026-09-25T11:52:21Z</updated>
+  <updated>2026-09-26T11:24:54Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in Haute-Garonne whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/310784723/2026-09-26/cancelled</id>
+    <title>EHPAD RESIDENCE  LE MAS ST PIERRE: No longer on the register (by 26 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/310784723/"/>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <summary>Haute-Garonne. No longer on the register (by 26 September 2026).</summary>
+  </entry>
 </feed>
