@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/gloucestershire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/gloucestershire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/gloucestershire/feed</id>
-  <updated>2026-09-26T11:24:18Z</updated>
+  <updated>2026-09-27T12:05:30Z</updated>
   <subtitle>Care homes in Gloucestershire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-13487299462/2026-09-27/closed</id>
+    <title>Oak Tree Mews: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-13487299462"/>
+    <updated>2026-09-27T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
 </feed>

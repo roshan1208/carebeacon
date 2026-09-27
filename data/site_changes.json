@@ -399,5 +399,38 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-27",
+  "locationId": "1-10651789901",
+  "name": "Alcedo Care Wigan and St Helens",
+  "region": "North West",
+  "localAuthority": "St. Helens",
+  "providerId": "1-4353693265",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-27",
+  "locationId": "1-123781199",
+  "name": "Vi and John Rubens House",
+  "region": "London",
+  "localAuthority": "Redbridge",
+  "providerId": "1-102642981",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-27",
+  "locationId": "1-13487299462",
+  "name": "Oak Tree Mews",
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "providerId": "1-13373273160",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
