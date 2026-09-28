@@ -4,8 +4,36 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/feed</id>
-  <updated>2026-09-27T12:06:27Z</updated>
+  <updated>2026-09-28T13:53:08Z</updated>
   <subtitle>Aged residential care premises in New Zealand whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/lady-elizabeth-home-hospital-auckland/2026-09-28/recertified</id>
+    <title>Lady Elizabeth Home &amp; Hospital: Certificate end date changed: 8 November 2026 to 8 November 2029 (by 28 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/lady-elizabeth-home-hospital-auckland/"/>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <summary>Counties Manukau District Health Board. Certificate end date changed: 8 November 2026 to 8 November 2029 (by 28 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/cromwell-house-and-hospital-auckland/2026-09-28/recertified</id>
+    <title>Cromwell House and Hospital: Certificate end date changed: 8 October 2026 to 8 October 2029 (by 28 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/cromwell-house-and-hospital-auckland/"/>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certificate end date changed: 8 October 2026 to 8 October 2029 (by 28 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/lady-elizabeth-home-hospital-auckland/2026-09-28/first_rated</id>
+    <title>Lady Elizabeth Home &amp; Hospital: Certification period published for the first time: 36-month certification (by 28 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/lady-elizabeth-home-hospital-auckland/"/>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <summary>Counties Manukau District Health Board. Certification period published for the first time: 36-month certification (by 28 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/miriam-corban-retirement-village-auckland/2026-09-28/cancelled</id>
+    <title>Miriam Corban Retirement Village: No longer on the register (by 28 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/miriam-corban-retirement-village-auckland/"/>
+    <updated>2026-09-28T00:00:00Z</updated>
+    <summary>Waitemata District Health Board. No longer on the register (by 28 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/millvale-house-napier-napier/2026-09-24/services_changed</id>
     <title>Millvale House Napier: Services changed: Dementia care, Psychogeriatric to Psychogeriatric (by 24 September 2026).</title>
