@@ -4,8 +4,92 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-28T13:52:26Z</updated>
+  <updated>2026-09-29T12:52:34Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010603-LDNG/2026-09-29/first_rated</id>
+    <title>Yr Ysgol Ltd: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010603-LDNG/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Powys. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00016405-KTCF/2026-09-29/new</id>
+    <title>Vera Lodge: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00016405-KTCF/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Swansea. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008715-TVTF/2026-09-29/first_rated</id>
+    <title>Ton Road: Rated for the first time; lowest theme: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008715-TVTF/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Torfaen. Rated for the first time; lowest theme: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00016310-LJXG/2026-09-29/new</id>
+    <title>Harbour House: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00016310-LJXG/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Neath Port Talbot. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009702-FJTY/2026-09-29/cancelled</id>
+    <title>Brynteg: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/changes/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Pembrokeshire. No longer on the register</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/addington-rest-home-christchurch/2026-09-29/recertified</id>
+    <title>Addington Rest Home: Certificate end date changed: 3 October 2026 to 3 October 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/addington-rest-home-christchurch/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Certificate end date changed: 3 October 2026 to 3 October 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/addington-rest-home-christchurch/2026-09-29/services_changed</id>
+    <title>Addington Rest Home: Services changed: Medical, Physical, Dementia care, Rest home care, Geriatric to Dementia care, Rest home care, Geriatric, Medical</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/addington-rest-home-christchurch/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Services changed: Medical, Physical, Dementia care, Rest home care, Geriatric to Dementia care, Rest home care, Geriatric, Medical</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/313/2026-09-29/conditions_changed</id>
+    <title>Áras Ui Dhomhnaill Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/313/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Donegal. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/313/2026-09-29/reregistered</id>
+    <title>Áras Ui Dhomhnaill Nursing Home: Registration renewed from 20 May 2026, expiring 19 May 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/313/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Donegal. Registration renewed from 20 May 2026, expiring 19 May 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8600/2026-09-29/conditions_changed</id>
+    <title>Clondalkin Lodge Residential Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8600/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Dublin. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8600/2026-09-29/reregistered</id>
+    <title>Clondalkin Lodge Residential Home: Registration renewed from 20 July 2026, expiring 19 July 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8600/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Dublin. Registration renewed from 20 July 2026, expiring 19 July 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/vera-r-desai-mind-delight-memory-cognitive-training-centre-southern/2026-09-29/cancelled</id>
+    <title>VERA R. DESAI - MIND DELIGHT MEMORY &amp; COGNITIVE TRAINING CENTRE: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/hong-kong/changes/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Southern. No longer on the register</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015440-YRSM/2026-09-28/first_rated</id>
     <title>True Reflection: Rated for the first time; lowest theme: Requires Improvement</title>
@@ -1321,89 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
     <updated>2026-09-14T00:00:00Z</updated>
     <summary>Auckland District Health Board. Bed numbers changed: 27 to 42</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/first_rated</id>
-    <title>The Point Mission Bay Care Centre: Certification period published for the first time: 12-month certification</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. Certification period published for the first time: 12-month certification</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/provider_changed</id>
-    <title>The Point Mission Bay Care Centre: Legal entity changed: Eastcliffe Orakei Management Services LP to The Point Mission Bay Limited</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. Legal entity changed: Eastcliffe Orakei Management Services LP to The Point Mission Bay Limited</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/recertified</id>
-    <title>The Point Mission Bay Care Centre: Certificate end date changed: 21 September 2026 to 31 August 2027</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. Certificate end date changed: 21 September 2026 to 31 August 2027</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-point-mission-bay-care-centre-auckland/2026-09-14/renamed</id>
-    <title>The Point Mission Bay Care Centre: Listed under a new name at the same address: Eastcliffe on Orakei is now The Point Mission Bay Care Centre</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-point-mission-bay-care-centre-auckland/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Auckland District Health Board. Listed under a new name at the same address: Eastcliffe on Orakei is now The Point Mission Bay Care Centre</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/auditor_changed</id>
-    <title>The Booms Lifecare: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/decline</id>
-    <title>The Booms Lifecare: Certification period declined: 36-month certification to 12-month certification</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Certification period declined: 36-month certification to 12-month certification</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/provider_changed</id>
-    <title>The Booms Lifecare: Legal entity changed: Bupa Care Services NZ Limited to The Booms Lifecare Limited</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Legal entity changed: Bupa Care Services NZ Limited to The Booms Lifecare Limited</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/recertified</id>
-    <title>The Booms Lifecare: Certificate end date changed: 12 November 2028 to 31 August 2027</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Certificate end date changed: 12 November 2028 to 31 August 2027</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/the-booms-lifecare-thames/2026-09-14/renamed</id>
-    <title>The Booms Lifecare: Listed under a new name at the same address: The Booms Home &amp; Hospital is now The Booms Lifecare</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/the-booms-lifecare-thames/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>Waikato District Health Board. Listed under a new name at the same address: The Booms Home &amp; Hospital is now The Booms Lifecare</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/auditor_changed</id>
-    <title>Te Whanau Lifecare: Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. Auditor changed: BSI Group New Zealand Ltd to The DAA Group Limited</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/beds_changed</id>
-    <title>Te Whanau Lifecare: Bed numbers changed: 64 to 65</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. Bed numbers changed: 64 to 65</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/te-whanau-lifecare-levin/2026-09-14/decline</id>
-    <title>Te Whanau Lifecare: Certification period declined: 36-month certification to 12-month certification</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/te-whanau-lifecare-levin/"/>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <summary>MidCentral District Health Board. Certification period declined: 36-month certification to 12-month certification</summary>
   </entry>
 </feed>

@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/pembrokeshire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/pembrokeshire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/pembrokeshire/feed</id>
-  <updated>2026-09-28T13:52:28Z</updated>
+  <updated>2026-09-29T12:52:36Z</updated>
   <subtitle>Care homes in Pembrokeshire whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009702-FJTY/2026-09-29/cancelled</id>
+    <title>Brynteg: No longer on the register (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009702-FJTY/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Pembrokeshire. No longer on the register (by 29 September 2026).</summary>
+  </entry>
 </feed>

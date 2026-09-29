@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/operators/oceania-care-company-limited/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/operators/oceania-care-company-limited/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/operators/oceania-care-company-limited/feed</id>
-  <updated>2026-09-28T13:53:08Z</updated>
+  <updated>2026-09-29T12:53:17Z</updated>
   <subtitle>Aged residential care premises run by Oceania Care Company Limited whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/addington-rest-home-christchurch/2026-09-29/services_changed</id>
+    <title>Addington Rest Home: Services changed: Medical, Physical, Dementia care, Rest home care, Geriatric to Dementia care, Rest home care, Geriatric, Medical (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/addington-rest-home-christchurch/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Services changed: Medical, Physical, Dementia care, Rest home care, Geriatric to Dementia care, Rest home care, Geriatric, Medical (by 29 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/addington-rest-home-christchurch/2026-09-29/recertified</id>
+    <title>Addington Rest Home: Certificate end date changed: 3 October 2026 to 3 October 2029 (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/addington-rest-home-christchurch/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Certificate end date changed: 3 October 2026 to 3 October 2029 (by 29 September 2026).</summary>
+  </entry>
 </feed>

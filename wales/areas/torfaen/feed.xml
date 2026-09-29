@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/torfaen/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/areas/torfaen/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/areas/torfaen/feed</id>
-  <updated>2026-09-28T13:52:28Z</updated>
+  <updated>2026-09-29T12:52:36Z</updated>
   <subtitle>Care homes in Torfaen whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008715-TVTF/2026-09-29/first_rated</id>
+    <title>Ton Road: Rated for the first time; lowest theme: Good (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008715-TVTF/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Torfaen. Rated for the first time; lowest theme: Good (by 29 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015440-YRSM/2026-09-28/first_rated</id>
     <title>True Reflection: Rated for the first time; lowest theme: Requires Improvement (by 28 September 2026).</title>

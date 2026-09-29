@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/dublin/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/dublin/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/dublin/feed</id>
-  <updated>2026-09-28T13:52:29Z</updated>
+  <updated>2026-09-29T12:52:37Z</updated>
   <subtitle>Nursing homes in County Dublin whose HIQA registration just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8600/2026-09-29/reregistered</id>
+    <title>Clondalkin Lodge Residential Home: Registration renewed from 20 July 2026, expiring 19 July 2029 (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8600/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Dublin. Registration renewed from 20 July 2026, expiring 19 July 2029 (by 29 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8600/2026-09-29/conditions_changed</id>
+    <title>Clondalkin Lodge Residential Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 29 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8600/"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <summary>Dublin. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 29 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/478/2026-09-25/reregistered</id>
     <title>The Royal Hospital Donnybrook: Registration renewed from 25 September 2026, expiring 24 September 2029 (by 25 September 2026).</title>
