@@ -432,5 +432,16 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-09-30",
+  "locationId": "1-1477142322",
+  "name": "Ash Tree House",
+  "region": "North West",
+  "localAuthority": "Wigan",
+  "providerId": "1-272982643",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

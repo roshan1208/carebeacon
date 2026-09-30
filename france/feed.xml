@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/france/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/feed</id>
-  <updated>2026-09-29T12:52:46Z</updated>
+  <updated>2026-09-30T12:36:27Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in France whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/340799253/2026-09-30/new</id>
+    <title>AJ EHPAD LES COULEURS DU TEMPS : Newly registered (by 30 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/340799253/"/>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <summary>Hérault. Newly registered (by 30 September 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/420784092/2026-09-30/name_changed</id>
+    <title>EHPAD LAMARTINE: Name changed: MAISON RETRAITE PERSONNES AGEES LAMARTINE ST ETIENNE to EHPAD LAMARTINE (by 30 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/420784092/"/>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <summary>Loire. Name changed: MAISON RETRAITE PERSONNES AGEES LAMARTINE ST ETIENNE to EHPAD LAMARTINE (by 30 September 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/france/change/310784723/2026-09-26/cancelled</id>
     <title>EHPAD RESIDENCE  LE MAS ST PIERRE: No longer on the register (by 26 September 2026).</title>

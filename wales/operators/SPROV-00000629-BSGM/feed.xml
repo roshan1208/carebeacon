@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/wales/operators/SPROV-00000629-BSGM/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/wales/operators/SPROV-00000629-BSGM/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/wales/operators/SPROV-00000629-BSGM/feed</id>
-  <updated>2026-09-29T12:52:36Z</updated>
+  <updated>2026-09-30T12:36:17Z</updated>
   <subtitle>Care home services run by Elliots Hill Care Ltd whose Care Inspectorate Wales ratings just moved, or that were just registered or left the register.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009764-WVYG/2026-09-30/first_rated</id>
+    <title>Elliots Hill Care Ltd - Elliots Hill RCH: Rated for the first time; lowest theme: Good (by 30 September 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009764-WVYG/"/>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <summary>Pembrokeshire. Rated for the first time; lowest theme: Good (by 30 September 2026).</summary>
+  </entry>
 </feed>
