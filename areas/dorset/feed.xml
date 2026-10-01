@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/dorset/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/dorset/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/dorset/feed</id>
-  <updated>2026-09-30T12:35:53Z</updated>
+  <updated>2026-10-01T13:13:20Z</updated>
   <subtitle>Care homes in Dorset that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3015110123/2026-10-01/closed</id>
+    <title>St James' Park Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-3015110123"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
 </feed>

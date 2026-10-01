@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/lancashire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/lancashire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/lancashire/feed</id>
-  <updated>2026-09-30T12:35:53Z</updated>
+  <updated>2026-10-01T13:13:20Z</updated>
   <subtitle>Care homes in Lancashire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3140422337/2026-10-01/closed</id>
+    <title>Meadow Bank Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-3140422337"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>North West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2279756089/2026-09-25/closed</id>
     <title>Royal Care Home: Lost its CQC registration.</title>

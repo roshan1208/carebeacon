@@ -443,5 +443,170 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-15659436285",
+  "name": "Kings Court",
+  "region": "East Midlands",
+  "localAuthority": "Nottinghamshire",
+  "providerId": "1-14197586925",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3003785287",
+  "name": "Avon Court Care Home",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3015110123",
+  "name": "St James' Park Care Home",
+  "region": "South West",
+  "localAuthority": "Dorset",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3029415097",
+  "name": "Ridgeway Lodge Care Home",
+  "region": "East",
+  "localAuthority": "Central Bedfordshire",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3052110847",
+  "name": "Waterside Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Sandwell",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3110978392",
+  "name": "Elstree Court Care Home",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3115563740",
+  "name": "Haven Care Home",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3115803526",
+  "name": "The Polegate Care Home",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3121814285",
+  "name": "Himley Mill Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3121937093",
+  "name": "Summerville Care Home",
+  "region": "North West",
+  "localAuthority": "Warrington",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3134115170",
+  "name": "Mersey Parks Care Home",
+  "region": "North West",
+  "localAuthority": "Liverpool",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3134639065",
+  "name": "Perry Locks Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3140422337",
+  "name": "Meadow Bank Care Home",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3152161295",
+  "name": "Coppice Court Care Home",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-01",
+  "locationId": "1-3152161627",
+  "name": "Brompton House Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "providerId": "1-2953247678",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

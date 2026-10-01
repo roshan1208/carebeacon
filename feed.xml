@@ -4,8 +4,197 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-09-30T12:36:15Z</updated>
+  <updated>2026-10-01T13:13:39Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/wyndham-and-districts-community-rest-home-wyndham/2026-10-01/cancelled</id>
+    <title>Wyndham and Districts Community Rest Home: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Southern District Health Board. No longer on the register</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/summerset-down-the-lane-hamilton/2026-10-01/beds_changed</id>
+    <title>Summerset down the Lane: Bed numbers changed: 99 to 64</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/summerset-down-the-lane-hamilton/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Waikato District Health Board. Bed numbers changed: 99 to 64</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/remuera-rest-home-and-hospital-auckland/2026-10-01/new</id>
+    <title>Remuera Rest Home and Hospital: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/remuera-rest-home-and-hospital-auckland/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/marne-street-dunedin/2026-10-01/improve</id>
+    <title>Marne Street: Certification period improved: 12-month certification to 36-month certification</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/marne-street-dunedin/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Southern District Health Board. Certification period improved: 12-month certification to 36-month certification</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/marne-street-dunedin/2026-10-01/recertified</id>
+    <title>Marne Street: Certificate end date changed: 31 October 2026 to 31 October 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/marne-street-dunedin/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Southern District Health Board. Certificate end date changed: 31 October 2026 to 31 October 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/anne-maree-court-rest-home-auckland/2026-10-01/first_rated</id>
+    <title>Anne Maree Court Rest Home: Certification period published for the first time: 36-month certification</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/anne-maree-court-rest-home-auckland/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Waitemata District Health Board. Certification period published for the first time: 36-month certification</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/anne-maree-court-rest-home-auckland/2026-10-01/recertified</id>
+    <title>Anne Maree Court Rest Home: Certificate end date changed: 13 October 2026 to 13 October 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/anne-maree-court-rest-home-auckland/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Waitemata District Health Board. Certificate end date changed: 13 October 2026 to 13 October 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/alden-oakland-tauranga/2026-10-01/beds_changed</id>
+    <title>Alden Oakland: Bed numbers changed: 88 to 84</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/alden-oakland-tauranga/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Bed numbers changed: 88 to 84</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/568/2026-10-01/cancelled</id>
+    <title>Killarney Community Hospitals: No longer on the register</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Kerry. No longer on the register</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/46/2026-10-01/conditions_changed</id>
+    <title>Griffeen Valley Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/46/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Dublin. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/46/2026-10-01/reregistered</id>
+    <title>Griffeen Valley Nursing Home: Registration renewed from 14 September 2026, expiring 13 September 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/46/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Dublin. Registration renewed from 14 September 2026, expiring 13 September 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/220002547/2026-10-01/name_changed</id>
+    <title>Résidence Le Connétable: Name changed: ASSOCIATION LE CONNETABLE to Résidence Le Connétable</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/220002547/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Côtes-d'Armor. Name changed: ASSOCIATION LE CONNETABLE to Résidence Le Connétable</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3052110847/2026-10-01/closed</id>
+    <title>Waterside Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Sandwell. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3115803526/2026-10-01/closed</id>
+    <title>The Polegate Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>East Sussex. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3121937093/2026-10-01/closed</id>
+    <title>Summerville Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Warrington. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3015110123/2026-10-01/closed</id>
+    <title>St James' Park Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Dorset. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3029415097/2026-10-01/closed</id>
+    <title>Ridgeway Lodge Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Central Bedfordshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3134639065/2026-10-01/closed</id>
+    <title>Perry Locks Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Birmingham. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3134115170/2026-10-01/closed</id>
+    <title>Mersey Parks Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Liverpool. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3140422337/2026-10-01/closed</id>
+    <title>Meadow Bank Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Lancashire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-15659436285/2026-10-01/closed</id>
+    <title>Kings Court: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Nottinghamshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3121814285/2026-10-01/closed</id>
+    <title>Himley Mill Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Staffordshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3115563740/2026-10-01/closed</id>
+    <title>Haven Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>East Sussex. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3110978392/2026-10-01/closed</id>
+    <title>Elstree Court Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>East Sussex. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3152161295/2026-10-01/closed</id>
+    <title>Coppice Court Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>East Sussex. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3152161627/2026-10-01/closed</id>
+    <title>Brompton House Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Worcestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3003785287/2026-10-01/closed</id>
+    <title>Avon Court Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Wiltshire. Lost its CQC registration</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009617-SKJQ/2026-09-30/ri_changed</id>
     <title>Ystrad Fechan: Responsible individual changed: Neil Elliott to Nicola Williams</title>
@@ -1216,194 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/changes/"/>
     <updated>2026-09-18T00:00:00Z</updated>
     <summary>County Durham. Lost its CQC registration</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-9654806673/2026-09-18/closed</id>
-    <title>44 Albion Road: Lost its CQC registration</title>
-    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Sutton. Lost its CQC registration</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-18/price_changed</id>
-    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.80 per day to €65.79 per day</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>West Flanders. Average daily price changed: €65.80 per day to €65.79 per day</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-18/price_changed</id>
-    <title>De Bron: Average daily price changed: €77.67 per day to €77.68 per day</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>East Flanders. Average daily price changed: €77.67 per day to €77.68 per day</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015042-FPXM/2026-09-17/ri_changed</id>
-    <title>Dolywern: Responsible individual changed: none recorded to Justine Richardson</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015042-FPXM/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Wrexham. Responsible individual changed: none recorded to Justine Richardson</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015340-NJWD/2026-09-17/first_rated</id>
-    <title>Cambridge House: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015340-NJWD/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Newport. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009174-LPHM/2026-09-17/first_rated</id>
-    <title>Bryncoed: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009174-LPHM/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Caerphilly. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/9276/2026-09-17/pic_changed</id>
-    <title>Ursuline Manor Nursing Home: Person in charge changed: none recorded to Anne Quinn</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/9276/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Sligo. Person in charge changed: none recorded to Anne Quinn</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/7785/2026-09-17/pic_changed</id>
-    <title>Northwood Residential Home: Person in charge changed: none recorded to Celine Gicale</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/7785/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Dublin. Person in charge changed: none recorded to Celine Gicale</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-09-17/places_changed</id>
-    <title>Regina Coeli: Recognised places changed: 3 to 87</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>West Flanders. Recognised places changed: 3 to 87</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-09-17/price_changed</id>
-    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>West Flanders. Average daily price changed: €65.79 per day to €65.80 per day</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-09-17/price_changed</id>
-    <title>De Bron: Average daily price changed: €77.68 per day to €77.67 per day</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>East Flanders. Average daily price changed: €77.68 per day to €77.67 per day</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/105945/2026-09-17/new</id>
-    <title>Alice: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/105945/"/>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <summary>Antwerp. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008781-RJMP/2026-09-16/first_rated</id>
-    <title>Y Garreg Lwyd Care Home: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008781-RJMP/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Carmarthenshire. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010148-BSLK/2026-09-16/ri_changed</id>
-    <title>Hengoed Park Care Home: Responsible individual changed: none recorded to TIMOTHY  Williams</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010148-BSLK/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Swansea. Responsible individual changed: none recorded to TIMOTHY  Williams</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00012216-YNQD/2026-09-16/first_rated</id>
-    <title>Glyn Ebbw House: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00012216-YNQD/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Blaenau Gwent. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009218-FYGH/2026-09-16/first_rated</id>
-    <title>Brompton Lodge limited: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009218-FYGH/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Conwy. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/9276/2026-09-16/new</id>
-    <title>Ursuline Manor Nursing Home: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/9276/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Sligo. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/603/2026-09-16/pic_changed</id>
-    <title>New Houghton Hospital: Person in charge changed: Sonia Samson  (Deputising) for Margaret Nowlan O'Neill (Absent) to Margaret Nowlan O'Neill</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/603/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Wexford. Person in charge changed: Sonia Samson  (Deputising) for Margaret Nowlan O'Neill (Absent) to Margaret Nowlan O'Neill</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/361/2026-09-16/conditions_changed</id>
-    <title>Ballinasloe Care Centre: Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/361/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Galway. Conditions of registration changed: 4 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/361/2026-09-16/places_changed</id>
-    <title>Ballinasloe Care Centre: Registered places changed: 21 to 60</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/361/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Galway. Registered places changed: 21 to 60</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L0946/2026-09-16/name_changed</id>
-    <title>SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]: Name changed: SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE] / SENIOR CARE (TAI WAH) ELDERLY CARE HOME CUM ELDERLY DAY CARE CENTRE [CCSV RSP] to SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]</title>
-    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L0946/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Yau Tsim Mong. Name changed: SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE] / SENIOR CARE (TAI WAH) ELDERLY CARE HOME CUM ELDERLY DAY CARE CENTRE [CCSV RSP] to SENIOR CARE (TAI WAH) ELDERLY CARE HOME [RCHE]</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L0069/2026-09-16/name_changed</id>
-    <title>OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY: Name changed: OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY</title>
-    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L0069/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Tai Po. Name changed: OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME LIMITED [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L0070/2026-09-16/name_changed</id>
-    <title>OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1): Name changed: OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1) [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1)</title>
-    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L0070/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Tai Po. Name changed: OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1) [CCSV RSP] to OI KWAN CARE FOR THE AGED HOME (BRANCH 1) [RCHE] / OI KWAN CARE FOR THE AGED CUM DAY CARE CENTRE FOR THE ELDERLY (BRANCH 1)</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/800009052/2026-09-16/name_changed</id>
-    <title>EHPAD MA MAISON: Name changed: EHPAD PSP AMIENS to EHPAD MA MAISON</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/800009052/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Somme. Name changed: EHPAD PSP AMIENS to EHPAD MA MAISON</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170022834/2026-09-16/provider_changed</id>
-    <title>EHPAD LA MAISON DE BAILLAC: Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/170022834/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Charente-Maritime. Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170783625/2026-09-16/name_changed</id>
-    <title>EHPAD DE SAINT-MARTIN de Rê: Name changed: EHPAD DE SAINT-MARTIN to EHPAD DE SAINT-MARTIN de Rê</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/170783625/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Charente-Maritime. Name changed: EHPAD DE SAINT-MARTIN to EHPAD DE SAINT-MARTIN de Rê</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/170783625/2026-09-16/provider_changed</id>
-    <title>EHPAD DE SAINT-MARTIN de Rê: Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/170783625/"/>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <summary>Charente-Maritime. Managing entity changed: GPE HOSPITALIER LA ROCHELLE-RE-AUNIS to GROUPE HOSPITALIER LA ROCHELLE-RE-AUNI</summary>
   </entry>
 </feed>
