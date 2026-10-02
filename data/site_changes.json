@@ -608,5 +608,71 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-136010851",
+  "name": "Richford Gate",
+  "region": "London",
+  "localAuthority": "Hammersmith and Fulham",
+  "providerId": "1-101653089",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-13910095779",
+  "name": "Bee Better Care",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-13349208977",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-18274705267",
+  "name": "Cocoon Harrogate",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-16441706729",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-571443351",
+  "name": "The Windsor Foot and Ankle Clinic",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "providerId": "1-506591798",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-5774425874",
+  "name": "MiHomecare Kensington and Chelsea",
+  "region": "London",
+  "localAuthority": "Hammersmith and Fulham",
+  "providerId": "1-101664994",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-02",
+  "locationId": "1-9894747015",
+  "name": "Skin Doctor Manchester",
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "providerId": "1-9364479060",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

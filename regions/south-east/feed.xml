@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/south-east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/south-east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/south-east/feed</id>
-  <updated>2026-10-01T13:13:20Z</updated>
+  <updated>2026-10-02T12:34:33Z</updated>
   <subtitle>Care homes in South East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-571443351/2026-10-02/closed</id>
+    <title>The Windsor Foot and Ankle Clinic: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-571443351"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3152161295/2026-10-01/closed</id>
     <title>Coppice Court Care Home: Lost its CQC registration.</title>

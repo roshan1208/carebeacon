@@ -4,8 +4,85 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-01T13:13:39Z</updated>
+  <updated>2026-10-02T12:34:59Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/492/2026-10-02/pic_changed</id>
+    <title>St Colman's Residential Care Centre: Person in charge changed: none recorded to Natasha Murray</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/492/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Wicklow. Person in charge changed: none recorded to Natasha Murray</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/7/2026-10-02/pic_changed</id>
+    <title>Ashbury Nursing Home: Person in charge changed: none recorded to Min Wei</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/7/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Dublin. Person in charge changed: none recorded to Min Wei</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L1368/2026-10-02/new</id>
+    <title>KIN PAK (MONG KOK) ELDERLY HOME: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L1368/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Yau Tsim Mong. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/460780331/2026-10-02/name_changed</id>
+    <title>EHPAD  LA  MAISON DE MELANIE: Name changed: EHPAD MAISON DE MELANIE - SALVIAC to EHPAD  LA  MAISON DE MELANIE</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/460780331/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Lot. Name changed: EHPAD MAISON DE MELANIE - SALVIAC to EHPAD  LA  MAISON DE MELANIE</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-571443351/2026-10-02/closed</id>
+    <title>The Windsor Foot and Ankle Clinic: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Buckinghamshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-9894747015/2026-10-02/closed</id>
+    <title>Skin Doctor Manchester: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Manchester. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-136010851/2026-10-02/closed</id>
+    <title>Richford Gate: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Hammersmith and Fulham. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-5774425874/2026-10-02/closed</id>
+    <title>MiHomecare Kensington and Chelsea: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>Hammersmith and Fulham. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-18274705267/2026-10-02/closed</id>
+    <title>Cocoon Harrogate: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>North Yorkshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-13910095779/2026-10-02/closed</id>
+    <title>Bee Better Care: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>North Yorkshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-10-02/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 3 to 87</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 3 to 87</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/wyndham-and-districts-community-rest-home-wyndham/2026-10-01/cancelled</id>
     <title>Wyndham and Districts Community Rest Home: No longer on the register</title>
@@ -1328,82 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/ireland/homes/5312/"/>
     <updated>2026-09-18T00:00:00Z</updated>
     <summary>Monaghan. Person in charge changed: none recorded to Christeena Thomas</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L0909/2026-09-18/name_changed</id>
-    <title>JOCKEY CLUB CENTRE FOR POSITIVE AGEING[RCHE]/JOCKEY CLUB CENTRE FOR POSITIVE AGEING [CCSV RSP]: Name changed: JOCKEY CLUB CENTRE FOR POSITIVE AGEING to JOCKEY CLUB CENTRE FOR POSITIVE AGEING[RCHE]/JOCKEY CLUB CENTRE FOR POSITIVE AGEING [CCSV RSP]</title>
-    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L0909/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Sha Tin. Name changed: JOCKEY CLUB CENTRE FOR POSITIVE AGEING to JOCKEY CLUB CENTRE FOR POSITIVE AGEING[RCHE]/JOCKEY CLUB CENTRE FOR POSITIVE AGEING [CCSV RSP]</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/690785605/2026-09-18/name_changed</id>
-    <title>EHPAD SAINTE-ANNE - BRIGNAIS: Name changed: EHPAD SAINTE-ANNE / BRIGNAIS to EHPAD SAINTE-ANNE - BRIGNAIS</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/690785605/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Rhône. Name changed: EHPAD SAINTE-ANNE / BRIGNAIS to EHPAD SAINTE-ANNE - BRIGNAIS</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/690790340/2026-09-18/name_changed</id>
-    <title>EHPAD SAINT-ANNE - LYON 9EME: Name changed: EHPAD SAINT-ANNE / LYON 9EME to EHPAD SAINT-ANNE - LYON 9EME</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/690790340/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Rhône. Name changed: EHPAD SAINT-ANNE / LYON 9EME to EHPAD SAINT-ANNE - LYON 9EME</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/260024492/2026-09-18/new</id>
-    <title>EHPAD Le Fil de Soi: Newly registered</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/260024492/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Drôme. Newly registered</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/740009311/2026-09-18/name_changed</id>
-    <title>EHPAD DU HAUT CHABLAIS VACHERESSE: Name changed: EHPAD DU HAUT CHABLAIS / VACHERESSE to EHPAD DU HAUT CHABLAIS VACHERESSE</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/740009311/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Haute-Savoie. Name changed: EHPAD DU HAUT CHABLAIS / VACHERESSE to EHPAD DU HAUT CHABLAIS VACHERESSE</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/740009121/2026-09-18/name_changed</id>
-    <title>EHPAD DU HAUT CHABLAIS - ST JEAN D'AULPS: Name changed: EHPAD DU HAUT CHABLAIS/ST JEAN D'AULPS to EHPAD DU HAUT CHABLAIS - ST JEAN D'AULPS</title>
-    <link href="https://roshan1208.github.io/carebeacon/france/homes/740009121/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Haute-Savoie. Name changed: EHPAD DU HAUT CHABLAIS/ST JEAN D'AULPS to EHPAD DU HAUT CHABLAIS - ST JEAN D'AULPS</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-544421663/2026-09-18/closed</id>
-    <title>The Coppice Surgery Partnership: Lost its CQC registration</title>
-    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>West Sussex. Lost its CQC registration</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27153531747/2026-09-18/rated</id>
-    <title>The Coppice Surgery: Rated for the first time: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/homes/the-coppice-surgery-1-27153531747/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>West Sussex. Rated for the first time: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-126240814/2026-09-18/closed</id>
-    <title>Manor Court: Lost its CQC registration</title>
-    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Plymouth. Lost its CQC registration</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-2670543973/2026-09-18/closed</id>
-    <title>Homeleigh: Lost its CQC registration</title>
-    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>Manchester. Lost its CQC registration</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-5902193838/2026-09-18/closed</id>
-    <title>Benfield Hall Nursing Home: Lost its CQC registration</title>
-    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <summary>County Durham. Lost its CQC registration</summary>
   </entry>
 </feed>
