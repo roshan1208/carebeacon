@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/roscommon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/roscommon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/roscommon/feed</id>
-  <updated>2026-10-02T12:35:02Z</updated>
+  <updated>2026-10-03T11:41:14Z</updated>
   <subtitle>Nursing homes in County Roscommon whose HIQA registration just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/383/2026-10-03/reregistered</id>
+    <title>Shannon Lodge Nursing Home: Registration renewed from 1 June 2026, expiring 31 May 2029 (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/383/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Roscommon. Registration renewed from 1 June 2026, expiring 31 May 2029 (by 3 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/383/2026-10-03/conditions_changed</id>
+    <title>Shannon Lodge Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/383/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Roscommon. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</summary>
+  </entry>
 </feed>

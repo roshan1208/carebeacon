@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/france/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/feed</id>
-  <updated>2026-10-02T12:35:11Z</updated>
+  <updated>2026-10-03T11:41:20Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in France whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/160008280/2026-10-03/cancelled</id>
+    <title>PUV - RESIDENCE DU NOBLET: No longer on the register (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/160008280/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Charente. No longer on the register (by 3 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/france/change/460780331/2026-10-02/name_changed</id>
     <title>EHPAD  LA  MAISON DE MELANIE: Name changed: EHPAD MAISON DE MELANIE - SALVIAC to EHPAD  LA  MAISON DE MELANIE (by 2 October 2026).</title>

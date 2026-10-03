@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/clare/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/clare/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/clare/feed</id>
-  <updated>2026-10-02T12:35:02Z</updated>
+  <updated>2026-10-03T11:41:14Z</updated>
   <subtitle>Nursing homes in County Clare whose HIQA registration just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/450/2026-10-03/reregistered</id>
+    <title>St. Dominic Savio Nursing Home: Registration renewed from 30 September 2026, expiring 29 September 2029 (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/450/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Clare. Registration renewed from 30 September 2026, expiring 29 September 2029 (by 3 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/450/2026-10-03/conditions_changed</id>
+    <title>St. Dominic Savio Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/450/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Clare. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</summary>
+  </entry>
 </feed>

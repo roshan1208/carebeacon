@@ -674,5 +674,26 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-03",
+  "locationId": "1-6081634380",
+  "name": "Because We Care Northampton",
+  "region": "East Midlands",
+  "localAuthority": "West Northamptonshire",
+  "providerId": "1-5103109080",
+  "type": "reopened",
+  "to_status": "Registered"
+ },
+ {
+  "date": "2026-10-03",
+  "locationId": "1-7886799926",
+  "name": "Vaccination UK Limited",
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "providerId": "1-101634166",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

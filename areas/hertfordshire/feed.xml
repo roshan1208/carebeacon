@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/hertfordshire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/hertfordshire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/hertfordshire/feed</id>
-  <updated>2026-10-02T12:34:33Z</updated>
+  <updated>2026-10-03T11:40:56Z</updated>
   <subtitle>Care homes in Hertfordshire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-7886799926/2026-10-03/closed</id>
+    <title>Vaccination UK Limited: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-7886799926"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
 </feed>

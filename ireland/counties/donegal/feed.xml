@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/donegal/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/donegal/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/donegal/feed</id>
-  <updated>2026-10-02T12:35:02Z</updated>
+  <updated>2026-10-03T11:41:14Z</updated>
   <subtitle>Nursing homes in County Donegal whose HIQA registration just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/346/2026-10-03/reregistered</id>
+    <title>Hillcrest House Nursing Home: Registration renewed from 30 May 2026, expiring 29 May 2029 (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/346/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Donegal. Registration renewed from 30 May 2026, expiring 29 May 2029 (by 3 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/346/2026-10-03/conditions_changed</id>
+    <title>Hillcrest House Nursing Home: Conditions of registration changed: 7 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/346/"/>
+    <updated>2026-10-03T00:00:00Z</updated>
+    <summary>Donegal. Conditions of registration changed: 7 to 3; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 3 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/619/2026-09-30/conditions_changed</id>
     <title>Falcarragh Community Hospital: A condition of registration was amended; now reads: The physical environment in the designated centre must be renovated and refurbished to include a kitchen and appropriate access to the desig… (by 30 September 2026).</title>

@@ -403,6 +403,10 @@
   "name": "Doveleigh Care Limited",
   "homes": 4
  },
+ "1-101614553": {
+  "name": "Glenmore Trust",
+  "homes": 2
+ },
  "1-101614679": {
   "name": "Extrafriend Limited",
   "homes": 2
@@ -905,10 +909,6 @@
  },
  "1-101633935": {
   "name": "Ms Sivanithy Rajaratnam",
-  "homes": 2
- },
- "1-101634166": {
-  "name": "Vaccination UK Limited",
   "homes": 2
  },
  "1-101634354": {
@@ -2569,7 +2569,7 @@
  },
  "1-101669326": {
   "name": "Fosse Healthcare Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-101669569": {
   "name": "Step Forward (Nottingham) Limited",
@@ -3649,7 +3649,7 @@
  },
  "1-102642790": {
   "name": "Royal Mencap Society",
-  "homes": 29
+  "homes": 31
  },
  "1-102642859": {
   "name": "Abbeyfield Society (The)",
@@ -3801,7 +3801,7 @@
  },
  "1-102643500": {
   "name": "Circle Health Group Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-102643516": {
   "name": "Nuffield Health",
@@ -4897,7 +4897,7 @@
  },
  "1-1501026800": {
   "name": "Mountain Healthcare Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-15019946449": {
   "name": "Colourful Care 2 Limited",
@@ -4945,7 +4945,7 @@
  },
  "1-152953749": {
   "name": "Oasis Dental Care Limited",
-  "homes": 2
+  "homes": 4
  },
  "1-152955249": {
   "name": "Xeon Smiles UK Limited",
@@ -4957,15 +4957,15 @@
  },
  "1-152966682": {
   "name": "Balbir Singh Bhandal, Amrik Singh Bhandal & Baljit Singh Bhandal",
-  "homes": 2
+  "homes": 3
  },
  "1-152986753": {
   "name": "Rodericks Dental Partners Limited",
-  "homes": 7
+  "homes": 8
  },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
-  "homes": 7
+  "homes": 8
  },
  "1-153033131": {
   "name": "The Smile Studios Limited",
@@ -5951,6 +5951,14 @@
   "name": "Qualia Care Limited",
   "homes": 8
  },
+ "1-28623953734": {
+  "name": "Milan Chande & Lee Mullan",
+  "homes": 2
+ },
+ "1-28641656126": {
+  "name": "IPP Analytics Limited",
+  "homes": 4
+ },
  "1-2870786365": {
   "name": "Tailored Transitions Ltd",
   "homes": 3
@@ -6161,7 +6169,7 @@
  },
  "1-349152381": {
   "name": "Dimensions (UK) Limited",
-  "homes": 20
+  "homes": 21
  },
  "1-3508042374": {
   "name": "Aspens Charities",
@@ -7290,6 +7298,10 @@
  "RBT": {
   "name": "Mid Cheshire Hospitals NHS Foundation Trust",
   "homes": 2
+ },
+ "RHM": {
+  "name": "University Hospital Southampton NHS Foundation Trust",
+  "homes": 3
  },
  "RHU": {
   "name": "Portsmouth Hospitals University NHS Trust",
