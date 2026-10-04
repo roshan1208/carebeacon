@@ -695,5 +695,170 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-164240803",
+  "name": "Presentation Sisters Care Centre",
+  "region": "East Midlands",
+  "localAuthority": "Derbyshire",
+  "providerId": "1-153813336",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065035",
+  "name": "Aberford Hall",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065241",
+  "name": "Admirals Reach Care Home",
+  "region": "East",
+  "localAuthority": "Essex",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065295",
+  "name": "Aston House Care Home",
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065359",
+  "name": "Bradley Hall",
+  "region": "East Midlands",
+  "localAuthority": "Leicester",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065483",
+  "name": "Chandlers Ford Care Home",
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27713065565",
+  "name": "Godden Lodge Care Home",
+  "region": "East",
+  "localAuthority": "Essex",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27746651095",
+  "name": "Launton Grange Care Home",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27748483415",
+  "name": "Market Lavington Care Home",
+  "region": "South West",
+  "localAuthority": "Wiltshire",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27748483500",
+  "name": "River Court Care Home",
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27748483584",
+  "name": "The Harefield Care Home",
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-27748483611",
+  "name": "The Hornchurch Care Home",
+  "region": "London",
+  "localAuthority": "Havering",
+  "providerId": "1-101659771",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-28228253682",
+  "name": "Alcedo Care North Yorkshire",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Bradford",
+  "providerId": "1-4095458449",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-29291342158",
+  "name": "Broomfield Hospital Laboratories",
+  "region": "East",
+  "localAuthority": "Essex",
+  "providerId": "1-28641656126",
+  "type": "rated",
+  "from": null,
+  "to": "Requires improvement"
+ },
+ {
+  "date": "2026-10-04",
+  "locationId": "1-4006291007",
+  "name": "Gittisham Hill House",
+  "region": "South West",
+  "localAuthority": "Devon",
+  "providerId": "1-3928763125",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

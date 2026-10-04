@@ -4,8 +4,36 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/east/feed</id>
-  <updated>2026-10-03T11:40:56Z</updated>
+  <updated>2026-10-04T12:22:39Z</updated>
   <subtitle>Care homes in East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29291342158/2026-10-04/rated</id>
+    <title>Broomfield Hospital Laboratories: Rated for the first time: Requires improvement.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-29291342158"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>East. Rated for the first time: Requires improvement.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27748483500/2026-10-04/closed</id>
+    <title>River Court Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27748483500"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27713065565/2026-10-04/closed</id>
+    <title>Godden Lodge Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27713065565"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27713065241/2026-10-04/closed</id>
+    <title>Admirals Reach Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27713065241"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>East. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-7886799926/2026-10-03/closed</id>
     <title>Vaccination UK Limited: Lost its CQC registration.</title>

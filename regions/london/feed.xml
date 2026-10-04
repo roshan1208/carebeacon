@@ -4,8 +4,29 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/london/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/london/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/london/feed</id>
-  <updated>2026-10-03T11:40:56Z</updated>
+  <updated>2026-10-04T12:22:39Z</updated>
   <subtitle>Care homes in London that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27748483611/2026-10-04/closed</id>
+    <title>The Hornchurch Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27748483611"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27748483584/2026-10-04/closed</id>
+    <title>The Harefield Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27748483584"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27713065295/2026-10-04/closed</id>
+    <title>Aston House Care Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-27713065295"/>
+    <updated>2026-10-04T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-5774425874/2026-10-02/closed</id>
     <title>MiHomecare Kensington and Chelsea: Lost its CQC registration.</title>
