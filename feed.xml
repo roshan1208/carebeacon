@@ -4,8 +4,64 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-04T12:23:07Z</updated>
+  <updated>2026-10-05T14:35:41Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/richard-hadlee-retirement-village-christchurch/2026-10-05/new</id>
+    <title>Richard Hadlee Retirement Village: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/richard-hadlee-retirement-village-christchurch/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Canterbury District Health Board. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fergusson-home-retirement-village-rotorua/2026-10-05/improve</id>
+    <title>Fergusson Home &amp; Retirement Village: Certification period improved: 12-month certification to 36-month certification</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fergusson-home-retirement-village-rotorua/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Lakes District Health Board. Certification period improved: 12-month certification to 36-month certification</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fergusson-home-retirement-village-rotorua/2026-10-05/recertified</id>
+    <title>Fergusson Home &amp; Retirement Village: Certificate end date changed: 31 October 2026 to 31 October 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fergusson-home-retirement-village-rotorua/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Lakes District Health Board. Certificate end date changed: 31 October 2026 to 31 October 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/ascot-house-auckland/2026-10-05/first_rated</id>
+    <title>Ascot House: Certification period published for the first time: 36-month certification</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/ascot-house-auckland/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Waitemata District Health Board. Certification period published for the first time: 36-month certification</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/ascot-house-auckland/2026-10-05/recertified</id>
+    <title>Ascot House: Certificate end date changed: 6 October 2026 to 6 October 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/ascot-house-auckland/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Waitemata District Health Board. Certificate end date changed: 6 October 2026 to 6 October 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/604/2026-10-05/conditions_changed</id>
+    <title>St John's Community Hospital: A condition of registration was amended; now reads: The maximum number of persons that may be accommodated at the designated centre is: 104.By 30 November 2026, the Health Service Executive (H…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/604/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Wexford. A condition of registration was amended; now reads: The maximum number of persons that may be accommodated at the designated centre is: 104.By 30 November 2026, the Health Service Executive (H…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/405/2026-10-05/conditions_changed</id>
+    <title>Ard Na Rí Nursing Home: A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/405/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>Limerick. A condition of registration was amended; now reads: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3579/2026-10-05/places_changed</id>
+    <title>Regina Coeli: Recognised places changed: 87 to 3</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3579/"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <summary>West Flanders. Recognised places changed: 87 to 3</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-27748483611/2026-10-04/closed</id>
     <title>The Hornchurch Care Home: Lost its CQC registration</title>
@@ -1349,61 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/"/>
     <updated>2026-09-21T00:00:00Z</updated>
     <summary>Swansea. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00010333-CFHH/2026-09-21/first_rated</id>
-    <title>Cae Glas: Rated for the first time; lowest theme: Requires Improvement</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00010333-CFHH/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Denbighshire. Rated for the first time; lowest theme: Requires Improvement</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00015469-LKQN/2026-09-21/first_rated</id>
-    <title>Bryn y Wawr: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00015469-LKQN/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Carmarthenshire. Rated for the first time; lowest theme: Good</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009388-FXLJ/2026-09-21/first_rated</id>
-    <title>Beatrice Webb: Rated for the first time; lowest theme: Requires Significant Improvement</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009388-FXLJ/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Caerphilly. Rated for the first time; lowest theme: Requires Significant Improvement</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/summerset-waikanae-waikanae/2026-09-21/cancelled</id>
-    <title>Summerset Waikanae: No longer on the register</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/changes/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Capital and Coast District Health Board. No longer on the register</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/radius-windsor-court-rest-home-ohaupo/2026-09-21/cancelled</id>
-    <title>Radius Windsor Court Rest Home: No longer on the register</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/changes/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Waikato District Health Board. No longer on the register</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/first_rated</id>
-    <title>Parkstone Care Home: Certification period published for the first time: 48-month certification</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Canterbury District Health Board. Certification period published for the first time: 48-month certification</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/parkstone-care-home-christchurch/2026-09-21/recertified</id>
-    <title>Parkstone Care Home: Certificate end date changed: 7 October 2026 to 7 October 2030</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/parkstone-care-home-christchurch/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Canterbury District Health Board. Certificate end date changed: 7 October 2026 to 7 October 2030</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/cairnfield-house-whangarei/2026-09-21/first_rated</id>
-    <title>Cairnfield House: Certification period published for the first time: 48-month certification</title>
-    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/cairnfield-house-whangarei/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Northland District Health Board. Certification period published for the first time: 48-month certification</summary>
   </entry>
 </feed>
