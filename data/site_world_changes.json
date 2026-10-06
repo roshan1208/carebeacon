@@ -1,5 +1,60 @@
 [
  {
+  "date": "2026-10-06",
+  "country": "Ireland",
+  "countryPath": "ireland/",
+  "kind": "other",
+  "type": "pic_changed",
+  "name": "Rivervale Nursing Home",
+  "place": "Tipperary",
+  "text": "Person in charge changed: none recorded to Megan Flanagan",
+  "url": "https://roshan1208.github.io/carebeacon/ireland/homes/5519/",
+  "id": "5519",
+  "placePath": "ireland/counties/tipperary/",
+  "since": "2026-10-05"
+ },
+ {
+  "date": "2026-10-06",
+  "country": "Ireland",
+  "countryPath": "ireland/",
+  "kind": "other",
+  "type": "pic_changed",
+  "name": "Lakes Nursing Home",
+  "place": "Clare",
+  "text": "Person in charge changed: none recorded to Neethu Krishnan Anitha",
+  "url": "https://roshan1208.github.io/carebeacon/ireland/homes/447/",
+  "id": "447",
+  "placePath": "ireland/counties/clare/",
+  "since": "2026-10-05"
+ },
+ {
+  "date": "2026-10-06",
+  "country": "England",
+  "countryPath": "",
+  "kind": "closed",
+  "type": "closed",
+  "name": "Stowe Mount Care Home",
+  "place": "Staffordshire",
+  "text": "Lost its CQC registration",
+  "url": "https://roshan1208.github.io/carebeacon/changes/",
+  "id": "1-23328524788",
+  "placePath": "areas/staffordshire/"
+ },
+ {
+  "date": "2026-10-06",
+  "country": "Belgium (Flanders)",
+  "countryPath": "flanders/",
+  "kind": "other",
+  "type": "price_changed",
+  "name": "De Bron",
+  "place": "East Flanders",
+  "text": "Average daily price changed: €77.68 per day to €77.67 per day",
+  "url": "https://roshan1208.github.io/carebeacon/flanders/homes/3291/",
+  "id": "3291",
+  "placePath": "flanders/areas/east-flanders/",
+  "since": "2026-10-05"
+ },
+ {
   "date": "2026-10-05",
   "country": "New Zealand",
   "countryPath": "new-zealand/",
@@ -844,19 +899,6 @@
   "placePath": "areas/sandwell/"
  },
  {
-  "date": "2026-10-01",
-  "country": "England",
-  "countryPath": "",
-  "kind": "closed",
-  "type": "closed",
-  "name": "The Polegate Care Home",
-  "place": "East Sussex",
-  "text": "Lost its CQC registration",
-  "url": "https://roshan1208.github.io/carebeacon/changes/",
-  "id": "1-3115803526",
-  "placePath": "areas/east-sussex/"
- },
- {
   "date": "2026-09-30",
   "country": "Wales",
   "countryPath": "wales/",
@@ -1502,34 +1544,6 @@
  },
  {
   "date": "2026-09-28",
-  "country": "Ireland",
-  "countryPath": "ireland/",
-  "kind": "other",
-  "type": "conditions_changed",
-  "name": "Ballincollig Community Nursing Unit",
-  "place": "Cork",
-  "text": "Conditions of registration changed: 3 to 4; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc…",
-  "url": "https://roshan1208.github.io/carebeacon/ireland/homes/712/",
-  "id": "712",
-  "placePath": "ireland/counties/cork/",
-  "since": "2026-09-27"
- },
- {
-  "date": "2026-09-28",
-  "country": "Ireland",
-  "countryPath": "ireland/",
-  "kind": "other",
-  "type": "reregistered",
-  "name": "Ballincollig Community Nursing Unit",
-  "place": "Cork",
-  "text": "Registration renewed from 28 September 2026, expiring 27 September 2029",
-  "url": "https://roshan1208.github.io/carebeacon/ireland/homes/712/",
-  "id": "712",
-  "placePath": "ireland/counties/cork/",
-  "since": "2026-09-27"
- },
- {
-  "date": "2026-09-28",
   "country": "Belgium (Flanders)",
   "countryPath": "flanders/",
   "kind": "other",
@@ -1638,20 +1652,6 @@
   "url": "https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009434-LKDF/",
   "id": "SIN-00009434-LKDF",
   "placePath": "wales/areas/flintshire/",
-  "since": "2026-09-24"
- },
- {
-  "date": "2026-09-25",
-  "country": "France",
-  "countryPath": "france/",
-  "kind": "closed",
-  "type": "cancelled",
-  "name": "EHPAD RESIDENCE SANTE LE JARDIN DES PLANTES",
-  "place": "Paris",
-  "text": "No longer on the register",
-  "url": "https://roshan1208.github.io/carebeacon/france/changes/",
-  "id": "750823965",
-  "placePath": "france/areas/paris/",
   "since": "2026-09-24"
  }
 ]

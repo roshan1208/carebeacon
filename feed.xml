@@ -4,8 +4,36 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-05T14:35:41Z</updated>
+  <updated>2026-10-06T13:20:10Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/5519/2026-10-06/pic_changed</id>
+    <title>Rivervale Nursing Home: Person in charge changed: none recorded to Megan Flanagan</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/5519/"/>
+    <updated>2026-10-06T00:00:00Z</updated>
+    <summary>Tipperary. Person in charge changed: none recorded to Megan Flanagan</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/447/2026-10-06/pic_changed</id>
+    <title>Lakes Nursing Home: Person in charge changed: none recorded to Neethu Krishnan Anitha</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/447/"/>
+    <updated>2026-10-06T00:00:00Z</updated>
+    <summary>Clare. Person in charge changed: none recorded to Neethu Krishnan Anitha</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-23328524788/2026-10-06/closed</id>
+    <title>Stowe Mount Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-06T00:00:00Z</updated>
+    <summary>Staffordshire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3291/2026-10-06/price_changed</id>
+    <title>De Bron: Average daily price changed: €77.68 per day to €77.67 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3291/"/>
+    <updated>2026-10-06T00:00:00Z</updated>
+    <summary>East Flanders. Average daily price changed: €77.68 per day to €77.67 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/richard-hadlee-retirement-village-christchurch/2026-10-05/new</id>
     <title>Richard Hadlee Retirement Village: Newly registered</title>
@@ -1377,33 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8637/"/>
     <updated>2026-09-22T00:00:00Z</updated>
     <summary>Waterford. Registration renewed from 22 September 2026, expiring 21 September 2029</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/562/2026-09-22/pic_changed</id>
-    <title>Caherciveen Community Hospital: Person in charge changed: Noreen Donnelly to Noreen Donnelly Cournane</title>
-    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/562/"/>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <summary>Kerry. Person in charge changed: Noreen Donnelly to Noreen Donnelly Cournane</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00008976-YLQG/2026-09-21/first_rated</id>
-    <title>Trevelyan: Rated for the first time; lowest theme: Excellent</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00008976-YLQG/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Carmarthenshire. Rated for the first time; lowest theme: Excellent</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00013636-RGGY/2026-09-21/cancelled</id>
-    <title>Pum Copa: No longer on the register</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/changes/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Powys. No longer on the register</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/wales/change/SIN-00009916-JNGL/2026-09-21/first_rated</id>
-    <title>Hengoed Court Care Home: Rated for the first time; lowest theme: Good</title>
-    <link href="https://roshan1208.github.io/carebeacon/wales/homes/SIN-00009916-JNGL/"/>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <summary>Swansea. Rated for the first time; lowest theme: Good</summary>
   </entry>
 </feed>

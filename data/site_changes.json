@@ -860,5 +860,16 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-06",
+  "locationId": "1-23328524788",
+  "name": "Stowe Mount Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Staffordshire",
+  "providerId": "1-21587783190",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
