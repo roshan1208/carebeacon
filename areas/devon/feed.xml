@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/devon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/devon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/devon/feed</id>
-  <updated>2026-10-06T13:19:46Z</updated>
+  <updated>2026-10-07T13:24:14Z</updated>
   <subtitle>Care homes in Devon that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-24872476929/2026-10-07/closed</id>
+    <title>Woodland View Lodge: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-24872476929"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-4006291007/2026-10-04/closed</id>
     <title>Gittisham Hill House: Lost its CQC registration.</title>

@@ -1581,7 +1581,7 @@
  },
  "1-101651946": {
   "name": "Avens Ltd",
-  "homes": 3
+  "homes": 4
  },
  "1-101651964": {
   "name": "South Coast Nursing Homes Limited",
@@ -2018,10 +2018,6 @@
  "1-101661985": {
   "name": "Heart of England Mencap",
   "homes": 3
- },
- "1-101662118": {
-  "name": "Alpha Health Care Limited",
-  "homes": 2
  },
  "1-101662127": {
   "name": "RMP Care Limited",
@@ -2637,7 +2633,7 @@
  },
  "1-101671690": {
   "name": "Midshires Care Limited",
-  "homes": 14
+  "homes": 15
  },
  "1-101671779": {
   "name": "Dudley Metropolitan Borough Council",
@@ -2697,6 +2693,10 @@
  },
  "1-101674969": {
   "name": "Paradise Lodge Care Home Limited",
+  "homes": 2
+ },
+ "1-101675120": {
+  "name": "Southampton City Council",
   "homes": 2
  },
  "1-101675263": {
@@ -3539,6 +3539,10 @@
   "name": "Crownwise Limited",
   "homes": 3
  },
+ "1-101727389": {
+  "name": "Fresenius Medical Care Renal Services Limited",
+  "homes": 2
+ },
  "1-101727607": {
   "name": "Pure Sports Medicine Limited",
   "homes": 7
@@ -3553,7 +3557,7 @@
  },
  "1-101727990": {
   "name": "SpaMedica Ltd",
-  "homes": 6
+  "homes": 7
  },
  "1-101728034": {
   "name": "Genesis Cancer Care UK Limited",
@@ -3701,7 +3705,7 @@
  },
  "1-102642963": {
   "name": "The ExtraCare Charitable Trust",
-  "homes": 7
+  "homes": 10
  },
  "1-102642972": {
   "name": "Northern Life Care Limited",
@@ -3737,7 +3741,7 @@
  },
  "1-102643088": {
   "name": "Community Integrated Care",
-  "homes": 25
+  "homes": 26
  },
  "1-102643104": {
   "name": "HF Trust Limited",
@@ -3797,7 +3801,7 @@
  },
  "1-102643346": {
   "name": "Partnerships in Care Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-102643363": {
   "name": "St Andrew's Healthcare",
@@ -4025,7 +4029,7 @@
  },
  "1-117003417": {
   "name": "Outlook Care",
-  "homes": 8
+  "homes": 7
  },
  "1-11798105644": {
   "name": "Fylde Care Group Limited",
@@ -5057,7 +5061,11 @@
  },
  "1-161851228": {
   "name": "Whitecross Dental Care Limited",
-  "homes": 12
+  "homes": 14
+ },
+ "1-16414770120": {
+  "name": "Smart Clinics Ltd",
+  "homes": 2
  },
  "1-16435814558": {
   "name": "Resident Care at Signature Opco LLP",
@@ -5085,7 +5093,7 @@
  },
  "1-16581597315": {
   "name": "The Carter & George Practice Ltd",
-  "homes": 2
+  "homes": 3
  },
  "1-166591429": {
   "name": "U&I Care Limited",
@@ -5193,6 +5201,10 @@
  },
  "1-17969256896": {
   "name": "Blacksmith Health Care Limited",
+  "homes": 2
+ },
+ "1-17982668200": {
+  "name": "Life Again Services Ltd",
   "homes": 2
  },
  "1-1800009985": {
@@ -5665,7 +5677,7 @@
  },
  "1-2218820416": {
   "name": "South Coast Care Homes Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-22315506889": {
   "name": "WCG Clayton Ltd",
@@ -6181,7 +6193,7 @@
  },
  "1-3278096265": {
   "name": "Northwood Complex Care Ltd",
-  "homes": 2
+  "homes": 3
  },
  "1-3278115983": {
   "name": "GCH (Midlands) Ltd",
@@ -7377,6 +7389,10 @@
  },
  "RT2": {
   "name": "Pennine Care NHS Foundation Trust",
+  "homes": 2
+ },
+ "RX2": {
+  "name": "Sussex Partnership NHS Foundation Trust",
   "homes": 2
  },
  "RXA": {

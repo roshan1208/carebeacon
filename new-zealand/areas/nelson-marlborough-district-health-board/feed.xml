@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/nelson-marlborough-district-health-board/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/nelson-marlborough-district-health-board/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/areas/nelson-marlborough-district-health-board/feed</id>
-  <updated>2026-10-06T13:20:53Z</updated>
+  <updated>2026-10-07T13:25:20Z</updated>
   <subtitle>Aged residential care premises in Nelson Marlborough District Health Board whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/waterlea-lifecare-blenheim/2026-10-07/services_changed</id>
+    <title>Waterlea Lifecare: Services changed: Dementia care, Rest home care to Medical, Geriatric, Dementia care, Rest home care (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/waterlea-lifecare-blenheim/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Nelson Marlborough District Health Board. Services changed: Dementia care, Rest home care to Medical, Geriatric, Dementia care, Rest home care (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/waterlea-lifecare-blenheim/2026-10-07/beds_changed</id>
+    <title>Waterlea Lifecare: Bed numbers changed: 62 to 61 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/waterlea-lifecare-blenheim/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Nelson Marlborough District Health Board. Bed numbers changed: 62 to 61 (by 7 October 2026).</summary>
+  </entry>
 </feed>

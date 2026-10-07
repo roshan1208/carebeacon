@@ -4,8 +4,29 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/auckland-district-health-board/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/auckland-district-health-board/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/areas/auckland-district-health-board/feed</id>
-  <updated>2026-10-06T13:20:53Z</updated>
+  <updated>2026-10-07T13:25:20Z</updated>
   <subtitle>Aged residential care premises in Auckland District Health Board whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/recertified</id>
+    <title>Capella House: Certificate end date changed: 20 October 2026 to 20 October 2030 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certificate end date changed: 20 October 2026 to 20 October 2030 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/first_rated</id>
+    <title>Capella House: Certification period published for the first time: 48-month certification (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certification period published for the first time: 48-month certification (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/beds_changed</id>
+    <title>Capella House: Bed numbers changed: 37 to 38 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Bed numbers changed: 37 to 38 (by 7 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/remuera-rest-home-and-hospital-auckland/2026-10-01/new</id>
     <title>Remuera Rest Home and Hospital: Newly registered (by 1 October 2026).</title>

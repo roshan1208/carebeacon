@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/france/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/feed</id>
-  <updated>2026-10-06T13:20:22Z</updated>
+  <updated>2026-10-07T13:24:50Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in France whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/380785329/2026-10-07/name_changed</id>
+    <title>EHPAD LES JARDINS D'AIME: Name changed: EHPAD SAINTE-MARIE D'ALLOIX to EHPAD LES JARDINS D'AIME (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/380785329/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Isère. Name changed: EHPAD SAINTE-MARIE D'ALLOIX to EHPAD LES JARDINS D'AIME (by 7 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/france/change/160008280/2026-10-03/cancelled</id>
     <title>PUV - RESIDENCE DU NOBLET: No longer on the register (by 3 October 2026).</title>

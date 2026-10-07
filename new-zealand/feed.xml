@@ -4,8 +4,85 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/feed</id>
-  <updated>2026-10-06T13:20:53Z</updated>
+  <updated>2026-10-07T13:25:20Z</updated>
   <subtitle>Aged residential care premises in New Zealand whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/waterlea-lifecare-blenheim/2026-10-07/services_changed</id>
+    <title>Waterlea Lifecare: Services changed: Dementia care, Rest home care to Medical, Geriatric, Dementia care, Rest home care (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/waterlea-lifecare-blenheim/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Nelson Marlborough District Health Board. Services changed: Dementia care, Rest home care to Medical, Geriatric, Dementia care, Rest home care (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fraser-manor-rest-home-tauranga/2026-10-07/recertified</id>
+    <title>Fraser Manor Rest Home: Certificate end date changed: 5 September 2028 to 15 September 2027 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fraser-manor-rest-home-tauranga/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Certificate end date changed: 5 September 2028 to 15 September 2027 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/recertified</id>
+    <title>Capella House: Certificate end date changed: 20 October 2026 to 20 October 2030 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certificate end date changed: 20 October 2026 to 20 October 2030 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fraser-manor-rest-home-tauranga/2026-10-07/provider_changed</id>
+    <title>Fraser Manor Rest Home: Legal entity changed: Senior Care Investments Limited to Karimpanackal Limited (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fraser-manor-rest-home-tauranga/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Legal entity changed: Senior Care Investments Limited to Karimpanackal Limited (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/first_rated</id>
+    <title>Capella House: Certification period published for the first time: 48-month certification (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certification period published for the first time: 48-month certification (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fraser-manor-rest-home-tauranga/2026-10-07/decline</id>
+    <title>Fraser Manor Rest Home: Certification period declined: 36-month certification to 12-month certification (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fraser-manor-rest-home-tauranga/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Certification period declined: 36-month certification to 12-month certification (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/albany-home-and-hospital-gore/2026-10-07/cancelled</id>
+    <title>Albany Home and Hospital: No longer on the register (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/albany-home-and-hospital-gore/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Southern District Health Board. No longer on the register (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/waterlea-lifecare-blenheim/2026-10-07/beds_changed</id>
+    <title>Waterlea Lifecare: Bed numbers changed: 62 to 61 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/waterlea-lifecare-blenheim/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Nelson Marlborough District Health Board. Bed numbers changed: 62 to 61 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/pacific-coast-village-care-centre-te-manaaki-papamoa/2026-10-07/beds_changed</id>
+    <title>Pacific Coast Village Care Centre Te Manaaki: Bed numbers changed: 64 to 59 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/pacific-coast-village-care-centre-te-manaaki-papamoa/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Bed numbers changed: 64 to 59 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/capella-house-auckland/2026-10-07/beds_changed</id>
+    <title>Capella House: Bed numbers changed: 37 to 38 (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/capella-house-auckland/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Bed numbers changed: 37 to 38 (by 7 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fraser-manor-rest-home-tauranga/2026-10-07/auditor_changed</id>
+    <title>Fraser Manor Rest Home: Auditor changed: The DAA Group Limited to BSI Group New Zealand Ltd (by 7 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/fraser-manor-rest-home-tauranga/"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>Bay of Plenty District Health Board. Auditor changed: The DAA Group Limited to BSI Group New Zealand Ltd (by 7 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/fergusson-home-retirement-village-rotorua/2026-10-05/recertified</id>
     <title>Fergusson Home &amp; Retirement Village: Certificate end date changed: 31 October 2026 to 31 October 2029 (by 5 October 2026).</title>

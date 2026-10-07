@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/medway/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/medway/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/medway/feed</id>
-  <updated>2026-10-06T13:19:46Z</updated>
+  <updated>2026-10-07T13:24:14Z</updated>
   <subtitle>Care homes in Medway that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-21881082245/2026-10-07/closed</id>
+    <title>Lake View Lodge: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-21881082245"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
 </feed>
