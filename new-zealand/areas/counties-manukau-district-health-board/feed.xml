@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/counties-manukau-district-health-board/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/new-zealand/areas/counties-manukau-district-health-board/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/areas/counties-manukau-district-health-board/feed</id>
-  <updated>2026-10-07T13:25:20Z</updated>
+  <updated>2026-10-08T13:30:35Z</updated>
   <subtitle>Aged residential care premises in Counties Manukau District Health Board whose record on HealthCERT (Ministry of Health)'s register just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/park-estate-home-and-hospital-papakura/2026-10-08/cancelled</id>
+    <title>Park Estate Home and Hospital: No longer on the register (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/park-estate-home-and-hospital-papakura/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Counties Manukau District Health Board. No longer on the register (by 8 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/lady-elizabeth-home-hospital-auckland/2026-09-28/recertified</id>
     <title>Lady Elizabeth Home &amp; Hospital: Certificate end date changed: 8 November 2026 to 8 November 2029 (by 28 September 2026).</title>

@@ -4,7 +4,545 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/pacs-group/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/pacs-group/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/pacs-group/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:05Z</updated>
   <subtitle>Nursing homes run by PACS GROUP whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055697/2026-10-08/staffing_rating_changed</id>
+    <title>COSTA DEL SOL HEALTHCARE: Staffing rating changed: 1 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055697/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/065232/2026-10-08/staffing_rating_changed</id>
+    <title>ATLAS POST ACUTE: Staffing rating changed: 1 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/065232/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Colorado. Staffing rating changed: 1 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555801/2026-10-08/ownership_changed</id>
+    <title>Pine Creek Care Center: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555801/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365616/2026-10-08/ownership_changed</id>
+    <title>KETTERING HEIGHTS POST ACUTE: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365616/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555333/2026-10-08/name_changed</id>
+    <title>Lincoln Meadows Care Center: Name changed: LINCOLN MEADOWS CARE CENTER to Lincoln Meadows Care Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555333/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: LINCOLN MEADOWS CARE CENTER to Lincoln Meadows Care Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/396066/2026-10-08/improve</id>
+    <title>WHITEHALL BOROUGH POST ACUTE: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/396066/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Pennsylvania. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555208/2026-10-08/improve</id>
+    <title>WESTGATE GARDENS CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555208/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505383/2026-10-08/improve</id>
+    <title>SULLIVAN PARK CARE CENTER: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505383/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555703/2026-10-08/improve</id>
+    <title>RIDGEWAY POST ACUTE: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555703/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055853/2026-10-08/improve</id>
+    <title>REDWOOD COVE HEALTHCARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055853/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055608/2026-10-08/improve</id>
+    <title>PRIMROSE POST-ACUTE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055608/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056378/2026-10-08/improve</id>
+    <title>OCEAN RIDGE POST ACUTE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056378/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056021/2026-10-08/improve</id>
+    <title>LONE TREE POST ACUTE: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056021/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056288/2026-10-08/improve</id>
+    <title>HANFORD POST ACUTE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056288/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/385136/2026-10-08/improve</id>
+    <title>GLISAN POST ACUTE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/385136/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oregon. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555195/2026-10-08/improve</id>
+    <title>Del Rosa Villa: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555195/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055697/2026-10-08/improve</id>
+    <title>COSTA DEL SOL HEALTHCARE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055697/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/065414/2026-10-08/improve</id>
+    <title>COAL CREEK POST ACUTE &amp; ASSISTED LIVING: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/065414/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Colorado. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/065232/2026-10-08/improve</id>
+    <title>ATLAS POST ACUTE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/065232/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Colorado. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/396066/2026-10-08/health_rating_changed</id>
+    <title>WHITEHALL BOROUGH POST ACUTE: Health inspection rating changed: 1 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/396066/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Pennsylvania. Health inspection rating changed: 1 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555208/2026-10-08/health_rating_changed</id>
+    <title>WESTGATE GARDENS CARE CENTER: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555208/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505383/2026-10-08/health_rating_changed</id>
+    <title>SULLIVAN PARK CARE CENTER: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505383/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555574/2026-10-08/health_rating_changed</id>
+    <title>STONEY POINT HEALTHCARE CENTER: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555574/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555446/2026-10-08/health_rating_changed</id>
+    <title>ROSSMOOR POST ACUTE: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555446/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555017/2026-10-08/health_rating_changed</id>
+    <title>RIVERWALK POST ACUTE: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555017/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555703/2026-10-08/health_rating_changed</id>
+    <title>RIDGEWAY POST ACUTE: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555703/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055853/2026-10-08/health_rating_changed</id>
+    <title>REDWOOD COVE HEALTHCARE CENTER: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055853/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055608/2026-10-08/health_rating_changed</id>
+    <title>PRIMROSE POST-ACUTE: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055608/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395783/2026-10-08/health_rating_changed</id>
+    <title>PETERS TOWNSHIP POST ACUTE: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395783/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Pennsylvania. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055861/2026-10-08/health_rating_changed</id>
+    <title>Ojai Health &amp; Rehabilitation: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055861/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056378/2026-10-08/health_rating_changed</id>
+    <title>OCEAN RIDGE POST ACUTE: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056378/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555067/2026-10-08/health_rating_changed</id>
+    <title>MCCLURE POST ACUTE: Health inspection rating changed: 5 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555067/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 5 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056021/2026-10-08/health_rating_changed</id>
+    <title>LONE TREE POST ACUTE: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056021/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055488/2026-10-08/health_rating_changed</id>
+    <title>LA MESA HEALTHCARE CENTER: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055488/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/185144/2026-10-08/health_rating_changed</id>
+    <title>Homestead Post Acute: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/185144/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Kentucky. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056288/2026-10-08/health_rating_changed</id>
+    <title>HANFORD POST ACUTE: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056288/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/385136/2026-10-08/health_rating_changed</id>
+    <title>GLISAN POST ACUTE: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/385136/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oregon. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555195/2026-10-08/health_rating_changed</id>
+    <title>Del Rosa Villa: Health inspection rating changed: 2 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555195/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055929/2026-10-08/health_rating_changed</id>
+    <title>CRYSTAL COVE CARE CENTER: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055929/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/065414/2026-10-08/health_rating_changed</id>
+    <title>COAL CREEK POST ACUTE &amp; ASSISTED LIVING: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/065414/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Colorado. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365456/2026-10-08/health_rating_changed</id>
+    <title>CIRCLEVILLE POST-ACUTE: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365456/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555879/2026-10-08/health_rating_changed</id>
+    <title>ALL SAINT'S MAUBERT: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555879/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555292/2026-10-08/health_rating_changed</id>
+    <title>ALHAMBRA POST ACUTE: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555292/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555120/2026-10-08/fines_changed</id>
+    <title>VINEYARD POST ACUTE: Number of fines changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555120/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/425131/2026-10-08/fines_changed</id>
+    <title>The Oaks Post Acute: Number of fines changed: 12 to 11 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/425131/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>South Carolina. Number of fines changed: 12 to 11 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505226/2026-10-08/fines_changed</id>
+    <title>SUNNYSIDE HEALTHCARE CENTER: Number of fines changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505226/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Number of fines changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/425146/2026-10-08/fines_changed</id>
+    <title>Sandpiper Post Acute: Number of fines changed: 4 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/425146/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>South Carolina. Number of fines changed: 4 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555659/2026-10-08/fines_changed</id>
+    <title>SAN DIEGO POST-ACUTE CENTER: Number of fines changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555659/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/065415/2026-10-08/fines_changed</id>
+    <title>PIKES PEAK POST ACUTE: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/065415/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Colorado. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555161/2026-10-08/fines_changed</id>
+    <title>NAPA VALLEY CARE CENTER: Number of fines changed: 1 to 0 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555161/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 1 to 0 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056153/2026-10-08/fines_changed</id>
+    <title>NAPA POST ACUTE: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056153/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055493/2026-10-08/fines_changed</id>
+    <title>Mid-Town Oaks Post-Acute: Number of fines changed: 1 to 0 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055493/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 1 to 0 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055310/2026-10-08/fines_changed</id>
+    <title>MARIN POST ACUTE: Number of fines changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055310/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/265838/2026-10-08/fines_changed</id>
+    <title>LAKEVIEW POST ACUTE: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/265838/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Missouri. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555222/2026-10-08/fines_changed</id>
+    <title>LAKEPORT POST ACUTE: Number of fines changed: 0 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555222/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Number of fines changed: 0 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/425368/2026-10-08/fines_changed</id>
+    <title>Johns Island Post Acute: Number of fines changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/425368/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>South Carolina. Number of fines changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/175168/2026-10-08/fines_changed</id>
+    <title>GREAT PLAINS POST ACUTE: Number of fines changed: 4 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/175168/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Kansas. Number of fines changed: 4 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/445262/2026-10-08/fines_changed</id>
+    <title>EATON CREEK POST ACUTE: Number of fines changed: 5 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/445262/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Tennessee. Number of fines changed: 5 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/366418/2026-10-08/fines_changed</id>
+    <title>DUBLIN POST ACUTE: Number of fines changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/366418/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Number of fines changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/425138/2026-10-08/fines_changed</id>
+    <title>Chandler Creek Post Acute: Number of fines changed: 0 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/425138/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>South Carolina. Number of fines changed: 0 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555574/2026-10-08/decline</id>
+    <title>STONEY POINT HEALTHCARE CENTER: Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555574/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555446/2026-10-08/decline</id>
+    <title>ROSSMOOR POST ACUTE: Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555446/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555017/2026-10-08/decline</id>
+    <title>RIVERWALK POST ACUTE: Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555017/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395783/2026-10-08/decline</id>
+    <title>PETERS TOWNSHIP POST ACUTE: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395783/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Pennsylvania. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055861/2026-10-08/decline</id>
+    <title>Ojai Health &amp; Rehabilitation: Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055861/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055488/2026-10-08/decline</id>
+    <title>LA MESA HEALTHCARE CENTER: Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055488/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/185144/2026-10-08/decline</id>
+    <title>Homestead Post Acute: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/185144/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Kentucky. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055929/2026-10-08/decline</id>
+    <title>CRYSTAL COVE CARE CENTER: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055929/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365456/2026-10-08/decline</id>
+    <title>CIRCLEVILLE POST-ACUTE: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365456/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555879/2026-10-08/decline</id>
+    <title>ALL SAINT'S MAUBERT: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555879/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555292/2026-10-08/decline</id>
+    <title>ALHAMBRA POST ACUTE: Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555292/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 5 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365340/2026-10-08/beds_changed</id>
+    <title>BARBERTON POST ACUTE: Certified beds changed: 104 to 99 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365340/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Certified beds changed: 104 to 99 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/385201/2026-10-08/abuse_icon_changed</id>
+    <title>WILLOWBROOK POST ACUTE: Abuse icon changed: no to yes (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/385201/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oregon. Abuse icon changed: no to yes (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395783/2026-10-08/abuse_icon_changed</id>
+    <title>PETERS TOWNSHIP POST ACUTE: Abuse icon changed: no to yes (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395783/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Pennsylvania. Abuse icon changed: no to yes (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555195/2026-10-08/abuse_icon_changed</id>
+    <title>Del Rosa Villa: Abuse icon changed: yes to no (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555195/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Abuse icon changed: yes to no (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555304/2026-10-08/abuse_icon_changed</id>
+    <title>ARBOR POST ACUTE: Abuse icon changed: yes to no (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555304/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Abuse icon changed: yes to no (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555456/2026-10-08/abuse_icon_changed</id>
+    <title>ANTELOPE VALLEY CARE CENTER: Abuse icon changed: no to yes (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555456/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Abuse icon changed: no to yes (by 8 October 2026).</summary>
+  </entry>
 </feed>

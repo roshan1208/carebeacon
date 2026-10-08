@@ -4,7 +4,62 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/ajc-healthcare/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/ajc-healthcare/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/ajc-healthcare/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:02Z</updated>
   <subtitle>Nursing homes run by AJC HEALTHCARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055858/2026-10-08/ownership_changed</id>
+    <title>Rancho Seco Care Center: Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055858/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555918/2026-10-08/ownership_changed</id>
+    <title>FOWLER CARE CENTER: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555918/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555918/2026-10-08/improve</id>
+    <title>FOWLER CARE CENTER: Overall rating improved: 3 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555918/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555200/2026-10-08/improve</id>
+    <title>ALMOND VIEW CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555200/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055047/2026-10-08/health_rating_changed</id>
+    <title>PALMS CARE CENTER: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055047/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555918/2026-10-08/health_rating_changed</id>
+    <title>FOWLER CARE CENTER: Health inspection rating changed: 2 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555918/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555200/2026-10-08/health_rating_changed</id>
+    <title>ALMOND VIEW CARE CENTER: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555200/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055047/2026-10-08/decline</id>
+    <title>PALMS CARE CENTER: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055047/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
 </feed>

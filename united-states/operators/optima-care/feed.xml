@@ -4,7 +4,27 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/optima-care/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/optima-care/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/optima-care/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:05Z</updated>
   <subtitle>Nursing homes run by OPTIMA CARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/455510/2026-10-08/special_focus_changed</id>
+    <title>Castle Hills Rehabilitation and Care Center: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/455510/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Texas. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335434/2026-10-08/ownership_changed</id>
+    <title>Little Neck Care Center: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335434/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New York. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335434/2026-10-08/fines_changed</id>
+    <title>Little Neck Care Center: Number of fines changed: 0 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335434/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New York. Number of fines changed: 0 to 1 (by 8 October 2026).</summary>
+  </entry>
 </feed>

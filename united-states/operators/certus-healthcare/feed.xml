@@ -4,7 +4,48 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/certus-healthcare/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/certus-healthcare/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/certus-healthcare/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:03Z</updated>
   <subtitle>Nursing homes run by CERTUS HEALTHCARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/366173/2026-10-08/health_rating_changed</id>
+    <title>CONTINUING HEALTHCARE AT BECKETT HOUSE: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/366173/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365394/2026-10-08/health_rating_changed</id>
+    <title>Adams Lane Healthcare and Rehabilitation Center: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365394/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365879/2026-10-08/fines_changed</id>
+    <title>CITYVIEW HEALTHCARE AND REHABILITATION: Number of fines changed: 4 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365879/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Number of fines changed: 4 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365394/2026-10-08/fines_changed</id>
+    <title>Adams Lane Healthcare and Rehabilitation Center: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365394/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/366173/2026-10-08/decline</id>
+    <title>CONTINUING HEALTHCARE AT BECKETT HOUSE: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/366173/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365394/2026-10-08/decline</id>
+    <title>Adams Lane Healthcare and Rehabilitation Center: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365394/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
 </feed>

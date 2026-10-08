@@ -793,7 +793,7 @@
   "numberOfBeds": 6,
   "postalCode": "WR11 2GB",
   "providerId": "1-101609453",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 52.0765898,
   "longitude": -1.9408227
  },
@@ -810,6 +810,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.8740319,
   "longitude": -1.3467576
+ },
+ {
+  "locationId": "1-29108991797",
+  "name": "Abbey House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "numberOfBeds": 6,
+  "postalCode": "WR11 2GB",
+  "providerId": "1-27669171848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.0765898,
+  "longitude": -1.9408227
  },
  {
   "locationId": "1-118658356",
@@ -3668,6 +3682,20 @@
   "longitude": -3.1788614
  },
  {
+  "locationId": "1-569698804",
+  "name": "Adelaide Medical Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Camden",
+  "numberOfBeds": 0,
+  "postalCode": "NW3 3RY",
+  "providerId": "1-199729906",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5435498,
+  "longitude": -0.1612312
+ },
+ {
   "locationId": "1-13865252706",
   "name": "Adelaide Surgery",
   "rating": null,
@@ -4016,6 +4044,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.6927823,
   "longitude": -1.3036817
+ },
+ {
+  "locationId": "1-17411730522",
+  "name": "Aeria Homecare Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "TA1 3FA",
+  "providerId": "1-16385700411",
+  "registeredManagerAbsentDate": "2026-10-05",
+  "latitude": 51.015012,
+  "longitude": -3.090057
  },
  {
   "locationId": "1-24035681298",
@@ -7210,6 +7252,20 @@
   "longitude": -2.3519306
  },
  {
+  "locationId": "1-24393567159",
+  "name": "Amara Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B74 4XS",
+  "providerId": "1-22156333409",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.6029794,
+  "longitude": -1.8415194
+ },
+ {
   "locationId": "1-11821224662",
   "name": "Amara Healthcare",
   "rating": null,
@@ -9422,20 +9478,6 @@
   "longitude": -2.1272929
  },
  {
-  "locationId": "1-319142475",
-  "name": "Appleton Lodge",
-  "rating": "Good",
-  "ratingDate": "2018-11-29",
-  "region": "North West",
-  "localAuthority": "Stockport",
-  "numberOfBeds": 30,
-  "postalCode": "SK6 2QT",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-24",
-  "latitude": 53.42933,
-  "longitude": -2.124078
- },
- {
   "locationId": "1-28520854096",
   "name": "Appleton Manor",
   "rating": "Good",
@@ -9448,20 +9490,6 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.4274568,
   "longitude": -2.1272929
- },
- {
-  "locationId": "1-319142558",
-  "name": "Appleton Manor",
-  "rating": "Good",
-  "ratingDate": "2020-03-19",
-  "region": "North West",
-  "localAuthority": "Stockport",
-  "numberOfBeds": 59,
-  "postalCode": "SK6 2QT",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-30",
-  "latitude": 53.42933,
-  "longitude": -2.124078
  },
  {
   "locationId": "1-2900158350",
@@ -10654,15 +10682,15 @@
   "longitude": -1.7835892
  },
  {
-  "locationId": "1-105860838",
+  "locationId": "1-28869646076",
   "name": "Aronel Cottage Care Home Limited",
-  "rating": null,
-  "ratingDate": null,
+  "rating": "Requires improvement",
+  "ratingDate": "2022-04-27",
   "region": "South East",
   "localAuthority": "West Sussex",
   "numberOfBeds": 38,
   "postalCode": "PO22 8BQ",
-  "providerId": "1-101616030",
+  "providerId": "1-28495024066",
   "registeredManagerAbsentDate": null,
   "latitude": 50.7909744,
   "longitude": -0.6716342
@@ -11041,7 +11069,7 @@
   "numberOfBeds": 42,
   "postalCode": "L14 7NB",
   "providerId": "1-305829465",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 53.4169319,
   "longitude": -2.8903768
  },
@@ -11056,20 +11084,6 @@
   "postalCode": "WS3 3ER",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.6161983,
-  "longitude": -1.9919855
- },
- {
-  "locationId": "1-319142734",
-  "name": "Ash Grange Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Walsall",
-  "numberOfBeds": 42,
-  "postalCode": "WS3 3ER",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-24",
   "latitude": 52.6161983,
   "longitude": -1.9919855
  },
@@ -12526,20 +12540,6 @@
   "postalCode": "TW4 7HH",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.464097,
-  "longitude": -0.3843561
- },
- {
-  "locationId": "1-319142817",
-  "name": "Ashgrove Care Home - London",
-  "rating": null,
-  "ratingDate": null,
-  "region": "London",
-  "localAuthority": "Hounslow",
-  "numberOfBeds": 50,
-  "postalCode": "TW4 7HH",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-24",
   "latitude": 51.464097,
   "longitude": -0.3843561
  },
@@ -14700,6 +14700,48 @@
   "longitude": -2.585494
  },
  {
+  "locationId": "1-29143195817",
+  "name": "Aspire Living - 1-2 Markyes Close",
+  "rating": "Good",
+  "ratingDate": "2019-01-23",
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "numberOfBeds": 9,
+  "postalCode": "HR9 7BZ",
+  "providerId": "1-27669171848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.9164759,
+  "longitude": -2.586012
+ },
+ {
+  "locationId": "1-2206520209",
+  "name": "Aspire Support",
+  "rating": "Good",
+  "ratingDate": "2022-02-22",
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "numberOfBeds": 0,
+  "postalCode": "HR1 2EA",
+  "providerId": "1-101609453",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.059461,
+  "longitude": -2.711275
+ },
+ {
+  "locationId": "1-29108991776",
+  "name": "Aspire Support",
+  "rating": "Good",
+  "ratingDate": "2022-02-22",
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "numberOfBeds": 0,
+  "postalCode": "HR1 2EA",
+  "providerId": "1-27669171848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.059461,
+  "longitude": -2.711275
+ },
+ {
   "locationId": "1-652193372",
   "name": "Aspley House",
   "rating": "Outstanding",
@@ -15328,6 +15370,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.761309,
   "longitude": 0.4986492
+ },
+ {
+  "locationId": "1-27124735743",
+  "name": "ATROM MINDCARE",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM16 4BZ",
+  "providerId": "1-5443394642",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7015036,
+  "longitude": 0.1144261
  },
  {
   "locationId": "1-29806297825",
@@ -16170,20 +16226,6 @@
   "longitude": -2.0843338
  },
  {
-  "locationId": "1-319143351",
-  "name": "Avalon Park Care Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Oldham",
-  "numberOfBeds": 60,
-  "postalCode": "OL4 5HG",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-24",
-  "latitude": 53.5372798,
-  "longitude": -2.0843338
- },
- {
   "locationId": "1-2026429788",
   "name": "Avalon Residential Home",
   "rating": "Good",
@@ -16432,20 +16474,6 @@
   "postalCode": "M40 1PF",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.499778,
-  "longitude": -2.171983
- },
- {
-  "locationId": "1-319159457",
-  "name": "Averill House",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 48,
-  "postalCode": "M40 1PF",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 53.499778,
   "longitude": -2.171983
  },
@@ -18536,6 +18564,20 @@
   "longitude": -0.2053929
  },
  {
+  "locationId": "1-14279113726",
+  "name": "Barnfield Healthcare Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Slough",
+  "numberOfBeds": 0,
+  "postalCode": "SL1 4DX",
+  "providerId": "1-13585872625",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 51.519829,
+  "longitude": -0.631648
+ },
+ {
   "locationId": "1-3585152510",
   "name": "Barnfield House",
   "rating": "Good",
@@ -18856,6 +18898,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.7519478,
   "longitude": -1.1504022
+ },
+ {
+  "locationId": "1-25076890398",
+  "name": "Barrow Health Hub",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Westmorland and Furness",
+  "numberOfBeds": 0,
+  "postalCode": "LA14 2QN",
+  "providerId": "1-9068684085",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.1032624,
+  "longitude": -3.2284815
  },
  {
   "locationId": "1-23966840348",
@@ -20631,7 +20687,7 @@
   "numberOfBeds": 100,
   "postalCode": "BR3 3FH",
   "providerId": "1-3105856072",
-  "registeredManagerAbsentDate": "2025-07-14",
+  "registeredManagerAbsentDate": null,
   "latitude": 51.3964479,
   "longitude": -0.0200176
  },
@@ -24584,6 +24640,20 @@
   "longitude": -2.0164838
  },
  {
+  "locationId": "1-245508812",
+  "name": "Bhandal Dental Practice - 267 Barnes Hill",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2023-05-11",
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B29 5TX",
+  "providerId": "1-152966682",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.4378837,
+  "longitude": -1.9767964
+ },
+ {
   "locationId": "1-245508915",
   "name": "Bhandal Dental Practice - 32 John Street",
   "rating": null,
@@ -26570,6 +26640,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.2380014,
   "longitude": -0.8940502
+ },
+ {
+  "locationId": "1-29940169111",
+  "name": "Blossom Bay Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Isle of Wight",
+  "numberOfBeds": 0,
+  "postalCode": "PO30 2AA",
+  "providerId": "1-26101520687",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.6980351,
+  "longitude": -1.2894473
  },
  {
   "locationId": "1-266100003",
@@ -29890,20 +29974,6 @@
   "longitude": -1.4810601
  },
  {
-  "locationId": "1-319278778",
-  "name": "Brandon House Nursing Home",
-  "rating": "Requires improvement",
-  "ratingDate": "2022-05-05",
-  "region": "West Midlands",
-  "localAuthority": "Coventry",
-  "numberOfBeds": 35,
-  "postalCode": "CV6 7ED",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 52.4394839,
-  "longitude": -1.4810601
- },
- {
   "locationId": "1-18837069592",
   "name": "Brandon Lodge Care Home",
   "rating": null,
@@ -33110,20 +33180,6 @@
   "longitude": -2.171983
  },
  {
-  "locationId": "1-319278874",
-  "name": "Brookdale View",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 48,
-  "postalCode": "M40 1PF",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.499778,
-  "longitude": -2.171983
- },
- {
   "locationId": "1-126987155",
   "name": "Brooke House",
   "rating": "Requires improvement",
@@ -34006,6 +34062,20 @@
   "longitude": -2.4816632
  },
  {
+  "locationId": "1-17430464886",
+  "name": "Brough Dental Studio",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "East Riding of Yorkshire",
+  "numberOfBeds": 0,
+  "postalCode": "HU15 1DR",
+  "providerId": "1-17362529133",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7305191,
+  "longitude": -0.578088
+ },
+ {
   "locationId": "1-153553798",
   "name": "Brough Manor Care Home",
   "rating": "Good",
@@ -34440,6 +34510,20 @@
   "longitude": 1.1519863
  },
  {
+  "locationId": "1-24312604121",
+  "name": "Brunwin Healthcare",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Peterborough",
+  "numberOfBeds": 0,
+  "postalCode": "PE1 1YN",
+  "providerId": "1-21990001848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.5755358,
+  "longitude": -0.2400593
+ },
+ {
   "locationId": "1-19667163275",
   "name": "Brushwood House",
   "rating": null,
@@ -34692,6 +34776,20 @@
   "longitude": -0.5530672
  },
  {
+  "locationId": "1-203288738",
+  "name": "Buckingham House Dental Practice",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2019-03-20",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 0,
+  "postalCode": "MK18 1NT",
+  "providerId": "1-152986753",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.0011957,
+  "longitude": -0.9854401
+ },
+ {
   "locationId": "1-2015673748",
   "name": "Buckingham Lodge",
   "rating": "Requires improvement",
@@ -34872,6 +34970,34 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.1428388,
   "longitude": -0.4600852
+ },
+ {
+  "locationId": "1-211215931",
+  "name": "Bupa Dental Care Burnley",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2022-04-05",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "BB11 2AE",
+  "providerId": "1-152945450",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7876365,
+  "longitude": -2.2410366
+ },
+ {
+  "locationId": "1-175359773",
+  "name": "Bupa Dental Care Castleford",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2019-02-06",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Wakefield",
+  "numberOfBeds": 0,
+  "postalCode": "WF10 1HS",
+  "providerId": "1-156963276",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 53.7263271,
+  "longitude": -1.3534112
  },
  {
   "locationId": "1-2013139456",
@@ -36582,6 +36708,20 @@
   "longitude": -2.1631836
  },
  {
+  "locationId": "1-2667909109",
+  "name": "Calderdale Homecare Rochdale",
+  "rating": "Good",
+  "ratingDate": "2020-01-03",
+  "region": "North West",
+  "localAuthority": "Rochdale",
+  "numberOfBeds": 0,
+  "postalCode": "M24 1ZE",
+  "providerId": "1-101656651",
+  "registeredManagerAbsentDate": null,
+  "latitude": null,
+  "longitude": null
+ },
+ {
   "locationId": "1-508644581",
   "name": "Caldwell Grange",
   "rating": "Good",
@@ -38192,6 +38332,20 @@
   "longitude": 0.0694464
  },
  {
+  "locationId": "1-22144353581",
+  "name": "Care Cover 24/7 North",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicestershire",
+  "numberOfBeds": 0,
+  "postalCode": "DE74 2TZ",
+  "providerId": "1-7946723916",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.8260086,
+  "longitude": -1.3107111
+ },
+ {
   "locationId": "1-720029836",
   "name": "Care Dental",
   "rating": "No published rating",
@@ -38946,6 +39100,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5891141,
   "longitude": -1.9035937
+ },
+ {
+  "locationId": "1-28134430155",
+  "name": "Caring Stars Limited",
+  "rating": "Good",
+  "ratingDate": "2023-06-07",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Barnsley",
+  "numberOfBeds": 0,
+  "postalCode": "S71 3HR",
+  "providerId": "1-27340922443",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.5810979,
+  "longitude": -1.4600114
  },
  {
   "locationId": "1-10285412143",
@@ -42161,11 +42329,11 @@
   "region": "East",
   "localAuthority": "Essex",
   "numberOfBeds": 0,
-  "postalCode": "SS15 6AG",
+  "postalCode": "SS14 3HJ",
   "providerId": "1-101642943",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.5738685,
-  "longitude": 0.421092
+  "latitude": 51.5842327,
+  "longitude": 0.4490704
  },
  {
   "locationId": "1-19878205505",
@@ -42194,6 +42362,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.9938781,
   "longitude": -1.6047829
+ },
+ {
+  "locationId": "1-19427208715",
+  "name": "CGL Walsall - The Beacon",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Walsall",
+  "numberOfBeds": 0,
+  "postalCode": "WS1 1QU",
+  "providerId": "1-125892604",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.5831908,
+  "longitude": -1.9805138
  },
  {
   "locationId": "1-14716902583",
@@ -43283,7 +43465,7 @@
   "numberOfBeds": 84,
   "postalCode": "LE12 9JG",
   "providerId": "1-102642921",
-  "registeredManagerAbsentDate": "2026-06-18",
+  "registeredManagerAbsentDate": null,
   "latitude": 52.7665801,
   "longitude": -1.2899014
  },
@@ -43452,20 +43634,6 @@
   "postalCode": "WS7 1AW",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.6823222,
-  "longitude": -1.9362559
- },
- {
-  "locationId": "1-319279267",
-  "name": "Chaseview Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2018-10-26",
-  "region": "West Midlands",
-  "localAuthority": "Staffordshire",
-  "numberOfBeds": 60,
-  "postalCode": "WS7 1AW",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 52.6823222,
   "longitude": -1.9362559
  },
@@ -43675,7 +43843,7 @@
   "numberOfBeds": 60,
   "postalCode": "CT1 1PS",
   "providerId": "1-118163801",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-05",
   "latitude": 51.2775885,
   "longitude": 1.0992085
  },
@@ -46326,20 +46494,6 @@
   "longitude": -2.2559147
  },
  {
-  "locationId": "1-319279330",
-  "name": "Chorlton Place Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Manchester",
-  "numberOfBeds": 48,
-  "postalCode": "M16 8LT",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.4437892,
-  "longitude": -2.2559147
- },
- {
   "locationId": "1-134382121",
   "name": "Chosen Court",
   "rating": "Requires improvement",
@@ -48004,6 +48158,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4582048,
   "longitude": -2.5628212
+ },
+ {
+  "locationId": "1-19614227272",
+  "name": "Clarity Homecare (Central)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Trafford",
+  "numberOfBeds": 0,
+  "postalCode": "M31 4RW",
+  "providerId": "1-18197606096",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4169799,
+  "longitude": -2.414786
  },
  {
   "locationId": "1-29904329929",
@@ -52458,6 +52626,20 @@
   "longitude": -1.8338436
  },
  {
+  "locationId": "1-119938046",
+  "name": "Cottage Farm Lodge",
+  "rating": "Good",
+  "ratingDate": "2019-01-09",
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "numberOfBeds": 0,
+  "postalCode": "CV6 2NZ",
+  "providerId": "1-101670082",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.438917,
+  "longitude": -1.527986
+ },
+ {
   "locationId": "1-130120291",
   "name": "Cottenham Court Care Home",
   "rating": "Good",
@@ -52918,6 +53100,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.4023647,
   "longitude": -4.6732658
+ },
+ {
+  "locationId": "1-24036167068",
+  "name": "Cowley Road Medical Practice",
+  "rating": "Good",
+  "ratingDate": "2016-07-05",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "OX4 1XD",
+  "providerId": "1-199810481",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7471906,
+  "longitude": -1.2324741
  },
  {
   "locationId": "1-123560965",
@@ -54852,20 +55048,6 @@
   "longitude": -0.999817
  },
  {
-  "locationId": "1-121861308",
-  "name": "Crossways Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Bedford",
-  "numberOfBeds": 25,
-  "postalCode": "MK41 0JX",
-  "providerId": "1-101620209",
-  "registeredManagerAbsentDate": null,
-  "latitude": 52.1581311,
-  "longitude": -0.426097
- },
- {
   "locationId": "1-6024071827",
   "name": "Crossways Nursing Home",
   "rating": "Good",
@@ -54878,6 +55060,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.353201,
   "longitude": -0.2000561
+ },
+ {
+  "locationId": "1-29807392752",
+  "name": "Crossways Nursing Home",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Bedford",
+  "numberOfBeds": 25,
+  "postalCode": "MK41 0JX",
+  "providerId": "1-28973290842",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.1581311,
+  "longitude": -0.426097
  },
  {
   "locationId": "1-21880954199",
@@ -55799,7 +55995,7 @@
   "numberOfBeds": 0,
   "postalCode": "M19 1FL",
   "providerId": "1-8483070416",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 53.4317855,
   "longitude": -2.2011796
  },
@@ -55872,20 +56068,6 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.4578632,
   "longitude": -2.1517818
- },
- {
-  "locationId": "1-11224143159",
-  "name": "Daisy Nook House",
-  "rating": "Good",
-  "ratingDate": "2022-11-18",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 40,
-  "postalCode": "OL7 9SX",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.4977235,
-  "longitude": -2.1146007
  },
  {
   "locationId": "1-28588134858",
@@ -55982,20 +56164,6 @@
   "postalCode": "PR8 6JU",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.6380781,
-  "longitude": -2.9715746
- },
- {
-  "locationId": "1-319476602",
-  "name": "Dale Park",
-  "rating": "Good",
-  "ratingDate": "2023-03-31",
-  "region": "North West",
-  "localAuthority": "Sefton",
-  "numberOfBeds": 54,
-  "postalCode": "PR8 6JU",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 53.6380781,
   "longitude": -2.9715746
  },
@@ -56210,6 +56378,34 @@
   "longitude": -2.9407222
  },
  {
+  "locationId": "1-189743049",
+  "name": "Damira Coalville",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2017-09-08",
+  "region": "East Midlands",
+  "localAuthority": "Leicestershire",
+  "numberOfBeds": 0,
+  "postalCode": "LE67 3WD",
+  "providerId": "1-152977009",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.7236733,
+  "longitude": -1.3747459
+ },
+ {
+  "locationId": "1-2952836720",
+  "name": "Damira Hinckley",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicestershire",
+  "numberOfBeds": 0,
+  "postalCode": "LE10 1AD",
+  "providerId": "1-152977009",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.5390821,
+  "longitude": -1.3710147
+ },
+ {
   "locationId": "1-19832174140",
   "name": "Damira Hove",
   "rating": null,
@@ -56224,6 +56420,20 @@
   "longitude": -0.1649093
  },
  {
+  "locationId": "1-4460116412",
+  "name": "Damira Leicester",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicester",
+  "numberOfBeds": 0,
+  "postalCode": "LE1 7BA",
+  "providerId": "1-152977009",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.6297471,
+  "longitude": -1.124666
+ },
+ {
   "locationId": "1-29054336470",
   "name": "Damira Thetford",
   "rating": null,
@@ -56236,6 +56446,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.4134459,
   "longitude": 0.7495388
+ },
+ {
+  "locationId": "1-4460116574",
+  "name": "Damira Westcotes",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicester",
+  "numberOfBeds": 0,
+  "postalCode": "LE3 0BD",
+  "providerId": "1-152977009",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.628687,
+  "longitude": -1.148179
  },
  {
   "locationId": "1-1334816628",
@@ -56499,6 +56723,20 @@
   "numberOfBeds": 40,
   "postalCode": "ME7 3AL",
   "providerId": "1-184500761",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3704397,
+  "longitude": 0.5623067
+ },
+ {
+  "locationId": "RYY001",
+  "name": "Darland House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 40,
+  "postalCode": "ME7 3AL",
+  "providerId": "RYY",
   "registeredManagerAbsentDate": null,
   "latitude": 51.3704397,
   "longitude": 0.5623067
@@ -57090,6 +57328,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.3677772,
   "longitude": 1.1288963
+ },
+ {
+  "locationId": "1-29716328705",
+  "name": "DE Westfield London",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hammersmith and Fulham",
+  "numberOfBeds": 0,
+  "postalCode": "W12 7GF",
+  "providerId": "1-463994672",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.507023,
+  "longitude": -0.2194807
  },
  {
   "locationId": "1-1965378025",
@@ -58800,6 +59052,20 @@
   "longitude": -0.2535897
  },
  {
+  "locationId": "1-26536905495",
+  "name": "DEVONSHIRE GARDENS CARE HOME LIMITED",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Bradford",
+  "numberOfBeds": 28,
+  "postalCode": "BD20 6JB",
+  "providerId": "1-25766152777",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.8715469,
+  "longitude": -1.9181151
+ },
+ {
   "locationId": "1-108329896",
   "name": "Devonshire House",
   "rating": "Good",
@@ -59650,20 +59916,6 @@
   "postalCode": "B69 2DQ",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.5049655,
-  "longitude": -2.0306234
- },
- {
-  "locationId": "1-319476661",
-  "name": "Dingle Meadow",
-  "rating": "Good",
-  "ratingDate": "2019-10-03",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 46,
-  "postalCode": "B69 2DQ",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 52.5049655,
   "longitude": -2.0306234
  },
@@ -60718,20 +60970,6 @@
   "longitude": -2.0294643
  },
  {
-  "locationId": "1-319476674",
-  "name": "Dovedale Court",
-  "rating": "Requires improvement",
-  "ratingDate": "2019-11-13",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 76,
-  "postalCode": "WS10 7PZ",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-02",
-  "latitude": 52.5542755,
-  "longitude": -2.0294643
- },
- {
   "locationId": "1-22159976593",
   "name": "Dovehaven Grove",
   "rating": null,
@@ -61122,6 +61360,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.7098893,
   "longitude": -1.2228202
+ },
+ {
+  "locationId": "1-557579176",
+  "name": "Dr Alva & Partners",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Central Bedfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "LU5 5EZ",
+  "providerId": "1-199717670",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.905789,
+  "longitude": -0.518867
  },
  {
   "locationId": "1-6079393536",
@@ -67298,6 +67550,20 @@
   "longitude": -0.4171154
  },
  {
+  "locationId": "1-28081218675",
+  "name": "Eman Health at Dog Kennel Lane Surgery",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Sandwell",
+  "numberOfBeds": 0,
+  "postalCode": "B68 9LZ",
+  "providerId": "1-26689769722",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4903068,
+  "longitude": -1.9955173
+ },
+ {
   "locationId": "1-21860816753",
   "name": "Emberbrook Care Home",
   "rating": "Good",
@@ -67366,6 +67632,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.6866152,
   "longitude": 1.3760222
+ },
+ {
+  "locationId": "1-29421950634",
+  "name": "EMERALD URGENT CARE",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Shropshire",
+  "numberOfBeds": 0,
+  "postalCode": "SY8 1PZ",
+  "providerId": "1-27351793155",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.3690365,
+  "longitude": -2.7156797
  },
  {
   "locationId": "1-7899623306",
@@ -67534,6 +67814,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.3286441,
   "longitude": -1.3614618
+ },
+ {
+  "locationId": "1-29992142151",
+  "name": "Empowered Living Solutions Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Nottingham",
+  "numberOfBeds": 0,
+  "postalCode": "NG5 1FD",
+  "providerId": "1-27761937090",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.9791673,
+  "longitude": -1.1577512
  },
  {
   "locationId": "1-130525270",
@@ -68360,6 +68654,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.8764279,
   "longitude": 0.868181
+ },
+ {
+  "locationId": "1-2605845658",
+  "name": "Essex House Surgery",
+  "rating": "Good",
+  "ratingDate": "2022-10-28",
+  "region": "London",
+  "localAuthority": "Richmond upon Thames",
+  "numberOfBeds": 0,
+  "postalCode": "SW13 0LW",
+  "providerId": "1-2200741457",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.472541,
+  "longitude": -0.247469
  },
  {
   "locationId": "1-2116188982",
@@ -73334,8 +73642,8 @@
  {
   "locationId": "1-3779778472",
   "name": "Fixby Lodge",
-  "rating": "Good",
-  "ratingDate": "2018-07-28",
+  "rating": null,
+  "ratingDate": null,
   "region": "Yorkshire & Humberside",
   "localAuthority": "Kirklees",
   "numberOfBeds": 8,
@@ -75852,6 +76160,20 @@
   "longitude": -0.098165
  },
  {
+  "locationId": "1-25416658792",
+  "name": "Freedom Care Group",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Hampshire",
+  "numberOfBeds": 0,
+  "postalCode": "SO45 2QL",
+  "providerId": "1-22830234350",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.8397636,
+  "longitude": -1.394108
+ },
+ {
   "locationId": "1-115043138",
   "name": "Freedom Care Limited - 68 Conway Drive",
   "rating": "Good",
@@ -76592,6 +76914,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.9065348,
   "longitude": -3.0282525
+ },
+ {
+  "locationId": "1-2283748463",
+  "name": "Fylde Coast Care LTD T/A Home instead",
+  "rating": "Good",
+  "ratingDate": "2019-05-08",
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "FY8 5ER",
+  "providerId": "1-437529945",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7374732,
+  "longitude": -2.9602056
  },
  {
   "locationId": "1-112094672",
@@ -79492,6 +79828,20 @@
   "longitude": -2.5881381
  },
  {
+  "locationId": "1-18116956257",
+  "name": "Gold Cross Care Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CM17 9FT",
+  "providerId": "1-16832798855",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 51.7709825,
+  "longitude": 0.1434242
+ },
+ {
   "locationId": "1-15308166952",
   "name": "Goldcrest Heathcare Service (Birmingham)",
   "rating": null,
@@ -79546,6 +79896,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.2040354,
   "longitude": -3.475815
+ },
+ {
+  "locationId": "1-2337994229",
+  "name": "Golden Home Care Domiciliary Limited",
+  "rating": "Good",
+  "ratingDate": "2019-07-09",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "KT13 9LZ",
+  "providerId": "1-2101586678",
+  "registeredManagerAbsentDate": "2025-07-21",
+  "latitude": 51.383156,
+  "longitude": -0.428825
  },
  {
   "locationId": "1-20395808298",
@@ -79770,6 +80134,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.6540686,
   "longitude": -2.9695891
+ },
+ {
+  "locationId": "1-12725304387",
+  "name": "Good Companions Spalding Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 0,
+  "postalCode": "PE11 3TN",
+  "providerId": "1-11433552087",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.8150618,
+  "longitude": -0.1649061
  },
  {
   "locationId": "1-1940054378",
@@ -80064,6 +80442,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.46292,
   "longitude": -2.174332
+ },
+ {
+  "locationId": "1-28031039537",
+  "name": "Gorton Mill House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 0,
+  "postalCode": "M18 8DU",
+  "providerId": "1-8483070416",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 53.4651007,
+  "longitude": -2.165101
  },
  {
   "locationId": "1-25071911223",
@@ -81268,20 +81660,6 @@
   "registeredManagerAbsentDate": "2025-07-21",
   "latitude": 51.1624352,
   "longitude": 0.0196764
- },
- {
-  "locationId": "1-11224143298",
-  "name": "Greatwood House",
-  "rating": "Good",
-  "ratingDate": "2023-12-09",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 62,
-  "postalCode": "M34 7GX",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-05",
-  "latitude": 53.443992,
-  "longitude": -2.1030586
  },
  {
   "locationId": "1-28589870579",
@@ -83547,20 +83925,6 @@
   "numberOfBeds": 41,
   "postalCode": "M34 5HA",
   "providerId": "1-19833129073",
-  "registeredManagerAbsentDate": null,
-  "latitude": 53.4707148,
-  "longitude": -2.1131272
- },
- {
-  "locationId": "1-320350573",
-  "name": "Guide Lane Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2018-05-24",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 41,
-  "postalCode": "M34 5HA",
-  "providerId": "1-305829465",
   "registeredManagerAbsentDate": null,
   "latitude": 53.4707148,
   "longitude": -2.1131272
@@ -86403,9 +86767,23 @@
   "numberOfBeds": 37,
   "postalCode": "NE31 1DJ",
   "providerId": "1-102643165",
-  "registeredManagerAbsentDate": "2025-10-21",
+  "registeredManagerAbsentDate": null,
   "latitude": 54.9784759,
   "longitude": -1.52175
+ },
+ {
+  "locationId": "RYY003",
+  "name": "Harmony House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 0,
+  "postalCode": "ME1 2RB",
+  "providerId": "RYY",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3684308,
+  "longitude": 0.515423
  },
  {
   "locationId": "1-146803721",
@@ -87834,6 +88212,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.6054668,
   "longitude": -0.3752867
+ },
+ {
+  "locationId": "1-29373476983",
+  "name": "Havencrest Residential Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Walsall",
+  "numberOfBeds": 28,
+  "postalCode": "WS1 3BG",
+  "providerId": "1-28880155220",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.5747637,
+  "longitude": -1.9732505
  },
  {
   "locationId": "1-144191748",
@@ -89360,6 +89752,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5482164,
   "longitude": 0.7040813
+ },
+ {
+  "locationId": "1-29371531801",
+  "name": "HEALTHQO CARE PROFESSIONALS LTD",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 0,
+  "postalCode": "KT12 2SD",
+  "providerId": "1-18728151316",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3909145,
+  "longitude": -0.4120526
  },
  {
   "locationId": "1-302919508",
@@ -93604,6 +94010,20 @@
   "longitude": -1.2061452
  },
  {
+  "locationId": "1-24302091790",
+  "name": "Highlea Care Limited (North)",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North East",
+  "localAuthority": "Stockton-on-Tees",
+  "numberOfBeds": 0,
+  "postalCode": "TS17 6PT",
+  "providerId": "1-101691748",
+  "registeredManagerAbsentDate": null,
+  "latitude": 54.5609446,
+  "longitude": -1.3030978
+ },
+ {
   "locationId": "1-17850194113",
   "name": "Highley Medical Practice",
   "rating": "Requires improvement",
@@ -94418,8 +94838,8 @@
  {
   "locationId": "1-135914716",
   "name": "Hillcrest Residential Home",
-  "rating": "Good",
-  "ratingDate": "2018-05-01",
+  "rating": null,
+  "ratingDate": null,
   "region": "North West",
   "localAuthority": "Wigan",
   "numberOfBeds": 17,
@@ -95284,20 +95704,6 @@
   "longitude": -1.3619238
  },
  {
-  "locationId": "1-320350712",
-  "name": "Hinckley Park Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2018-05-22",
-  "region": "East Midlands",
-  "localAuthority": "Leicestershire",
-  "numberOfBeds": 40,
-  "postalCode": "LE10 1HH",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-05",
-  "latitude": 52.5417036,
-  "longitude": -1.3619238
- },
- {
   "locationId": "1-121422117",
   "name": "Hinderton Mount Residential Home",
   "rating": "Good",
@@ -95658,20 +96064,6 @@
   "postalCode": "B36 8AD",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.4970983,
-  "longitude": -1.8068862
- },
- {
-  "locationId": "1-320350725",
-  "name": "Hodge Hill Grange",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Birmingham",
-  "numberOfBeds": 53,
-  "postalCode": "B36 8AD",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-05",
   "latitude": 52.4970983,
   "longitude": -1.8068862
  },
@@ -97734,6 +98126,20 @@
   "longitude": -0.7567017
  },
  {
+  "locationId": "1-29995926575",
+  "name": "Home Instead Church Stretton and Ludlow",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Shropshire",
+  "numberOfBeds": 0,
+  "postalCode": "SY6 6DA",
+  "providerId": "1-28402709688",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.538305,
+  "longitude": -2.8081418
+ },
+ {
   "locationId": "1-1348699879",
   "name": "Home Instead East Cheshire",
   "rating": "Outstanding",
@@ -99316,6 +99722,20 @@
   "longitude": -0.1322473
  },
  {
+  "locationId": "1-5145153369",
+  "name": "Hughenden Gardens",
+  "rating": "Good",
+  "ratingDate": "2019-08-20",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 0,
+  "postalCode": "HP13 5GA",
+  "providerId": "1-102642963",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.637016,
+  "longitude": -0.753913
+ },
+ {
   "locationId": "1-10729245746",
   "name": "Huguenot Place",
   "rating": null,
@@ -99356,6 +99776,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.841867,
   "longitude": -0.764094
+ },
+ {
+  "locationId": "1-25831720505",
+  "name": "Hullcare Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 0,
+  "postalCode": "HU7 3JQ",
+  "providerId": "1-21188008457",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.802041,
+  "longitude": -0.3529
  },
  {
   "locationId": "1-119185430",
@@ -100226,6 +100660,34 @@
   "longitude": 0.0693735
  },
  {
+  "locationId": "1-19400443205",
+  "name": "i-HEART 365 Service - Extended Hours",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Barnsley",
+  "numberOfBeds": 0,
+  "postalCode": "S71 5PN",
+  "providerId": "1-6082596120",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.5562292,
+  "longitude": -1.4407789
+ },
+ {
+  "locationId": "1-19387096765",
+  "name": "i-HEART 365 Service - Out of Hours Service",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Barnsley",
+  "numberOfBeds": 0,
+  "postalCode": "S71 5PN",
+  "providerId": "1-6082596120",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.5562292,
+  "longitude": -1.4407789
+ },
+ {
   "locationId": "1-7232622755",
   "name": "I-Teeth Dental Care",
   "rating": "Inspected but not rated",
@@ -101036,6 +101498,34 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.8989454,
   "longitude": -1.1533599
+ },
+ {
+  "locationId": "1-23746729015",
+  "name": "InHealth Limited - Burnham Yard",
+  "rating": "Outstanding",
+  "ratingDate": "2020-06-26",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "numberOfBeds": 0,
+  "postalCode": "HP9 2JH",
+  "providerId": "1-101634763",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.6016257,
+  "longitude": -0.6360194
+ },
+ {
+  "locationId": "1-25647265280",
+  "name": "InHealth Limited – Camborne and Redruth Community Diagnostic Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Cornwall",
+  "numberOfBeds": 0,
+  "postalCode": "TR15 3ER",
+  "providerId": "1-101634763",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.229381,
+  "longitude": -5.244376
  },
  {
   "locationId": "1-2096586065",
@@ -101918,6 +102408,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.2863278,
   "longitude": -0.4032561
+ },
+ {
+  "locationId": "1-15521798336",
+  "name": "ivolve South Essex Supported Living",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Southend-on-Sea",
+  "numberOfBeds": 0,
+  "postalCode": "SS2 6BB",
+  "providerId": "1-8927516072",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.54384,
+  "longitude": 0.7082066
  },
  {
   "locationId": "1-118615559",
@@ -103460,6 +103964,20 @@
   "longitude": -2.5025644
  },
  {
+  "locationId": "1-29810043794",
+  "name": "Journey Up Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "AL9 5BL",
+  "providerId": "1-28319229102",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.7656394,
+  "longitude": -0.2145389
+ },
+ {
   "locationId": "1-118255542",
   "name": "Joybrook",
   "rating": "Requires improvement",
@@ -104172,6 +104690,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.5010765,
   "longitude": -1.9909054
+ },
+ {
+  "locationId": "1-29569424743",
+  "name": "Kare-N-Assist Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Slough",
+  "numberOfBeds": 0,
+  "postalCode": "SL1 5LA",
+  "providerId": "1-28231448614",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5136063,
+  "longitude": -0.6518521
  },
  {
   "locationId": "1-10091346189",
@@ -105222,6 +105754,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4608327,
   "longitude": -2.4901208
+ },
+ {
+  "locationId": "1-148459590",
+  "name": "Kenward House",
+  "rating": "Good",
+  "ratingDate": "2019-08-13",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 48,
+  "postalCode": "ME18 6AH",
+  "providerId": "1-101666357",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 51.2369543,
+  "longitude": 0.4212403
  },
  {
   "locationId": "1-10983124844",
@@ -106792,20 +107338,6 @@
   "longitude": -2.0823297
  },
  {
-  "locationId": "1-320350902",
-  "name": "Kings Park Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2022-05-21",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 44,
-  "postalCode": "OL6 8EZ",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-05",
-  "latitude": 53.499458,
-  "longitude": -2.0823297
- },
- {
   "locationId": "1-2294256661",
   "name": "Kingsbridge Road",
   "rating": null,
@@ -107655,7 +108187,7 @@
   "numberOfBeds": 0,
   "postalCode": "HP13 7UN",
   "providerId": "1-199756784",
-  "registeredManagerAbsentDate": "2026-09-11",
+  "registeredManagerAbsentDate": null,
   "latitude": 51.6353737,
   "longitude": -0.7224435
  },
@@ -110810,6 +111342,20 @@
   "longitude": -0.4031014
  },
  {
+  "locationId": "1-604619590",
+  "name": "Langmans at Ely Place Dental Health Centre",
+  "rating": "No published rating",
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Warwickshire",
+  "numberOfBeds": 0,
+  "postalCode": "CV37 6LW",
+  "providerId": "1-152963541",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.1916521,
+  "longitude": -1.7099348
+ },
+ {
   "locationId": "1-6849458763",
   "name": "Langold View",
   "rating": "Good",
@@ -111114,20 +111660,6 @@
   "postalCode": "CM7 9RX",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 51.895644,
-  "longitude": 0.565701
- },
- {
-  "locationId": "1-320814478",
-  "name": "Larchwood Care Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 64,
-  "postalCode": "CM7 9RX",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-30",
   "latitude": 51.895644,
   "longitude": 0.565701
  },
@@ -111648,20 +112180,6 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.7660597,
   "longitude": -2.7320517
- },
- {
-  "locationId": "1-11224143533",
-  "name": "Lauren Court Residential Care Home",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-04-29",
-  "region": "North West",
-  "localAuthority": "Cheshire West and Chester",
-  "numberOfBeds": 48,
-  "postalCode": "CH1 5US",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": null,
-  "latitude": 53.207415,
-  "longitude": -2.9155139
  },
  {
   "locationId": "1-28599871949",
@@ -112574,6 +113092,20 @@
   "longitude": -2.425657
  },
  {
+  "locationId": "1-15177230021",
+  "name": "Lee Care Services",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CO4 3AN",
+  "providerId": "1-14519506305",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.8910684,
+  "longitude": 0.9226481
+ },
+ {
   "locationId": "1-3528481638",
   "name": "Lee Gordon House",
   "rating": null,
@@ -112891,20 +113423,6 @@
   "numberOfBeds": 48,
   "postalCode": "CH45 7LX",
   "providerId": "1-19833129073",
-  "registeredManagerAbsentDate": null,
-  "latitude": 53.4225989,
-  "longitude": -3.0368371
- },
- {
-  "locationId": "1-320350993",
-  "name": "Leighton Court Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2021-07-09",
-  "region": "North West",
-  "localAuthority": "Wirral",
-  "numberOfBeds": 48,
-  "postalCode": "CH45 7LX",
-  "providerId": "1-305829465",
   "registeredManagerAbsentDate": null,
   "latitude": 53.4225989,
   "longitude": -3.0368371
@@ -116583,13 +117101,27 @@
   "rating": "Good",
   "ratingDate": "2020-04-04",
   "region": "North West",
-  "localAuthority": "Knowsley",
+  "localAuthority": "Liverpool",
   "numberOfBeds": 0,
-  "postalCode": "L32 8SA",
+  "postalCode": "L6 6AE",
   "providerId": "1-101640615",
   "registeredManagerAbsentDate": "2025-10-20",
-  "latitude": 53.4784764,
-  "longitude": -2.8847992
+  "latitude": 53.4170202,
+  "longitude": -2.9467573
+ },
+ {
+  "locationId": "1-18104103585",
+  "name": "Local Solutions Liverpool Branch",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Liverpool",
+  "numberOfBeds": 0,
+  "postalCode": "L6 6AE",
+  "providerId": "1-101640615",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4166312,
+  "longitude": -2.9488198
  },
  {
   "locationId": "1-159534259",
@@ -116786,6 +117318,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.4819307,
   "longitude": 0.038959
+ },
+ {
+  "locationId": "1-2458532680",
+  "name": "London Care (South London)",
+  "rating": "Good",
+  "ratingDate": "2019-09-19",
+  "region": "London",
+  "localAuthority": "Lewisham",
+  "numberOfBeds": 0,
+  "postalCode": "SE16 7DW",
+  "providerId": "1-101669407",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.4918726,
+  "longitude": -0.0377388
  },
  {
   "locationId": "1-4469706162",
@@ -119182,20 +119728,6 @@
   "longitude": -1.9912835
  },
  {
-  "locationId": "1-320351055",
-  "name": "Lyndon Hall Nursing Home",
-  "rating": "Good",
-  "ratingDate": "2019-09-04",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 80,
-  "postalCode": "B71 1PP",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": null,
-  "latitude": 52.5289005,
-  "longitude": -1.9912835
- },
- {
   "locationId": "1-122586851",
   "name": "Lynfield",
   "rating": "Requires improvement",
@@ -121277,7 +121809,7 @@
   "numberOfBeds": 38,
   "postalCode": "NG19 7AD",
   "providerId": "1-101617431",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 53.1497548,
   "longitude": -1.2005477
  },
@@ -124208,6 +124740,20 @@
   "longitude": -2.2837402
  },
  {
+  "locationId": "RYY004",
+  "name": "MCH House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 0,
+  "postalCode": "ME8 0PZ",
+  "providerId": "RYY",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3692242,
+  "longitude": 0.574668
+ },
+ {
   "locationId": "1-5178266159",
   "name": "McMorrow House",
   "rating": "Outstanding",
@@ -124386,20 +124932,6 @@
   "postalCode": "BL3 2EF",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.5598766,
-  "longitude": -2.4278983
- },
- {
-  "locationId": "1-320472399",
-  "name": "Meadow Bank House",
-  "rating": "Good",
-  "ratingDate": "2023-12-15",
-  "region": "North West",
-  "localAuthority": "Bolton",
-  "numberOfBeds": 47,
-  "postalCode": "BL3 2EF",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 53.5598766,
   "longitude": -2.4278983
  },
@@ -125216,6 +125748,20 @@
   "longitude": -2.1617268
  },
  {
+  "locationId": "1-20243664280",
+  "name": "MED AESTHETIC CLINIC",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Lambeth",
+  "numberOfBeds": 0,
+  "postalCode": "SW9 7AP",
+  "providerId": "1-18800832291",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.469964,
+  "longitude": -0.111536
+ },
+ {
   "locationId": "1-7257992764",
   "name": "Meden Medical",
   "rating": "Good",
@@ -125270,6 +125816,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.3413517,
   "longitude": -2.4987119
+ },
+ {
+  "locationId": "1-15125973943",
+  "name": "Medicare Support & Housing Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "GL1 1UB",
+  "providerId": "1-11080000106",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.8622253,
+  "longitude": -2.2486755
  },
  {
   "locationId": "1-118700648",
@@ -125550,6 +126110,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.0754616,
   "longitude": 0.7173005
+ },
+ {
+  "locationId": "1-29978450185",
+  "name": "Melland House",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "numberOfBeds": 2,
+  "postalCode": "M18 7QA",
+  "providerId": "1-26594643542",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4540346,
+  "longitude": -2.1774132
  },
  {
   "locationId": "1-22160036463",
@@ -127902,20 +128476,6 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.9100832,
   "longitude": 0.4989552
- },
- {
-  "locationId": "1-11224143571",
-  "name": "Millbrook Care Centre",
-  "rating": "Good",
-  "ratingDate": "2023-09-23",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 46,
-  "postalCode": "SK15 3ET",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.493417,
-  "longitude": -2.032021
  },
  {
   "locationId": "1-28599872122",
@@ -130560,20 +131120,6 @@
   "postalCode": "L14 0JJ",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.4145708,
-  "longitude": -2.8704375
- },
- {
-  "locationId": "1-320496571",
-  "name": "Moss View",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Liverpool",
-  "numberOfBeds": 78,
-  "postalCode": "L14 0JJ",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 53.4145708,
   "longitude": -2.8704375
  },
@@ -134610,20 +135156,6 @@
   "longitude": -2.1854007
  },
  {
-  "locationId": "1-320496594",
-  "name": "Newlands Nursing & Residential Home",
-  "rating": "Good",
-  "ratingDate": "2021-05-11",
-  "region": "North West",
-  "localAuthority": "Stockport",
-  "numberOfBeds": 72,
-  "postalCode": "SK4 4JY",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.4225653,
-  "longitude": -2.1854007
- },
- {
   "locationId": "1-139185447",
   "name": "Newlands Nursing Care Centre",
   "rating": "Good",
@@ -135338,6 +135870,20 @@
   "longitude": -0.5389377
  },
  {
+  "locationId": "1-23498777414",
+  "name": "Nightingale Supported Communities",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Lancashire",
+  "numberOfBeds": 0,
+  "postalCode": "BB9 5RY",
+  "providerId": "1-16584509146",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.8274293,
+  "longitude": -2.2304015
+ },
+ {
   "locationId": "1-110420695",
   "name": "Nightingales Care Home",
   "rating": "Good",
@@ -136005,6 +136551,20 @@
   "numberOfBeds": 29,
   "postalCode": "SY1 2RJ",
   "providerId": "1-101629094",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.726575,
+  "longitude": -2.751952
+ },
+ {
+  "locationId": "1-28270810675",
+  "name": "Normanton Retirement Home",
+  "rating": "Requires improvement",
+  "ratingDate": "2020-03-12",
+  "region": "West Midlands",
+  "localAuthority": "Shropshire",
+  "numberOfBeds": 26,
+  "postalCode": "SY1 2RJ",
+  "providerId": "1-27300788715",
   "registeredManagerAbsentDate": null,
   "latitude": 52.726575,
   "longitude": -2.751952
@@ -138922,20 +139482,6 @@
   "longitude": -2.1785675
  },
  {
-  "locationId": "1-320496700",
-  "name": "Oakland (Rochdale)",
-  "rating": "Good",
-  "ratingDate": "2023-11-24",
-  "region": "North West",
-  "localAuthority": "Rochdale",
-  "numberOfBeds": 40,
-  "postalCode": "OL11 5EU",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.6139897,
-  "longitude": -2.1785675
- },
- {
   "locationId": "1-111381694",
   "name": "Oakland Court",
   "rating": null,
@@ -139295,7 +139841,7 @@
   "numberOfBeds": 0,
   "postalCode": "M14 6JZ",
   "providerId": "1-8483070416",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 53.4431244,
   "longitude": -2.2216498
  },
@@ -141286,6 +141832,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.164049,
   "longitude": -0.7011119
+ },
+ {
+  "locationId": "1-29991996673",
+  "name": "Oluomo Care Services",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Rotherham",
+  "numberOfBeds": 0,
+  "postalCode": "S62 7PR",
+  "providerId": "1-29271267962",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.4747801,
+  "longitude": -1.3426521
  },
  {
   "locationId": "1-6248384875",
@@ -148106,20 +148666,6 @@
   "longitude": -2.2992135
  },
  {
-  "locationId": "1-320530068",
-  "name": "Pendleton Court Care Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Salford",
-  "numberOfBeds": 59,
-  "postalCode": "M6 8FW",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.493063,
-  "longitude": -2.2992135
- },
- {
   "locationId": "1-7168178583",
   "name": "Pendragon",
   "rating": "Good",
@@ -149072,6 +149618,20 @@
   "longitude": -0.151772
  },
  {
+  "locationId": "1-1096200146",
+  "name": "Perspecktive Limited",
+  "rating": "Good",
+  "ratingDate": "2019-07-31",
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "numberOfBeds": 0,
+  "postalCode": "CV1 4DX",
+  "providerId": "1-927050351",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.415861,
+  "longitude": -1.513441
+ },
+ {
   "locationId": "RY8AB",
   "name": "Perth House",
   "rating": "Good",
@@ -149532,6 +150092,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.603752,
   "longitude": -0.661564
+ },
+ {
+  "locationId": "1-110952586",
+  "name": "Phyllis Tuckwell Hospice",
+  "rating": "Good",
+  "ratingDate": "2016-10-19",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "numberOfBeds": 18,
+  "postalCode": "GU9 8BL",
+  "providerId": "1-101728393",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.2106647,
+  "longitude": -0.7831395
  },
  {
   "locationId": "1-363389081",
@@ -151704,6 +152278,48 @@
   "longitude": -1.2799658
  },
  {
+  "locationId": "1-11773320704",
+  "name": "PPC Healthcare Ltd",
+  "rating": "Good",
+  "ratingDate": "2023-03-07",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Sheffield",
+  "numberOfBeds": 0,
+  "postalCode": "S8 7PE",
+  "providerId": "1-11350031603",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 53.3243249,
+  "longitude": -1.4836223
+ },
+ {
+  "locationId": "1-29943142007",
+  "name": "PPC HEALTHCARE LTD",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Sheffield",
+  "numberOfBeds": 0,
+  "postalCode": "S2 1AS",
+  "providerId": "1-11350031603",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.3701682,
+  "longitude": -1.4163256
+ },
+ {
+  "locationId": "1-16579138842",
+  "name": "Practice Plus Group - NHS 111 South West",
+  "rating": "Outstanding",
+  "ratingDate": "2022-03-16",
+  "region": "South West",
+  "localAuthority": "South Gloucestershire",
+  "numberOfBeds": 0,
+  "postalCode": "BS10 7TQ",
+  "providerId": "1-199794494",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5245548,
+  "longitude": -2.6145364
+ },
+ {
   "locationId": "1-2251883709",
   "name": "Practice Plus Group Surgical Centre, Devizes",
   "rating": null,
@@ -153692,6 +154308,20 @@
   "longitude": -3.0097578
  },
  {
+  "locationId": "1-8172028028",
+  "name": "Promised Care Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "numberOfBeds": 0,
+  "postalCode": "UB3 4DX",
+  "providerId": "1-7563148920",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5061031,
+  "longitude": -0.4187431
+ },
+ {
   "locationId": "1-141894836",
   "name": "Prosignia Limited - 14 Church Lane Avenue",
   "rating": "Good",
@@ -153872,6 +154502,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.2925947,
   "longitude": -1.6043124
+ },
+ {
+  "locationId": "1-29810556270",
+  "name": "Psychnet LLP",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Westminster",
+  "numberOfBeds": 0,
+  "postalCode": "W1G 9PF",
+  "providerId": "1-22985226723",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.517391,
+  "longitude": -0.146009
  },
  {
   "locationId": "1-21752111963",
@@ -154192,20 +154836,6 @@
   "postalCode": "NN6 9DX",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.3238972,
-  "longitude": -0.9048633
- },
- {
-  "locationId": "1-320530396",
-  "name": "Pytchley Court Nursing Home",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East Midlands",
-  "localAuthority": "West Northamptonshire",
-  "numberOfBeds": 40,
-  "postalCode": "NN6 9DX",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 52.3238972,
   "longitude": -0.9048633
  },
@@ -155258,6 +155888,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.4441839,
   "longitude": 0.6259081
+ },
+ {
+  "locationId": "1-4285193515",
+  "name": "Radis Community Care (Reading Supported Living)",
+  "rating": "Requires improvement",
+  "ratingDate": "2023-06-27",
+  "region": "South East",
+  "localAuthority": "Bracknell Forest",
+  "numberOfBeds": 0,
+  "postalCode": "RG12 1WA",
+  "providerId": "1-101694224",
+  "registeredManagerAbsentDate": "2026-10-05",
+  "latitude": 51.415349,
+  "longitude": -0.7577227
  },
  {
   "locationId": "1-18248136534",
@@ -156462,6 +157106,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.4384102,
   "longitude": -1.8607511
+ },
+ {
+  "locationId": "1-3618483402",
+  "name": "Real Life Options - West Midlands Supported Living and Outreach Services",
+  "rating": "Good",
+  "ratingDate": "2019-11-02",
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "numberOfBeds": 0,
+  "postalCode": "CV1 2AQ",
+  "providerId": "1-102642781",
+  "registeredManagerAbsentDate": "2025-12-04",
+  "latitude": 52.402223,
+  "longitude": -1.4964588
  },
  {
   "locationId": "1-2810729680",
@@ -158060,6 +158718,20 @@
   "longitude": -0.3447532
  },
  {
+  "locationId": "1-29051057771",
+  "name": "Resilient Healthcare – Edgbaston",
+  "rating": null,
+  "ratingDate": null,
+  "region": "West Midlands",
+  "localAuthority": "Birmingham",
+  "numberOfBeds": 0,
+  "postalCode": "B15 1TS",
+  "providerId": "1-26071412318",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.4692706,
+  "longitude": -1.9210343
+ },
+ {
   "locationId": "1-120642356",
   "name": "Resolve",
   "rating": "Outstanding",
@@ -158226,6 +158898,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.5213861,
   "longitude": -1.3536153
+ },
+ {
+  "locationId": "1-4499553487",
+  "name": "Reva Healthcare Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hillingdon",
+  "numberOfBeds": 0,
+  "postalCode": "UB3 4DX",
+  "providerId": "1-3200909235",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5062028,
+  "longitude": -0.4185011
  },
  {
   "locationId": "1-19258542394",
@@ -158578,20 +159264,6 @@
   "longitude": -2.545816
  },
  {
-  "locationId": "1-320558505",
-  "name": "Richmond House",
-  "rating": "Good",
-  "ratingDate": "2019-08-02",
-  "region": "North West",
-  "localAuthority": "Wigan",
-  "numberOfBeds": 49,
-  "postalCode": "WN7 4UH",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.4951733,
-  "longitude": -2.545816
- },
- {
   "locationId": "1-9092380245",
   "name": "Richmond Manor",
   "rating": "Good",
@@ -158674,6 +159346,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.512575,
   "longitude": -2.0896788
+ },
+ {
+  "locationId": "1-7375332347",
+  "name": "Richmond Road Medical Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Hackney",
+  "numberOfBeds": 0,
+  "postalCode": "E8 3HN",
+  "providerId": "1-7300498504",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5428801,
+  "longitude": -0.0670415
  },
  {
   "locationId": "1-4228776312",
@@ -160734,20 +161420,6 @@
   "longitude": -4.1108452
  },
  {
-  "locationId": "1-11263733556",
-  "name": "Roby House Care Centre",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Knowsley",
-  "numberOfBeds": 55,
-  "postalCode": "L36 5XW",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.406991,
-  "longitude": -2.847268
- },
- {
   "locationId": "1-28599872369",
   "name": "Roby House Care Centre",
   "rating": "Good",
@@ -160758,20 +161430,6 @@
   "postalCode": "L36 5XW",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.406991,
-  "longitude": -2.847268
- },
- {
-  "locationId": "1-11224143598",
-  "name": "Roby Lodge",
-  "rating": "Good",
-  "ratingDate": "2023-03-18",
-  "region": "North West",
-  "localAuthority": "Knowsley",
-  "numberOfBeds": 40,
-  "postalCode": "L36 5XW",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-28",
   "latitude": 53.406991,
   "longitude": -2.847268
  },
@@ -161794,20 +162452,6 @@
   "postalCode": "M26 4DF",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 53.564204,
-  "longitude": -2.3301524
- },
- {
-  "locationId": "1-320558631",
-  "name": "Rose Court Nursing and Residential Home",
-  "rating": "Good",
-  "ratingDate": "2024-02-23",
-  "region": "North West",
-  "localAuthority": "Bury",
-  "numberOfBeds": 109,
-  "postalCode": "M26 4DF",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-28",
   "latitude": 53.564204,
   "longitude": -2.3301524
  },
@@ -163333,7 +163977,7 @@
   "numberOfBeds": 20,
   "postalCode": "TA6 3LH",
   "providerId": "1-101608454",
-  "registeredManagerAbsentDate": "2026-10-01",
+  "registeredManagerAbsentDate": null,
   "latitude": 51.1268222,
   "longitude": -3.0033808
  },
@@ -164244,20 +164888,6 @@
   "postalCode": "B64 5JE",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.4763949,
-  "longitude": -2.0727405
- },
- {
-  "locationId": "1-320588674",
-  "name": "Roxburgh House (West Midlands)",
-  "rating": "Good",
-  "ratingDate": "2019-04-13",
-  "region": "West Midlands",
-  "localAuthority": "Sandwell",
-  "numberOfBeds": 44,
-  "postalCode": "B64 5JE",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-28",
   "latitude": 52.4763949,
   "longitude": -2.0727405
  },
@@ -166852,20 +167482,6 @@
   "longitude": 1.3890382
  },
  {
-  "locationId": "1-11224142830",
-  "name": "Sandon House",
-  "rating": "Good",
-  "ratingDate": "2022-12-15",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 42,
-  "postalCode": "OL5 0JG",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": null,
-  "latitude": 53.5167628,
-  "longitude": -2.0459719
- },
- {
   "locationId": "1-28599872509",
   "name": "Sandon House",
   "rating": "Good",
@@ -167284,20 +167900,6 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.5776346,
   "longitude": -0.3338575
- },
- {
-  "locationId": "1-15500189830",
-  "name": "Sarvam Health",
-  "rating": null,
-  "ratingDate": null,
-  "region": "East",
-  "localAuthority": "Essex",
-  "numberOfBeds": 0,
-  "postalCode": "CM14 4DB",
-  "providerId": "1-13779926293",
-  "registeredManagerAbsentDate": null,
-  "latitude": 51.6200957,
-  "longitude": 0.3039141
  },
  {
   "locationId": "1-4838490711",
@@ -168812,6 +169414,20 @@
   "longitude": -2.9772143
  },
  {
+  "locationId": "1-28811162368",
+  "name": "Sefton New Directions Limited – Supported Living",
+  "rating": null,
+  "ratingDate": null,
+  "region": "North West",
+  "localAuthority": "Sefton",
+  "numberOfBeds": 0,
+  "postalCode": "PR9 7LG",
+  "providerId": "1-101686147",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.6584437,
+  "longitude": -2.9707567
+ },
+ {
   "locationId": "1-121516869",
   "name": "Sefton Street",
   "rating": "Good",
@@ -169196,7 +169812,7 @@
   "ratingDate": "2019-11-07",
   "region": "West Midlands",
   "localAuthority": "Birmingham",
-  "numberOfBeds": 5,
+  "numberOfBeds": 6,
   "postalCode": "B44 0AD",
   "providerId": "1-102642607",
   "registeredManagerAbsentDate": null,
@@ -169622,6 +170238,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.5013647,
   "longitude": -2.1521391
+ },
+ {
+  "locationId": "1-29806250274",
+  "name": "Serenity Womens Clinic Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South West",
+  "localAuthority": "Somerset",
+  "numberOfBeds": 0,
+  "postalCode": "TA1 1FD",
+  "providerId": "1-24712213707",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.0176081,
+  "longitude": -3.1031283
  },
  {
   "locationId": "1-144389586",
@@ -170324,6 +170954,20 @@
   "longitude": -1.3536326
  },
  {
+  "locationId": "1-4603868334",
+  "name": "Shared Lives and Supported Living",
+  "rating": "Good",
+  "ratingDate": "2018-12-12",
+  "region": "North West",
+  "localAuthority": "Sefton",
+  "numberOfBeds": 0,
+  "postalCode": "PR9 7LG",
+  "providerId": "1-101686147",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.658187,
+  "longitude": -2.969466
+ },
+ {
   "locationId": "1-16996613297",
   "name": "Shared Lives Cumberland",
   "rating": null,
@@ -170336,6 +170980,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.6471183,
   "longitude": -3.5512317
+ },
+ {
+  "locationId": "1-144189625",
+  "name": "Shared Lives Scheme",
+  "rating": "Good",
+  "ratingDate": "2020-03-03",
+  "region": "London",
+  "localAuthority": "Ealing",
+  "numberOfBeds": 0,
+  "postalCode": "W3 6NE",
+  "providerId": "1-101608688",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5064057,
+  "longitude": -0.2678918
  },
  {
   "locationId": "1-309727915",
@@ -170560,6 +171218,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.9170797,
   "longitude": -1.2092952
+ },
+ {
+  "locationId": "1-8201642139",
+  "name": "Sheen Lane Health Centre",
+  "rating": "Good",
+  "ratingDate": "2022-10-28",
+  "region": "London",
+  "localAuthority": "Richmond upon Thames",
+  "numberOfBeds": 0,
+  "postalCode": "SW14 8LP",
+  "providerId": "1-2200741457",
+  "registeredManagerAbsentDate": "2026-01-20",
+  "latitude": 51.4657673,
+  "longitude": -0.2678472
  },
  {
   "locationId": "1-572906794",
@@ -171484,6 +172156,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 50.9210095,
   "longitude": -1.4302757
+ },
+ {
+  "locationId": "1-24407305737",
+  "name": "Shirley Health Partnership",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Southampton",
+  "numberOfBeds": 0,
+  "postalCode": "SO15 3JD",
+  "providerId": "1-2456477856",
+  "registeredManagerAbsentDate": null,
+  "latitude": 50.9191619,
+  "longitude": -1.4275953
  },
  {
   "locationId": "1-142049280",
@@ -173166,6 +173852,20 @@
   "longitude": -2.2374756
  },
  {
+  "locationId": "1-12340571923",
+  "name": "Skin Medics Limited",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "AL2 1RE",
+  "providerId": "1-11640189223",
+  "registeredManagerAbsentDate": "2026-10-05",
+  "latitude": 51.7195145,
+  "longitude": -0.29106
+ },
+ {
   "locationId": "1-28084717383",
   "name": "Skinova Aesthetics",
   "rating": null,
@@ -173234,6 +173934,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.0823619,
   "longitude": -0.3127589
+ },
+ {
+  "locationId": "1-29942719649",
+  "name": "Skyler Care Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Derby",
+  "numberOfBeds": 0,
+  "postalCode": "DE1 2GJ",
+  "providerId": "1-24685750391",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.9165883,
+  "longitude": -1.477942
  },
  {
   "locationId": "1-111256371",
@@ -173724,6 +174438,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.6745069,
   "longitude": -1.5406274
+ },
+ {
+  "locationId": "1-2289017736",
+  "name": "Snowball Care UK Ltd",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Southwark",
+  "numberOfBeds": 0,
+  "postalCode": "SE1 1EN",
+  "providerId": "1-1321386501",
+  "registeredManagerAbsentDate": "2026-10-05",
+  "latitude": 51.5014718,
+  "longitude": -0.0946135
  },
  {
   "locationId": "1-19896801228",
@@ -174396,6 +175124,20 @@
   "registeredManagerAbsentDate": "2026-09-28",
   "latitude": 53.4578025,
   "longitude": -2.1180473
+ },
+ {
+  "locationId": "1-12829749535",
+  "name": "South Essex Domiciliary Care",
+  "rating": "Good",
+  "ratingDate": "2023-08-03",
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "SS13 3DU",
+  "providerId": "1-4742408300",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5663081,
+  "longitude": 0.5040796
  },
  {
   "locationId": "1-116790538",
@@ -175793,7 +176535,7 @@
   "numberOfBeds": 45,
   "postalCode": "WF16 0ND",
   "providerId": "1-102642955",
-  "registeredManagerAbsentDate": null,
+  "registeredManagerAbsentDate": "2026-10-06",
   "latitude": 53.7045,
   "longitude": -1.6748284
  },
@@ -186830,20 +187572,6 @@
   "longitude": 1.6364032
  },
  {
-  "locationId": "1-11224143672",
-  "name": "Sunnyside",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 43,
-  "postalCode": "M43 7QE",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-10-05",
-  "latitude": 53.4896586,
-  "longitude": -2.1560553
- },
- {
   "locationId": "1-28599872590",
   "name": "Sunnyside",
   "rating": "Good",
@@ -187584,6 +188312,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 51.3856333,
   "longitude": -0.2103394
+ },
+ {
+  "locationId": "1-19896282268",
+  "name": "Sutton Dental Practice",
+  "rating": "Inspected but not rated",
+  "ratingDate": "2022-03-29",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Kingston upon Hull, City of",
+  "numberOfBeds": 0,
+  "postalCode": "HU7 4YG",
+  "providerId": "1-19895955798",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.7839507,
+  "longitude": -0.3113446
  },
  {
   "locationId": "1-1524620467",
@@ -189840,6 +190582,20 @@
   "longitude": -2.6378618
  },
  {
+  "locationId": "1-23419372696",
+  "name": "Teebollz Consulting",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Southend-on-Sea",
+  "numberOfBeds": 0,
+  "postalCode": "SS0 7HU",
+  "providerId": "1-9641172413",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.5435364,
+  "longitude": 0.6936639
+ },
+ {
   "locationId": "1-15153678799",
   "name": "Tees Grange",
   "rating": null,
@@ -190090,6 +190846,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.4398262,
   "longitude": -1.387254
+ },
+ {
+  "locationId": "1-26701331348",
+  "name": "Ten Harley Street",
+  "rating": null,
+  "ratingDate": null,
+  "region": "London",
+  "localAuthority": "Westminster",
+  "numberOfBeds": 0,
+  "postalCode": "W1G 9PF",
+  "providerId": "1-25037768792",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.517391,
+  "longitude": -0.146009
  },
  {
   "locationId": "1-146249998",
@@ -202440,6 +203210,20 @@
   "longitude": 0.5311881
  },
  {
+  "locationId": "1-13632175145",
+  "name": "The Octagon",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East",
+  "localAuthority": "Essex",
+  "numberOfBeds": 0,
+  "postalCode": "CO1 1TG",
+  "providerId": "1-4742408300",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 51.892844,
+  "longitude": 0.8952179
+ },
+ {
   "locationId": "1-4487341725",
   "name": "The Old Chapel Care Home",
   "rating": "Good",
@@ -206346,20 +207130,6 @@
   "longitude": -1.3247981
  },
  {
-  "locationId": "1-11263733683",
-  "name": "The Sycamores",
-  "rating": "Requires improvement",
-  "ratingDate": "2023-09-08",
-  "region": "North West",
-  "localAuthority": "Tameside",
-  "numberOfBeds": 60,
-  "postalCode": "SK14 4DH",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 53.4606398,
-  "longitude": -2.0623448
- },
- {
   "locationId": "1-127619830",
   "name": "The Sycamores",
   "rating": null,
@@ -208138,20 +208908,6 @@
   "longitude": -1.3606054
  },
  {
-  "locationId": "1-320755734",
-  "name": "The Willows Residential Home (Hinckley)",
-  "rating": "Good",
-  "ratingDate": "2020-02-11",
-  "region": "East Midlands",
-  "localAuthority": "Leicestershire",
-  "numberOfBeds": 40,
-  "postalCode": "LE10 1HH",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 52.5411121,
-  "longitude": -1.3606054
- },
- {
   "locationId": "1-15199284532",
   "name": "The Windmill Care Home Ltd",
   "rating": null,
@@ -208402,6 +209158,48 @@
   "registeredManagerAbsentDate": null,
   "latitude": 54.5583366,
   "longitude": -1.3027866
+ },
+ {
+  "locationId": "1-29143385393",
+  "name": "Thera East Midlands",
+  "rating": "Good",
+  "ratingDate": "2021-07-10",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 0,
+  "postalCode": "NG31 7XT",
+  "providerId": "1-27669171848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.900296,
+  "longitude": -0.6620554
+ },
+ {
+  "locationId": "1-4695868913",
+  "name": "Thera East Midlands",
+  "rating": "Good",
+  "ratingDate": "2021-07-10",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "numberOfBeds": 0,
+  "postalCode": "NG31 7XT",
+  "providerId": "1-4675979855",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 52.901355,
+  "longitude": -0.662707
+ },
+ {
+  "locationId": "1-29069756697",
+  "name": "Thera South Midlands",
+  "rating": "Good",
+  "ratingDate": "2020-01-09",
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "OX4 4GP",
+  "providerId": "1-27669171848",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.716328,
+  "longitude": -1.21495
  },
  {
   "locationId": "1-16488851500",
@@ -209522,6 +210320,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.6389649,
   "longitude": -1.0593258
+ },
+ {
+  "locationId": "1-29730424576",
+  "name": "Thurnby Fields",
+  "rating": null,
+  "ratingDate": null,
+  "region": "East Midlands",
+  "localAuthority": "Leicestershire",
+  "numberOfBeds": 83,
+  "postalCode": "LE7 9RQ",
+  "providerId": "1-28786709859",
+  "registeredManagerAbsentDate": null,
+  "latitude": 52.63078,
+  "longitude": -1.0430222
  },
  {
   "locationId": "1-127549009",
@@ -213654,6 +214466,20 @@
   "longitude": -0.3739892
  },
  {
+  "locationId": "1-123018468",
+  "name": "United Response - York Leeds Harrogate DCA",
+  "rating": "Good",
+  "ratingDate": "2017-07-26",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "York",
+  "numberOfBeds": null,
+  "postalCode": "YO26 5NA",
+  "providerId": "1-102642990",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.9668464,
+  "longitude": -1.1213214
+ },
+ {
   "locationId": "1-298516683",
   "name": "United Response, Shared Lives",
   "rating": "Good",
@@ -214240,6 +215066,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.274152,
   "longitude": -2.908476
+ },
+ {
+  "locationId": "1-26750101377",
+  "name": "Vale Health Clinic",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Kent",
+  "numberOfBeds": 0,
+  "postalCode": "TN1 1BS",
+  "providerId": "1-20628833113",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.129285,
+  "longitude": 0.2619478
  },
  {
   "locationId": "1-2146517935",
@@ -215208,20 +216048,6 @@
   "longitude": -1.5627251
  },
  {
-  "locationId": "1-320755929",
-  "name": "Victoria Gardens",
-  "rating": "Good",
-  "ratingDate": "2020-02-07",
-  "region": "West Midlands",
-  "localAuthority": "Coventry",
-  "numberOfBeds": 28,
-  "postalCode": "CV4 9DS",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 52.4045357,
-  "longitude": -1.5627251
- },
- {
   "locationId": "1-133870755",
   "name": "Victoria Grand",
   "rating": null,
@@ -215614,20 +216440,6 @@
   "longitude": -1.4875902
  },
  {
-  "locationId": "1-320756045",
-  "name": "Victoria Manor",
-  "rating": "Good",
-  "ratingDate": "2018-02-07",
-  "region": "West Midlands",
-  "localAuthority": "Coventry",
-  "numberOfBeds": 30,
-  "postalCode": "CV3 4BJ",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 52.3883539,
-  "longitude": -1.4875902
- },
- {
   "locationId": "1-28599872782",
   "name": "Victoria Mews",
   "rating": "Good",
@@ -215642,20 +216454,6 @@
   "longitude": -1.4539439
  },
  {
-  "locationId": "1-320756118",
-  "name": "Victoria Mews",
-  "rating": null,
-  "ratingDate": null,
-  "region": "West Midlands",
-  "localAuthority": "Coventry",
-  "numberOfBeds": 31,
-  "postalCode": "CV3 2DP",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
-  "latitude": 52.4034228,
-  "longitude": -1.4539439
- },
- {
   "locationId": "1-28600919813",
   "name": "Victoria Park (Coventry)",
   "rating": "Good",
@@ -215666,20 +216464,6 @@
   "postalCode": "CV2 4DS",
   "providerId": "1-19833129073",
   "registeredManagerAbsentDate": null,
-  "latitude": 52.4079901,
-  "longitude": -1.4786942
- },
- {
-  "locationId": "1-320756241",
-  "name": "Victoria Park (Coventry)",
-  "rating": "Good",
-  "ratingDate": "2023-07-07",
-  "region": "West Midlands",
-  "localAuthority": "Coventry",
-  "numberOfBeds": 34,
-  "postalCode": "CV2 4DS",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-25",
   "latitude": 52.4079901,
   "longitude": -1.4786942
  },
@@ -216816,6 +217600,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 52.8745923,
   "longitude": -1.5452288
+ },
+ {
+  "locationId": "1-203288403",
+  "name": "Wallingford Dental Practice",
+  "rating": "No published rating",
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Oxfordshire",
+  "numberOfBeds": 0,
+  "postalCode": "OX10 0BW",
+  "providerId": "1-152986753",
+  "registeredManagerAbsentDate": "2026-10-06",
+  "latitude": 51.6011327,
+  "longitude": -1.1233563
  },
  {
   "locationId": "1-12377319646",
@@ -218325,7 +219123,7 @@
   "numberOfBeds": 35,
   "postalCode": "LN8 3EX",
   "providerId": "1-101660305",
-  "registeredManagerAbsentDate": "2026-09-04",
+  "registeredManagerAbsentDate": null,
   "latitude": 53.3893496,
   "longitude": -0.3307041
  },
@@ -220184,7 +220982,7 @@
   "ratingDate": null,
   "region": "North West",
   "localAuthority": "St. Helens",
-  "numberOfBeds": 3,
+  "numberOfBeds": 4,
   "postalCode": "WA9 5JQ",
   "providerId": "1-486375464",
   "registeredManagerAbsentDate": "2026-10-02",
@@ -221802,20 +222600,6 @@
   "longitude": -2.5290684
  },
  {
-  "locationId": "1-320756380",
-  "name": "Westleigh Lodge",
-  "rating": "Good",
-  "ratingDate": "2018-09-18",
-  "region": "North West",
-  "localAuthority": "Wigan",
-  "numberOfBeds": 48,
-  "postalCode": "WN7 5JT",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-28",
-  "latitude": 53.5108262,
-  "longitude": -2.5290684
- },
- {
   "locationId": "1-119188716",
   "name": "Westley Brook Close",
   "rating": "Good",
@@ -222584,6 +223368,20 @@
   "registeredManagerAbsentDate": null,
   "latitude": 53.3847812,
   "longitude": -2.5533656
+ },
+ {
+  "locationId": "1-18386090957",
+  "name": "Wetherby Health Centre",
+  "rating": null,
+  "ratingDate": null,
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "numberOfBeds": 0,
+  "postalCode": "LS22 6JS",
+  "providerId": "1-199704297",
+  "registeredManagerAbsentDate": null,
+  "latitude": 53.9284213,
+  "longitude": -1.3808436
  },
  {
   "locationId": "1-7079329965",
@@ -227388,6 +228186,20 @@
   "longitude": 0.6329648
  },
  {
+  "locationId": "RYY002",
+  "name": "Wisdom Hospice",
+  "rating": null,
+  "ratingDate": null,
+  "region": "South East",
+  "localAuthority": "Medway",
+  "numberOfBeds": 0,
+  "postalCode": "ME1 2NU",
+  "providerId": "RYY",
+  "registeredManagerAbsentDate": null,
+  "latitude": 51.3726057,
+  "longitude": 0.5093351
+ },
+ {
   "locationId": "1-128543581",
   "name": "Wishmoor Rest Home",
   "rating": "Good",
@@ -230664,20 +231476,6 @@
   "longitude": -2.3673321
  },
  {
-  "locationId": "1-320777838",
-  "name": "Worsley Lodge",
-  "rating": null,
-  "ratingDate": null,
-  "region": "North West",
-  "localAuthority": "Salford",
-  "numberOfBeds": 48,
-  "postalCode": "M28 2WG",
-  "providerId": "1-305829465",
-  "registeredManagerAbsentDate": "2026-09-28",
-  "latitude": 53.50071,
-  "longitude": -2.3673321
- },
- {
   "locationId": "1-19377673272",
   "name": "Worsley Road",
   "rating": null,
@@ -230855,7 +231653,7 @@
   "numberOfBeds": 55,
   "postalCode": "RH2 0ND",
   "providerId": "1-101609894",
-  "registeredManagerAbsentDate": "2026-04-17",
+  "registeredManagerAbsentDate": null,
   "latitude": 51.241477,
   "longitude": -0.1879443
  },

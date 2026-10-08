@@ -127,6 +127,10 @@
   "name": "Rushcliffe Care Limited",
   "homes": 12
  },
+ "1-101608688": {
+  "name": "London Borough of Ealing",
+  "homes": 2
+ },
  "1-101608697": {
   "name": "Autism Anglia",
   "homes": 3
@@ -177,7 +181,7 @@
  },
  "1-101609453": {
   "name": "Aspire Living Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-101609624": {
   "name": "Mother Redcaps Care Home Limited",
@@ -917,7 +921,7 @@
  },
  "1-101634763": {
   "name": "InHealth Limited",
-  "homes": 6
+  "homes": 8
  },
  "1-101635419": {
   "name": "The Healthcare Management Trust",
@@ -1018,6 +1022,10 @@
  "1-101640561": {
   "name": "Keychange Charity",
   "homes": 7
+ },
+ "1-101640615": {
+  "name": "Local Solutions",
+  "homes": 2
  },
  "1-101640893": {
   "name": "Perpetual (Bolton) Limited",
@@ -2597,7 +2605,7 @@
  },
  "1-101670082": {
   "name": "Coventry City Council",
-  "homes": 2
+  "homes": 3
  },
  "1-101670108": {
   "name": "Numada Health Care Limited",
@@ -3053,7 +3061,7 @@
  },
  "1-101686147": {
   "name": "Sefton New Directions Limited",
-  "homes": 5
+  "homes": 7
  },
  "1-101686673": {
   "name": "Highgate Care Services Ltd",
@@ -3213,7 +3221,7 @@
  },
  "1-101694224": {
   "name": "G P Homecare Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-101694241": {
   "name": "DRS Care Homes Limited",
@@ -3661,7 +3669,7 @@
  },
  "1-102642781": {
   "name": "Real Life Options",
-  "homes": 7
+  "homes": 8
  },
  "1-102642790": {
   "name": "Royal Mencap Society",
@@ -3705,7 +3713,7 @@
  },
  "1-102642963": {
   "name": "The ExtraCare Charitable Trust",
-  "homes": 10
+  "homes": 11
  },
  "1-102642972": {
   "name": "Northern Life Care Limited",
@@ -3717,7 +3725,7 @@
  },
  "1-102642990": {
   "name": "United Response",
-  "homes": 21
+  "homes": 22
  },
  "1-102642999": {
   "name": "Runwood Homes Limited",
@@ -3890,6 +3898,10 @@
  "1-1133566998": {
   "name": "Goldthorn Lodge Limited",
   "homes": 3
+ },
+ "1-11350031603": {
+  "name": "PPC Healthcare Ltd",
+  "homes": 2
  },
  "1-1135976252": {
   "name": "Qualities Services Ltd",
@@ -4405,7 +4417,7 @@
  },
  "1-125892604": {
   "name": "Change, Grow, Live",
-  "homes": 5
+  "homes": 6
  },
  "1-125892620": {
   "name": "Alliance Medical Limited",
@@ -4677,10 +4689,6 @@
  },
  "1-137625081": {
   "name": "Key Healthcare (St Helens) Limited",
-  "homes": 2
- },
- "1-13779926293": {
-  "name": "Sarvam Services Ltd",
   "homes": 2
  },
  "1-137861712": {
@@ -4989,11 +4997,15 @@
  },
  "1-152966682": {
   "name": "Balbir Singh Bhandal, Amrik Singh Bhandal & Baljit Singh Bhandal",
+  "homes": 5
+ },
+ "1-152977009": {
+  "name": "Damira Dental Limited",
   "homes": 4
  },
  "1-152986753": {
   "name": "Rodericks Dental Partners Limited",
-  "homes": 8
+  "homes": 10
  },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
@@ -5141,7 +5153,7 @@
  },
  "1-17362529133": {
   "name": "Dentex Clinical Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-17397747565": {
   "name": "Morar Care Home Stratford Ltd",
@@ -5439,6 +5451,10 @@
   "name": "Torwood Care 2 Limited",
   "homes": 3
  },
+ "1-199704297": {
+  "name": "Bramham Medical Centre",
+  "homes": 2
+ },
  "1-199713036": {
   "name": "AMP Healthcare Limited",
   "homes": 2
@@ -5653,6 +5669,10 @@
  },
  "1-2198790109": {
   "name": "Rotherwood Healthcare (Hampton Grange) Limited",
+  "homes": 2
+ },
+ "1-2200741457": {
+  "name": "Richmond General Practice Alliance Limited",
   "homes": 2
  },
  "1-2202093834": {
@@ -5949,7 +5969,7 @@
  },
  "1-27669171848": {
   "name": "Thera Trust",
-  "homes": 3
+  "homes": 8
  },
  "1-276920477": {
   "name": "The Wilf Ward Family Trust",
@@ -6089,7 +6109,7 @@
  },
  "1-305829465": {
   "name": "HC-One Limited",
-  "homes": 66
+  "homes": 21
  },
  "1-3069455112": {
   "name": "Yelverton Care LLP",
@@ -6617,7 +6637,7 @@
  },
  "1-4742408300": {
   "name": "Peabody Trust",
-  "homes": 2
+  "homes": 4
  },
  "1-4749784629": {
   "name": "The Bridge Community Care Limited",
@@ -6830,6 +6850,10 @@
  "1-6027365100": {
   "name": "SUSASH Middlesbrough Ltd",
   "homes": 3
+ },
+ "1-6082596120": {
+  "name": "Barnsley Healthcare Federation CIC",
+  "homes": 2
  },
  "1-6089386529": {
   "name": "Lions Meadow Ltd",
@@ -7173,7 +7197,7 @@
  },
  "1-8483070416": {
   "name": "Sugarman Health and Wellbeing Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-8544062580": {
   "name": "Roseberry Care Centres (England) Ltd",
@@ -7406,6 +7430,10 @@
  "RY8": {
   "name": "Derbyshire Community Health Services NHS Foundation Trust",
   "homes": 6
+ },
+ "RYY": {
+  "name": "Kent Community Health NHS Foundation Trust",
+  "homes": 4
  },
  "TAH": {
   "name": "Sheffield Health Partnership University NHS Foundation Trust",

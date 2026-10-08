@@ -4,7 +4,62 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/rightcare-health-services/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/rightcare-health-services/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/rightcare-health-services/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:06Z</updated>
   <subtitle>Nursing homes run by RIGHTCARE HEALTH SERVICES whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195525/2026-10-08/name_changed</id>
+    <title>Westwood Manor Nursing Home, Inc: Name changed: WESTWOOD MANOR NURSING HOME, INC to Westwood Manor Nursing Home, Inc (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195525/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Name changed: WESTWOOD MANOR NURSING HOME, INC to Westwood Manor Nursing Home, Inc (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195369/2026-10-08/name_changed</id>
+    <title>Our Lady of Prompt Succor Nursing Facility: Name changed: OUR LADY OF PROMPT SUCCOR NURSING FACILITY to Our Lady of Prompt Succor Nursing Facility (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195369/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Name changed: OUR LADY OF PROMPT SUCCOR NURSING FACILITY to Our Lady of Prompt Succor Nursing Facility (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195525/2026-10-08/improve</id>
+    <title>Westwood Manor Nursing Home, Inc: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195525/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195525/2026-10-08/health_rating_changed</id>
+    <title>Westwood Manor Nursing Home, Inc: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195525/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195369/2026-10-08/health_rating_changed</id>
+    <title>Our Lady of Prompt Succor Nursing Facility: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195369/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195555/2026-10-08/fines_changed</id>
+    <title>Sabine Retirement and Rehab Center: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195555/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195369/2026-10-08/fines_changed</id>
+    <title>Our Lady of Prompt Succor Nursing Facility: Number of fines changed: 0 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195369/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Number of fines changed: 0 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/195369/2026-10-08/decline</id>
+    <title>Our Lady of Prompt Succor Nursing Facility: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/195369/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Louisiana. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
 </feed>

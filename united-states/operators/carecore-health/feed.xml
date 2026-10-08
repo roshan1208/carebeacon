@@ -4,7 +4,55 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/carecore-health/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/carecore-health/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/carecore-health/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:03Z</updated>
   <subtitle>Nursing homes run by CARECORE HEALTH whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365597/2026-10-08/ownership_changed</id>
+    <title>WESTMORELAND PLACE: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365597/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365733/2026-10-08/ownership_changed</id>
+    <title>CARECORE AT MARGARET HALL: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365733/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365202/2026-10-08/ownership_changed</id>
+    <title>CARECORE AT LIMA: Ownership changed: For profit - Limited Liability company to For profit - Partnership (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365202/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Ownership changed: For profit - Limited Liability company to For profit - Partnership (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365202/2026-10-08/improve</id>
+    <title>CARECORE AT LIMA: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365202/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365202/2026-10-08/health_rating_changed</id>
+    <title>CARECORE AT LIMA: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365202/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365430/2026-10-08/health_rating_changed</id>
+    <title>Carecore at Gaymont: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365430/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365430/2026-10-08/decline</id>
+    <title>Carecore at Gaymont: Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365430/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Ohio. Overall rating declined: 3 stars to 2 stars (by 8 October 2026).</summary>
+  </entry>
 </feed>

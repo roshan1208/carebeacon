@@ -4,7 +4,62 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/tlc-management/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/tlc-management/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/tlc-management/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:07Z</updated>
   <subtitle>Nursing homes run by TLC MANAGEMENT whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155003/2026-10-08/improve</id>
+    <title>MASON HEALTH CARE CENTER: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155003/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155798/2026-10-08/improve</id>
+    <title>ASHTON CREEK HEALTH AND REHABILITATION CENTER: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155798/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155805/2026-10-08/improve</id>
+    <title>ADDISON POINTE HEALTH &amp; REHABILITATION CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155805/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155003/2026-10-08/health_rating_changed</id>
+    <title>MASON HEALTH CARE CENTER: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155003/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155546/2026-10-08/health_rating_changed</id>
+    <title>BETHEL POINTE HEALTH AND REHAB: Health inspection rating changed: 4 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155546/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Health inspection rating changed: 4 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155798/2026-10-08/health_rating_changed</id>
+    <title>ASHTON CREEK HEALTH AND REHABILITATION CENTER: Health inspection rating changed: 4 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155798/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Health inspection rating changed: 4 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155805/2026-10-08/health_rating_changed</id>
+    <title>ADDISON POINTE HEALTH &amp; REHABILITATION CENTER: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155805/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/155546/2026-10-08/decline</id>
+    <title>BETHEL POINTE HEALTH AND REHAB: Overall rating declined: 5 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/155546/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Indiana. Overall rating declined: 5 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
 </feed>

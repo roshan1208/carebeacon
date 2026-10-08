@@ -4,7 +4,48 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/ocean-healthcare/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/ocean-healthcare/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/ocean-healthcare/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:05Z</updated>
   <subtitle>Nursing homes run by OCEAN HEALTHCARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315226/2026-10-08/improve</id>
+    <title>HUNTERDON CARE CENTER LLC: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315226/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315503/2026-10-08/health_rating_changed</id>
+    <title>ROYAL SUITES HEALTH CARE &amp; REHABILITATION: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315503/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315226/2026-10-08/health_rating_changed</id>
+    <title>HUNTERDON CARE CENTER LLC: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315226/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315260/2026-10-08/health_rating_changed</id>
+    <title>Aspen Hills Healthcare Center: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315260/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315503/2026-10-08/decline</id>
+    <title>ROYAL SUITES HEALTH CARE &amp; REHABILITATION: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315503/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/315260/2026-10-08/decline</id>
+    <title>Aspen Hills Healthcare Center: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/315260/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>New Jersey. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
 </feed>

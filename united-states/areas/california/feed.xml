@@ -4,7 +4,706 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/areas/california/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/areas/california/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/areas/california/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:02Z</updated>
   <subtitle>Nursing homes in California whose record on CMS (Centers for Medicare &amp; Medicaid Services)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555527/2026-10-08/staffing_rating_changed</id>
+    <title>Southern Inyo Hospital D/P SNF: Staffing rating changed: 1 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555527/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555592/2026-10-08/staffing_rating_changed</id>
+    <title>San Luis Transitional Care: Staffing rating changed: 1 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555592/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056101/2026-10-08/staffing_rating_changed</id>
+    <title>River Pointe Post-Acute: Staffing rating changed: 1 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056101/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055697/2026-10-08/staffing_rating_changed</id>
+    <title>COSTA DEL SOL HEALTHCARE: Staffing rating changed: 1 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055697/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055052/2026-10-08/staffing_rating_changed</id>
+    <title>CALIFORNIA POST-ACUTE CARE: Staffing rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055052/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555466/2026-10-08/staffing_rating_changed</id>
+    <title>ASHBY CARE CENTER: Staffing rating changed: 1 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555466/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Staffing rating changed: 1 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555132/2026-10-08/special_focus_changed</id>
+    <title>VALLEY VISTA NURSING AND TRANSITIONAL CARE LLC: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555132/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056259/2026-10-08/special_focus_changed</id>
+    <title>NORTHVINE POSTACUTE CARE: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056259/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555854/2026-10-08/special_focus_changed</id>
+    <title>Mesa Glen Care Center: Special focus status changed: SFF Candidate to SFF (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555854/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Special focus status changed: SFF Candidate to SFF (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555865/2026-10-08/qm_rating_changed</id>
+    <title>HUNTINGTON HEALTHCARE CENTER: Quality measures rating changed: 1 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555865/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Quality measures rating changed: 1 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555831/2026-10-08/qm_rating_changed</id>
+    <title>HERMAN HEALTH CARE CENTER: Quality measures rating changed: none recorded to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555831/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Quality measures rating changed: none recorded to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056367/2026-10-08/ownership_changed</id>
+    <title>THE REHABILITATION CENTER OF NORTH HILLS: Ownership changed: For profit - Partnership to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056367/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Partnership to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555733/2026-10-08/ownership_changed</id>
+    <title>THE PAVILION AT SUNNY HILLS: Ownership changed: For profit - Partnership to For profit - Individual (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555733/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Partnership to For profit - Individual (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055957/2026-10-08/ownership_changed</id>
+    <title>Santa Paula Post Acute Center: Ownership changed: For profit - Individual to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055957/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Individual to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055858/2026-10-08/ownership_changed</id>
+    <title>Rancho Seco Care Center: Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055858/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555801/2026-10-08/ownership_changed</id>
+    <title>Pine Creek Care Center: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555801/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055575/2026-10-08/ownership_changed</id>
+    <title>PACIFIC HAVEN SUBACUTE AND HEALTHCARE CENTER: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055575/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056321/2026-10-08/ownership_changed</id>
+    <title>Olympia Convalescent Hospital: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056321/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055034/2026-10-08/ownership_changed</id>
+    <title>MOTION PICTURE AND T.V. HOSP D/P SNF: Ownership changed: Non profit - Corporation to Non profit - Other (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055034/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: Non profit - Corporation to Non profit - Other (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055753/2026-10-08/ownership_changed</id>
+    <title>LONGWOOD MANOR CONV.HOSPITAL: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055753/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056244/2026-10-08/ownership_changed</id>
+    <title>GRAND PARK CONVALESCENT HOSPITAL: Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056244/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Individual to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055039/2026-10-08/ownership_changed</id>
+    <title>GOOD SAMARITAN REHAB AND CARE CENTER: Ownership changed: For profit - Corporation to For profit - Partnership (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055039/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Corporation to For profit - Partnership (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055862/2026-10-08/ownership_changed</id>
+    <title>GOLDEN ROSE CARE CENTER: Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055862/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555918/2026-10-08/ownership_changed</id>
+    <title>FOWLER CARE CENTER: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555918/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555158/2026-10-08/ownership_changed</id>
+    <title>EL CENTRO POST-ACUTE CARE: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555158/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055922/2026-10-08/ownership_changed</id>
+    <title>Courtyard Health Care Center: Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055922/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: For profit - Limited Liability company to For profit - Corporation (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555932/2026-10-08/ownership_changed</id>
+    <title>CITRUS HEIGHTS HEALTH CENTER: Ownership changed: Non profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555932/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Ownership changed: Non profit - Corporation to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055481/2026-10-08/name_changed</id>
+    <title>Vienna Nursing And Rehabilitation Center: Name changed: VIENNA NURSING AND REHABILITATION CENTER to Vienna Nursing And Rehabilitation Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055481/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: VIENNA NURSING AND REHABILITATION CENTER to Vienna Nursing And Rehabilitation Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555527/2026-10-08/name_changed</id>
+    <title>Southern Inyo Hospital D/P SNF: Name changed: Southern Inyo Hospital D/p Snf to Southern Inyo Hospital D/P SNF (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555527/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: Southern Inyo Hospital D/p Snf to Southern Inyo Hospital D/P SNF (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555642/2026-10-08/name_changed</id>
+    <title>Redlands Community Hospital D/P SNF: Name changed: Redlands Comm Hosp D/p Snf to Redlands Community Hospital D/P SNF (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555642/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: Redlands Comm Hosp D/p Snf to Redlands Community Hospital D/P SNF (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055473/2026-10-08/name_changed</id>
+    <title>Oceana Healthcare Center: Name changed: NEW VISTA POST-ACUTE CARE CENTER to Oceana Healthcare Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055473/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: NEW VISTA POST-ACUTE CARE CENTER to Oceana Healthcare Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555333/2026-10-08/name_changed</id>
+    <title>Lincoln Meadows Care Center: Name changed: LINCOLN MEADOWS CARE CENTER to Lincoln Meadows Care Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555333/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: LINCOLN MEADOWS CARE CENTER to Lincoln Meadows Care Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056363/2026-10-08/name_changed</id>
+    <title>Grand Valley Health Care Center: Name changed: GRAND VALLEY HEALTH CARE CENTER to Grand Valley Health Care Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056363/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: GRAND VALLEY HEALTH CARE CENTER to Grand Valley Health Care Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056177/2026-10-08/name_changed</id>
+    <title>Double Tree Post Acute Care Center: Name changed: DOUBLE TREE POST ACUTE CARE CENTER to Double Tree Post Acute Care Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056177/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: DOUBLE TREE POST ACUTE CARE CENTER to Double Tree Post Acute Care Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555522/2026-10-08/name_changed</id>
+    <title>Community Hospital Of San Bernardino D/P SNF: Name changed: COMMUNITY HOSPITAL OF SAN BERNARDINO DP SNF to Community Hospital Of San Bernardino D/P SNF (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555522/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: COMMUNITY HOSPITAL OF SAN BERNARDINO DP SNF to Community Hospital Of San Bernardino D/P SNF (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555822/2026-10-08/name_changed</id>
+    <title>Canyon Oaks Nursing and Rehabilitation Center: Name changed: CANYON OAKS NURSING AND REHABILITATION CENTER to Canyon Oaks Nursing and Rehabilitation Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555822/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: CANYON OAKS NURSING AND REHABILITATION CENTER to Canyon Oaks Nursing and Rehabilitation Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555344/2026-10-08/name_changed</id>
+    <title>Bruceville Terrace - D/P SNF of Methodist Hospital: Name changed: BRUCEVILLE TERRACE - D/P SNF OF METHODIST HOSPITAL to Bruceville Terrace - D/P SNF of Methodist Hospital (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555344/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: BRUCEVILLE TERRACE - D/P SNF OF METHODIST HOSPITAL to Bruceville Terrace - D/P SNF of Methodist Hospital (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555261/2026-10-08/name_changed</id>
+    <title>ACC Care Center: Name changed: ACC CARE CENTER to ACC Care Center (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555261/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Name changed: ACC CARE CENTER to ACC Care Center (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555208/2026-10-08/improve</id>
+    <title>WESTGATE GARDENS CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555208/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055240/2026-10-08/improve</id>
+    <title>WATSONVILLE NURSING CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055240/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056117/2026-10-08/improve</id>
+    <title>THE ROWLAND: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056117/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555738/2026-10-08/improve</id>
+    <title>Terrace Post Acute: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555738/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055076/2026-10-08/improve</id>
+    <title>Spring Valley Post Acute LLC: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055076/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555527/2026-10-08/improve</id>
+    <title>Southern Inyo Hospital D/P SNF: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555527/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555885/2026-10-08/improve</id>
+    <title>SHERMAN OAKS HOSPITAL SNF DP: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555885/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056035/2026-10-08/improve</id>
+    <title>SHAFTER NURSING CARE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056035/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055070/2026-10-08/improve</id>
+    <title>SEACREST POST-ACUTE CARE  CENTER: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055070/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055388/2026-10-08/improve</id>
+    <title>SAN JOSE HEALTHCARE &amp; WELLNESS CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055388/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055818/2026-10-08/improve</id>
+    <title>ROYAL GARDENS HEALTHCARE: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055818/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055072/2026-10-08/improve</id>
+    <title>ROSECRANS CARE CENTER: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055072/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056101/2026-10-08/improve</id>
+    <title>River Pointe Post-Acute: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056101/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055887/2026-10-08/improve</id>
+    <title>River Bend Nursing Center: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055887/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555703/2026-10-08/improve</id>
+    <title>RIDGEWAY POST ACUTE: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555703/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055853/2026-10-08/improve</id>
+    <title>REDWOOD COVE HEALTHCARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055853/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055608/2026-10-08/improve</id>
+    <title>PRIMROSE POST-ACUTE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055608/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056378/2026-10-08/improve</id>
+    <title>OCEAN RIDGE POST ACUTE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056378/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555786/2026-10-08/improve</id>
+    <title>OCEAN PARK HEALTHCARE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555786/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055034/2026-10-08/improve</id>
+    <title>MOTION PICTURE AND T.V. HOSP D/P SNF: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055034/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555374/2026-10-08/improve</id>
+    <title>MAYFLOWER CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555374/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055036/2026-10-08/improve</id>
+    <title>Maple Healthcare Center: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055036/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056021/2026-10-08/improve</id>
+    <title>LONE TREE POST ACUTE: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056021/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555830/2026-10-08/improve</id>
+    <title>Lompoc Skilled Nursing &amp; Rehabilitation Center: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555830/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/05A137/2026-10-08/improve</id>
+    <title>LAUREL PARK BEHAVIORAL HEALTH CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/05A137/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056266/2026-10-08/improve</id>
+    <title>KEYSTONE POST-ACUTE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056266/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555865/2026-10-08/improve</id>
+    <title>HUNTINGTON HEALTHCARE CENTER: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555865/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055989/2026-10-08/improve</id>
+    <title>HERITAGE MANOR: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055989/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555902/2026-10-08/improve</id>
+    <title>HEIGHT STREET SKILLED CARE: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555902/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056288/2026-10-08/improve</id>
+    <title>HANFORD POST ACUTE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056288/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055039/2026-10-08/improve</id>
+    <title>GOOD SAMARITAN REHAB AND CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055039/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555416/2026-10-08/improve</id>
+    <title>GLENDORA CANYON TRANSITIONAL CARE UNIT: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555416/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555918/2026-10-08/improve</id>
+    <title>FOWLER CARE CENTER: Overall rating improved: 3 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555918/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056162/2026-10-08/improve</id>
+    <title>EXTENDED CARE HOSPITAL OF RIVERSIDE: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056162/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555128/2026-10-08/improve</id>
+    <title>DOWNEY COMMUNITY HEALTH CENTER: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555128/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555287/2026-10-08/improve</id>
+    <title>DIAMOND RIDGE HEALTHCARE CENTER: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555287/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555195/2026-10-08/improve</id>
+    <title>Del Rosa Villa: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555195/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055885/2026-10-08/improve</id>
+    <title>Country Drive Post Acute: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055885/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055697/2026-10-08/improve</id>
+    <title>COSTA DEL SOL HEALTHCARE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055697/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555030/2026-10-08/improve</id>
+    <title>COLLEGE VISTA POST-ACUTE: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555030/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055394/2026-10-08/improve</id>
+    <title>CLAREMONT CARE CENTER: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055394/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555832/2026-10-08/improve</id>
+    <title>CLARA BALDWIN STOCKER HOME FOR WOMEN: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555832/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555368/2026-10-08/improve</id>
+    <title>CENTURY VILLA, INC: Overall rating improved: 1 star to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555368/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 1 star to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056150/2026-10-08/improve</id>
+    <title>CATERED MANOR CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056150/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555362/2026-10-08/improve</id>
+    <title>CASA DE LAS CAMPANAS: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555362/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056372/2026-10-08/improve</id>
+    <title>Brookside Healthcare Center: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056372/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055685/2026-10-08/improve</id>
+    <title>BRIGHTON PLACE SPRING VALLEY: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055685/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555399/2026-10-08/improve</id>
+    <title>AVONDALE VILLA POST-ACUTE: Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555399/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 4 stars to 5 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555466/2026-10-08/improve</id>
+    <title>ASHBY CARE CENTER: Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555466/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555688/2026-10-08/improve</id>
+    <title>ANAHEIM POINT: Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555688/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 2 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555200/2026-10-08/improve</id>
+    <title>ALMOND VIEW CARE CENTER: Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555200/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Overall rating improved: 3 stars to 4 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555208/2026-10-08/health_rating_changed</id>
+    <title>WESTGATE GARDENS CARE CENTER: Health inspection rating changed: 2 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555208/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055240/2026-10-08/health_rating_changed</id>
+    <title>WATSONVILLE NURSING CENTER: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055240/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555355/2026-10-08/health_rating_changed</id>
+    <title>VINTAGE FAIRE NURSING &amp; REHABILITATION CENTER: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555355/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555429/2026-10-08/health_rating_changed</id>
+    <title>VILLA GARDENS HEALTH CARE UNIT: Health inspection rating changed: 3 to 4 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555429/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 4 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555835/2026-10-08/health_rating_changed</id>
+    <title>VI AT PALO ALTO: Health inspection rating changed: 4 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555835/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055342/2026-10-08/health_rating_changed</id>
+    <title>Thousand Oaks Post Acute, LLC: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055342/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/056117/2026-10-08/health_rating_changed</id>
+    <title>THE ROWLAND: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/056117/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555733/2026-10-08/health_rating_changed</id>
+    <title>THE PAVILION AT SUNNY HILLS: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555733/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555613/2026-10-08/health_rating_changed</id>
+    <title>The Grove Care and Wellness: Health inspection rating changed: 4 to 5 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555613/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 4 to 5 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/555791/2026-10-08/health_rating_changed</id>
+    <title>THE GARDENS HEALTHCARE CENTER: Health inspection rating changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/555791/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055480/2026-10-08/health_rating_changed</id>
+    <title>THE CALIFORNIAN PASADENA HEALTHCARE: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055480/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>California. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
 </feed>

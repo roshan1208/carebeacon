@@ -4,7 +4,48 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/avalon-health-care/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/avalon-health-care/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/avalon-health-care/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:03Z</updated>
   <subtitle>Nursing homes run by AVALON HEALTH CARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/125020/2026-10-08/special_focus_changed</id>
+    <title>AVALON CARE CENTER - HONOLULU, LLC: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/125020/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Hawaii. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505126/2026-10-08/improve</id>
+    <title>AVALON HEALTH &amp; REHABILITATION CENTER - PASCO: Overall rating improved: 1 star to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505126/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Overall rating improved: 1 star to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505126/2026-10-08/health_rating_changed</id>
+    <title>AVALON HEALTH &amp; REHABILITATION CENTER - PASCO: Health inspection rating changed: 1 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505126/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Health inspection rating changed: 1 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/385283/2026-10-08/health_rating_changed</id>
+    <title>AVALON CARE CENTER - SCAPPOOSE: Health inspection rating changed: 4 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/385283/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oregon. Health inspection rating changed: 4 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/505010/2026-10-08/fines_changed</id>
+    <title>GARDEN VILLAGE: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/505010/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Washington. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/385283/2026-10-08/decline</id>
+    <title>AVALON CARE CENTER - SCAPPOOSE: Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/385283/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oregon. Overall rating declined: 4 stars to 3 stars (by 8 October 2026).</summary>
+  </entry>
 </feed>

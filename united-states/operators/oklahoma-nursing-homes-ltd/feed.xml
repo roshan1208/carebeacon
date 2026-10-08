@@ -4,7 +4,41 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/oklahoma-nursing-homes-ltd/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/oklahoma-nursing-homes-ltd/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/oklahoma-nursing-homes-ltd/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:05Z</updated>
   <subtitle>Nursing homes run by OKLAHOMA NURSING HOMES, LTD. whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/375529/2026-10-08/ownership_changed</id>
+    <title>EASTWOOD MANOR: Ownership changed: For profit - Individual to For profit - Limited Liability company (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/375529/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oklahoma. Ownership changed: For profit - Individual to For profit - Limited Liability company (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/375529/2026-10-08/health_rating_changed</id>
+    <title>EASTWOOD MANOR: Health inspection rating changed: 3 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/375529/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oklahoma. Health inspection rating changed: 3 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/375388/2026-10-08/fines_changed</id>
+    <title>Miami Nursing Center, LLC: Number of fines changed: 2 to 1 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/375388/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oklahoma. Number of fines changed: 2 to 1 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/375529/2026-10-08/fines_changed</id>
+    <title>EASTWOOD MANOR: Number of fines changed: 7 to 3 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/375529/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oklahoma. Number of fines changed: 7 to 3 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/375529/2026-10-08/decline</id>
+    <title>EASTWOOD MANOR: Overall rating declined: 2 stars to 1 star (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/375529/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Oklahoma. Overall rating declined: 2 stars to 1 star (by 8 October 2026).</summary>
+  </entry>
 </feed>

@@ -4,7 +4,41 @@
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/regalcare/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/united-states/operators/regalcare/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/united-states/operators/regalcare/feed</id>
-  <updated>2026-10-07T13:24:42Z</updated>
+  <updated>2026-10-08T13:30:06Z</updated>
   <subtitle>Nursing homes run by REGALCARE whose record just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/225474/2026-10-08/special_focus_changed</id>
+    <title>REGALCARE AT TAUNTON: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/225474/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Massachusetts. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/225523/2026-10-08/special_focus_changed</id>
+    <title>REGALCARE AT GLEN RIDGE: Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/225523/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Massachusetts. Special focus status changed: none recorded to SFF Candidate (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/225335/2026-10-08/health_rating_changed</id>
+    <title>REGALCARE AT GREENFIELD: Health inspection rating changed: 4 to 2 (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/225335/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Massachusetts. Health inspection rating changed: 4 to 2 (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/225335/2026-10-08/decline</id>
+    <title>REGALCARE AT GREENFIELD: Overall rating declined: 4 stars to 2 stars (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/225335/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Massachusetts. Overall rating declined: 4 stars to 2 stars (by 8 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/225545/2026-10-08/abuse_icon_changed</id>
+    <title>REGALCARE AT COURTYARD-MEDFORD: Abuse icon changed: yes to no (by 8 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/225545/"/>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <summary>Massachusetts. Abuse icon changed: yes to no (by 8 October 2026).</summary>
+  </entry>
 </feed>
