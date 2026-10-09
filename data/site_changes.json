@@ -1674,5 +1674,82 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-111978871",
+  "name": "Normanton Retirement Home",
+  "region": "West Midlands",
+  "localAuthority": "Shropshire",
+  "providerId": "1-101629094",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-11773320704",
+  "name": "PPC Healthcare Ltd",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Sheffield",
+  "providerId": "1-11350031603",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-118278695",
+  "name": "Mrs P M Eales t/a Just Homes - 3 New Hill",
+  "region": "South East",
+  "localAuthority": "West Berkshire",
+  "providerId": "1-101696984",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-13354544516",
+  "name": "Gardens Neurological Centre",
+  "region": "East",
+  "localAuthority": "Hertfordshire",
+  "providerId": "1-118166429",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-138778536",
+  "name": "Lennox Lodge",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-127967674",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-3485857926",
+  "name": "In Home Care Chichester",
+  "region": "South East",
+  "localAuthority": "West Sussex",
+  "providerId": "1-421139117",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-09",
+  "locationId": "1-3618483402",
+  "name": "Real Life Options - West Midlands Supported Living and Outreach Services",
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "providerId": "1-102642781",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
