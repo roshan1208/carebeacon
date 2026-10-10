@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/kent/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/kent/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/kent/feed</id>
-  <updated>2026-10-09T13:18:35Z</updated>
+  <updated>2026-10-10T12:31:29Z</updated>
   <subtitle>Care homes in Kent that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-18901743945/2026-10-10/closed</id>
+    <title>The Visiting GP: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-18901743945"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
 </feed>

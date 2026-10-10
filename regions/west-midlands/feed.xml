@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/west-midlands/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/west-midlands/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/west-midlands/feed</id>
-  <updated>2026-10-09T13:18:35Z</updated>
+  <updated>2026-10-10T12:31:28Z</updated>
   <subtitle>Care homes in West Midlands that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763160/2026-10-10/closed</id>
+    <title>Worth Crescent: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-147763160"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>West Midlands. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763104/2026-10-10/closed</id>
+    <title>Pershore Short Term Breaks: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-147763104"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>West Midlands. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3618483402/2026-10-09/closed</id>
     <title>Real Life Options - West Midlands Supported Living and Outreach Services: Lost its CQC registration.</title>

@@ -1751,5 +1751,93 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-138798341",
+  "name": "Oatlands Care Limited",
+  "region": "London",
+  "localAuthority": "Bromley",
+  "providerId": "1-119227677",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-147763104",
+  "name": "Pershore Short Term Breaks",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "providerId": "1-101668461",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-147763160",
+  "name": "Worth Crescent",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "providerId": "1-101668461",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-18901743945",
+  "name": "The Visiting GP",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "providerId": "1-16572540986",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-29807392752",
+  "name": "Crossways Nursing Home",
+  "region": "East",
+  "localAuthority": "Bedford",
+  "providerId": "1-28973290842",
+  "type": "rated",
+  "from": null,
+  "to": "Requires improvement"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-320338366",
+  "name": "Falstone Court",
+  "region": "North East",
+  "localAuthority": "Sunderland",
+  "providerId": "1-305829465",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-320338389",
+  "name": "Falstone Manor",
+  "region": "North East",
+  "localAuthority": "Sunderland",
+  "providerId": "1-305829465",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-10",
+  "locationId": "1-6539761618",
+  "name": "Rowan Garth Care Home",
+  "region": "North West",
+  "localAuthority": "Liverpool",
+  "providerId": "1-4521210418",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

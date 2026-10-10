@@ -4,7 +4,20 @@
   <link href="https://roshan1208.github.io/carebeacon/operators/1-101668461/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/operators/1-101668461/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/operators/1-101668461/feed</id>
-  <updated>2026-10-09T13:19:02Z</updated>
+  <updated>2026-10-10T12:31:53Z</updated>
   <subtitle>Care homes run by Worcestershire County Council that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763160/2026-10-10/closed</id>
+    <title>Worth Crescent: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-147763160"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>West Midlands. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763104/2026-10-10/closed</id>
+    <title>Pershore Short Term Breaks: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-147763104"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>West Midlands. Lost its CQC registration.</summary>
+  </entry>
 </feed>

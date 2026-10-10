@@ -4,7 +4,13 @@
   <link href="https://roshan1208.github.io/carebeacon/france/areas/seine-maritime/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/france/areas/seine-maritime/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/france/areas/seine-maritime/feed</id>
-  <updated>2026-10-09T13:19:23Z</updated>
+  <updated>2026-10-10T12:32:14Z</updated>
   <subtitle>Ehpad (care homes for dependent older people) in Seine-Maritime whose record on FINESS (ANS, Ministry of Health)'s register just changed.</subtitle>
-
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/760023549/2026-10-10/provider_changed</id>
+    <title>EHPAD VILLA SAINT NICOLAS: Managing entity changed: SASU VILLA SAINT NICOLAS to VILLA SAINT NICOLAS (by 10 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/760023549/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Seine-Maritime. Managing entity changed: SASU VILLA SAINT NICOLAS to VILLA SAINT NICOLAS (by 10 October 2026).</summary>
+  </entry>
 </feed>

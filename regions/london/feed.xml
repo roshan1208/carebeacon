@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/london/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/london/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/london/feed</id>
-  <updated>2026-10-09T13:18:35Z</updated>
+  <updated>2026-10-10T12:31:28Z</updated>
   <subtitle>Care homes in London that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-138798341/2026-10-10/closed</id>
+    <title>Oatlands Care Limited: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-138798341"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-319142817/2026-10-08/closed</id>
     <title>Ashgrove Care Home - London: Lost its CQC registration.</title>

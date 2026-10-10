@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/east/feed</id>
-  <updated>2026-10-09T13:18:35Z</updated>
+  <updated>2026-10-10T12:31:28Z</updated>
   <subtitle>Care homes in East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29807392752/2026-10-10/rated</id>
+    <title>Crossways Nursing Home: Rated for the first time: Requires improvement.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-29807392752"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>East. Rated for the first time: Requires improvement.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-13354544516/2026-10-09/closed</id>
     <title>Gardens Neurological Centre: Lost its CQC registration.</title>

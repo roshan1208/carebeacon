@@ -4,8 +4,99 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-09T13:19:03Z</updated>
+  <updated>2026-10-10T12:31:53Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L1434/2026-10-10/accreditation_changed</id>
+    <title>PROSPEROUS GARDEN: Accreditation changed: yes to no</title>
+    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L1434/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Sai Kung. Accreditation changed: yes to no</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L1382/2026-10-10/accreditation_changed</id>
+    <title>PLEASANT HOME: Accreditation changed: yes to no</title>
+    <link href="https://roshan1208.github.io/carebeacon/hong-kong/homes/L1382/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Kwun Tong. Accreditation changed: yes to no</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/760023549/2026-10-10/provider_changed</id>
+    <title>EHPAD VILLA SAINT NICOLAS: Managing entity changed: SASU VILLA SAINT NICOLAS to VILLA SAINT NICOLAS</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/760023549/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Seine-Maritime. Managing entity changed: SASU VILLA SAINT NICOLAS to VILLA SAINT NICOLAS</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/630781573/2026-10-10/name_changed</id>
+    <title>EHPAD Le Verger: Name changed: MAISON DE RETRAITE DE SAINT GERMAIN LEMBRON to EHPAD Le Verger</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/630781573/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Puy-de-Dôme. Name changed: MAISON DE RETRAITE DE SAINT GERMAIN LEMBRON to EHPAD Le Verger</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763160/2026-10-10/closed</id>
+    <title>Worth Crescent: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Worcestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-18901743945/2026-10-10/closed</id>
+    <title>The Visiting GP: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Kent. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-6539761618/2026-10-10/closed</id>
+    <title>Rowan Garth Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Liverpool. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-147763104/2026-10-10/closed</id>
+    <title>Pershore Short Term Breaks: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Worcestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-138798341/2026-10-10/closed</id>
+    <title>Oatlands Care Limited: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Bromley. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-320338389/2026-10-10/closed</id>
+    <title>Falstone Manor: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Sunderland. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-320338366/2026-10-10/closed</id>
+    <title>Falstone Court: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Sunderland. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29807392752/2026-10-10/rated</id>
+    <title>Crossways Nursing Home: Rated for the first time: Requires improvement</title>
+    <link href="https://roshan1208.github.io/carebeacon/homes/crossways-nursing-home-1-29807392752/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>Bedford. Rated for the first time: Requires improvement</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-10-10/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.79 per day to €65.80 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/45/2026-10-09/pic_changed</id>
     <title>Greystones Nursing Home: Person in charge changed: none recorded to Hilda Markey</title>
@@ -1314,96 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335495/"/>
     <updated>2026-10-08T00:00:00Z</updated>
     <summary>New York. Health inspection rating changed: 3 to 2</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/445251/2026-10-08/fines_changed</id>
-    <title>Waverly Hills Post Acute: Number of fines changed: 0 to 1</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/445251/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Tennessee. Number of fines changed: 0 to 1</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/525369/2026-10-08/health_rating_changed</id>
-    <title>WAUSAU MANOR HEALTH SERVICES: Health inspection rating changed: 3 to 4</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/525369/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Wisconsin. Health inspection rating changed: 3 to 4</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/525369/2026-10-08/improve</id>
-    <title>WAUSAU MANOR HEALTH SERVICES: Overall rating improved: 3 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/525369/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Wisconsin. Overall rating improved: 3 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/525369/2026-10-08/ownership_changed</id>
-    <title>WAUSAU MANOR HEALTH SERVICES: Ownership changed: For profit - Limited Liability company to For profit - Corporation</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/525369/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Wisconsin. Ownership changed: For profit - Limited Liability company to For profit - Corporation</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/285220/2026-10-08/health_rating_changed</id>
-    <title>Wauneta Care and Therapy Center: Health inspection rating changed: 3 to 2</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/285220/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Nebraska. Health inspection rating changed: 3 to 2</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055240/2026-10-08/fines_changed</id>
-    <title>WATSONVILLE NURSING CENTER: Number of fines changed: 1 to 0</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055240/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>California. Number of fines changed: 1 to 0</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055240/2026-10-08/health_rating_changed</id>
-    <title>WATSONVILLE NURSING CENTER: Health inspection rating changed: 3 to 4</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055240/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>California. Health inspection rating changed: 3 to 4</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/055240/2026-10-08/improve</id>
-    <title>WATSONVILLE NURSING CENTER: Overall rating improved: 3 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/055240/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>California. Overall rating improved: 3 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/676311/2026-10-08/fines_changed</id>
-    <title>WATKINS-LOGAN-GARRISON TEXAS STATE VETERAN'S HOME: Number of fines changed: 2 to 1</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/676311/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Texas. Number of fines changed: 2 to 1</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/676311/2026-10-08/health_rating_changed</id>
-    <title>WATKINS-LOGAN-GARRISON TEXAS STATE VETERAN'S HOME: Health inspection rating changed: 2 to 4</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/676311/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Texas. Health inspection rating changed: 2 to 4</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/676311/2026-10-08/improve</id>
-    <title>WATKINS-LOGAN-GARRISON TEXAS STATE VETERAN'S HOME: Overall rating improved: 2 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/676311/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Texas. Overall rating improved: 2 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335154/2026-10-08/name_changed</id>
-    <title>Waterview Nursing Care Center: Name changed: WATERVIEW NURSING CARE CENTER to Waterview Nursing Care Center</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335154/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Name changed: WATERVIEW NURSING CARE CENTER to Waterview Nursing Care Center</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/495308/2026-10-08/fines_changed</id>
-    <title>WATERVIEW HEALTH &amp; REHAB CENTER: Number of fines changed: 1 to 0</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/495308/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Virginia. Number of fines changed: 1 to 0</summary>
   </entry>
 </feed>
