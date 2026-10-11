@@ -4,8 +4,50 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-10T12:31:53Z</updated>
+  <updated>2026-10-11T12:49:47Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-124396218/2026-10-11/closed</id>
+    <title>Westmead Residential Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>Worcestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-208833522/2026-10-11/closed</id>
+    <title>Stapely Residential and Nursing Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>Liverpool. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-1848365399/2026-10-11/closed</id>
+    <title>Revive Dental Care - Ancoats: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>Manchester. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-552817287/2026-10-11/closed</id>
+    <title>Frampton Surgery: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>Gloucestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-113890815/2026-10-11/closed</id>
+    <title>Euroclydon Nursing Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>Gloucestershire. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-10-11/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.80 per day to €65.79 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.80 per day to €65.79 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/hong-kong/change/L1434/2026-10-10/accreditation_changed</id>
     <title>PROSPEROUS GARDEN: Accreditation changed: yes to no</title>
@@ -1363,47 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165475/"/>
     <updated>2026-10-08T00:00:00Z</updated>
     <summary>Iowa. Health inspection rating changed: 4 to 5</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/165475/2026-10-08/improve</id>
-    <title>Wellington Place: Overall rating improved: 3 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165475/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Iowa. Overall rating improved: 3 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/355087/2026-10-08/ownership_changed</id>
-    <title>WEDGEWOOD MANOR: Ownership changed: Non profit - Other to Non profit - Corporation</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/355087/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>North Dakota. Ownership changed: Non profit - Other to Non profit - Corporation</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395936/2026-10-08/decline</id>
-    <title>WAYNE WOODLANDS MANOR: Overall rating declined: 2 stars to 1 star</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395936/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Pennsylvania. Overall rating declined: 2 stars to 1 star</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395936/2026-10-08/health_rating_changed</id>
-    <title>WAYNE WOODLANDS MANOR: Health inspection rating changed: 3 to 2</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395936/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Pennsylvania. Health inspection rating changed: 3 to 2</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335495/2026-10-08/decline</id>
-    <title>Wayne Center For Nursing &amp; Rehabilitation: Overall rating declined: 3 stars to 2 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335495/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Overall rating declined: 3 stars to 2 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335495/2026-10-08/health_rating_changed</id>
-    <title>Wayne Center For Nursing &amp; Rehabilitation: Health inspection rating changed: 3 to 2</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335495/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Health inspection rating changed: 3 to 2</summary>
   </entry>
 </feed>

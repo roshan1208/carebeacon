@@ -1839,5 +1839,60 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-11",
+  "locationId": "1-113890815",
+  "name": "Euroclydon Nursing Home",
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "providerId": "1-101672292",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-11",
+  "locationId": "1-124396218",
+  "name": "Westmead Residential Care Home",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "providerId": "1-101642132",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-11",
+  "locationId": "1-1848365399",
+  "name": "Revive Dental Care - Ancoats",
+  "region": "North West",
+  "localAuthority": "Manchester",
+  "providerId": "1-152981055",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-11",
+  "locationId": "1-208833522",
+  "name": "Stapely Residential and Nursing Home",
+  "region": "North West",
+  "localAuthority": "Liverpool",
+  "providerId": "1-101666654",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-11",
+  "locationId": "1-552817287",
+  "name": "Frampton Surgery",
+  "region": "South West",
+  "localAuthority": "Gloucestershire",
+  "providerId": "1-199765380",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

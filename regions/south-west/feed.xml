@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/south-west/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/south-west/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/south-west/feed</id>
-  <updated>2026-10-10T12:31:28Z</updated>
+  <updated>2026-10-11T12:49:20Z</updated>
   <subtitle>Care homes in South West that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-552817287/2026-10-11/closed</id>
+    <title>Frampton Surgery: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-552817287"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-113890815/2026-10-11/closed</id>
+    <title>Euroclydon Nursing Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-113890815"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29237174573/2026-10-07/closed</id>
     <title>Penrose Croft: Lost its CQC registration.</title>

@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/areas/gloucestershire/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/areas/gloucestershire/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/areas/gloucestershire/feed</id>
-  <updated>2026-10-10T12:31:29Z</updated>
+  <updated>2026-10-11T12:49:20Z</updated>
   <subtitle>Care homes in Gloucestershire that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-552817287/2026-10-11/closed</id>
+    <title>Frampton Surgery: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-552817287"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-113890815/2026-10-11/closed</id>
+    <title>Euroclydon Nursing Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-113890815"/>
+    <updated>2026-10-11T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-13487299462/2026-09-27/closed</id>
     <title>Oak Tree Mews: Lost its CQC registration.</title>
