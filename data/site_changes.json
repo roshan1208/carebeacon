@@ -1894,5 +1894,16 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-12",
+  "locationId": "1-9017424451",
+  "name": "Autumnville",
+  "region": "South East",
+  "localAuthority": "Kent",
+  "providerId": "1-101615228",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
