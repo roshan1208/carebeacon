@@ -4,8 +4,43 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-12T15:21:58Z</updated>
+  <updated>2026-10-13T14:12:55Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/7819/2026-10-13/pic_changed</id>
+    <title>SignaCare Waterford: Person in charge changed: none recorded to Leonora Kenneally</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/7819/"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <summary>Waterford. Person in charge changed: none recorded to Leonora Kenneally</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/729/2026-10-13/pic_changed</id>
+    <title>Athlunkard House Nursing Home: Person in charge changed: none recorded to Arthur J Stritch</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/729/"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <summary>Clare. Person in charge changed: none recorded to Arthur J Stritch</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/130781487/2026-10-13/name_changed</id>
+    <title>EHPAD ALTAÏA (EX. CASTEL ROSERAIE): Name changed: EHPAD CASTEL ROSERAIE to EHPAD ALTAÏA (EX. CASTEL ROSERAIE)</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/130781487/"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <summary>Bouches-du-Rhône. Name changed: EHPAD CASTEL ROSERAIE to EHPAD ALTAÏA (EX. CASTEL ROSERAIE)</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-10193714095/2026-10-13/closed</id>
+    <title>Mayfair Homecare - Barnet: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <summary>Barnet. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-10-13/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.79 per day to €65.80 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.79 per day to €65.80 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/malvina-major-retirement-village-wellington/2026-10-12/cancelled</id>
     <title>Malvina Major Retirement Village: No longer on the register</title>
@@ -1370,40 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335394/"/>
     <updated>2026-10-08T00:00:00Z</updated>
     <summary>New York. Health inspection rating changed: 2 to 1</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/676037/2026-10-08/decline</id>
-    <title>WESLACO NURSING AND REHABILITATION CENTER: Overall rating declined: 4 stars to 3 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/676037/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Texas. Overall rating declined: 4 stars to 3 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/676037/2026-10-08/health_rating_changed</id>
-    <title>WESLACO NURSING AND REHABILITATION CENTER: Health inspection rating changed: 4 to 3</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/676037/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Texas. Health inspection rating changed: 4 to 3</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395292/2026-10-08/decline</id>
-    <title>Wesbury United Methodist Commu: Overall rating declined: 5 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395292/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Pennsylvania. Overall rating declined: 5 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395292/2026-10-08/health_rating_changed</id>
-    <title>Wesbury United Methodist Commu: Health inspection rating changed: 4 to 3</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395292/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Pennsylvania. Health inspection rating changed: 4 to 3</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/395292/2026-10-08/ownership_changed</id>
-    <title>Wesbury United Methodist Commu: Ownership changed: Non profit - Church related to Non profit - Corporation</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/395292/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Pennsylvania. Ownership changed: Non profit - Church related to Non profit - Corporation</summary>
   </entry>
 </feed>

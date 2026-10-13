@@ -1905,5 +1905,16 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-13",
+  "locationId": "1-10193714095",
+  "name": "Mayfair Homecare - Barnet",
+  "region": "London",
+  "localAuthority": "Barnet",
+  "providerId": "1-101671823",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
