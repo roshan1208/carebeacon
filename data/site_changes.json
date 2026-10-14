@@ -1916,5 +1916,48 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-14",
+  "locationId": "1-15153339060",
+  "name": "LUMINOUS DOMICILIARY CARE LTD",
+  "region": "East",
+  "localAuthority": "Norfolk",
+  "providerId": "1-14877940920",
+  "type": "reopened",
+  "to_status": "Registered"
+ },
+ {
+  "date": "2026-10-14",
+  "locationId": "1-29977442018",
+  "name": "Oviva UK Limited",
+  "region": "London",
+  "localAuthority": "Southwark",
+  "providerId": "1-12082382932",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-14",
+  "locationId": "1-30006172378",
+  "name": "A & T Caring Services",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "providerId": "1-2194158313",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-14",
+  "locationId": "1-6165938507",
+  "name": "Green Acres Care Home",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "Leeds",
+  "providerId": "1-3727516665",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

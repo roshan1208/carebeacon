@@ -4,8 +4,99 @@
   <link href="https://roshan1208.github.io/carebeacon/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/feed</id>
-  <updated>2026-10-13T14:12:55Z</updated>
+  <updated>2026-10-14T11:52:16Z</updated>
   <subtitle>Care homes whose regulator's record just changed, in every register CareBeacon tracks: downgraded, improved, newly registered, or gone from the register. Each change is in the words of the regulator that published it, and none is compared with another's.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/south-care-rest-home-hospital-dunedin/2026-10-14/new</id>
+    <title>South Care Rest Home &amp; Hospital: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/south-care-rest-home-hospital-dunedin/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Southern District Health Board. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/park-estate-home-and-hospital-papakura/2026-10-14/new</id>
+    <title>Park Estate Home and Hospital: Newly registered</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/park-estate-home-and-hospital-papakura/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Counties Manukau District Health Board. Newly registered</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/ellerslie-gardens-lifecare-auckland/2026-10-14/first_rated</id>
+    <title>Ellerslie Gardens Lifecare: Certification period published for the first time: 36-month certification</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/ellerslie-gardens-lifecare-auckland/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certification period published for the first time: 36-month certification</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/new-zealand/change/ellerslie-gardens-lifecare-auckland/2026-10-14/recertified</id>
+    <title>Ellerslie Gardens Lifecare: Certificate end date changed: 5 November 2026 to 5 November 2029</title>
+    <link href="https://roshan1208.github.io/carebeacon/new-zealand/homes/ellerslie-gardens-lifecare-auckland/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Auckland District Health Board. Certificate end date changed: 5 November 2026 to 5 November 2029</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/604/2026-10-14/conditions_changed</id>
+    <title>St John's Community Hospital: Conditions of registration changed: 4 to 3</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/604/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Wexford. Conditions of registration changed: 4 to 3</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/8471/2026-10-14/pic_changed</id>
+    <title>Carnew Nursing Home: Person in charge changed: none recorded to Piotr Przybyszewski</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/8471/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Wicklow. Person in charge changed: none recorded to Piotr Przybyszewski</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/590044236/2026-10-14/provider_changed</id>
+    <title>PETITE UNITE DE VIE DES CANONNIERS: Managing entity changed: A.D.G.V. DOMICILE to A.D.G.V. INNOVATIONS</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/590044236/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Nord. Managing entity changed: A.D.G.V. DOMICILE to A.D.G.V. INNOVATIONS</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/france/change/590035044/2026-10-14/provider_changed</id>
+    <title>PETITE UNITE DE VIE (PUV): Managing entity changed: A.D.G.V. DOMICILE to A.D.G.V. INNOVATIONS</title>
+    <link href="https://roshan1208.github.io/carebeacon/france/homes/590035044/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Nord. Managing entity changed: A.D.G.V. DOMICILE to A.D.G.V. INNOVATIONS</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29977442018/2026-10-14/rated</id>
+    <title>Oviva UK Limited: Rated for the first time: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/homes/oviva-uk-limited-1-29977442018/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Southwark. Rated for the first time: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-15153339060/2026-10-14/reopened</id>
+    <title>LUMINOUS DOMICILIARY CARE LTD: Registered with CQC again</title>
+    <link href="https://roshan1208.github.io/carebeacon/homes/luminous-domiciliary-care-ltd-1-15153339060/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Norfolk. Registered with CQC again</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-6165938507/2026-10-14/closed</id>
+    <title>Green Acres Care Home: Lost its CQC registration</title>
+    <link href="https://roshan1208.github.io/carebeacon/changes/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Leeds. Lost its CQC registration</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-30006172378/2026-10-14/rated</id>
+    <title>A &amp; T Caring Services: Rated for the first time: Good</title>
+    <link href="https://roshan1208.github.io/carebeacon/homes/a-t-caring-services-1-30006172378/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>Surrey. Rated for the first time: Good</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/flanders/change/3540/2026-10-14/price_changed</id>
+    <title>Onze Lieve Vrouw Gasthuis: Average daily price changed: €65.80 per day to €65.79 per day</title>
+    <link href="https://roshan1208.github.io/carebeacon/flanders/homes/3540/"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>West Flanders. Average daily price changed: €65.80 per day to €65.79 per day</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/7819/2026-10-13/pic_changed</id>
     <title>SignaCare Waterford: Person in charge changed: none recorded to Leonora Kenneally</title>
@@ -1314,96 +1405,5 @@
     <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365799/"/>
     <updated>2026-10-08T00:00:00Z</updated>
     <summary>Ohio. Health inspection rating changed: 1 to 3</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365799/2026-10-08/improve</id>
-    <title>WEST PARK CARE CENTER LLC: Overall rating improved: 1 star to 2 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365799/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Ohio. Overall rating improved: 1 star to 2 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335737/2026-10-08/name_changed</id>
-    <title>West Lawrence Care Center. LLC: Name changed: WEST LAWRENCE CARE CENTER, L L C to West Lawrence Care Center. LLC</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335737/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Name changed: WEST LAWRENCE CARE CENTER, L L C to West Lawrence Care Center. LLC</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/235262/2026-10-08/health_rating_changed</id>
-    <title>West Hickory Haven: Health inspection rating changed: 1 to 2</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/235262/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Michigan. Health inspection rating changed: 1 to 2</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/235262/2026-10-08/improve</id>
-    <title>West Hickory Haven: Overall rating improved: 1 star to 2 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/235262/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Michigan. Overall rating improved: 1 star to 2 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/165444/2026-10-08/health_rating_changed</id>
-    <title>West Bend Health and Rehabilitation: Health inspection rating changed: 3 to 4</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165444/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Iowa. Health inspection rating changed: 3 to 4</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/165444/2026-10-08/improve</id>
-    <title>West Bend Health and Rehabilitation: Overall rating improved: 4 stars to 5 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165444/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Iowa. Overall rating improved: 4 stars to 5 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/365162/2026-10-08/ownership_changed</id>
-    <title>WESLEYAN VILLAGE: Ownership changed: Non profit - Other to Non profit - Corporation</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/365162/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Ohio. Ownership changed: Non profit - Other to Non profit - Corporation</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/015175/2026-10-08/fines_changed</id>
-    <title>WESLEY PLACE ON HONEYSUCKLE: Number of fines changed: 11 to 9</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/015175/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Alabama. Number of fines changed: 11 to 9</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/165487/2026-10-08/decline</id>
-    <title>Wesley on Grand: Overall rating declined: 5 stars to 4 stars</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165487/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Iowa. Overall rating declined: 5 stars to 4 stars</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/165487/2026-10-08/health_rating_changed</id>
-    <title>Wesley on Grand: Health inspection rating changed: 5 to 4</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/165487/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>Iowa. Health inspection rating changed: 5 to 4</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335394/2026-10-08/abuse_icon_changed</id>
-    <title>WESLEY HEALTH CARE CENTER INC: Abuse icon changed: no to yes</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335394/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Abuse icon changed: no to yes</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335394/2026-10-08/decline</id>
-    <title>WESLEY HEALTH CARE CENTER INC: Overall rating declined: 2 stars to 1 star</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335394/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Overall rating declined: 2 stars to 1 star</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/united-states/change/335394/2026-10-08/health_rating_changed</id>
-    <title>WESLEY HEALTH CARE CENTER INC: Health inspection rating changed: 2 to 1</title>
-    <link href="https://roshan1208.github.io/carebeacon/united-states/homes/335394/"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <summary>New York. Health inspection rating changed: 2 to 1</summary>
   </entry>
 </feed>

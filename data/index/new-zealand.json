@@ -2822,8 +2822,8 @@
    "ellerslie-gardens-lifecare-auckland",
    "Ellerslie Gardens Lifecare",
    "Auckland, Auckland District Health Board",
-   "",
-   "",
+   "36-month certification",
+   "g4",
    -36.89677,
    174.83837,
    "",
@@ -5267,6 +5267,18 @@
   ],
   [
    0,
+   "park-estate-home-and-hospital-papakura",
+   "Park Estate Home and Hospital",
+   "Papakura, Counties Manukau District Health Board",
+   "36-month certification",
+   "g4",
+   -37.08927,
+   174.94363,
+   "",
+   null
+  ],
+  [
+   0,
    "park-lane-lifecare-christchurch",
    "Park Lane Lifecare",
    "Christchurch, Canterbury District Health Board",
@@ -6426,6 +6438,18 @@
    "",
    -39.44673,
    174.30431,
+   "",
+   null
+  ],
+  [
+   0,
+   "south-care-rest-home-hospital-dunedin",
+   "South Care Rest Home & Hospital",
+   "Dunedin, Southern District Health Board",
+   "",
+   "",
+   -45.85623,
+   170.51335,
    "",
    null
   ],

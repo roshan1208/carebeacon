@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/london/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/london/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/london/feed</id>
-  <updated>2026-10-13T14:12:30Z</updated>
+  <updated>2026-10-14T11:51:49Z</updated>
   <subtitle>Care homes in London that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29977442018/2026-10-14/rated</id>
+    <title>Oviva UK Limited: Rated for the first time: Good.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-29977442018"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>London. Rated for the first time: Good.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-10193714095/2026-10-13/closed</id>
     <title>Mayfair Homecare - Barnet: Lost its CQC registration.</title>

@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/east/feed</id>
-  <updated>2026-10-13T14:12:30Z</updated>
+  <updated>2026-10-14T11:51:49Z</updated>
   <subtitle>Care homes in East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-15153339060/2026-10-14/reopened</id>
+    <title>LUMINOUS DOMICILIARY CARE LTD: Registered again with CQC.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-15153339060"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <summary>East. Registered again with CQC.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29807392752/2026-10-10/rated</id>
     <title>Crossways Nursing Home: Rated for the first time: Requires improvement.</title>
