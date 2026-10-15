@@ -179,10 +179,6 @@
   "name": "Martha Trust Hereford Limited",
   "homes": 2
  },
- "1-101609453": {
-  "name": "Aspire Living Limited",
-  "homes": 3
- },
  "1-101609624": {
   "name": "Mother Redcaps Care Home Limited",
   "homes": 2
@@ -221,7 +217,7 @@
  },
  "1-101610622": {
   "name": "People in Action",
-  "homes": 4
+  "homes": 5
  },
  "1-101610631": {
   "name": "Alphonsus Services Limited",
@@ -753,7 +749,7 @@
  },
  "1-101620182": {
   "name": "Karlyon Care Ltd",
-  "homes": 7
+  "homes": 6
  },
  "1-101620236": {
   "name": "Grange Healthcare Ltd",
@@ -921,7 +917,7 @@
  },
  "1-101634763": {
   "name": "InHealth Limited",
-  "homes": 8
+  "homes": 9
  },
  "1-101635419": {
   "name": "The Healthcare Management Trust",
@@ -2815,6 +2811,10 @@
   "name": "ADL Plc",
   "homes": 11
  },
+ "1-101677105": {
+  "name": "Quality Care (Surrey) Limited",
+  "homes": 2
+ },
  "1-101677183": {
   "name": "South Devon Care Services Limited",
   "homes": 3
@@ -3565,7 +3565,7 @@
  },
  "1-101727389": {
   "name": "Fresenius Medical Care Renal Services Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-101727607": {
   "name": "Pure Sports Medicine Limited",
@@ -3581,7 +3581,7 @@
  },
  "1-101727990": {
   "name": "SpaMedica Ltd",
-  "homes": 9
+  "homes": 10
  },
  "1-101728034": {
   "name": "Genesis Cancer Care UK Limited",
@@ -3609,10 +3609,6 @@
  },
  "1-101728579": {
   "name": "Douglas Macmillan Hospice",
-  "homes": 2
- },
- "1-10200144758": {
-  "name": "North Northamptonshire Council",
   "homes": 2
  },
  "1-10200144798": {
@@ -3765,7 +3761,7 @@
  },
  "1-102643088": {
   "name": "Community Integrated Care",
-  "homes": 26
+  "homes": 27
  },
  "1-102643104": {
   "name": "HF Trust Limited",
@@ -3781,7 +3777,7 @@
  },
  "1-102643131": {
   "name": "Affinity Trust",
-  "homes": 5
+  "homes": 6
  },
  "1-102643140": {
   "name": "Rethink Mental Illness",
@@ -3821,7 +3817,7 @@
  },
  "1-102643305": {
   "name": "Spire Healthcare Limited",
-  "homes": 5
+  "homes": 7
  },
  "1-102643346": {
   "name": "Partnerships in Care Limited",
@@ -3833,7 +3829,7 @@
  },
  "1-102643425": {
   "name": "Cygnet Health Care Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-102643442": {
   "name": "Priory Healthcare Limited",
@@ -3845,7 +3841,7 @@
  },
  "1-102643516": {
   "name": "Nuffield Health",
-  "homes": 5
+  "homes": 6
  },
  "1-1051964904": {
   "name": "Nestlings Care Ltd",
@@ -4009,7 +4005,7 @@
  },
  "1-116865881": {
   "name": "Cygnet Behavioural Health Limited",
-  "homes": 8
+  "homes": 9
  },
  "1-116865897": {
   "name": "Partnerships in Care 1 Limited",
@@ -4469,7 +4465,7 @@
  },
  "1-126775024": {
   "name": "Waythrough",
-  "homes": 13
+  "homes": 12
  },
  "1-126775137": {
   "name": "Synnovis Group LLP",
@@ -4581,6 +4577,10 @@
  },
  "1-1311108622": {
   "name": "Amesbury Abbey Limited",
+  "homes": 2
+ },
+ "1-13120626964": {
+  "name": "Roche Homecare Ltd",
   "homes": 2
  },
  "1-13124541749": {
@@ -5025,7 +5025,7 @@
  },
  "1-152955249": {
   "name": "Xeon Smiles UK Limited",
-  "homes": 6
+  "homes": 7
  },
  "1-152956215": {
   "name": "Mr Robert Whetstone",
@@ -5034,6 +5034,10 @@
  "1-152966682": {
   "name": "Balbir Singh Bhandal, Amrik Singh Bhandal & Baljit Singh Bhandal",
   "homes": 8
+ },
+ "1-152968478": {
+  "name": "Murgelas Practice Management Limited",
+  "homes": 2
  },
  "1-152968577": {
   "name": "Access Dental Ltd",
@@ -5218,6 +5222,10 @@
  "1-1745204910": {
   "name": "Diagrama Healthcare Services Limited",
   "homes": 5
+ },
+ "1-174576986": {
+  "name": "Audley Care Ltd",
+  "homes": 3
  },
  "1-1749031869": {
   "name": "Promoting Active Support Limited",
@@ -5533,7 +5541,7 @@
  },
  "1-199810662": {
   "name": "Symphony Healthcare Services Limited",
-  "homes": 5
+  "homes": 6
  },
  "1-200367080": {
   "name": "Norse Care (Services) Limited",
@@ -5769,10 +5777,6 @@
  },
  "1-22315506889": {
   "name": "WCG Clayton Ltd",
-  "homes": 2
- },
- "1-2232201878": {
-  "name": "Islington GP Group Limited",
   "homes": 2
  },
  "1-2232392207": {
@@ -6261,7 +6265,7 @@
  },
  "1-322295454": {
   "name": "Bondcare Willington Limited",
-  "homes": 7
+  "homes": 8
  },
  "1-3232784977": {
   "name": "Sublime Care Solution Limited",
@@ -6401,7 +6405,7 @@
  },
  "1-3727516665": {
   "name": "Bondcare (London) Limited",
-  "homes": 16
+  "homes": 15
  },
  "1-3731216930": {
   "name": "Blue Ribbon Healthcare Limited",
@@ -6861,7 +6865,7 @@
  },
  "1-5469824261": {
   "name": "Agincare Enable Limited",
-  "homes": 6
+  "homes": 7
  },
  "1-5476406510": {
   "name": "Garforth Care Homes Ltd",
@@ -7175,6 +7179,10 @@
   "name": "Flexible Support Options Limited",
   "homes": 5
  },
+ "1-7300498504": {
+  "name": "Richmond Road Partnership",
+  "homes": 2
+ },
  "1-731103679": {
   "name": "Helping Angels Ltd",
   "homes": 2
@@ -7395,6 +7403,10 @@
   "name": "Bath and North East Somerset Council",
   "homes": 2
  },
+ "1-9268478718": {
+  "name": "S M Rahman Limited",
+  "homes": 2
+ },
  "1-9271796574": {
   "name": "The Vine Residential Services (TVRS) LTD",
   "homes": 3
@@ -7521,6 +7533,10 @@
  },
  "RT2": {
   "name": "Pennine Care NHS Foundation Trust",
+  "homes": 2
+ },
+ "RWK": {
+  "name": "East London NHS Foundation Trust",
   "homes": 2
  },
  "RX2": {

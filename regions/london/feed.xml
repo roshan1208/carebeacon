@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/london/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/london/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/london/feed</id>
-  <updated>2026-10-14T11:51:49Z</updated>
+  <updated>2026-10-15T11:30:05Z</updated>
   <subtitle>Care homes in London that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-3979621459/2026-10-15/closed</id>
+    <title>Clarendon Nursing Home: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-3979621459"/>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29463091506/2026-10-15/closed</id>
+    <title>River Place Health Centre: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-29463091506"/>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>London. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29977442018/2026-10-14/rated</id>
     <title>Oviva UK Limited: Rated for the first time: Good.</title>

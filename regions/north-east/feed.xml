@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/north-east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/north-east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/north-east/feed</id>
-  <updated>2026-10-14T11:51:49Z</updated>
+  <updated>2026-10-15T11:30:05Z</updated>
   <subtitle>Care homes in North East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-19409196181/2026-10-15/closed</id>
+    <title>North Ormesby Road: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-19409196181"/>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>North East. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-320338389/2026-10-10/closed</id>
     <title>Falstone Manor: Lost its CQC registration.</title>

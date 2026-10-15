@@ -1959,5 +1959,104 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-10490141472",
+  "name": "Pine Lodge",
+  "region": "East Midlands",
+  "localAuthority": "North Northamptonshire",
+  "providerId": "1-10200144758",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-121620583",
+  "name": "Aspire Living - 1-2 Markyes Close",
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "providerId": "1-101609453",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-12954827679",
+  "name": "Alexandra House",
+  "region": "South West",
+  "localAuthority": "Plymouth",
+  "providerId": "1-101620182",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-19409196181",
+  "name": "North Ormesby Road",
+  "region": "North East",
+  "localAuthority": "Middlesbrough",
+  "providerId": "1-126775024",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-19680559405",
+  "name": "Abbey House",
+  "region": "West Midlands",
+  "localAuthority": "Worcestershire",
+  "providerId": "1-101609453",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-2206520209",
+  "name": "Aspire Support",
+  "region": "West Midlands",
+  "localAuthority": "Herefordshire, County of",
+  "providerId": "1-101609453",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-29463091506",
+  "name": "River Place Health Centre",
+  "region": "London",
+  "localAuthority": "Islington",
+  "providerId": "1-2232201878",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-3979621459",
+  "name": "Clarendon Nursing Home",
+  "region": "London",
+  "localAuthority": "Croydon",
+  "providerId": "1-3727516665",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-15",
+  "locationId": "1-4695868913",
+  "name": "Thera East Midlands",
+  "region": "East Midlands",
+  "localAuthority": "Lincolnshire",
+  "providerId": "1-4675979855",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]
