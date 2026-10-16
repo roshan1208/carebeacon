@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/south-east/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/south-east/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/south-east/feed</id>
-  <updated>2026-10-15T11:30:05Z</updated>
+  <updated>2026-10-16T11:23:27Z</updated>
   <subtitle>Care homes in South East that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-29621487685/2026-10-16/rated</id>
+    <title>A B Medical Services (UK) Limited - Office: Rated for the first time: Good.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-29621487685"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>South East. Rated for the first time: Good.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-1270157379/2026-10-16/closed</id>
+    <title>St Helens Down: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-1270157379"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>South East. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-30006172378/2026-10-14/rated</id>
     <title>A &amp; T Caring Services: Rated for the first time: Good.</title>

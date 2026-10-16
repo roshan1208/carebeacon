@@ -2058,5 +2058,104 @@
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-119643107",
+  "name": "Tudor House",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-101610757",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-119643308",
+  "name": "Mansion House",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-101610757",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-1270157379",
+  "name": "St Helens Down",
+  "region": "South East",
+  "localAuthority": "East Sussex",
+  "providerId": "1-102643122",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-24088224557",
+  "name": "Hawthorns Residential Home",
+  "region": "North East",
+  "localAuthority": "Redcar and Cleveland",
+  "providerId": "1-164828366",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-28044226372",
+  "name": "Mansion House",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-13120626964",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-28054923928",
+  "name": "Tudor House",
+  "region": "Yorkshire & Humberside",
+  "localAuthority": "North Yorkshire",
+  "providerId": "1-13120626964",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-29467217327",
+  "name": "Golborne Canalside Health Centre",
+  "region": "London",
+  "localAuthority": "Kensington and Chelsea",
+  "providerId": "1-3282110286",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-29621487685",
+  "name": "A B Medical Services (UK) Limited - Office",
+  "region": "South East",
+  "localAuthority": "Surrey",
+  "providerId": "1-1228750455",
+  "type": "rated",
+  "from": null,
+  "to": "Good"
+ },
+ {
+  "date": "2026-10-16",
+  "locationId": "1-4437212597",
+  "name": "7 Pizey Avenue",
+  "region": "South West",
+  "localAuthority": "North Somerset",
+  "providerId": "1-101639606",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
  }
 ]

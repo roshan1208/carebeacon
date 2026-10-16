@@ -4,8 +4,22 @@
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/donegal/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/ireland/counties/donegal/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/ireland/counties/donegal/feed</id>
-  <updated>2026-10-15T11:30:32Z</updated>
+  <updated>2026-10-16T11:23:56Z</updated>
   <subtitle>Nursing homes in County Donegal whose HIQA registration just changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/392/2026-10-16/reregistered</id>
+    <title>St. Eunan's Nursing Home: Registration renewed from 13 August 2026, expiring 12 August 2029 (by 16 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/392/"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Donegal. Registration renewed from 13 August 2026, expiring 12 August 2029 (by 16 October 2026).</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/392/2026-10-16/conditions_changed</id>
+    <title>St. Eunan's Nursing Home: Conditions of registration changed: 3 to 4; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 16 October 2026).</title>
+    <link href="https://roshan1208.github.io/carebeacon/ireland/homes/392/"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Donegal. Conditions of registration changed: 3 to 4; new condition: Subject to any prohibitions or restrictions contained in any other condition(s), the designated centre shall be operated at all times in acc… (by 16 October 2026).</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/ireland/change/346/2026-10-03/reregistered</id>
     <title>Hillcrest House Nursing Home: Registration renewed from 30 May 2026, expiring 29 May 2029 (by 3 October 2026).</title>

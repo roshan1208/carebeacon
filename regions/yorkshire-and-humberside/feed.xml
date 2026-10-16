@@ -4,8 +4,36 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/yorkshire-and-humberside/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/yorkshire-and-humberside/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/yorkshire-and-humberside/feed</id>
-  <updated>2026-10-15T11:30:05Z</updated>
+  <updated>2026-10-16T11:23:27Z</updated>
   <subtitle>Care homes in Yorkshire &amp; Humberside that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-28054923928/2026-10-16/rated</id>
+    <title>Tudor House: Rated for the first time: Good.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-28054923928"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Rated for the first time: Good.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-28044226372/2026-10-16/rated</id>
+    <title>Mansion House: Rated for the first time: Good.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-28044226372"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Rated for the first time: Good.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-119643308/2026-10-16/closed</id>
+    <title>Mansion House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-119643308"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Lost its CQC registration.</summary>
+  </entry>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-119643107/2026-10-16/closed</id>
+    <title>Tudor House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-119643107"/>
+    <updated>2026-10-16T00:00:00Z</updated>
+    <summary>Yorkshire &amp; Humberside. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-6165938507/2026-10-14/closed</id>
     <title>Green Acres Care Home: Lost its CQC registration.</title>

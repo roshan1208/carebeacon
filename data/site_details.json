@@ -179017,28 +179017,7 @@
  "1-118630374": {
   "brandName": null,
   "registrationDate": "2011-02-03",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "38 Primrose Road",
   "town": "London",
   "website": "www.outward.org.uk",
@@ -179061,6 +179040,10 @@
    },
    {
     "date": "2017-02-25",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-10-16",
     "rating": "Good"
    }
   ],
@@ -203541,114 +203524,6 @@
    }
   ]
  },
- "1-119643107": {
-  "brandName": null,
-  "registrationDate": "2011-01-20",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
-  "addressLine1": "12 Leeds Road",
-  "town": "Selby",
-  "website": "www.rochehealthcare.co.uk",
-  "specialisms": [
-   "Caring for adults over 65 yrs",
-   "Dementia",
-   "Physical disabilities"
-  ],
-  "serviceTypes": [
-   "Nursing homes"
-  ],
-  "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care",
-   "Treatment of disease, disorder or injury"
-  ],
-  "lastInspectionDate": "2021-08-25",
-  "lastReportDate": "2021-09-30",
-  "reportUri": "/reports/db10c486-a1b3-4fae-9271-918afc26ef9b?20210930120000",
-  "historicRatings": [
-   {
-    "date": "2016-06-04",
-    "rating": "Requires improvement"
-   },
-   {
-    "date": "2017-07-27",
-    "rating": "Requires improvement"
-   },
-   {
-    "date": "2018-08-30",
-    "rating": "Requires improvement"
-   },
-   {
-    "date": "2019-09-18",
-    "rating": "Good"
-   },
-   {
-    "date": "2021-03-18",
-    "rating": "Inspected but not rated"
-   }
-  ],
-  "reports": [
-   {
-    "date": "2021-09-30",
-    "type": "Location",
-    "uri": "/reports/db10c486-a1b3-4fae-9271-918afc26ef9b?20210930120000"
-   },
-   {
-    "date": "2021-03-18",
-    "type": "Location",
-    "uri": "/reports/655f9281-7040-43ca-8906-1824c3d6a683?20210318130000"
-   },
-   {
-    "date": "2019-09-18",
-    "type": "Location",
-    "uri": "/reports/e21184ea-eda9-4599-bdba-46cd64df4e63?20190918120000"
-   },
-   {
-    "date": "2018-08-30",
-    "type": "Location",
-    "uri": "/reports/3ccecfb3-e002-4d85-859d-fa782ea676c0?20211030120000"
-   },
-   {
-    "date": "2017-07-27",
-    "type": "Location",
-    "uri": "/reports/6b45001e-2d2a-43a5-99de-48bcd3439437?20211030120000"
-   },
-   {
-    "date": "2016-06-04",
-    "type": "Location",
-    "uri": "/reports/4d1a9751-f55f-44e6-bd51-9652a9ff2ebf?20211030120000"
-   },
-   {
-    "date": "2014-01-09",
-    "type": null,
-    "uri": "/reports/b41ffd90-934f-4593-aa8a-7f0b603b85fd?20151016191357"
-   },
-   {
-    "date": "2012-08-31",
-    "type": null,
-    "uri": "/reports/104ea89b-ba50-48d0-ac50-eec46b4d57d5?20200430120000"
-   }
-  ]
- },
  "1-119643265": {
   "brandName": null,
   "registrationDate": "2011-01-20",
@@ -203926,106 +203801,6 @@
     "date": "2014-10-30",
     "type": null,
     "uri": "/reports/3850439f-7cb6-44b6-90b9-f22fa822c51a?20200129163919"
-   }
-  ]
- },
- "1-119643308": {
-  "brandName": null,
-  "registrationDate": "2011-01-20",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
-  "addressLine1": "164 Main Road",
-  "town": "Selby",
-  "website": "www.rochehealthcare.co.uk",
-  "specialisms": [
-   "Caring for adults over 65 yrs",
-   "Dementia",
-   "Physical disabilities"
-  ],
-  "serviceTypes": [
-   "Nursing homes"
-  ],
-  "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care",
-   "Treatment of disease, disorder or injury"
-  ],
-  "lastInspectionDate": "2020-11-09",
-  "lastReportDate": "2020-12-05",
-  "reportUri": "/reports/81662a2a-44b9-4d1a-a550-f73b861782fd?20201205130000",
-  "historicRatings": [
-   {
-    "date": "2016-02-09",
-    "rating": "Good"
-   },
-   {
-    "date": "2017-07-22",
-    "rating": "Good"
-   },
-   {
-    "date": "2020-12-05",
-    "rating": "Inspected but not rated"
-   }
-  ],
-  "reports": [
-   {
-    "date": "2020-12-05",
-    "type": "Location",
-    "uri": "/reports/81662a2a-44b9-4d1a-a550-f73b861782fd?20201205130000"
-   },
-   {
-    "date": "2020-04-07",
-    "type": "Location",
-    "uri": "/reports/3c542203-3e98-4aa7-845c-dab73570d304?20200407120000"
-   },
-   {
-    "date": "2017-07-22",
-    "type": "Location",
-    "uri": "/reports/79181a60-c9df-4a10-bbfe-4f95ce02a17b?20211030120000"
-   },
-   {
-    "date": "2016-02-09",
-    "type": "Location",
-    "uri": "/reports/d2e8e6d7-4011-48e7-a8d5-9cea9aeb7417?20210124090201"
-   },
-   {
-    "date": "2013-12-25",
-    "type": null,
-    "uri": "/reports/369f66c9-eba8-4cf1-89bb-65113b2343c9?20200129163919"
-   },
-   {
-    "date": "2012-11-30",
-    "type": null,
-    "uri": "/reports/61eab9fd-7792-4f79-9094-fdebc5b2193e?20200129163919"
-   },
-   {
-    "date": "2011-09-28",
-    "type": null,
-    "uri": "/reports/eb10d04f-b8cf-42d0-a6a1-1e258c59f11b?20200430120000"
-   },
-   {
-    "date": "2011-07-22",
-    "type": null,
-    "uri": "/reports/ecf7ded9-4d56-466e-9d48-851638f4d9fc?20200430120000"
    }
   ]
  },
@@ -281857,28 +281632,7 @@
  "1-122514016": {
   "brandName": null,
   "registrationDate": "2010-11-19",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "1 Wood Close",
   "town": "Horley",
   "website": "www.ashcroftsupport.com",
@@ -281899,6 +281653,10 @@
   "historicRatings": [
    {
     "date": "2015-12-24",
+    "rating": "Good"
+   },
+   {
+    "date": "2018-04-26",
     "rating": "Good"
    }
   ],
@@ -285770,28 +285528,7 @@
  "1-122831495": {
   "brandName": null,
   "registrationDate": "2010-12-23",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "off Adelaide Terrace",
   "town": "Blackburn",
   "website": "www.blackburncarehomes.com",
@@ -285810,6 +285547,10 @@
   "historicRatings": [
    {
     "date": "2016-05-14",
+    "rating": "Good"
+   },
+   {
+    "date": "2018-11-06",
     "rating": "Good"
    },
    {
@@ -371640,87 +371381,6 @@
    }
   ]
  },
- "1-1270157379": {
-  "brandName": "Voyage",
-  "registrationDate": "2014-03-07",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
-  "addressLine1": "46 St Helens Down",
-  "town": "Hastings",
-  "website": "www.voyagecare.com",
-  "specialisms": [
-   "Caring for adults under 65 yrs",
-   "Learning disabilities",
-   "Mental health conditions",
-   "Physical disabilities",
-   "Sensory impairment"
-  ],
-  "serviceTypes": [
-   "Residential homes"
-  ],
-  "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care"
-  ],
-  "lastInspectionDate": "2023-02-22",
-  "lastReportDate": "2023-03-08",
-  "reportUri": "/reports/abc39a95-3357-4aa8-84f1-3eecd58a8bcc?20230308130000",
-  "historicRatings": [
-   {
-    "date": "2015-08-05",
-    "rating": "Good"
-   },
-   {
-    "date": "2017-03-23",
-    "rating": "Good"
-   },
-   {
-    "date": "2018-03-14",
-    "rating": "Good"
-   }
-  ],
-  "reports": [
-   {
-    "date": "2023-03-08",
-    "type": "Location",
-    "uri": "/reports/abc39a95-3357-4aa8-84f1-3eecd58a8bcc?20230308130000"
-   },
-   {
-    "date": "2018-03-14",
-    "type": "Location",
-    "uri": "/reports/ae37d29c-fad9-4f4b-a59f-1ccfc7456216?20180314130000"
-   },
-   {
-    "date": "2017-03-23",
-    "type": "Location",
-    "uri": "/reports/dfcdbc7b-85c3-407a-8cd9-5c641f21efc2?20200129163919"
-   },
-   {
-    "date": "2015-08-05",
-    "type": "Location",
-    "uri": "/reports/3d453130-c7b4-4b24-af5e-0386f8290576?20210127223530"
-   }
-  ]
- },
  "1-127051008": {
   "brandName": "Allied Care Limited",
   "registrationDate": "2010-11-22",
@@ -446376,28 +446036,7 @@
  "1-131819772": {
   "brandName": "Prime Life Limited",
   "registrationDate": "2011-01-20",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "15 Leicester Road",
   "town": "Shepshed",
   "website": "www.prime-life.co.uk",
@@ -446424,6 +446063,10 @@
    {
     "date": "2017-03-04",
     "rating": "Requires improvement"
+   },
+   {
+    "date": "2018-03-17",
+    "rating": "Good"
    },
    {
     "date": "2022-02-12",
@@ -487619,28 +487262,7 @@
  "1-135837598": {
   "brandName": "Colten Care",
   "registrationDate": "2010-11-23",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Farm Lane",
   "town": "Christchurch",
   "website": "www.coltencare.co.uk",
@@ -487661,6 +487283,10 @@
   "historicRatings": [
    {
     "date": "2016-08-23",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-01-29",
     "rating": "Good"
    },
    {
@@ -504387,7 +504013,7 @@
   "reports": []
  },
  "1-137524302": {
-  "brandName": "Priory Group",
+  "brandName": null,
   "registrationDate": "2011-01-19",
   "keyQuestionRatings": [
    {
@@ -504500,7 +504126,7 @@
   ]
  },
  "1-137524320": {
-  "brandName": "Priory Group",
+  "brandName": null,
   "registrationDate": "2011-01-19",
   "keyQuestionRatings": [
    {
@@ -520672,6 +520298,7 @@
   "website": "www.lovettcare.co.uk",
   "specialisms": [
    "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
    "Dementia",
    "Physical disabilities",
    "Sensory impairment"
@@ -556198,28 +555825,7 @@
  "1-144214093": {
   "brandName": null,
   "registrationDate": "2011-01-21",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Outstanding"
-   },
-   {
-    "name": "Caring",
-    "rating": "Outstanding"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Outstanding"
-   },
-   {
-    "name": "Effective",
-    "rating": "Outstanding"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "72-74 Exmouth Road",
   "town": "Plymouth",
   "website": "www.southernhealthcare.co.uk",
@@ -556244,6 +555850,10 @@
    {
     "date": "2016-03-09",
     "rating": "Good"
+   },
+   {
+    "date": "2018-11-01",
+    "rating": "Outstanding"
    }
   ],
   "reports": [
@@ -622467,8 +622077,10 @@
   "town": "Withernsea",
   "website": "www.cascade-care.com",
   "specialisms": [
+   "Caring for adults over 65 yrs",
    "Caring for adults under 65 yrs",
-   "Learning disabilities"
+   "Learning disabilities",
+   "Mental health conditions"
   ],
   "serviceTypes": [
    "Residential homes"
@@ -664139,28 +663751,7 @@
  "1-19564722325": {
   "brandName": null,
   "registrationDate": "2024-09-27",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Inadequate"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Inadequate"
-   },
-   {
-    "name": "Caring",
-    "rating": "Inadequate"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Inadequate"
-   },
-   {
-    "name": "Effective",
-    "rating": "Inadequate"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "100 Long Lane",
   "town": "London",
   "website": null,
@@ -664192,6 +663783,10 @@
    {
     "date": "2023-05-31",
     "rating": "Good"
+   },
+   {
+    "date": "2023-11-09",
+    "rating": "Inadequate"
    }
   ],
   "reports": []
@@ -689818,7 +689413,7 @@
   "keyQuestionRatings": [],
   "addressLine1": "Kingfisher Road",
   "town": "Kettering",
-  "website": null,
+  "website": "www.countrycourtcare.co/our-homes/hermitage-house-care-home/",
   "specialisms": [
    "Caring for adults over 65 yrs",
    "Caring for adults under 65 yrs",
@@ -700192,28 +699787,7 @@
  "1-21499218229": {
   "brandName": "Welltower",
   "registrationDate": "2025-01-31",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "45 Langley Avenue",
   "town": "Surbiton",
   "website": null,
@@ -700254,6 +699828,10 @@
    {
     "date": "2021-04-22",
     "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2022-10-11",
+    "rating": "Good"
    }
   ],
   "reports": []
@@ -743038,60 +742616,6 @@
   "historicRatings": [],
   "reports": []
  },
- "1-24088224557": {
-  "brandName": null,
-  "registrationDate": "2025-11-28",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
-  "addressLine1": "8 High Street",
-  "town": "Saltburn-by-the-sea",
-  "website": null,
-  "specialisms": [
-   "Caring for adults over 65 yrs",
-   "Caring for adults under 65 yrs",
-   "Dementia"
-  ],
-  "serviceTypes": [
-   "Residential homes"
-  ],
-  "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care"
-  ],
-  "lastInspectionDate": null,
-  "lastReportDate": "2023-07-21",
-  "reportUri": null,
-  "historicRatings": [
-   {
-    "date": "2016-03-02",
-    "rating": "Good"
-   },
-   {
-    "date": "2018-11-22",
-    "rating": "Good"
-   }
-  ],
-  "reports": []
- },
  "1-24088224628": {
   "brandName": null,
   "registrationDate": "2025-11-28",
@@ -779173,28 +778697,7 @@
  "1-2656875693": {
   "brandName": "North Bay Group",
   "registrationDate": "2016-05-23",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Elm Drive",
   "town": "Louth",
   "website": "www.highgatecare.co.uk",
@@ -779218,6 +778721,10 @@
    {
     "date": "2017-06-23",
     "rating": "Requires improvement"
+   },
+   {
+    "date": "2019-05-02",
+    "rating": "Good"
    },
    {
     "date": "2021-01-01",
@@ -836242,28 +835749,7 @@
  "1-308810037": {
   "brandName": null,
   "registrationDate": "2011-09-16",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Requires improvement"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "4 Cardiff Grove",
   "town": "Birmingham",
   "website": null,
@@ -836283,6 +835769,10 @@
   "historicRatings": [
    {
     "date": "2015-11-02",
+    "rating": "Good"
+   },
+   {
+    "date": "2017-12-29",
     "rating": "Good"
    }
   ],
@@ -911938,60 +911428,6 @@
     "date": "2013-10-31",
     "type": null,
     "uri": "/reports/b294c432-914e-4501-a80e-7b0a701705ea?20200129163919"
-   }
-  ]
- },
- "1-4437212597": {
-  "brandName": "Brandon Trust",
-  "registrationDate": "2017-10-27",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Good"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Good"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
-  "addressLine1": "7 Pizey Avenue",
-  "town": "Clevedon",
-  "website": "www.brandontrust.org",
-  "specialisms": [
-   "Caring for adults under 65 yrs",
-   "Caring for children",
-   "Learning disabilities",
-   "Mental health conditions",
-   "Physical disabilities",
-   "Sensory impairment"
-  ],
-  "serviceTypes": [
-   "Residential homes"
-  ],
-  "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care"
-  ],
-  "lastInspectionDate": "2018-10-14",
-  "lastReportDate": "2018-11-08",
-  "reportUri": "/reports/7db69b39-d2a3-4e40-9967-8ef6bb64685e?20211030120000",
-  "historicRatings": [],
-  "reports": [
-   {
-    "date": "2018-11-08",
-    "type": "Location",
-    "uri": "/reports/7db69b39-d2a3-4e40-9967-8ef6bb64685e?20211030120000"
    }
   ]
  },
@@ -1059917,7 +1059353,28 @@
  "1-29467217327": {
   "brandName": null,
   "registrationDate": "2026-09-09",
-  "keyQuestionRatings": [],
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
   "addressLine1": "Kelso Cochrane House",
   "town": "London",
   "website": null,
@@ -1059935,7 +1059392,7 @@
    "Diagnostic and screening procedures"
   ],
   "lastInspectionDate": null,
-  "lastReportDate": null,
+  "lastReportDate": "2018-04-25",
   "reportUri": null,
   "historicRatings": [],
   "reports": []
@@ -1066432,7 +1065889,28 @@
  "1-29621487685": {
   "brandName": null,
   "registrationDate": "2026-09-11",
-  "keyQuestionRatings": [],
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Insufficient evidence to rate"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
   "addressLine1": "6 Flintstead",
   "town": "Godalming",
   "website": "www.ab-medical.co.uk/",
@@ -1066447,9 +1065925,14 @@
    "Treatment of disease, disorder or injury"
   ],
   "lastInspectionDate": null,
-  "lastReportDate": null,
+  "lastReportDate": "2020-04-08",
   "reportUri": null,
-  "historicRatings": [],
+  "historicRatings": [
+   {
+    "date": "2018-01-12",
+    "rating": "Inspected but not rated"
+   }
+  ],
   "reports": []
  },
  "1-29635338698": {
@@ -1108525,8 +1108008,6 @@
   "specialisms": [
    "Caring for adults over 65 yrs",
    "Caring for adults under 65 yrs",
-   "Learning disabilities",
-   "Mental health conditions",
    "Physical disabilities",
    "Sensory impairment"
   ],
@@ -1108904,28 +1108385,7 @@
  "1-1072216055": {
   "brandName": null,
   "registrationDate": "2013-12-12",
-  "keyQuestionRatings": [
-   {
-    "name": "Safe",
-    "rating": "Good"
-   },
-   {
-    "name": "Well-led",
-    "rating": "Outstanding"
-   },
-   {
-    "name": "Caring",
-    "rating": "Good"
-   },
-   {
-    "name": "Responsive",
-    "rating": "Outstanding"
-   },
-   {
-    "name": "Effective",
-    "rating": "Good"
-   }
-  ],
+  "keyQuestionRatings": [],
   "addressLine1": "Unit 1, Tansley Business Park",
   "town": "King's Lynn",
   "website": "www.dedicatedcareeastanglialtd.com",
@@ -1108951,6 +1108411,10 @@
    {
     "date": "2016-11-12",
     "rating": "Good"
+   },
+   {
+    "date": "2019-06-06",
+    "rating": "Outstanding"
    }
   ],
   "reports": [
@@ -1124264,7 +1123728,7 @@
   "brandName": null,
   "registrationDate": "2022-12-01",
   "keyQuestionRatings": [],
-  "addressLine1": "Office No. 509, KG House",
+  "addressLine1": "Office No. 122, Regents Pavilion",
   "town": "Northampton",
   "website": null,
   "specialisms": [
@@ -1142258,7 +1141722,8 @@
    "Community services - Substance abuse"
   ],
   "regulatedActivities": [
-   "Treatment of disease, disorder or injury"
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
   ],
   "lastInspectionDate": null,
   "lastReportDate": null,
@@ -1156402,8 +1155867,8 @@
     "rating": "Good"
    }
   ],
-  "addressLine1": "22-24 Hamlet Court Road",
-  "town": "Westcliff On Sea",
+  "addressLine1": "Suite 13",
+  "town": "Westcliff-on-sea",
   "website": "www.ens-care.co.uk",
   "specialisms": [
    "Caring for adults over 65 yrs",
@@ -1157233,7 +1156698,7 @@
     "rating": "Good"
    }
   ],
-  "addressLine1": "Candlelight House",
+  "addressLine1": "Baily's West",
   "town": "Glastonbury",
   "website": "www.candlelightcare.co.uk",
   "specialisms": [
@@ -1158352,7 +1157817,28 @@
  "1-28044226372": {
   "brandName": null,
   "registrationDate": "2026-10-13",
-  "keyQuestionRatings": [],
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
   "addressLine1": "164 Main Road",
   "town": "Selby",
   "website": null,
@@ -1158367,12 +1157853,26 @@
    "Nursing homes"
   ],
   "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care"
+   "Accommodation for persons who require nursing or personal care",
+   "Treatment of disease, disorder or injury"
   ],
   "lastInspectionDate": null,
-  "lastReportDate": null,
+  "lastReportDate": "2020-12-05",
   "reportUri": null,
-  "historicRatings": [],
+  "historicRatings": [
+   {
+    "date": "2016-02-09",
+    "rating": "Good"
+   },
+   {
+    "date": "2017-07-22",
+    "rating": "Good"
+   },
+   {
+    "date": "2020-12-05",
+    "rating": "Inspected but not rated"
+   }
+  ],
   "reports": []
  },
  "1-2805173042": {
@@ -1158442,7 +1157942,28 @@
  "1-28054923928": {
   "brandName": null,
   "registrationDate": "2026-10-13",
-  "keyQuestionRatings": [],
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
   "addressLine1": "12 Leeds Road",
   "town": "Selby",
   "website": null,
@@ -1158457,12 +1157978,34 @@
    "Nursing homes"
   ],
   "regulatedActivities": [
-   "Accommodation for persons who require nursing or personal care"
+   "Accommodation for persons who require nursing or personal care",
+   "Treatment of disease, disorder or injury"
   ],
   "lastInspectionDate": null,
-  "lastReportDate": null,
+  "lastReportDate": "2021-09-30",
   "reportUri": null,
-  "historicRatings": [],
+  "historicRatings": [
+   {
+    "date": "2016-06-04",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2017-07-27",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2018-08-30",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2019-09-18",
+    "rating": "Good"
+   },
+   {
+    "date": "2021-03-18",
+    "rating": "Inspected but not rated"
+   }
+  ],
   "reports": []
  },
  "1-28336381436": {
@@ -1159949,6 +1159492,3165 @@
     "date": "2015-10-13",
     "type": "Location",
     "uri": "/reports/1b1d6d41-45b5-45f5-aeae-9f6dc0a55c65?20210125211720"
+   }
+  ]
+ },
+ "1-10078820280": {
+  "brandName": null,
+  "registrationDate": "2020-12-21",
+  "keyQuestionRatings": [],
+  "addressLine1": "Peel House, Suite 102-D1",
+  "town": "Morden",
+  "website": null,
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Learning disabilities",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-10280201096": {
+  "brandName": null,
+  "registrationDate": "2021-02-01",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "25 Brock Street",
+  "town": "Lancaster",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2022-06-15",
+  "lastReportDate": "2022-09-24",
+  "reportUri": "/reports/94b32c60-f215-4a5f-b174-6a39999dd519?20220924120000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2022-09-24",
+    "type": "Location",
+    "uri": "/reports/94b32c60-f215-4a5f-b174-6a39999dd519?20220924120000"
+   }
+  ]
+ },
+ "1-10285367346": {
+  "brandName": null,
+  "registrationDate": "2021-01-28",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "175 Doncaster Road",
+  "town": "Wakefield",
+  "website": "www.tailoredcareservicesltd.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2022-11-15",
+  "lastReportDate": "2022-12-21",
+  "reportUri": "/reports/d5ca7e0e-b99f-4e5a-bc05-4fa3a83825af?20221221130000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2022-12-21",
+    "type": "Location",
+    "uri": "/reports/d5ca7e0e-b99f-4e5a-bc05-4fa3a83825af?20221221130000"
+   }
+  ]
+ },
+ "1-11510267679": {
+  "brandName": null,
+  "registrationDate": "2021-08-26",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Unit 1.1, Brunswick Court,",
+  "town": "Bristol",
+  "website": "www.caafihealth.org.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Eating disorders",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2023-01-09",
+  "lastReportDate": "2023-02-09",
+  "reportUri": "/reports/ed57d390-c11d-455a-88b6-f6be19cb3265?20230209130000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2023-02-09",
+    "type": "Location",
+    "uri": "/reports/ed57d390-c11d-455a-88b6-f6be19cb3265?20230209130000"
+   }
+  ]
+ },
+ "1-11803254125": {
+  "brandName": null,
+  "registrationDate": "2021-10-20",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Suite 2, Second Floor,Marshall House",
+  "town": "Preston",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2022-08-03",
+  "lastReportDate": "2022-09-07",
+  "reportUri": "/reports/121b8ac5-c379-40a7-996b-57f28bc82fc4?20220907120000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2022-09-07",
+    "type": "Location",
+    "uri": "/reports/121b8ac5-c379-40a7-996b-57f28bc82fc4?20220907120000"
+   }
+  ]
+ },
+ "1-119664848": {
+  "brandName": null,
+  "registrationDate": "2011-01-21",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "13 Wetherby Road",
+  "town": "Leeds",
+  "website": "www.westwardcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2023-12-12",
+  "lastReportDate": "2024-02-09",
+  "reportUri": "/reports/95e6de86-a944-4b44-87b3-d05029b7f1b5?20240209130000",
+  "historicRatings": [
+   {
+    "date": "2016-10-29",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2017-11-28",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2024-02-09",
+    "type": "Location",
+    "uri": "/reports/95e6de86-a944-4b44-87b3-d05029b7f1b5?20240209130000"
+   },
+   {
+    "date": "2017-11-28",
+    "type": "Location",
+    "uri": "/reports/ba882683-1014-485d-b870-e4b9ef8a68d9?20200129163919"
+   },
+   {
+    "date": "2016-10-29",
+    "type": "Location",
+    "uri": "/reports/c2bbff15-e350-4305-bf28-54d1cef656df?20200129163919"
+   },
+   {
+    "date": "2014-03-04",
+    "type": null,
+    "uri": "/reports/7bb7e727-1201-45fa-974f-79a39cd9747d?20210505120000"
+   },
+   {
+    "date": "2013-11-01",
+    "type": null,
+    "uri": "/reports/d550d2a7-760c-4bfa-8046-a07ccdad0db0?20210505120000"
+   },
+   {
+    "date": "2012-11-02",
+    "type": null,
+    "uri": "/reports/7417beab-603f-452a-8fef-95579a6a80e7?20200430120000"
+   }
+  ]
+ },
+ "1-12111486061": {
+  "brandName": null,
+  "registrationDate": "2022-05-31",
+  "keyQuestionRatings": [],
+  "addressLine1": "106 Albert Road",
+  "town": "Widnes",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-121827815": {
+  "brandName": null,
+  "registrationDate": "2011-01-21",
+  "keyQuestionRatings": [],
+  "addressLine1": "Wildwood Drive",
+  "town": "Worcester",
+  "website": "www.strichards.org.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Hospice"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2016-03-15",
+  "lastReportDate": "2016-06-09",
+  "reportUri": "/reports/2ce12d14-62b4-4ab8-b689-581a24ab904b?20211030120000",
+  "historicRatings": [
+   {
+    "date": "2016-06-09",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2016-06-09",
+    "type": "Location",
+    "uri": "/reports/2ce12d14-62b4-4ab8-b689-581a24ab904b?20211030120000"
+   },
+   {
+    "date": "2013-10-31",
+    "type": null,
+    "uri": "/reports/9b896460-dbed-4810-86d0-f88843a51e5a?20151016191357"
+   },
+   {
+    "date": "2012-10-17",
+    "type": null,
+    "uri": "/reports/5e924606-ba6b-434e-8a26-c50c0dd0e407?20200129163919"
+   },
+   {
+    "date": "2011-12-02",
+    "type": null,
+    "uri": "/reports/78bd7fdf-72cb-455a-afbd-099e0d04d627?20200430120000"
+   }
+  ]
+ },
+ "1-12214705204": {
+  "brandName": null,
+  "registrationDate": "2021-12-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 117",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-124669846": {
+  "brandName": "Bluebird Care",
+  "registrationDate": "2011-07-06",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "21-25 Kingsway",
+  "town": "Luton",
+  "website": "www.bluebirdcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2019-08-14",
+  "lastReportDate": "2019-08-28",
+  "reportUri": "/reports/a37a1978-5816-471c-9365-4fc470a5bb48?20190828120000",
+  "historicRatings": [
+   {
+    "date": "2015-09-16",
+    "rating": "Good"
+   },
+   {
+    "date": "2017-02-25",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2019-08-28",
+    "type": "Location",
+    "uri": "/reports/a37a1978-5816-471c-9365-4fc470a5bb48?20190828120000"
+   },
+   {
+    "date": "2017-02-25",
+    "type": "Location",
+    "uri": "/reports/5754db1b-4d3e-4a8a-8b68-92eb03bc07e4?20200129163919"
+   },
+   {
+    "date": "2015-09-16",
+    "type": "Location",
+    "uri": "/reports/1efe13a6-83f7-4ca3-9a9d-ea66154c8a83?20210126232133"
+   },
+   {
+    "date": "2013-09-14",
+    "type": null,
+    "uri": "/reports/a5acaf11-6239-472f-a15b-6ba63486f135?20151016191357"
+   },
+   {
+    "date": "2013-07-26",
+    "type": null,
+    "uri": "/reports/9e20394c-5648-457f-97ab-0290821e54a3?20200129163919"
+   },
+   {
+    "date": "2012-11-20",
+    "type": null,
+    "uri": "/reports/531db203-34ec-4656-be83-94eb0a7511d8?20151016191357"
+   }
+  ]
+ },
+ "1-12539142155": {
+  "brandName": "Promis",
+  "registrationDate": "2022-04-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "3 Kendrick Mews",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Eating disorders",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-12700544891": {
+  "brandName": "InHealth Limited",
+  "registrationDate": "2023-01-31",
+  "keyQuestionRatings": [],
+  "addressLine1": "Hermitage Lane",
+  "town": "Maidstone",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-12775917424": {
+  "brandName": null,
+  "registrationDate": "2022-03-17",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "First Floor, 238-240 Bethnal Green Road",
+  "town": "London",
+  "website": "www.cantourage.clinic",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Mobile doctors"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2022-10-27",
+  "lastReportDate": "2022-12-13",
+  "reportUri": "/reports/1a2cebfd-667b-4e4e-ad42-6304753724a9?20221213080244",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2022-12-13",
+    "type": "Location",
+    "uri": "/reports/1a2cebfd-667b-4e4e-ad42-6304753724a9?20221213080244"
+   }
+  ]
+ },
+ "1-13454248724": {
+  "brandName": null,
+  "registrationDate": "2022-08-22",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit G1",
+  "town": "Poole",
+  "website": "www.fhconsult.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-13727215916": {
+  "brandName": "Active Care",
+  "registrationDate": "2022-09-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 31-32 James House",
+  "town": "Wolverhampton",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-14691681281": {
+  "brandName": null,
+  "registrationDate": "2023-01-09",
+  "keyQuestionRatings": [],
+  "addressLine1": "71 Romsley Road",
+  "town": "Birmingham",
+  "website": "Bgmp.digipractice.org",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-14776220638": {
+  "brandName": "Yourlife Management Services",
+  "registrationDate": "2023-01-17",
+  "keyQuestionRatings": [],
+  "addressLine1": "Elderton Place",
+  "town": "Whitley Bay, North Tyneside",
+  "website": "www.yourlife.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-15306984875": {
+  "brandName": "Alliance Medical Limited",
+  "registrationDate": "2023-03-31",
+  "keyQuestionRatings": [],
+  "addressLine1": "South Tyneside District Hospital",
+  "town": "South Shields",
+  "website": "www.alliancemedical.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-15363953164": {
+  "brandName": null,
+  "registrationDate": "2023-07-10",
+  "keyQuestionRatings": [],
+  "addressLine1": "13 Pennine Road",
+  "town": "Glossop",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-153773302": {
+  "brandName": "InHealth Limited",
+  "registrationDate": "2011-03-16",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "addressLine1": "Frimley Park Hospital",
+  "town": "Camberley",
+  "website": "www.inhealthgroup.com",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2018-07-31",
+  "lastReportDate": "2018-10-02",
+  "reportUri": "/reports/a7514531-4c73-47e9-807e-13a486e78d34?20210117140024",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2018-10-02",
+    "type": "Location",
+    "uri": "/reports/a7514531-4c73-47e9-807e-13a486e78d34?20210117140024"
+   },
+   {
+    "date": "2013-05-14",
+    "type": null,
+    "uri": "/reports/3ce25b9b-36b5-49ae-86a8-c02fd0f11d9d?20200129163919"
+   }
+  ]
+ },
+ "1-15914854975": {
+  "brandName": null,
+  "registrationDate": "2023-08-02",
+  "keyQuestionRatings": [],
+  "addressLine1": "Flat 5",
+  "town": "Chatham",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-18844235305": {
+  "brandName": null,
+  "registrationDate": "2024-02-28",
+  "keyQuestionRatings": [],
+  "addressLine1": "498-504",
+  "town": "London",
+  "website": "www.drdropin.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-19210792472": {
+  "brandName": null,
+  "registrationDate": "2024-05-08",
+  "keyQuestionRatings": [],
+  "addressLine1": "17 De Grey Square",
+  "town": "Colchester",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-19335594841": {
+  "brandName": null,
+  "registrationDate": "2024-06-03",
+  "keyQuestionRatings": [],
+  "addressLine1": "Suite 108, Regal Court",
+  "town": "Slough",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-19409196153": {
+  "brandName": null,
+  "registrationDate": "2024-06-04",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Maple House",
+  "town": "Hyde",
+  "website": null,
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Homecare agencies",
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2020-03-13",
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-19679108990": {
+  "brandName": "InHealth Limited",
+  "registrationDate": "2024-09-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "Asda Patchway Super Centre, Highwood Lane",
+  "town": "Bristol",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening",
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-19680975445": {
+  "brandName": "SpaMedica",
+  "registrationDate": "2024-09-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "725 Capability Green",
+  "town": "Luton",
+  "website": "www.spamedica.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-199554738": {
+  "brandName": "BUPA Group",
+  "registrationDate": "2011-04-20",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Well-led",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Caring",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Responsive",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Effective",
+    "rating": "No published rating"
+   }
+  ],
+  "addressLine1": "46-48 Orford Avenue",
+  "town": "Warrington",
+  "website": "www.warringtondental.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2013-08-23",
+  "lastReportDate": null,
+  "reportUri": "/reports/16625af7-d7fe-4702-a829-fe6fa470124e?20151016191357",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2014-02-01",
+    "type": null,
+    "uri": "/reports/16625af7-d7fe-4702-a829-fe6fa470124e?20151016191357"
+   }
+  ]
+ },
+ "1-200405497": {
+  "brandName": null,
+  "registrationDate": "2011-06-26",
+  "keyQuestionRatings": [],
+  "addressLine1": "161 Wellington Road South",
+  "town": "Stockport",
+  "website": "www.theivydentalpractice.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2014-02-12",
+  "lastReportDate": null,
+  "reportUri": "/reports/2826b598-e563-4986-9c7f-35416a6a1b79?20200129163919",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2014-03-01",
+    "type": null,
+    "uri": "/reports/2826b598-e563-4986-9c7f-35416a6a1b79?20200129163919"
+   }
+  ]
+ },
+ "1-203288573": {
+  "brandName": "Rodericks Dental Partners",
+  "registrationDate": "2011-06-30",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Well-led",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Caring",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Responsive",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Effective",
+    "rating": "No published rating"
+   }
+  ],
+  "addressLine1": "The Millhouse London Road",
+  "town": "High Wycombe",
+  "website": "www.millhousedental.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2013-06-14",
+  "lastReportDate": null,
+  "reportUri": "/reports/e0817fe9-64d7-4d21-9f80-36e5cf420997?20151016191357",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2013-10-09",
+    "type": null,
+    "uri": "/reports/e0817fe9-64d7-4d21-9f80-36e5cf420997?20151016191357"
+   }
+  ]
+ },
+ "1-203288788": {
+  "brandName": "Rodericks Dental Partners",
+  "registrationDate": "2011-06-30",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Well-led",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Caring",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Responsive",
+    "rating": "No published rating"
+   },
+   {
+    "name": "Effective",
+    "rating": "No published rating"
+   }
+  ],
+  "addressLine1": "43 Station Parade",
+  "town": "Maidenhead",
+  "website": "www.rodericksdental.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-09-06",
+  "lastReportDate": "2019-09-30",
+  "reportUri": "/reports/cd22556b-2fcf-4ff6-90a7-9a6bcebdab4b?20210115201536",
+  "historicRatings": [
+   {
+    "date": "2017-04-07",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2017-07-21",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2019-09-30",
+    "type": "Location",
+    "uri": "/reports/cd22556b-2fcf-4ff6-90a7-9a6bcebdab4b?20210115201536"
+   },
+   {
+    "date": "2017-07-21",
+    "type": "Location",
+    "uri": "/reports/7161ea69-3a22-48d8-8c50-b615c876ae62?20210118220406"
+   },
+   {
+    "date": "2017-04-07",
+    "type": "Location",
+    "uri": "/reports/416f3f22-1982-47fe-93f9-f92de6de01c5?20210119222817"
+   },
+   {
+    "date": "2012-12-21",
+    "type": null,
+    "uri": "/reports/4cacd7b4-8ae9-487f-ac9d-7131ed691195?20151016191357"
+   }
+  ]
+ },
+ "1-22001142957": {
+  "brandName": "Cera Care",
+  "registrationDate": "2025-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "Castleham Lodge",
+  "town": "Okehampton",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Supported housing"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-22150639075": {
+  "brandName": null,
+  "registrationDate": "2025-04-29",
+  "keyQuestionRatings": [],
+  "addressLine1": "3-4 Norfolk Place",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-224415641": {
+  "brandName": null,
+  "registrationDate": "2011-04-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "Headingley Hall Care Home, 5 Shire Oak Road",
+  "town": "Leeds",
+  "website": "www.westwardcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2018-10-02",
+  "lastReportDate": "2018-11-09",
+  "reportUri": "/reports/05f5bd97-f0b6-4904-afb7-3ea3ff56b939?20181109130000",
+  "historicRatings": [
+   {
+    "date": "2016-04-08",
+    "rating": "Good"
+   },
+   {
+    "date": "2018-11-09",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2018-11-09",
+    "type": "Location",
+    "uri": "/reports/05f5bd97-f0b6-4904-afb7-3ea3ff56b939?20181109130000"
+   },
+   {
+    "date": "2016-04-08",
+    "type": "Location",
+    "uri": "/reports/42481f91-527c-436a-a2dd-2d51e4643618?20200129163919"
+   },
+   {
+    "date": "2014-02-01",
+    "type": null,
+    "uri": "/reports/6f09316e-f5fb-4892-a435-ed6783df7636?20200129163919"
+   },
+   {
+    "date": "2013-03-20",
+    "type": null,
+    "uri": "/reports/72e0b5cc-8389-4c01-9cb2-a8ec4a8c4cd9?20200129163919"
+   }
+  ]
+ },
+ "1-2344536755": {
+  "brandName": null,
+  "registrationDate": "2015-12-16",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Holywell Lodge",
+  "town": "St. Albans",
+  "website": "www.medcompersonnel.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Learning disabilities",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2022-11-23",
+  "lastReportDate": "2022-12-21",
+  "reportUri": "/reports/ed3bf7b6-a268-4e2d-a441-4a25bbf221af?20221221130000",
+  "historicRatings": [
+   {
+    "date": "2022-12-21",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2022-12-21",
+    "type": "Location",
+    "uri": "/reports/ed3bf7b6-a268-4e2d-a441-4a25bbf221af?20221221130000"
+   },
+   {
+    "date": "2021-08-21",
+    "type": "Location",
+    "uri": "/reports/83f77b0c-817d-4e78-9ad1-1b4c35b8de08?20210821120000"
+   }
+  ]
+ },
+ "1-23583492345": {
+  "brandName": null,
+  "registrationDate": "2025-10-20",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Requires improvement"
+   }
+  ],
+  "addressLine1": "Surbiton Health Centre",
+  "town": "Surbiton",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": "2022-08-12",
+  "reportUri": null,
+  "historicRatings": [
+   {
+    "date": "2016-11-08",
+    "rating": "Good"
+   }
+  ],
+  "reports": []
+ },
+ "1-2500817982": {
+  "brandName": "Home Instead",
+  "registrationDate": "2016-03-01",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Caring",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Rear Office, Second Floor, Vichy House",
+  "town": "Shrewsbury",
+  "website": "www.homeinstead.co.uk/shrewsburyludlowandoswestry",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2021-10-21",
+  "lastReportDate": "2021-12-04",
+  "reportUri": "/reports/dcc89046-fea6-42e3-8264-78d2a34ca766?20211204130000",
+  "historicRatings": [
+   {
+    "date": "2017-01-20",
+    "rating": "Good"
+   },
+   {
+    "date": "2021-12-04",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2021-12-04",
+    "type": "Location",
+    "uri": "/reports/dcc89046-fea6-42e3-8264-78d2a34ca766?20211204130000"
+   },
+   {
+    "date": "2020-02-11",
+    "type": "Location",
+    "uri": "/reports/2b2e2525-e7b1-4b39-91ad-82e1e8ea81c8?20200211130000"
+   },
+   {
+    "date": "2017-01-20",
+    "type": "Location",
+    "uri": "/reports/359c226a-cbfc-4373-bafd-2543a8c18f5f?20200129163919"
+   }
+  ]
+ },
+ "1-25341538383": {
+  "brandName": null,
+  "registrationDate": "2026-02-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "57 Wornington Road",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs"
+  ],
+  "serviceTypes": [
+   "Supported housing"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-25648114827": {
+  "brandName": "InHealth Limited",
+  "registrationDate": "2025-12-11",
+  "keyQuestionRatings": [],
+  "addressLine1": "Camborne Redruth Community Hospital",
+  "town": "Redruth",
+  "website": "www.inhealthgroup.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-26658955295": {
+  "brandName": "Welltower",
+  "registrationDate": "2026-04-21",
+  "keyQuestionRatings": [],
+  "addressLine1": "Southwell Road West",
+  "town": "Mansfield",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for people whose rights are restricted under the Mental Health Act",
+   "Dementia",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Hospitals - Mental health/capacity"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-2673104638": {
+  "brandName": "Promis",
+  "registrationDate": "2016-06-27",
+  "keyQuestionRatings": [],
+  "addressLine1": "4 Kendrick Mews",
+  "town": "London",
+  "website": "www.promis.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Eating disorders",
+   "Mental health conditions",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2020-02-04",
+  "lastReportDate": "2020-05-11",
+  "reportUri": "/reports/dcff7760-877b-4333-93be-06eebc4cedc5?20210113111538",
+  "historicRatings": [
+   {
+    "date": "2017-08-29",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-01-15",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-05-06",
+    "rating": "Inadequate"
+   },
+   {
+    "date": "2020-05-11",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2020-05-11",
+    "type": "Location",
+    "uri": "/reports/dcff7760-877b-4333-93be-06eebc4cedc5?20210113111538"
+   },
+   {
+    "date": "2020-05-06",
+    "type": "Location",
+    "uri": "/reports/68a9ddb8-8af8-4466-9423-b2b8d5156a03?20210113111538"
+   },
+   {
+    "date": "2020-01-15",
+    "type": "Location",
+    "uri": "/reports/6da446f6-72dc-42f6-875e-aa750ddf58c0?20210114200605"
+   },
+   {
+    "date": "2017-08-29",
+    "type": "Location",
+    "uri": "/reports/ce9187b6-779c-4025-b705-54e824881a42?20210122182034"
+   }
+  ]
+ },
+ "1-26937169776": {
+  "brandName": null,
+  "registrationDate": "2026-02-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "88 Hagley Road",
+  "town": "Birmingham",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Services in slimming clinics",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-27326205348": {
+  "brandName": null,
+  "registrationDate": "2026-08-24",
+  "keyQuestionRatings": [],
+  "addressLine1": "Pinewood Road",
+  "town": "Iver",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-28338491106": {
+  "brandName": null,
+  "registrationDate": "2026-06-08",
+  "keyQuestionRatings": [],
+  "addressLine1": "10 Market Place",
+  "town": "Ulverston",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-28415438322": {
+  "brandName": null,
+  "registrationDate": "2026-07-07",
+  "keyQuestionRatings": [],
+  "addressLine1": "10-11",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Clinic"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-28546102561": {
+  "brandName": "Wilf Ward",
+  "registrationDate": "2026-07-29",
+  "keyQuestionRatings": [],
+  "addressLine1": "Suites G3, G4 & G6 - Hurstwood Business Centre",
+  "town": "Thirsk",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Learning disabilities"
+  ],
+  "serviceTypes": [
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29372535157": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "31B Parsonage Street",
+  "town": "Stoke-on-trent",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29424004161": {
+  "brandName": null,
+  "registrationDate": "2026-08-27",
+  "keyQuestionRatings": [],
+  "addressLine1": "125 Deansgate",
+  "town": "Greater Manchester",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Physical disabilities"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29714757622": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "Quorum Business Park",
+  "town": "Newcastle Upon Tyne",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Mobile doctors",
+   "Urgent care centres"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29715897248": {
+  "brandName": null,
+  "registrationDate": "2026-10-13",
+  "keyQuestionRatings": [],
+  "addressLine1": "Beech Close   ",
+  "town": "Swaffham",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29797342653": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "32 High Street",
+  "town": "Redhill",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-29888971799": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "38 Colston Avenue",
+  "town": "Carshalton",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30024109852": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "Room 136, Capability House",
+  "town": "Bedford",
+  "website": "www.keymedicalservices.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps",
+   "Phone/online advice"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30034917648": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "51 Kent Avenue",
+  "town": "Weston-super-mare",
+  "website": "www.yumnutrition.org",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs"
+  ],
+  "serviceTypes": [
+   "Diagnosis/screening"
+  ],
+  "regulatedActivities": [
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30073994240": {
+  "brandName": "HCRG",
+  "registrationDate": "2026-10-12",
+  "keyQuestionRatings": [],
+  "addressLine1": "1 Bellevue House",
+  "town": "Skipton",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Learning disabilities"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps",
+   "Phone/online advice"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30087753559": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "13A Gildredge Road",
+  "town": "Eastbourne",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30097623811": {
+  "brandName": "Crystal Care Collection",
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "2 Anniversary Avenue East",
+  "town": "Bicester",
+  "website": "www.crystalcarecollection.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Residential homes"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require nursing or personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-30097860366": {
+  "brandName": null,
+  "registrationDate": "2026-10-14",
+  "keyQuestionRatings": [],
+  "addressLine1": "Churchill Court 3, Manor Royal ",
+  "town": "Crawley    ",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": null,
+  "lastReportDate": null,
+  "reportUri": null,
+  "historicRatings": [],
+  "reports": []
+ },
+ "1-3012891888": {
+  "brandName": null,
+  "registrationDate": "2016-12-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "10 Regent Place",
+  "town": "Rugby",
+  "website": "www.surecare.co.uk",
+  "specialisms": [
+   "Dementia",
+   "Learning disabilities",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2017-10-05",
+  "lastReportDate": "2017-11-07",
+  "reportUri": "/reports/4091f6f5-d6b5-45c8-8220-592e1896ea45?20200129163919",
+  "historicRatings": [
+   {
+    "date": "2017-11-07",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2017-11-07",
+    "type": "Location",
+    "uri": "/reports/4091f6f5-d6b5-45c8-8220-592e1896ea45?20200129163919"
+   }
+  ]
+ },
+ "1-315902682": {
+  "brandName": null,
+  "registrationDate": "2011-10-21",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "name": "Caring",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "name": "Effective",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "addressLine1": "401 Sandygate Road",
+  "town": "Sheffield",
+  "website": "www.pioneerhealthcare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Clinic",
+   "Diagnosis/screening",
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2018-08-28",
+  "lastReportDate": "2018-10-22",
+  "reportUri": "/reports/64681222-86a4-45f1-a357-90c041e56e52?20210117125545",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2018-10-22",
+    "type": "Location",
+    "uri": "/reports/64681222-86a4-45f1-a357-90c041e56e52?20210117125545"
+   },
+   {
+    "date": "2013-03-06",
+    "type": null,
+    "uri": "/reports/9b644e41-bb57-4a3a-9b2b-c7d0b6c796c0?20151016191357"
+   }
+  ]
+ },
+ "1-346711335": {
+  "brandName": null,
+  "registrationDate": "2012-02-02",
+  "keyQuestionRatings": [],
+  "addressLine1": "35 Grasmere Road",
+  "town": "Gloucestershire",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2013-10-10",
+  "lastReportDate": null,
+  "reportUri": "/reports/04c52f43-f4e5-4c07-8182-b0788d0ffd60?20151016191357",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2013-10-30",
+    "type": null,
+    "uri": "/reports/04c52f43-f4e5-4c07-8182-b0788d0ffd60?20151016191357"
+   }
+  ]
+ },
+ "1-4232707598": {
+  "brandName": null,
+  "registrationDate": "2017-10-20",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Caring",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Effective",
+    "rating": "Outstanding"
+   }
+  ],
+  "addressLine1": "18 Highgate",
+  "town": "Kendal",
+  "website": "www.westmorlandhomecare.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2018-12-03",
+  "lastReportDate": "2019-02-02",
+  "reportUri": "/reports/e606947c-c76e-4bfb-8059-842f40cd2d4e?20211030120000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2019-02-02",
+    "type": "Location",
+    "uri": "/reports/e606947c-c76e-4bfb-8059-842f40cd2d4e?20211030120000"
+   }
+  ]
+ },
+ "1-4348687329": {
+  "brandName": null,
+  "registrationDate": "2019-12-02",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Outstanding"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Queens Road",
+  "town": "Freshwater",
+  "website": "www.westwightpractice.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2023-08-16",
+  "lastReportDate": "2023-10-25",
+  "reportUri": "/reports/ec158c92-9bc8-4672-819a-636476754440?20231025070259",
+  "historicRatings": [
+   {
+    "date": "2015-08-27",
+    "rating": "Good"
+   },
+   {
+    "date": "2016-07-27",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2023-10-25",
+    "type": "Location",
+    "uri": "/reports/ec158c92-9bc8-4672-819a-636476754440?20231025070259"
+   }
+  ]
+ },
+ "1-4477598708": {
+  "brandName": "ERS Transition Limited",
+  "registrationDate": "2017-11-10",
+  "keyQuestionRatings": [],
+  "addressLine1": "Unit 5, Severnside Trading Estate",
+  "town": "Manchester",
+  "website": "www.ersmedical.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2022-06-01",
+  "lastReportDate": "2022-07-27",
+  "reportUri": "/reports/79f518ec-9499-4076-9e7d-f1de1d01051d?20220727070234",
+  "historicRatings": [
+   {
+    "date": "2019-10-08",
+    "rating": "Good"
+   },
+   {
+    "date": "2022-07-27",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2022-07-27",
+    "type": "Location",
+    "uri": "/reports/79f518ec-9499-4076-9e7d-f1de1d01051d?20220727070234"
+   },
+   {
+    "date": "2019-10-08",
+    "type": "Location",
+    "uri": "/reports/9d33228f-b0d0-429c-97c4-18915be1cf25?20210115060533"
+   }
+  ]
+ },
+ "1-506886543": {
+  "brandName": "Promis",
+  "registrationDate": "2012-11-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "2 Kendrick Mews",
+  "town": "London",
+  "website": "www.promisclinics.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Eating disorders",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2020-02-04",
+  "lastReportDate": "2020-05-11",
+  "reportUri": "/reports/154b4d43-d003-47d9-a0df-ba4e918b6a05?20210113111538",
+  "historicRatings": [
+   {
+    "date": "2016-03-02",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2016-10-03",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2017-03-31",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2017-08-29",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-01-15",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-05-06",
+    "rating": "Inadequate"
+   },
+   {
+    "date": "2020-05-11",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2020-05-11",
+    "type": "Location",
+    "uri": "/reports/154b4d43-d003-47d9-a0df-ba4e918b6a05?20210113111538"
+   },
+   {
+    "date": "2020-05-06",
+    "type": "Location",
+    "uri": "/reports/621b021d-48fb-46b1-b525-8ca0fdcbf181?20210113111538"
+   },
+   {
+    "date": "2020-01-15",
+    "type": "Location",
+    "uri": "/reports/ecefdec8-f6dd-4e96-94d9-535bb1a1b4dc?20210114200506"
+   },
+   {
+    "date": "2017-08-29",
+    "type": "Location",
+    "uri": "/reports/1d327b9b-19ca-44ff-9b80-d397ae8d6a6f?20210122182034"
+   },
+   {
+    "date": "2017-03-31",
+    "type": "Location",
+    "uri": "/reports/f23cdf70-3cfd-4f4d-a81d-358639a2f2f8?20210119232439"
+   },
+   {
+    "date": "2016-10-03",
+    "type": "Location",
+    "uri": "/reports/de9f71eb-932f-4a06-af31-7f638d6f5cb8?20210122060831"
+   },
+   {
+    "date": "2016-03-02",
+    "type": "Location",
+    "uri": "/reports/b7dc1297-afca-4a89-ad12-cfa6c3eb4196?20160302003011"
+   },
+   {
+    "date": "2013-09-05",
+    "type": null,
+    "uri": "/reports/eec90e47-348e-4ed4-b949-5d18349dd96c?20151016191357"
+   }
+  ]
+ },
+ "1-507813693": {
+  "brandName": "Promis",
+  "registrationDate": "2012-11-06",
+  "keyQuestionRatings": [],
+  "addressLine1": "12 Kendrick Mews",
+  "town": "London",
+  "website": "www.promis.co.uk",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Eating disorders",
+   "Substance misuse problems"
+  ],
+  "serviceTypes": [
+   "Rehabilitation (substance abuse)"
+  ],
+  "regulatedActivities": [
+   "Accommodation for persons who require treatment for substance misuse",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2020-02-04",
+  "lastReportDate": "2020-05-11",
+  "reportUri": "/reports/bf9fc123-5910-41c4-8968-a6314a59ad82?20210113111538",
+  "historicRatings": [
+   {
+    "date": "2016-03-02",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2016-10-03",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2017-03-31",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2017-08-29",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-01-15",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2020-05-06",
+    "rating": "Inadequate"
+   },
+   {
+    "date": "2020-05-11",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2020-05-11",
+    "type": "Location",
+    "uri": "/reports/bf9fc123-5910-41c4-8968-a6314a59ad82?20210113111538"
+   },
+   {
+    "date": "2020-05-06",
+    "type": "Location",
+    "uri": "/reports/8bea4435-953c-4a51-8384-09644be2564d?20210113111538"
+   },
+   {
+    "date": "2020-01-15",
+    "type": "Location",
+    "uri": "/reports/707f0be7-b844-42cb-8c29-1e005ef8ab4e?20210114200537"
+   },
+   {
+    "date": "2017-08-29",
+    "type": "Location",
+    "uri": "/reports/363cd956-d9fb-43a4-ab4c-bbfe582f6cce?20210122182034"
+   },
+   {
+    "date": "2017-03-31",
+    "type": "Location",
+    "uri": "/reports/ffdae4c8-a814-4a46-95f0-20b2c599b43d?20210116194536"
+   },
+   {
+    "date": "2016-10-03",
+    "type": "Location",
+    "uri": "/reports/9a744571-ee64-4364-94ac-d2552c74f21f?20210122060831"
+   },
+   {
+    "date": "2016-03-02",
+    "type": "Location",
+    "uri": "/reports/940e97da-6eed-41e7-89ba-5fe3698d3ad0?20210124060938"
+   },
+   {
+    "date": "2013-09-05",
+    "type": null,
+    "uri": "/reports/4d47ed30-4217-4f09-a00c-5cc97936ee6a?20151016191357"
+   }
+  ]
+ },
+ "1-5320504690": {
+  "brandName": null,
+  "registrationDate": "2018-06-13",
+  "keyQuestionRatings": [],
+  "addressLine1": "43 Higher Lane",
+  "town": "Lymm",
+  "website": "www.higherlanedental.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2018-08-01",
+  "lastReportDate": "2018-09-07",
+  "reportUri": "/reports/3209165c-e405-4f6b-927d-95457d7f200c?20210116213641",
+  "historicRatings": [
+   {
+    "date": "2018-09-07",
+    "rating": "Inspected but not rated"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2018-09-07",
+    "type": "Location",
+    "uri": "/reports/3209165c-e405-4f6b-927d-95457d7f200c?20210116213641"
+   }
+  ]
+ },
+ "1-542459759": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Requires improvement"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "The Surgery",
+  "town": "Port Isaac",
+  "website": "www.portisaacpractice.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2022-09-26",
+  "lastReportDate": "2022-11-23",
+  "reportUri": "/reports/5f1fedf1-4e4f-4dcd-a832-b52d779606bd?20221123080312",
+  "historicRatings": [
+   {
+    "date": "2016-03-03",
+    "rating": "Good"
+   },
+   {
+    "date": "2016-08-18",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-03-01",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2022-11-23",
+    "type": "Location",
+    "uri": "/reports/5f1fedf1-4e4f-4dcd-a832-b52d779606bd?20221123080312"
+   },
+   {
+    "date": "2019-03-01",
+    "type": "Location",
+    "uri": "/reports/a21624b1-444b-49c4-9c52-e385f87a945c?20210116135139"
+   },
+   {
+    "date": "2016-08-18",
+    "type": "Location",
+    "uri": "/reports/46d72e52-9742-4a99-ac46-c9759c82266f?20210123001722"
+   },
+   {
+    "date": "2016-03-03",
+    "type": "Location",
+    "uri": "/reports/f0f6eb15-0ae1-40bb-8db6-68f5772a4584?20210124033207"
+   }
+  ]
+ },
+ "1-548190304": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "66 Redditch Road",
+  "town": "Birmingham",
+  "website": "www.kingsnortonsurgery.nhs.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-02-27",
+  "lastReportDate": "2019-04-08",
+  "reportUri": "/reports/2e126fc2-667f-454e-92fe-d15666b5e8c2?20210116101916",
+  "historicRatings": [
+   {
+    "date": "2016-05-04",
+    "rating": "Good"
+   },
+   {
+    "date": "2018-07-09",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-04-08",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2019-04-08",
+    "type": "Location",
+    "uri": "/reports/2e126fc2-667f-454e-92fe-d15666b5e8c2?20210116101916"
+   },
+   {
+    "date": "2018-07-09",
+    "type": "Location",
+    "uri": "/reports/bddc5da6-4016-464c-9fe5-917b4a2b08a4?20210117171330"
+   },
+   {
+    "date": "2016-05-04",
+    "type": "Location",
+    "uri": "/reports/fbdcbc49-445d-49e3-8e00-3cb0b3235bf7?20210123154602"
+   },
+   {
+    "date": "2014-04-03",
+    "type": null,
+    "uri": "/reports/137283df-b1cd-4691-aaae-d79b5571f393?20151016191357"
+   }
+  ]
+ },
+ "1-569958986": {
+  "brandName": "Barchester Healthcare",
+  "registrationDate": "2013-02-26",
+  "keyQuestionRatings": [],
+  "addressLine1": "Southwell Road West",
+  "town": "Mansfield",
+  "website": "www.barchester.com",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for people whose rights are restricted under the Mental Health Act",
+   "Dementia",
+   "Mental health conditions"
+  ],
+  "serviceTypes": [
+   "Hospitals - Mental health/capacity"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Assessment or medical treatment for persons detained under the Mental Health Act 1983"
+  ],
+  "lastInspectionDate": "2019-10-09",
+  "lastReportDate": "2019-12-11",
+  "reportUri": "/reports/471a7c2f-b3aa-4d9a-808e-684b1d6d2bb7?20210114231716",
+  "historicRatings": [
+   {
+    "date": "2015-09-11",
+    "rating": "Inspected but not rated"
+   },
+   {
+    "date": "2016-10-17",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2016-10-24",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2017-05-31",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2018-02-09",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-01-16",
+    "rating": "Requires improvement"
+   },
+   {
+    "date": "2019-12-11",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2019-12-11",
+    "type": "Location",
+    "uri": "/reports/471a7c2f-b3aa-4d9a-808e-684b1d6d2bb7?20210114231716"
+   },
+   {
+    "date": "2019-01-16",
+    "type": "Location",
+    "uri": "/reports/da0f4646-de75-4419-9e3c-c97a6442100e?20210116152317"
+   },
+   {
+    "date": "2018-02-09",
+    "type": "Location",
+    "uri": "/reports/f8ac115f-f411-400c-92c4-8f9af49f35d5?20210117194415"
+   },
+   {
+    "date": "2017-05-31",
+    "type": "Location",
+    "uri": "/reports/e519eda8-c6eb-487d-a1f2-76d954c2256d?20210119060616"
+   },
+   {
+    "date": "2016-10-24",
+    "type": "Location",
+    "uri": "/reports/47ba70c8-d5fb-410b-8c46-9eef17aa8e3a?20210122011020"
+   },
+   {
+    "date": "2016-10-17",
+    "type": "Location",
+    "uri": "/reports/d0f76c75-4d6a-429f-931a-7a775d457c96?20210211091252"
+   },
+   {
+    "date": "2015-09-11",
+    "type": "Location",
+    "uri": "/reports/968f8afe-1222-4a12-8bb4-a2eada36cf2c?20210127000041"
+   },
+   {
+    "date": "2014-02-13",
+    "type": null,
+    "uri": "/reports/2d88e932-e14d-4d9d-913f-df9cfcebfc67?20151016191357"
+   }
+  ]
+ },
+ "1-570641792": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "Doctors Lane",
+  "town": "Petersfield",
+  "website": null,
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2019-03-29",
+  "lastReportDate": "2019-05-22",
+  "reportUri": "/reports/3d5f4147-405c-4101-9b50-bdcdded69967?20210114235906",
+  "historicRatings": [
+   {
+    "date": "2015-02-19",
+    "rating": "Good"
+   },
+   {
+    "date": "2019-05-22",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2019-05-22",
+    "type": "Location",
+    "uri": "/reports/3d5f4147-405c-4101-9b50-bdcdded69967?20210114235906"
+   },
+   {
+    "date": "2015-02-19",
+    "type": "Location",
+    "uri": "/reports/b64cf61f-0b27-45e7-9491-3b89aca02850?20210129232033"
+   }
+  ]
+ },
+ "1-582075252": {
+  "brandName": null,
+  "registrationDate": "2013-04-01",
+  "keyQuestionRatings": [],
+  "addressLine1": "The Surgery",
+  "town": "Bishop Auckland",
+  "website": "www.woodviewmedicalpractice.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Doctors/Gps"
+  ],
+  "regulatedActivities": [
+   "Maternity and midwifery services",
+   "Family planning",
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2016-07-28",
+  "lastReportDate": "2017-02-20",
+  "reportUri": "/reports/28779e4a-dd42-4fb0-93b1-4d66f5cf57c3?20210120060722",
+  "historicRatings": [
+   {
+    "date": "2017-02-20",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2017-02-20",
+    "type": "Location",
+    "uri": "/reports/28779e4a-dd42-4fb0-93b1-4d66f5cf57c3?20210120060722"
+   },
+   {
+    "date": "2014-03-19",
+    "type": null,
+    "uri": "/reports/b49f2688-78ff-4ed3-977c-556b716e6032?20151016191357"
+   },
+   {
+    "date": "2013-11-29",
+    "type": null,
+    "uri": "/reports/b2dbb425-4237-41da-99a4-925dbc723791?20151016191357"
+   }
+  ]
+ },
+ "1-584705483": {
+  "brandName": "IDH Dental",
+  "registrationDate": "2013-01-16",
+  "keyQuestionRatings": [],
+  "addressLine1": "47 South Street",
+  "town": "Chichester",
+  "website": "www.mydentist.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Dentist"
+  ],
+  "regulatedActivities": [
+   "Treatment of disease, disorder or injury",
+   "Surgical procedures",
+   "Diagnostic and screening procedures"
+  ],
+  "lastInspectionDate": "2014-01-07",
+  "lastReportDate": null,
+  "reportUri": "/reports/fd39b902-a547-48a4-9aed-9db5ec851d11?20200129163919",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2014-01-30",
+    "type": null,
+    "uri": "/reports/fd39b902-a547-48a4-9aed-9db5ec851d11?20200129163919"
+   }
+  ]
+ },
+ "1-6322764075": {
+  "brandName": null,
+  "registrationDate": "2019-01-25",
+  "keyQuestionRatings": [],
+  "addressLine1": "Cawston House",
+  "town": "Rugby",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Mental health conditions",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2020-01-16",
+  "lastReportDate": "2020-02-13",
+  "reportUri": "/reports/0aa3b1f8-6689-4f51-9de0-4912bee75f01?20200213130000",
+  "historicRatings": [
+   {
+    "date": "2020-02-13",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2020-02-13",
+    "type": "Location",
+    "uri": "/reports/0aa3b1f8-6689-4f51-9de0-4912bee75f01?20200213130000"
+   }
+  ]
+ },
+ "1-7469597633": {
+  "brandName": "ERS Transition Limited",
+  "registrationDate": "2019-12-18",
+  "keyQuestionRatings": [],
+  "addressLine1": "9 Ashville Close",
+  "town": "Nottingham",
+  "website": "www.ersmedical.co.uk",
+  "specialisms": [
+   "Services for everyone"
+  ],
+  "serviceTypes": [
+   "Ambulances"
+  ],
+  "regulatedActivities": [
+   "Transport services, triage and medical advice provided remotely",
+   "Treatment of disease, disorder or injury"
+  ],
+  "lastInspectionDate": "2021-02-18",
+  "lastReportDate": "2021-04-07",
+  "reportUri": "/reports/d33591a3-b528-4d8f-81d4-059e691c06f2?20210407080035",
+  "historicRatings": [
+   {
+    "date": "2021-04-07",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2021-04-07",
+    "type": "Location",
+    "uri": "/reports/d33591a3-b528-4d8f-81d4-059e691c06f2?20210407080035"
+   }
+  ]
+ },
+ "1-7471802997": {
+  "brandName": null,
+  "registrationDate": "2020-03-04",
+  "keyQuestionRatings": [],
+  "addressLine1": "Office 3, 7 Westmoreland House",
+  "town": "London",
+  "website": null,
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Caring for children",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2021-05-20",
+  "lastReportDate": "2021-06-29",
+  "reportUri": "/reports/6e5f3b56-78b1-4a73-a1bd-fd6869ad7246?20210629120000",
+  "historicRatings": [
+   {
+    "date": "2021-06-29",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2021-06-29",
+    "type": "Location",
+    "uri": "/reports/6e5f3b56-78b1-4a73-a1bd-fd6869ad7246?20210629120000"
+   }
+  ]
+ },
+ "1-7980755963": {
+  "brandName": null,
+  "registrationDate": "2019-12-17",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "Old Salisbury Lane",
+  "town": "Romsey",
+  "website": "www.audleyvillages.co.uk/audley-care/care-services",
+  "specialisms": [
+   "Caring for adults over 65 yrs",
+   "Caring for adults under 65 yrs",
+   "Dementia",
+   "Physical disabilities",
+   "Sensory impairment"
+  ],
+  "serviceTypes": [
+   "Homecare agencies"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2021-08-24",
+  "lastReportDate": "2021-09-24",
+  "reportUri": "/reports/4785130f-82b0-4149-92db-33f0805aa057?20210924120000",
+  "historicRatings": [],
+  "reports": [
+   {
+    "date": "2021-09-24",
+    "type": "Location",
+    "uri": "/reports/4785130f-82b0-4149-92db-33f0805aa057?20210924120000"
+   }
+  ]
+ },
+ "1-9642538194": {
+  "brandName": "Achieve Together",
+  "registrationDate": "2020-11-26",
+  "keyQuestionRatings": [
+   {
+    "name": "Safe",
+    "rating": "Good"
+   },
+   {
+    "name": "Well-led",
+    "rating": "Good"
+   },
+   {
+    "name": "Caring",
+    "rating": "Good"
+   },
+   {
+    "name": "Responsive",
+    "rating": "Good"
+   },
+   {
+    "name": "Effective",
+    "rating": "Good"
+   }
+  ],
+  "addressLine1": "98 Pembroke Avenue",
+  "town": "Enfield",
+  "website": "www.achievetogether.co.uk",
+  "specialisms": [
+   "Caring for adults under 65 yrs",
+   "Learning disabilities"
+  ],
+  "serviceTypes": [
+   "Supported living"
+  ],
+  "regulatedActivities": [
+   "Personal care"
+  ],
+  "lastInspectionDate": "2022-07-22",
+  "lastReportDate": "2022-12-06",
+  "reportUri": "/reports/c26cf61a-e65b-46ab-9d9d-1edf905061d5?20221206130000",
+  "historicRatings": [
+   {
+    "date": "2018-02-23",
+    "rating": "Good"
+   }
+  ],
+  "reports": [
+   {
+    "date": "2022-12-06",
+    "type": "Location",
+    "uri": "/reports/c26cf61a-e65b-46ab-9d9d-1edf905061d5?20221206130000"
    }
   ]
  }
