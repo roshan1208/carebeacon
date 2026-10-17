@@ -1,23 +1,5 @@
 [
  {
-  "date": "2026-09-10",
-  "locationId": "1-276684868",
-  "name": "Wrekin Villa",
-  "region": "West Midlands",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
-  "date": "2026-09-10",
-  "locationId": "1-3031947508",
-  "name": "Orchard Hill",
-  "region": "East Midlands",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
   "date": "2026-09-11",
   "locationId": "1-1548075487",
   "name": "Ferndale Residential Home",
@@ -2154,6 +2136,50 @@
   "region": "South West",
   "localAuthority": "North Somerset",
   "providerId": "1-101639606",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-17",
+  "locationId": "1-25071911223",
+  "name": "Gorway House",
+  "region": "West Midlands",
+  "localAuthority": "Walsall",
+  "providerId": "1-23932511026",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-17",
+  "locationId": "1-26444957367",
+  "name": "Aynsley Care Centre",
+  "region": "North West",
+  "localAuthority": "Wirral",
+  "providerId": "1-25981082710",
+  "type": "rated",
+  "from": null,
+  "to": "Requires improvement"
+ },
+ {
+  "date": "2026-10-17",
+  "locationId": "1-5303149515",
+  "name": "Chiltern Park House",
+  "region": "South East",
+  "localAuthority": "Buckinghamshire",
+  "providerId": "1-102643442",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-17",
+  "locationId": "1-9642538194",
+  "name": "98-100 Pembroke Avenue",
+  "region": "London",
+  "localAuthority": "Enfield",
+  "providerId": "1-116992858",
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"

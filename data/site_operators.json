@@ -917,7 +917,7 @@
  },
  "1-101634763": {
   "name": "InHealth Limited",
-  "homes": 12
+  "homes": 14
  },
  "1-101635419": {
   "name": "The Healthcare Management Trust",
@@ -1517,7 +1517,7 @@
  },
  "1-101649803": {
   "name": "Nugent Care",
-  "homes": 3
+  "homes": 4
  },
  "1-101649812": {
   "name": "Autism Together",
@@ -1857,7 +1857,7 @@
  },
  "1-101657852": {
   "name": "Bedford Borough Council",
-  "homes": 7
+  "homes": 8
  },
  "1-101658063": {
   "name": "Care and Wellbeing Group Limited",
@@ -2653,7 +2653,7 @@
  },
  "1-101671690": {
   "name": "Midshires Care Limited",
-  "homes": 16
+  "homes": 17
  },
  "1-101671779": {
   "name": "Dudley Metropolitan Borough Council",
@@ -3237,7 +3237,7 @@
  },
  "1-101694224": {
   "name": "G P Homecare Limited",
-  "homes": 8
+  "homes": 9
  },
  "1-101694241": {
   "name": "DRS Care Homes Limited",
@@ -3785,7 +3785,7 @@
  },
  "1-102643148": {
   "name": "Housing 21",
-  "homes": 11
+  "homes": 12
  },
  "1-102643165": {
   "name": "Pathways Care Group Limited",
@@ -3833,7 +3833,7 @@
  },
  "1-102643442": {
   "name": "Priory Healthcare Limited",
-  "homes": 4
+  "homes": 3
  },
  "1-102643500": {
   "name": "Circle Health Group Limited",
@@ -3857,6 +3857,10 @@
  },
  "1-10627298479": {
   "name": "Calm Futures Limited",
+  "homes": 2
+ },
+ "1-10763403202": {
+  "name": "Caring Focus Limited",
   "homes": 2
  },
  "1-10763424959": {
@@ -3989,7 +3993,7 @@
  },
  "1-116865400": {
   "name": "Guardian Homecare UK Ltd",
-  "homes": 2
+  "homes": 3
  },
  "1-116865497": {
   "name": "Autism Care (North West) Limited",
@@ -4025,7 +4029,7 @@
  },
  "1-116992858": {
   "name": "Achieve Together Limited",
-  "homes": 143
+  "homes": 142
  },
  "1-116992878": {
   "name": "Shaw Healthcare (Specialist Services) Limited",
@@ -4277,7 +4281,7 @@
  },
  "1-119237369": {
   "name": "Consensus Community Support Limited",
-  "homes": 2
+  "homes": 3
  },
  "1-119237494": {
   "name": "Cygnet Learning Disabilities Midlands Limited",
@@ -4977,7 +4981,7 @@
  },
  "1-15126086868": {
   "name": "Choice Support",
-  "homes": 22
+  "homes": 23
  },
  "1-15134511675": {
   "name": "Caringsmart LTD",
@@ -5017,7 +5021,7 @@
  },
  "1-152953749": {
   "name": "Oasis Dental Care Limited",
-  "homes": 6
+  "homes": 7
  },
  "1-152953759": {
   "name": "Oasis Dental Care (Central) Limited",
@@ -5061,7 +5065,7 @@
  },
  "1-153032466": {
   "name": "Portman Healthcare Limited",
-  "homes": 9
+  "homes": 10
  },
  "1-153033131": {
   "name": "The Smile Studios Limited",
@@ -5189,7 +5193,7 @@
  },
  "1-171553721": {
   "name": "IDH Limited",
-  "homes": 9
+  "homes": 10
  },
  "1-171564599": {
   "name": "Spalding Dental Surgery",
@@ -5197,7 +5201,7 @@
  },
  "1-172521302": {
   "name": "Yourlife Management Services Limited",
-  "homes": 17
+  "homes": 18
  },
  "1-173121845": {
   "name": "Moorville Developments Limited",
@@ -6557,7 +6561,7 @@
  },
  "1-4155218218": {
   "name": "Nexxus Trading Services Limited",
-  "homes": 4
+  "homes": 5
  },
  "1-415685936": {
   "name": "Chosen Care Group Limited",
@@ -6919,6 +6923,10 @@
   "name": "Vesta Care (UK) Limited",
   "homes": 2
  },
+ "1-5719635979": {
+  "name": "Familya Care Services Ltd",
+  "homes": 2
+ },
  "1-5763609750": {
   "name": "Highgate Care Services (2025) Ltd",
   "homes": 5
@@ -6961,6 +6969,10 @@
  },
  "1-596260901": {
   "name": "Independence-Development Ltd",
+  "homes": 2
+ },
+ "1-5968174080": {
+  "name": "Pier Health Group Limited",
   "homes": 2
  },
  "1-5989813361": {
@@ -7183,6 +7195,10 @@
   "name": "Genesis CTE Limited",
   "homes": 2
  },
+ "1-7168829086": {
+  "name": "MAK Community Care Limited",
+  "homes": 2
+ },
  "1-718440654": {
   "name": "Jooma Care Homes Limited",
   "homes": 2
@@ -7213,7 +7229,7 @@
  },
  "1-7332922385": {
   "name": "Signature Senior Lifestyle Operations Ltd",
-  "homes": 11
+  "homes": 12
  },
  "1-7371645462": {
   "name": "Fern Leaf Carehome Limited",
@@ -7415,6 +7431,10 @@
   "name": "JN Healthcare Group Limited",
   "homes": 3
  },
+ "1-9068684085": {
+  "name": "Morecambe Bay Primary Care Collaborative CIC",
+  "homes": 2
+ },
  "1-9125987105": {
   "name": "RVB Transcendence Limited",
   "homes": 3
@@ -7458,6 +7478,10 @@
  "1-935571070": {
   "name": "Nexus Programme Limited",
   "homes": 3
+ },
+ "1-936194449": {
+  "name": "Professional Antenatal Services Limited",
+  "homes": 2
  },
  "1-9397966037": {
   "name": "Expert Care Solutions Ltd",
@@ -7537,6 +7561,10 @@
  },
  "R1L": {
   "name": "Essex Partnership University NHS Foundation Trust",
+  "homes": 2
+ },
+ "RAJ": {
+  "name": "Mid and South Essex NHS Foundation Trust",
   "homes": 2
  },
  "RBT": {
