@@ -4,8 +4,15 @@
   <link href="https://roshan1208.github.io/carebeacon/regions/south-west/feed.xml" rel="self"/>
   <link href="https://roshan1208.github.io/carebeacon/regions/south-west/"/>
   <id>tag:roshan1208.github.io,2026:carebeacon/regions/south-west/feed</id>
-  <updated>2026-10-17T10:44:24Z</updated>
+  <updated>2026-10-18T11:03:48Z</updated>
   <subtitle>Care homes in South West that were just downgraded, upgraded, closed or newly rated. CQC publishes today's state; this is what changed.</subtitle>
+  <entry>
+    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-117991927/2026-10-18/closed</id>
+    <title>Clevedon House: Lost its CQC registration.</title>
+    <link href="https://roshan1208.github.io/carebeacon/?home=1-117991927"/>
+    <updated>2026-10-18T00:00:00Z</updated>
+    <summary>South West. Lost its CQC registration.</summary>
+  </entry>
   <entry>
     <id>tag:roshan1208.github.io,2026:carebeacon/change/1-4437212597/2026-10-16/closed</id>
     <title>7 Pizey Avenue: Lost its CQC registration.</title>
@@ -130,13 +137,6 @@
     <title>Manor Court: Lost its CQC registration.</title>
     <link href="https://roshan1208.github.io/carebeacon/?home=1-126240814"/>
     <updated>2026-09-18T00:00:00Z</updated>
-    <summary>South West. Lost its CQC registration.</summary>
-  </entry>
-  <entry>
-    <id>tag:roshan1208.github.io,2026:carebeacon/change/1-118415328/2026-09-13/closed</id>
-    <title>77 Gloucester Road North: Lost its CQC registration.</title>
-    <link href="https://roshan1208.github.io/carebeacon/?home=1-118415328"/>
-    <updated>2026-09-13T00:00:00Z</updated>
     <summary>South West. Lost its CQC registration.</summary>
   </entry>
 </feed>

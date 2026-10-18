@@ -1,41 +1,5 @@
 [
  {
-  "date": "2026-09-11",
-  "locationId": "1-1548075487",
-  "name": "Ferndale Residential Home",
-  "region": "East",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
-  "date": "2026-09-13",
-  "locationId": "1-106909122",
-  "name": "Tower House",
-  "region": "South East",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
-  "date": "2026-09-13",
-  "locationId": "1-118415328",
-  "name": "77 Gloucester Road North",
-  "region": "South West",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
-  "date": "2026-09-13",
-  "locationId": "1-2110989496",
-  "name": "Rose House",
-  "region": "Yorkshire & Humberside",
-  "type": "closed",
-  "from_status": "Registered",
-  "to_status": "Deregistered"
- },
- {
   "date": "2026-09-13",
   "locationId": "1-260687651",
   "name": "Bramcote Hills Care Home",
@@ -2180,6 +2144,50 @@
   "region": "London",
   "localAuthority": "Enfield",
   "providerId": "1-116992858",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-18",
+  "locationId": "1-117991927",
+  "name": "Clevedon House",
+  "region": "South West",
+  "localAuthority": "North Somerset",
+  "providerId": "1-101640268",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-18",
+  "locationId": "1-11874978194",
+  "name": "Akim’s Care",
+  "region": "London",
+  "localAuthority": "Lewisham",
+  "providerId": "1-9770330405",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-18",
+  "locationId": "1-12700803454",
+  "name": "autonomy: Marchington",
+  "region": "East Midlands",
+  "localAuthority": "Derby",
+  "providerId": "1-321104552",
+  "type": "closed",
+  "from_status": "Registered",
+  "to_status": "Deregistered"
+ },
+ {
+  "date": "2026-10-18",
+  "locationId": "1-5592658145",
+  "name": "Meet Your Miracle- Coventry",
+  "region": "West Midlands",
+  "localAuthority": "Coventry",
+  "providerId": "1-936194449",
   "type": "closed",
   "from_status": "Registered",
   "to_status": "Deregistered"

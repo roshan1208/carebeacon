@@ -917,7 +917,7 @@
  },
  "1-101634763": {
   "name": "InHealth Limited",
-  "homes": 14
+  "homes": 15
  },
  "1-101635419": {
   "name": "The Healthcare Management Trust",
@@ -985,7 +985,7 @@
  },
  "1-101640268": {
   "name": "Freeways",
-  "homes": 6
+  "homes": 5
  },
  "1-101640277": {
   "name": "Tawnylodge Limited",
@@ -1433,7 +1433,7 @@
  },
  "1-101648755": {
   "name": "Creative Support Limited",
-  "homes": 19
+  "homes": 20
  },
  "1-101648817": {
   "name": "The Sandwell Community Caring Trust",
@@ -1750,6 +1750,10 @@
  "1-101654621": {
   "name": "Stepping Stones Resettlement Unit Limited",
   "homes": 5
+ },
+ "1-101654877": {
+  "name": "Comfort Call Limited",
+  "homes": 2
  },
  "1-101655108": {
   "name": "Stockdales Of Sale, Altrincham & District Ltd",
@@ -3557,7 +3561,7 @@
  },
  "1-101726978": {
   "name": "Liaise (London) Limited",
-  "homes": 10
+  "homes": 11
  },
  "1-101727348": {
   "name": "Crownwise Limited",
@@ -3701,7 +3705,7 @@
  },
  "1-102642904": {
   "name": "Methodist Homes",
-  "homes": 74
+  "homes": 75
  },
  "1-102642912": {
   "name": "The Orders Of St. John Care Trust",
@@ -3833,7 +3837,7 @@
  },
  "1-102643442": {
   "name": "Priory Healthcare Limited",
-  "homes": 3
+  "homes": 4
  },
  "1-102643500": {
   "name": "Circle Health Group Limited",
@@ -4029,7 +4033,7 @@
  },
  "1-116992858": {
   "name": "Achieve Together Limited",
-  "homes": 142
+  "homes": 143
  },
  "1-116992878": {
   "name": "Shaw Healthcare (Specialist Services) Limited",
@@ -4298,6 +4302,10 @@
  "1-11946953605": {
   "name": "Welford Healthcare STH Limited",
   "homes": 3
+ },
+ "1-12004524608": {
+  "name": "Home not Hospital Ltd",
+  "homes": 2
  },
  "1-120627415": {
   "name": "Crown Care Homes Ltd",
@@ -4953,7 +4961,7 @@
  },
  "1-149412624": {
   "name": "InHealth Endoscopy Limited",
-  "homes": 5
+  "homes": 7
  },
  "1-15003856955": {
   "name": "Barlow Care Group Ltd",
@@ -5163,6 +5171,10 @@
   "name": "Manor Care Home Group",
   "homes": 4
  },
+ "1-16580735818": {
+  "name": "London Cosmetic Dent Ltd",
+  "homes": 2
+ },
  "1-16581597315": {
   "name": "The Carter & George Practice Ltd",
   "homes": 3
@@ -5183,6 +5195,10 @@
   "name": "Wings Care (North West) LLP",
   "homes": 4
  },
+ "1-1690333791": {
+  "name": "Marden House Dental Practice Partnership",
+  "homes": 2
+ },
  "1-1697618121": {
   "name": "BKR CCH Limited",
   "homes": 2
@@ -5193,7 +5209,7 @@
  },
  "1-171553721": {
   "name": "IDH Limited",
-  "homes": 10
+  "homes": 12
  },
  "1-171564599": {
   "name": "Spalding Dental Surgery",
@@ -5201,7 +5217,7 @@
  },
  "1-172521302": {
   "name": "Yourlife Management Services Limited",
-  "homes": 18
+  "homes": 19
  },
  "1-173121845": {
   "name": "Moorville Developments Limited",
@@ -5557,7 +5573,7 @@
  },
  "1-200367080": {
   "name": "Norse Care (Services) Limited",
-  "homes": 17
+  "homes": 18
  },
  "1-2008193751": {
   "name": "Nottingham Community Housing Association Limited",
@@ -6258,10 +6274,6 @@
  "1-318266755": {
   "name": "Pegasus Care Homes Limited",
   "homes": 3
- },
- "1-321104552": {
-  "name": "Autonomy Healthcare Limited",
-  "homes": 2
  },
  "1-3213731516": {
   "name": "Acorn Care Providers Limited",
@@ -7478,10 +7490,6 @@
  "1-935571070": {
   "name": "Nexus Programme Limited",
   "homes": 3
- },
- "1-936194449": {
-  "name": "Professional Antenatal Services Limited",
-  "homes": 2
  },
  "1-9397966037": {
   "name": "Expert Care Solutions Ltd",
